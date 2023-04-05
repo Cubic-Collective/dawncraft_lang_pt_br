@@ -1,0 +1,34 @@
+{
+	id: "3EE7B887A0FC6FCD"
+	group: ""
+	order_index: 1
+	filename: "dawncraft"
+	title: "DawnCraft"
+	icon: "minecraft:clock"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "DawnCraft"
+		icon: "minecraft:clock"
+		x: -4.0d
+		y: -4.0d
+		subtitle: "Welcome to DawnCraft.\\n\\nThis modpack uses its custom quest system instead of the traditional FTBQuest system.\\n\\nThis book gives you some basic information you might want to know about the adventure ahead."
+		description: [""]
+		size: 8.0d
+		id: "5F5E8DC6491295DE"
+		tasks: [{
+			id: "52FB1E732B451A90"
+			type: "stat"
+			title: "Don't Die!"
+			icon: "bloodandmadness:eggs/church_doctor_flamesprayer_spawn_egg"
+			stat: "minecraft:deaths"
+			value: 10000
+		}]
+		rewards: [{
+			id: "79BE1DFFC4734410"
+			type: "item"
+			item: "minecraft:cookie"
+		}]
+	}]
+	quest_links: [ ]
+}
