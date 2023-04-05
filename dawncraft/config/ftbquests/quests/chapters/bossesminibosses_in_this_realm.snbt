@@ -700,7 +700,7 @@
 			tasks: [{
 				id: "2540B51253A76D43"
 				type: "kill"
-				title: "Moraizu'un, Ídolo dos Afogados"
+				title: "Moraizu'un, o Ídolo dos Afogados"
 				icon: "ba_bt:guardian_eye_ocean"
 				entity: "ba_bt:ocean_golem"
 				value: 1L
