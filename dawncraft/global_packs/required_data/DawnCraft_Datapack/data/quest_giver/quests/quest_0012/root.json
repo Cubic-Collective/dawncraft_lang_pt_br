@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hey there! Could you fetch me a bucket of milk? I'm yearning for a taste."
+      "text": "Olá! Você poderia me trazer um balde de leite? Estou ansioso por um."
     }
   }
 }

@@ -4,10 +4,10 @@
   "icon": "minecraft:enchanted_book",
   "start": {
     "title": {
-      "text": "The Basic Skill"
+      "text": "Treinamento Básico"
     },
     "description": {
-      "text": "Ah... I don't think you'll be able to find the eyes in your current conditions. Come back to me once you've killed $(red)10 pillagers$(). I'll give you the most important skill you can get in this dimension."
+      "text": "Ah... acho que você não será capaz de encontrar os olhos em sua condição atual. Volte para mim quando você tiver matado $(red)10 saqueadores$(). Eu vou te dar a habilidade mais importante que você pode obter nesta dimensão."
     }
   }
 }

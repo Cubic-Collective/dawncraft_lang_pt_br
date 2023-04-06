@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Bucket of Milk!"
+      "text": "Balde de Leite!"
     },
     "description": {
-      "text": "Please hurry up. I'm yearning for a $(red)bucket of milk$()!"
+      "text": "Por favor, rápido. Estou ansioso por um $(red)balde de leite$()!"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Yum! Thanks a lot friend."
+      "text": "Que bom! Muito obrigado, amigo."
     }
   },
   "tasks": [

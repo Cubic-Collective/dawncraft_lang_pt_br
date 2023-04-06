@@ -4,18 +4,18 @@
   "icon": "minecraft:emerald",
   "start": {
     "title": {
-      "text": "Already Done!"
+      "text": "Pronto!"
     },
     "description": {
-      "text": "Oh? You've already defeated the eye holder before I gave you the map? Huh... Show me the exact eye the eye holder dropped then. As a matter of fact, drop it and pick it back up... Don't ask why!"
+      "text": "Oh? Você já derrotou o portador do olho antes de eu te dar o mapa? Huh... Me mostre o olho exato que o portador dos olhos derrubou então. De fato, deixe-o cair e pegue-o de volta... Não pergunte por quê!"
     }
   },
   "complete": {
     "title": {
-      "text": "The End of the Road"
+      "text": "O Fim da Linha"
     },
     "description": {
-      "text": "I have no more information to give you my friend. Follow your calling."
+      "text": "Não tenho mais informações para te dar, meu amigo. Siga o seu chamado."
     }
   },
   "tasks": [

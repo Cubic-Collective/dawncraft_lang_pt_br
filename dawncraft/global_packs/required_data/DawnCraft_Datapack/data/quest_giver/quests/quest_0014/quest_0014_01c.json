@@ -4,18 +4,18 @@
 	"icon": "minecraft:crossbow",
 	"start": {
 		"title": {
-			"text": "Finding Pillagers"
+			"text": "Encontrando os Saqueadores"
 		},
 		"description": {
-			"text": "Thought you were an adventurer... Fine. Fetch me a piece of paper. I'll show you the whereabouts of the closest pillager camp we know of."
+			"text": "Pensei que você era um aventureiro... Muito bem. Vá me buscar um pedaço de papel. Vou te mostrar o local do acampamento de saqueadores mais próximo que conhecemos."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Map Fetched"
+			"text": "Mapa Obtido"
 		},
 		"description": {
-			"text": "Here you go. You may find pillagers somewhere closer though. Those buggers are infested everywhere."
+			"text": "Aqui está. Você pode encontrar os saqueadores em algum lugar mais próximo. Essas pragas estão infestando todos os lugares."
 		}
 	},
 	"tasks": [
