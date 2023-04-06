@@ -12,7 +12,7 @@
 		icon: "minecraft:clock"
 		x: -4.0d
 		y: -4.0d
-		subtitle: "Welcome to DawnCraft.\\n\\nThis modpack uses its custom quest system instead of the traditional FTBQuest system.\\n\\nThis book gives you some basic information you might want to know about the adventure ahead."
+		subtitle: "Bem-vindo ao DawnCraft.\\n\\nEste modpack utiliza o seu próprio sistema de busca personalizado em vez do sistema tradicional FTBQuest.\\n\\nEste livro apresentará algumas informações básicas sobre as aventuras a sua frente."
 		description: [""]
 		size: 8.0d
 		id: "5F5E8DC6491295DE"
