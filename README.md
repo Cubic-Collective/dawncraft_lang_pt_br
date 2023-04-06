@@ -6,6 +6,6 @@ ModPack Version: 1.11
 
 
 
-#### ------------------ Para Jogadores/Usuários ------------------
+#### ----------------------- Para Jogadores/Usuários -----------------------
 
  ...
