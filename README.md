@@ -4,8 +4,6 @@ CurseForge Link: [Here](https://www.curseforge.com/minecraft/modpacks/dawn-craft
 
 ModPack Version: 1.11
 
-
-
-## Para Jogadores: Instalação
+## Para Jogadores: Instalação da Tradução
 
  ...
