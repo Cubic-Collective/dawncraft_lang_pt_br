@@ -842,7 +842,7 @@
 				id: "0206FC6701ED673E"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Parece que a sua reputação é \"},{\"text\":\"ruim \",\"color\":\"red\"},{\"text\":\"entre os aldeões. Os aldeões agora vão parar de negociar com você. Se a sua reputação cair ainda mais, guardas e golems de ferro podem começar a te atacar. Você pode melhorar sua reputação entregando \"},{\"text\":\"dinheiro empacotado \",\"color\":\"green\"},{\"text\":\"nos baús financeiros dentro das casas da guildas ou das barracas.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que a sua reputação é \"},{\"text\":\"ruim \",\"color\":\"red\"},{\"text\":\"entre os aldeões. Os aldeões agora vão parar de negociar com você. Se a sua reputação cair ainda mais, guardas e golems de ferro podem começar a te atacar. Você pode melhorar sua reputação entregando \"},{\"text\":\"pacotes de dinheiro \",\"color\":\"green\"},{\"text\":\"nos baús financeiros dentro das casas da guildas ou das barracas.\"}]"
 				player_command: false
 			}]
 		}
