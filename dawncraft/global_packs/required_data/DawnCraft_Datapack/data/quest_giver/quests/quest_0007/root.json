@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I'm teaching people how to use the fletching table for a mere 10 emerald. What do you say?"
+      "text": "Estou ensinando a usar a bancada de arco e flecha por meras 10 esmeraldas. O que você me diz?"
     }
   }
 }

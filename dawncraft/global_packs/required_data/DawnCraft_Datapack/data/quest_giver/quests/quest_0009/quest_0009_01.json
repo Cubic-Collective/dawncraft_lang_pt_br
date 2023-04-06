@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Fetching Request"
+      "text": "Pedido de Busca"
     },
     "description": {
-      "text": "Please come back when you've gathered $(red)4 ink sacs$()."
+      "text": "Por favor, volte quando tiver conseguido $(red)4 bolsas de tinta$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Many thanks. Unfortunately I found that our paper supply is also running low... Do you think you can help us get 10 pieces of paper for now> We'll restock soon, but we would really appreciate your help."
+      "text": "Muito obrigado. Infelizmente, descobri que nosso suprimento de papel também está ficando baixo. Você acha que pode nos ajudar a conseguir 10 pedaços de papel, por enquanto? Vamos reabastecer em breve, mas gostaríamos muito de contar com a sua ajuda."
     }
   },
   "tasks": [

@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Unlock Fishing Rod"
+      "text": "Desbloquear a Vara de Pesca"
     },
     "description": {
-      "text": "Ready to learn about fishing? Get me 15 emeralds!"
+      "text": "Pronto para aprender como pescar? Me traga 15 esmeraldas!"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Not that hard now is it? Don't swing around too much though, scares away the fish."
+      "text": "Não foi tão difícil, não é mesmo? Mas não se movimente muito, isso assusta o peixe."
     }
   },
   "tasks": [
