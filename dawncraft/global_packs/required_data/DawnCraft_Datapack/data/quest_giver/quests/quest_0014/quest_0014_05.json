@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Caminho para os Portadores dos Olhos"
     },
     "description": {
-      "text": "We have very little information on Knight Rober in his current state, but he should be quite weakened since the last war... Oh, remember to bring ender pearls. He has a nasty attack that can only be escaped via teleportation."
+      "text": "Nós temos muito pouca informação sobre o Cavaleiro Rober em seu estado atual, mas ele deve estar bastante enfraquecido desde a última guerra... Ah, lembre-se de trazer pérolas do ender. Ele tem um ataque nojento que só pode ser evitado por teletransporte."
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Caminho para os Portadores dos Olhos"
     },
     "description": {
-      "text": "Wow, you've defeated Knight Rober huh. Was he tough? Back in the day he was one of the scariest opponent you could face in a duel, guess his age caught up to him finally. Well, the next eye-holder is another human. He's currently living peacefully in his farmhouse... Here's the map to his location."
+      "text": "Uau, você derrotou o Cavaleiro Rober. Ele foi difícil? No passado, ele era um dos oponentes mais assustadores que você poderia enfrentar em um duelo, acho que a idade finalmente o alcançou. Bem, o próximo portador do olho é outro humano. Atualmente, ele vive pacificamente em sua fazenda... Aqui está o mapa da localização dele."
     }
   },
   "tasks": [

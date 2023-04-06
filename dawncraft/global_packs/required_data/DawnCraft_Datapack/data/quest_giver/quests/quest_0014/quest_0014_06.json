@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Caminho para os Portadores dos Olhos"
     },
     "description": {
-      "text": "Hm... the Nine Tails is not exactly a human. Oh well, you'll know when you see him."
+      "text": "Hm... a Nove Caudas não é exatamente um humano. Bem, você saberá quando a vir."
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Caminho para os Portadores dos Olhos"
     },
     "description": {
-      "text": "Hmmph... At this point I'm not even surprised. Good job. The Nine Tails was a notoriously violent spirit... I have no idea why it decided to retire at an abandoned barn. Anyhow, here's the whereabouts of the next eye holder. Beware, this is nothing like the ones you've faced before."
+      "text": "Hmmph... Nem estou mais surpreso. Bom trabalho. A Nove Caudas era um espírito notoriamente violento... Não tenho ideia de por que decidiu se aposentar em um celeiro abandonado. De qualquer forma, aqui está o paradeiro do próximo portador dos olhos. Cuidado, esse não vai ser como os que você enfrentou anteriormente."
     }
   },
   "tasks": [
