@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get the $(red)8 bones$()?"
+      "text": "Você conseguiu os $(red)8 ossos$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Great! Now my crops will grow faster than the other farmers'! Haha! Well thank you kind sir, here's an emerald."
+      "text": "Ótimo! Agora minhas plantações crescerão mais rápido que as dos outros agricultores! Haha! Bem, obrigado, caro senhor, aqui está uma esmeralda."
     }
   },
   "tasks": [

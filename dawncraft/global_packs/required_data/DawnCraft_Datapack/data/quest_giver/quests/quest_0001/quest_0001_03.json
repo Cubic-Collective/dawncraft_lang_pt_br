@@ -4,18 +4,18 @@
   "icon": "minecraft:blast_furnace",
   "start": {
     "title": {
-      "text": "Hey there."
+      "text": "Olá."
     },
     "description": {
-      "text": "Hey there. Did you find the pendant? They usually hide valuables under tables."
+      "text": "Olá. Você encontrou o colar? Eles geralmente escondem os objetos de valor."
     }
   },
   "complete": {
     "title": {
-      "text": "Finally..."
+      "text": "Finalmente..."
     },
     "description": {
-      "text": "Finally, Juan... I got it back... I didn't break my vow... Oh, here ya go. Thank you for this, it means a lot to me."
+      "text": "Finalmente, Juan... Eu consegui de volta... Eu não quebrei a minha promessa... Oh, aqui está. Obrigado por isso, isso significa muito para mim."
     }
   },
   "tasks": [
@@ -32,7 +32,7 @@
       "item": {
  	   "type": "minecraft:item_nbt",
            "item": "minecraft:iron_chestplate",
-           "nbt":  "{display:{Name:'[{\"text\":\"Oathkeeper\",\"italic\":false}]',Lore:['[{\"text\":\"A chestplate the armorer specifically made for his champion.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
+           "nbt":  "{display:{Name:'[{\"text\":\"Leal\",\"italic\":false}]',Lore:['[{\"text\":\"Uma armadura feita especificamente para o campeão do armeiro.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
       },
       "id": "quest_giver:item",
       "times": 1

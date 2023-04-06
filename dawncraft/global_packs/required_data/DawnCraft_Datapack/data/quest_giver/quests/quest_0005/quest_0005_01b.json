@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Advice"
+      "text": "Conselho"
     },
     "description": {
-      "text": "My precious crops haven't been growing well these days... Do you think you can help me get $(red)8 bones$() so I can some fertilizers?"
+      "text": "Minhas queridas plantações não têm crescido bem nestes dias... Você acha que pode me conseguir $(red)8 ossos$() para que eu possa fazer alguns fertilizantes?"
     }
   }
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Olá!"
     },
     "description": {
-      "text": "Hello fellow, can you get me some squid ink and paper?"
+      "text": "Olá amigo, você pode me trazer um pouco de papel e bolsa de tinta?"
     }
   }
 }

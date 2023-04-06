@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "A Favor"
+      "text": "Um Favor"
     },
     "description": {
-      "text": "Hey there! Did you get the squid ink sac and paper I asked for? I only need 1 of each."
+      "text": "Olá! Você conseguiu o papel e a bolsa de tinta que eu pedi? Eu só preciso de 1 de cada."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "You're a life-saver! Here, explore and fill this map out."
+      "text": "Você é um salvador! Aqui, explore e complete este mapa."
     }
   },
   "tasks": [

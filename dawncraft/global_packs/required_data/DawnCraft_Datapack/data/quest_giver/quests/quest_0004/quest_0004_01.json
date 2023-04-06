@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get the $(red)5 rotten flesh$()?"
+      "text": "Você conseguiu as $(red)5 carnes podres$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Good job, here you go."
+      "text": "Bom trabalho, aqui está."
     }
   },
   "tasks": [
