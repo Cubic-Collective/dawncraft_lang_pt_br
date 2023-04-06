@@ -824,7 +824,7 @@
 				id: "7B9F61F2A4765018"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"That was your first \"},{\"text\":\"death\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Although most of your inventory items will stay with you, some of your valuable items may be lost in your corpse, which decomposes after 10 minutes. On top of that, some of your item durability and experience points have been depreciated as well. You can check where your corpse is by pressing \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAccumulated deaths in short periods of time will cause higher level of \\\"\"},{\"text\":\"Fractured Soul\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\", which increases durability and experience loss even further.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Essa foi a sua primeira \"},{\"text\":\"morte\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Embora a maioria dos itens do seu inventário permanecerão com você, alguns de seus itens valiosos podem ser perdidos em seu corpo, que irá se decompor em 10 minutos. Além disso, a durabilidade de alguns de seus itens e pontos de experiência também foram reduzidos. Você pode verificar onde está seu corpo pressionando \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAs mortes acumuladas em curtos períodos de tempo causarão um nível mais elevado de \\\"\"},{\"text\":\"Alma Fraturada\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\", o que aumenta ainda mais a perda de durabilidade e experiência.\"}]"
 				player_command: false
 			}]
 		}
@@ -842,7 +842,7 @@
 				id: "0206FC6701ED673E"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad \",\"color\":\"red\"},{\"text\":\"among villagers. Villagers will now stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in a \"},{\"text\":\"bundled currency \",\"color\":\"green\"},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que a sua reputação é \"},{\"text\":\"ruim \",\"color\":\"red\"},{\"text\":\"entre os aldeões. Os aldeões agora vão parar de negociar com você. Se a sua reputação cair ainda mais, guardas e golems de ferro podem começar a te atacar. Você pode melhorar sua reputação entregando \"},{\"text\":\"dinheiro empacotado \",\"color\":\"green\"},{\"text\":\"nos baús financeiros dentro das casas da guildas ou das barracas.\"}]"
 				player_command: false
 			}]
 		}
@@ -860,7 +860,7 @@
 				id: "707451785BD080B1"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"You can press \"},{\"text\":\"\\\"R\\\"\",\"bold\":true,\"color\":\"green\"},{\"text\":\" to Enter Combat Stance. Damage dealt in regular stance deals \"},{\"text\":\"half\",\"bold\":true,\"color\":\"red\"},{\"text\":\" as much damage as you would in combat stance. \"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Você pode pressionar \"},{\"text\":\"\\\"R\\\"\",\"bold\":true,\"color\":\"green\"},{\"text\":\" para entrar em Modo de Combate. O Dano causado fora do Modo de Combate causa \"},{\"text\":\"metade\",\"bold\":true,\"color\":\"red\"},{\"text\":\" do dano que você causaria no Modo de Combate. \"}]"
 				player_command: false
 			}]
 		}
@@ -878,7 +878,7 @@
 				id: "23A84067614F3CE4"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"It seems you have found the means to travel to \"},{\"text\":\"the Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". This will bring chaos to not only you, but to the \"},{\"text\":\"entire realm\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Once you enter, it cannot be undone. Make sure you have the resolve to move forward before stepping in the portal.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que você encontrou os meios para viajar para \"},{\"text\":\"o Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Isto trará o caos não só para você, mas para o \"},{\"text\":\"reino inteiro\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Uma vez que você entra, não pode ser desfeito. Certifique-se de que você tenha a determinação de seguir em frente antes de entrar no portal.\"}]"
 				player_command: false
 			}]
 		}
@@ -896,7 +896,7 @@
 				id: "3542688F80E1C6D8"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"Congratulations on taming your first horse! You can now set it to your personal horse (Press \\\"J\\\"), and call your horse from anywhere in the realm (Press \\\"H).\"}"
+				command: "/tellraw @p {\"text\":\"Parabéns por domar o seu primeiro cavalo! Agora, você pode colocá-lo como seu cavalo pessoal (Pressione \\\"J\\\"), e chama-lo de qualquer lugar do reino (Pressione \\\"H).\"}"
 				player_command: false
 			}]
 		}
@@ -921,7 +921,7 @@
 				id: "152C911A2EDB4822"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"Congratulations on obtaining your first skill! You can now see a list of skills you've acquired, and change the specific skills you want to equip (Press \\\"K\\\").\"}"
+				command: "/tellraw @p {\"text\":\"Parabéns por obter a sua primeira habilidade! Agora você pode ver uma lista de habilidades obtidas e mudar as habilidades específicas que você deseja utilizar (Pressione \\\"K\\\").\"}"
 				player_command: false
 			}]
 		}
@@ -938,7 +938,7 @@
 				id: "7B0591F07EC96892"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que você encontrou uma vila! Você pode interagir com os aldeões que têm pontos de exclamação acima de suas cabeças. Alguns deles fornecem \"},{\"text\":\"conhecimento \",\"bold\":true,\"color\":\"green\"},{\"text\":\"necessário para utilizar certos blocos como as Tear, Bancada de Arco e Flecha, etc... Mas para a maioria dos blocos úteis, como a Bigorna, Mesa de Encantamentos, Bancada de Ferraria, etc... Você vai querer aprender com o \"},{\"text\":\"Mestre da Guilda\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Encontre aldeões vestindo uma túnica azul e comece sua jornada!\"}]"
 				player_command: false
 			}]
 		}
@@ -957,7 +957,7 @@
 				id: "1B107E6CEF7E7346"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
 				player_command: false
 			}]
 		}
@@ -1001,7 +1001,7 @@
 				id: "01214ACE5D82E719"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços de troca são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
 				player_command: false
 			}]
 		}
@@ -1276,7 +1276,7 @@
 				id: "1246B523C0F3419C"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Você obteve uma \"},{\"text\":\"essência\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Você precisará consumi-la para que a estátua em forma de chifre a reconheça.\"}]"
 				player_command: false
 			}]
 		}

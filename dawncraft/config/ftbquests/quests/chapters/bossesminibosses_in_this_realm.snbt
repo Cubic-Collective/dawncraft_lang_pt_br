@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 2
 	filename: "bossesminibosses_in_this_realm"
-	title: "Criaturas notórias neste Reino..."
+	title: "Criaturas Notórias"
 	icon: "apotheosis:boss_summoner"
 	subtitle: ["Derrote estas criaturas para provar o seu valor..."]
 	default_quest_shape: ""
@@ -232,7 +232,7 @@
 			tasks: [{
 				id: "30A060BFE3C678AE"
 				type: "kill"
-				title: "Frostmaw"
+				title: "Mandíbula da Geada"
 				icon: {
 					id: "mowziesmobs:ice_crystal"
 					Count: 1b
