@@ -743,7 +743,7 @@
 			tasks: [{
 				id: "3AF0AC838196247F"
 				type: "dimension"
-				title: "Awakening"
+				title: "Despertar"
 				icon: {
 					id: "aquamirae:terrible_sword"
 					Count: 1b
