@@ -3,10 +3,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Adventurer, can you help me obtain 5 ender pearls?"
+      "text": "Aventureiro, você pode me ajudar a obter 5 pérolas de ender?"
     }
   }
 }
