@@ -3,10 +3,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hello there, I'm missing some parts to repair my machine. Can you get me $(red)a lever and a copper wrench$()?"
+      "text": "Olá, estou precisando de algumas peças para consertar minha máquina. Você pode pegar para mim $(red)uma alavanca e uma chave inglesa de cobre$()?"
     }
   }
 }
