@@ -4,18 +4,18 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get the $(red)copper wrench and lever$()?"
+      "text": "Você conseguiu a $(red)chave inglesa de cobre e a alavanca$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. Here, for your trouble."
+      "text": "Obrigado. Aqui está, por sua ajuda."
     }
   },
   "tasks": [
