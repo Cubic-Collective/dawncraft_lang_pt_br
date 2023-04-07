@@ -3,10 +3,10 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Can you get me $(red)1 Soul Weed$()? It can be found in the Nether Dimension."
+      "text": "Você pode pegar para mim $(red)1 Erva Daninha da Alma$()? Ela pode ser encontrada na dimensão Nether."
     }
   }
 }
