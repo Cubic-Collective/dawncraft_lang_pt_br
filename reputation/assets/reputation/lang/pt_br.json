@@ -1,7 +1,7 @@
 {
-  "block.reputation.ledger": "Ledger",
-  "block.reputation.ledger_book": "Ledger Book",
-  "item.reputation.faction_bag": "Bundled Currency",
-  "ledger.reputation.container": "Ledger Container",
-  "ledger.reputation.checked": "Ledger has been checked"
+  "block.reputation.ledger": "Livro Contábil",
+  "block.reputation.ledger_book": "Livro de Contabilidade",
+  "item.reputation.faction_bag": "Pacote de Dinheiro",
+  "ledger.reputation.container": "Recipiente de Livro Contábil",
+  "ledger.reputation.checked": "Livro Contábil foi verificado"
 }
