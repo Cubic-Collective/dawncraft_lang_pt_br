@@ -1,11 +1,11 @@
 {
-	"message.followme.follow":"%1$s is now following you.",
-	"message.followme.unfollow":"%1$s is no longer following you.",
-	"message.followme.followingplayer":"%1$s is already following %2$s.",
-	"text.followme.following":"Following",
+	"message.followme.follow":"%1$s agora está seguindo você.",
+	"message.followme.unfollow":"%1$s não está mais seguindo você.",
+	"message.followme.followingplayer":"%1$s já está seguindo %2$s.",
+	"text.followme.following":"Seguindo",
 
-	"key.followme.follow.desc":"Start/Stop Following",
-	"key.followme.stop.desc":"Stop All Following",
-	"key.followme.category":"Follow Me"
+	"key.followme.follow.desc":"Começar/Parar de Seguir",
+	"key.followme.stop.desc":"Parar Todos de Seguir",
+	"key.followme.category":"Siga-me"
 	
 }
