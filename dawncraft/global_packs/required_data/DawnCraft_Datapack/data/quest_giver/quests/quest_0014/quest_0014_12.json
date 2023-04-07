@@ -4,18 +4,18 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "The End... is just the Beginning??"
+      "text": "O End... é apenas o Começo??"
     },
     "description": {
-      "text": "If you must know... The deity who corrupted the ender dragon... He's still very much alive. But that being is simply too powerful, even for you. The map to reach him is held by the ender guardian. As for the whereabouts of the ender guardian... Our enderians may have a clue. I do not advise you to pursue this. You've done more than enough."
+      "text": "Se você precisa saber... A divindade que corrompeu o dragão do end... Ela ainda está muito viva. Mas esse ser é simplesmente muito poderoso, até mesmo para você. O mapa para encontrá-la é mantido pelo guardião do fim. Quanto ao paradeiro do guardião do fim... Nossos enderianógrafos podem ter uma pista. Eu não aconselho você a prosseguir com isso. Você já fez mais do que o suficiente."
     }
   },
   "complete": {
     "title": {
-      "text": "The True Ending"
+      "text": "O Verdadeiro Fim"
     },
     "description": {
-      "text": "I.... I'm sorry I doubted you. You are, truly, one of a kind.                                      - End of Dialogue -"
+      "text": "Eu... Eu sinto muito por ter duvidado de você. Você é realmente único.                                      - Fim do Diálogo -"
     }
   },
   "tasks": [
