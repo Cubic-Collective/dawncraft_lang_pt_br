@@ -6,4 +6,6 @@ ModPack Version: 1.11
 
 ### Para Jogadores: Instalação da Tradução
 
+Se estiver interesse em ajudar: Riser876#5668
+
  ...
