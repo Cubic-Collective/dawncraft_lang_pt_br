@@ -3,10 +3,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Can you make me $(red)a bow$()? Our weaponsmith is busy these days."
+      "text": "Você pode fazer $(red)um arco$() para mim? Nosso armeiro está meio ocupado estes dias."
     }
   }
 }
