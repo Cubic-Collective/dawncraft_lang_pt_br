@@ -4,7 +4,7 @@ CurseForge Link: [Here](https://www.curseforge.com/minecraft/modpacks/dawn-craft
 
 ModPack Version: 1.11
 
-If you're interested, Discord: Riser876#5668
+If you're interested, Discord: [Here](https://discord.gg/5vPSPJtx "DawnCraft - Tradução pt_br")
 
 ### Para Jogadores: Instalação da Tradução
 
