@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Você conseguiu a $(red)chave inglesa e alavanca de cobre$()?"
+      "text": "Você conseguiu a $(red)chave inglesa de cobre e a alavanca$()?"
     }
   },
   "complete": {
