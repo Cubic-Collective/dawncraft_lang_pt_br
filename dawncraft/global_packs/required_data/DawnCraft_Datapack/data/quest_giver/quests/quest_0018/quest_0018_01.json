@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Please get me a bow as soon as you can."
+      "text": "Por favor, consiga um arco para mim assim que puder."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thank you, now I can hunt again!"
+      "text": "Muito obrigado, agora posso caçar novamente!"
     }
   },
   "tasks": [
