@@ -4,18 +4,18 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "The End of the Road"
+      "text": "O Fim do Caminho"
     },
     "description": {
-      "text": "I have no more information to give you my friend. Follow your calling."
+      "text": "Eu não tenho mais informações para lhe dar, meu amigo. Siga seu chamado."
     }
   },
   "complete": {
     "title": {
-      "text": "The End... is just the Beginning??"
+      "text": "O End... é apenas o Começo??"
     },
     "description": {
-      "text": "So... you have defeated the dragon. I suppose that would make you the new ruler of the realm. Congratulations, brave conqueror. You have done... everything you could. Now, if you would excuse me."
+      "text": "Então... você derrotou o dragão. Suponho que isso o tornaria o novo governante do reino. Parabéns, bravo conquistador. Você fez... tudo o que podia. Agora, se me der licença."
     }
   },
   "tasks": [
