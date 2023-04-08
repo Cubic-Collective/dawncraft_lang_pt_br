@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Traveller! Up for an adventure?"
+      "text": "Viajante! Pronto para sair em uma aventura?"
     }
   }
 }
