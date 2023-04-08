@@ -7,7 +7,7 @@
       "text": "Sculk"
     },
     "description": {
-      "text": "Ah, ai está você! Conseguiu o $(red)Sensor sculk$() que lhe pedi?"
+      "text": "Ah, ai está você! Conseguiu o $(red)Sensor Sculk$() que te pedi?"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Isso é bem bizarro. Você encontrou o Warden? Bem, aparentemente não já que você ainda está vivo. Bem, de qualquer forma, aqui está sua recompensa. Este item deve mantê-lo a salvo desses slimes do capeta."
+      "text": "Isso é bem bizarro... Você encontrou o Warden? Bem, aparentemente não já que você ainda está vivo. Bem, de qualquer forma, aqui está a sua recompensa. Este item deve mantê-lo a salvo desses slimes insignificantes."
     }
   },
   "tasks": [
