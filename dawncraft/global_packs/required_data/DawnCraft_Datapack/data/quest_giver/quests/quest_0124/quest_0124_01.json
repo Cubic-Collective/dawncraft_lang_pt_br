@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma Tarefa Humanamente Impossível!"
     },
     "description": {
-      "text": "Did you receive the blessing of the Orca already?"
+      "text": "Você conseguiu a benção da Orca?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Interesting... so that's how it's done. You're a fascinating fellow. I'm glad I ran into you! Now I must go... God spede you."
+      "text": "Interessante... então é assim que se faz. Você é um cara legal. Estou feliz por ter te encontrado! Agora eu tenho que ir... Que Deus te abençoe."
     }
   },
   "tasks": [
@@ -30,7 +30,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:villager @p 3",
+      "command": "/addreputation reputation:village @p 3",
       "id": "quest_giver:command"
     }
   ]
