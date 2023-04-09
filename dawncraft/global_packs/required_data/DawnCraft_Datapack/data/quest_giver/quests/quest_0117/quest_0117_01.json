@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "Uma oferta"
     },
     "description": {
-      "text": "25 Emeralds, and I'll teach you how to dual wield greatswords."
+      "text": "25 esmeraldas e eu te ensino a manejar duas espadas largas."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Nice doing business with you. Be careful not to break your back though."
+      "text": "Foi bom fazer negócios com você. Tenha cuidado para não acabar com suas costas!"
     }
   },
   "tasks": [
