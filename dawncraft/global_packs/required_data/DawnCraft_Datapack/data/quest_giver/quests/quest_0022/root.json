@@ -3,10 +3,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hey boy, can you get me a piece of $(red)Purple Vexing Archwood Log$()?"
+      "text": "Ei garoto, você consegue me trazer um pedaço de $(red)Tronco de Madeira Arcana Caótica Roxa$()?"
     }
   }
 }
