@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_ingot",
   "start": {
     "title": {
-      "text": "Spirit Hunting"
+      "text": "Caçando espíritos"
     },
     "description": {
-      "text": "Couldn't kill the $(red)5 Possessed Armor$() yet? Well, try harder, haha!"
+      "text": "Ainda não conseguiu matar as $(red)5 Armaduras Possuídas$()? Bem, tente mais, haha!"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Haha, you actually did it! Mad man you are, but I like it! Here, take your reward, it's well-deserved!"
+      "text": "Haha, você realmente conseguiu! Você é um maluco, mas eu gosto disso! Aqui está sua recompensa, é bem merecida!"
     }
   },
   "tasks": [ 
