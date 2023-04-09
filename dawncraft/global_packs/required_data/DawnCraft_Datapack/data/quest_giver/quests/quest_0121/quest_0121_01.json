@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Map to Ender Guardian"
+      "text": "Mapa para o Guardião Ancião"
     },
     "description": {
-      "text": "Nothing is free my friend. Give me 5 emeralds and I'll give you the direction to the Ender Guardian."
+      "text": "Nada nessa vida é de graça, amigo. Você me paga 5 esmeraldas e eu darei a direção para o Guardião Ancião."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Very good, here you go. Remember, don't open this map until you're actually in the End. Don't say I didn't warn you."
+      "text": "Muito bem, como dito, aqui está. Lembre-se, não abra este mapa aqui, apenas no End. Quem avisa amigo é!"
     }
   },
   "tasks": [
