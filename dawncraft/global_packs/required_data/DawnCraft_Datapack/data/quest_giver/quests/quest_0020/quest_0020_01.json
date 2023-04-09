@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Fetch me a piece of paper? I'll draw you a map."
+      "text": "Pode me buscar um pedaço de papel? Vou desenhar um mapa para você."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Here you go. Say hi to him for me."
+      "text": "Aqui está. Diga um oi para ele por mim."
     }
   },
   "tasks": [
