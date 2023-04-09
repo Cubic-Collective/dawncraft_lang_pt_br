@@ -19,7 +19,7 @@
 		tasks: [{
 			id: "52FB1E732B451A90"
 			type: "stat"
-			title: "Don't Die!"
+			title: "Não morra!"
 			icon: "bloodandmadness:eggs/church_doctor_flamesprayer_spawn_egg"
 			stat: "minecraft:deaths"
 			value: 10000
