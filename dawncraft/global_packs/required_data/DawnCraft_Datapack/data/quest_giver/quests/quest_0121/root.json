@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "The Ender Guardian guards a very important item. Would you like to know where it is?"
+      "text": "O Guardião do End guarda um item muito importante. Você gostaria de saber onde isso fica?"
     }
   }
 }
