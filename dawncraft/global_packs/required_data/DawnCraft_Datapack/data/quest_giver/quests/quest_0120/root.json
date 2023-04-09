@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I know of a place where adventurers go to to summon powerful being. Would you like to know where?"
+      "text": "E aí como vai! Eu sei um lugar onde os aventureiros vão para sumonar seres poderosos. Gostaria de saber onde fica?"
     }
   }
 }
