@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Great!"
+      "text": "Ótimo!"
     },
     "description": {
-      "text": "They say there is a biome within this dimension in which steams flow above boiling spring water and magical fog covers the entire mountain. Brave adventurer, if you ever come across such a place, please come back and let me know how it really is!"
+      "text": "Dizem que há um bioma dentro desta dimensão onde vapores fluem acima de águas termais ferventes e uma névoa mágica cobre toda a montanha. Bravo aventureiro, se você algum dia encontrar um lugar assim, por favor, volte e me diga como é de verdade!"
     }
   }
 }
