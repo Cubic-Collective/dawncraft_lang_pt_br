@@ -79,7 +79,7 @@
 	"item.dawncraft.yellow_key": "Chave Amarela",
 	"item.dawncraft.orange_key": "Chave Laranja",
 	"item.dawncraft.purple_key": "Chave Roxa",
-	"item.dawncraft.silver_key": "Chave Prateada",
+	"item.dawncraft.silver_key": "Chave Prata",
 	
 	"item.dawncraft.red_lock": "Fechadura Vermelha",
 	"item.dawncraft.green_lock": "Fechadura Verde",
@@ -87,7 +87,7 @@
 	"item.dawncraft.yellow_lock": "Fechadura Amarela",
 	"item.dawncraft.orange_lock": "Fechadura Laranja",
 	"item.dawncraft.purple_lock": "Fechadura Roxa",
-	"item.dawncraft.silver_lock": "Fechadura Prateada",
+	"item.dawncraft.silver_lock": "Fechadura Prata",
 	
 	"item.dawncraft.dungeon_configurator": "Configurador de Dungeon",
 	"item.dawncraft.skeleton_key": "Chave Mestra",
@@ -109,13 +109,13 @@
 	"message.dawncraft.spawn_npc": "NPC gerado com sucesso %1$s em %2$s",
 	"message.dawncraft.animal": "Os animais interagiram com: %1$s/10",
 	
-	"message.dawncraft.singlepulse": "Alterado para o modo de tick único",
-	"message.dawncraft.toggle": "Alterado para o modo de alternar",
+	"message.dawncraft.singlepulse": "Alterado para o modo de tick único.",
+	"message.dawncraft.toggle": "Alterado para o modo de alternar.",
 	"message.dawncraft.creative_required": "Você deve estar no modo criativo para usar este item.",
 	
-	"message.dawncraft.select_functional_block": "Bloco funcional selecionado %1$s",
-	"message.dawncraft.link_triggerable_block": "Bloco funcional vinculado %1$s ao acionador %2$s",
-	"message.dawncraft.unlink_triggerable_block": "Bloco funcional desvinculado %1$s do acionador %2$s",
+	"message.dawncraft.select_functional_block": "Bloco funcional %1$s selecionado.",
+	"message.dawncraft.link_triggerable_block": "Bloco funcional %1$s vinculado ao acionador %2$s",
+	"message.dawncraft.unlink_triggerable_block": "Bloco funcional %1$s desvinculado do acionador %2$s",
 	"message.dawncraft.reset_functional_block": "Redefinir bloco funcional %1$s",
 	"message.dawncraft.no_mode": "ALERTA: nenhuma funcionalidade definida para o modo de configuração %1$s",
 	
@@ -135,26 +135,26 @@
 	"tooltip.dawncraft.redstone_trigger": "Aciona blocos vinculados quando recebe um sinal de redstone.",
 	
 	"tooltip.dawncraft.key_0": "Clique com o botão direito para abrir um %1$s",
-	"tooltip.dawncraft.key_1": "Consumido no uso",
+	"tooltip.dawncraft.key_1": "Consumido no uso.",
 	
 	"tooltip.dawncraft.lock": "Clique com o botão direito do mouse em uma porta de dungeon para adicionar uma fechadura nela",
 	
 	"tooltip.dawncraft.skeleton_key_0": "Clique com o botão direito para abrir qualquer porta trancada.",
-	"tooltip.dawncraft.skeleton_key_1": "Não é consumido no uso",
+	"tooltip.dawncraft.skeleton_key_1": "Não é consumido no uso.",
 	
-	"tooltip.dawncraft.cursed_mask_0": "Uma máscara que se acredita ter sido um presente da besta lendária de Athora",
-	"tooltip.dawncraft.cursed_mask_1": "Usá-la fará com que alguns monstros o ignorem, a menos que sejam provocados",
+	"tooltip.dawncraft.cursed_mask_0": "Uma máscara que se acredita ter sido um presente da besta lendária de Athora.",
+	"tooltip.dawncraft.cursed_mask_1": "Usá-la fará com que alguns monstros o ignorem, a menos que sejam provocados.",
 	
 	"tooltip.dawncraft.rebirth_staff.inert_0": "Descarregado",
-	"tooltip.dawncraft.rebirth_staff.inert_1": "Esse cajado não tem poder, é inútil",
+	"tooltip.dawncraft.rebirth_staff.inert_1": "Esse cajado não tem poder, é inútil.",
 	"tooltip.dawncraft.rebirth_staff.powered_0": "Carregado",
-	"tooltip.dawncraft.rebirth_staff.powered_1": "Este cajado mágico tem o poder de restabelecer reinos",
+	"tooltip.dawncraft.rebirth_staff.powered_1": "Este cajado mágico tem o poder de restabelecer reinos.",
 	
-	"tooltip.dawncraft.slayers_blade_0": "A arma preferida da guilda dos matadores de monstros",
-	"tooltip.dawncraft.slayers_blade_1": "Causa 5% de dano da vida total de um mob",
+	"tooltip.dawncraft.slayers_blade_0": "A arma preferida da guilda dos matadores de monstros.",
+	"tooltip.dawncraft.slayers_blade_1": "Causa 5% de dano da vida total de um mob.",
 	
-	"tooltip.dawncraft.executioner_0": "a poderosa lâmina de um rei lendário",
-	"tooltip.dawncraft.executioner_1": "Mata instantaneamente mobs com menos de 15% de vida",
+	"tooltip.dawncraft.executioner_0": "A poderosa lâmina de um rei lendário.",
+	"tooltip.dawncraft.executioner_1": "Mata instantaneamente mobs com menos de 15% de vida.",
 	
 	"tile.dawncraft.chest_spawner": "Spawner de Baú",
 	
