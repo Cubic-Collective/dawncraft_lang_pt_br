@@ -4,18 +4,18 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get a piece of $(red)Purple Archwood Log$() yet?"
+      "text": "Você já conseguiu um pedaço de $(red)Tronco de Archwood Roxo$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. Here's your reward."
+      "text": "Obrigado. Aqui está a sua recompensa."
     }
   },
   "tasks": [
