@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Você sabia?"
+      "text": "Você Sabia?"
     },
     "description": {
-      "text": "Você sabia que há novos habitantes na dimensão? Rumores dizem que esses homens usam armaduras fabulosas e espadas indestrutíveis. Eu tive a oportunidade de ver alguns dos seus desenhos de armaduras... Lindos, mas não muito práticos. Um bom martelo pode destruí-los com facilidade, haha!"
+      "text": "Você sabia que há novos habitantes na dimensão? Rumores dizem que esses homens usam armaduras fabulosas e espadas indestrutíveis. Eu tive a oportunidade de examinar suas armaduras... Lindos, mas não muito práticas. Um bom martelo pode destruí-las com facilidade, haha!"
     }
   }
 }
