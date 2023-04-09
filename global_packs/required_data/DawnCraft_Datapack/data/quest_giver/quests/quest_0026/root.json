@@ -3,10 +3,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Come here!"
+      "text": "Venha aqui!"
     },
     "description": {
-      "text": "Come here! Have a chat will ya?"
+      "text": "Venha aqui! Vamos conversar, tá bom?"
     }
   }
 }
