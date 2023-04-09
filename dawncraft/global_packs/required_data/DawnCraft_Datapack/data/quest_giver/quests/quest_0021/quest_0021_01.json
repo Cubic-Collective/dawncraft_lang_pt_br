@@ -4,18 +4,18 @@
   "icon": "minecraft:heart_of_the_sea",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you obtain a $(red)Heart of the Sea$() yet?"
+      "text": "Você conseguiu obter um $(red)Coração do Mar$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "This looks... bizarre. But most things coming from the Ocean are of this nature... Anyway, thanks a lot adventurer. Here's your reward."
+      "text": "Isso parece... bizarro. Mas a maioria das coisas que vêm do oceano são assim... De qualquer forma, muito obrigado aventureiro. Aqui está a sua recompensa."
     }
   },
   "tasks": [
