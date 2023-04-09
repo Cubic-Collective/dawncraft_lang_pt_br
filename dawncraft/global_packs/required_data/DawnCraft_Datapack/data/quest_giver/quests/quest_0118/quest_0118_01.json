@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Coração de dragão"
+      "text": "Coração de Dragão"
     },
     "description": {
-      "text": "Não me pergunte o porquê, não te interessa. Apenas me dê o $(red)Coração de Dragão de Fogo$()."
+      "text": "Não me pergunte o porquê. Não é da sua conta, garoto.. Apenas me dê um $(red)Coração de Dragão de Fogo$()."
     }
   },
   "complete": {
