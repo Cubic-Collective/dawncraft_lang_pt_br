@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Did you know?"
+      "text": "Você sabia?"
     },
     "description": {
-      "text": "Did you know? There are new faces in the dimension. Rumors have it that these man wear fabulous armor and unbreakable swords. I've had a chance to look at some of their armor design... Beautiful, but not practical. A decent hammer can smash through it with ease, haha!"
+      "text": "Você sabia que há novos habitantes na dimensão? Rumores dizem que esses homens usam armaduras fabulosas e espadas indestrutíveis. Eu tive a oportunidade de ver alguns dos seus desenhos de armaduras... Lindos, mas não muito práticos. Um bom martelo pode destruí-los com facilidade, haha!"
     }
   }
 }
