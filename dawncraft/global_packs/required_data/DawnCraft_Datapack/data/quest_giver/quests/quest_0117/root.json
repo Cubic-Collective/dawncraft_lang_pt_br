@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "Uma oferta"
     },
     "description": {
-      "text": "I got an interesting skill I can teach you - Dual Greatsword Holding. That'll cost you 25 Emeralds though."
+      "text": "Eu tenho uma habilidade interessante que posso te ensinar, se chama - Empunhar duas espadas largas. Isso vai te custar 25 esmeraldas. Não ache que estou sendo ganancioso!"
     }
   }
 }
