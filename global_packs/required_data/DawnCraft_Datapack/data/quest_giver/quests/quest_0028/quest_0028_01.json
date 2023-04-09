@@ -4,18 +4,18 @@
   "icon": "minecraft:oak_sapling",
   "start": {
     "title": {
-      "text": "Haze Mountain"
+      "text": "Montanha do Nevoeiro"
     },
     "description": {
-      "text": "Oy, did you find the mystical biome $(red)Haze Mountain $() yet?"
+      "text": "Ei, você já encontrou a bioma mística $(red)Montanha do Nevoeiro$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Is that so..."
+      "text": "É mesmo..."
     },
     "description": {
-      "text": "Is that so... That is quite disappointing to be honest. I thought there would be dragons residing in Haze Mountains... Oh well, at least now I know it's a myth. Thanks."
+      "text": "É mesmo... Isso é bastante decepcionante, para ser sincero. Eu pensei que houvesse dragões morando na Montanha do Nevoeiro... Bem, pelo menos agora eu sei que é um mito. Obrigado."
     }
   },
   "tasks": [
