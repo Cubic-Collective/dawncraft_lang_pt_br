@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Mapa para o Guardião Ancião"
+      "text": "Mapa para o Guardião do End"
     },
     "description": {
-      "text": "Nada nessa vida é de graça, amigo. Você me paga 5 esmeraldas e eu darei a direção para o Guardião Ancião."
+      "text": "Nada nessa vida é de graça, meu amigo. Você me pague 5 esmeraldas e eu darei a direção do Guardião do End para você."
     }
   },
   "complete": {
