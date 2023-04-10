@@ -4,18 +4,21 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Foreign Outlaws"
+      "text": "Foras-da-lei estrangeiros"
     },
     "description": {
-      "text": "Can you fetched me a piece of paper for me? I'll draw you a map."
+      "text": "Você pode pegar um pedaço de papel para mim? Vou desenhar um mapa para você."
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
+
+    /*Eu não sei o que foreign outlaws quer dizer. O tradutor Deepl traduziu assim.*/
+    
     "description": {
-      "text": "Here, the group of foreign outlaws built a place where the marker is. Go and take out the leader."
+      "text": " Aqui, o grupo de foras-da-lei estrangeiros construiu um lugar onde está o marcador. Vá e derrote o líder."
     }
   },
   "tasks": [

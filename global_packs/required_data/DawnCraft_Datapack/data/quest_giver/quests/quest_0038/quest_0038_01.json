@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Exploration!"
+      "text": "Exploração!"
     },
     "description": {
-      "text": "Return to me when you finish travelling to these 3 biomes: Ancient Sand, Volcanic Peaks, White Mesa"
+      "text": "Volte para mim quando terminar de viajar para esses 3 biomas: Areias Antigas, Picos Vulcânicos, Os Penhascos Brancos"
     }
   },
   "complete": {
     "title": {
-      "text": "Finished"
+      "text": "Finalizado"
     },
     "description": {
-      "text": "Thank you for your detailed explanations. I think I will be able to draw them based on your description. Here, take your reward."
+      "text": "Obrigado por suas explicações detalhadas. Acho que vou conseguir desenhá-los com base em sua descrição. Aqui está sua recompensa."
     }
   },
   "tasks": [

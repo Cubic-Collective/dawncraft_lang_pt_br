@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Ei, tudo bem?"
     },
     "description": {
-      "text": "Hello adventurer! I could use your help with something."
+      "text": "Olá aventureiro! Eu poderia usar sua ajuda com algo."
     }
   }
 }
