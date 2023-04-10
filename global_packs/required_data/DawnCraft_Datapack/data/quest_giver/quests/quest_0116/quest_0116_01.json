@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "Uma Oferta"
     },
     "description": {
-      "text": "4 Emeralds, and I'll show you where you can find the materials needed to summon Ignis."
+      "text": "4 esmeraldas e mostrarei onde você pode encontrar os materiais necessários para invocar o Ignis."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Here it is. Don't summon that abomination near this village. And remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Don't ask me why... I have no clue."
+      "text": "Heheheheh, obrigado. Não invoque essa coisa perto dessa aldeia. E lembre-se, este mapa só funciona se você abri-lo no Nether. Se abrir aqui ele ficará em branco. Não me pergunte o porquê disso... Não faço a mínima ideia."
     }
   },
   "tasks": [
