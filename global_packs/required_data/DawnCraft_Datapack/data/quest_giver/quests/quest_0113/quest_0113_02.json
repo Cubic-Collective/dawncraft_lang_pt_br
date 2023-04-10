@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "Olá de novo!"
     },
     "description": {
-      "text": "Did you get the  $(red)gem$()? You might have to exterminate the creature to get it."
+      "text": "Você conseguiu a $(red)gema$()? Pode ser que você tenha que exterminar a criatura para obtê-la."
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Wow... this is amazing. This is simply... astonishing. I will need some time with this. Can you bring me a wooden stick? I Think I might be able to make you something special."
+      "text": "Isso é incrível! Simplesmente... esplêndido. Vou precisar de um tempo com isso. Você pode me trazer um graveto? Acho que posso fazer algo especial para você."
     }
   },
   "tasks": [
