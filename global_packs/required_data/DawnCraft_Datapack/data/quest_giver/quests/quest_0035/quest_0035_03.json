@@ -4,10 +4,10 @@
 	"icon": "minecraft:beef",
 	"start": {
 		"title": {
-			"text": "Incêndio"
+			"text": "Incendium"
 		},
 		"description": {
-			"text": "A $(light_blue)Espada Gelada$(). Me avise se a encontrar no castelo das Terras Arrasadas de Cinzas."
+			"text": "A $(light_blue)Espada Arrepiante$(). Me avise se a encontrar no castelo das Terras Arrasadas de Cinzas."
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "Pronto"
 		},
 		"description": {
-			"text": "Então... ele realmente se foi. Obrigado por me trazer o encerramento. Fique com a espada. Não tenho mais nada para recompensá-lo."
+			"text": "Então... ele realmente se foi. Obrigado por me trazer essa resolução. Fique com a espada. Não tenho mais nada para recompensá-lo."
 		}
 	},
 	"tasks": [{
