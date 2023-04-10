@@ -4,7 +4,7 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Carne exótica"
+      "text": "Carne Exótica"
     },
     "description": {
       "text": "Você conseguiu a $(red)carne e a pele de canguru$()?"
