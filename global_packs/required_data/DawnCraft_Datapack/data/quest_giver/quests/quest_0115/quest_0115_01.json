@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Uma oferta"
+      "text": "Uma Oferta"
     },
     "description": {
       "text": "6 Esmeraldas é tudo o que eu preciso para te mostrar onde a Monstruosidade está na Dimensão do Nether."
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Heheheheh, obrigado! Lembre-se, este mapa só funciona se você abri-lo no Nether. Se abrir aqui ele ficará branco. Achou confuso, né?"
+      "text": "Heheheheh, obrigado! Lembre-se, este mapa só funciona se você abri-lo no Nether. Se abrir aqui ele ficará em branco. Achou confuso, né?"
     }
   },
   "tasks": [
