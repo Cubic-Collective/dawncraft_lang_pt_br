@@ -3,10 +3,10 @@
   "icon": "minecraft:blast_furnace",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hey there! Ah hello stranger, could use your help with something!"
+      "text": "Ei! Ah, olá estranho, eu precisava da sua ajuda com algo!"
     }
   }
 }
