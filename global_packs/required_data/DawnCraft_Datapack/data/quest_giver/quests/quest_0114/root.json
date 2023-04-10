@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hello brave traveler. Up for a challenge?"
+      "text": "Olá bravo aventureiro! Pronto para um desafio?"
     }
   }
 }
