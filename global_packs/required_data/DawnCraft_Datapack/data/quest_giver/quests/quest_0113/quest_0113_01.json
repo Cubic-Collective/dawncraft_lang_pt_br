@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "E aí?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Pode me trazer um pedaço de papel? Vou desenhar um mapa para ti."
+      "text": "Pode me trazer um pedaço de papel? Vou desenhar um mapa para você."
     }
   },
   "complete": {
