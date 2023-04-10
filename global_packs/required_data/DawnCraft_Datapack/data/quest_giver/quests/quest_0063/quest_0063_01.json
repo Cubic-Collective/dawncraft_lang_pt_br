@@ -7,7 +7,7 @@
       "text": "Criação de Flechas"
     },
     "description": {
-      "text": "Você conseguiu $(red)as 4 toras de abeto?$() yet?"
+      "text": "Você já conseguiu $(red)os 4 troncos de pinheiro$()?"
     }
   },
   "complete": {
