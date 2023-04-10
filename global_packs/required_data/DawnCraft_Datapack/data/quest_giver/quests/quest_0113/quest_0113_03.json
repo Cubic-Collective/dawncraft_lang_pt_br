@@ -7,7 +7,7 @@
       "text": "Olá de novo!"
     },
     "description": {
-      "text": "Ainda trabalhando nisso! trouxe a vara que te pedi?"
+      "text": "Ainda trabalhando nisso! Trouxe a vara que te pedi?"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Aqui está."
     },
     "description": {
-      "text": "Aqui, toma. Este pode ter sido a melhor coisa que já fiz no meu trabalho, hehehe."
+      "text": "Aqui, toma. Este pode ser o meu melhor trabalho até agora, heheh."
     }
   },
   "tasks": [
@@ -36,7 +36,7 @@
       "times": 1
     },
     {
-      "command": "/addreputation reputation:village @p 3",
+      "command": "/addreputation reputation:villager @p 3",
       "id": "quest_giver:command"
     }
   ]
