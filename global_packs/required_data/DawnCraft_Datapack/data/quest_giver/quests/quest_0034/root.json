@@ -6,7 +6,7 @@
 			"text": "Olá"
 		},
 		"description": {
-			"text": "Olá, cavalheiro gentil. Minha esposa tem me pedido para cozinhar um prato chamado \"$(yellow)abóbora recheada$()\" e estou muito envergonhado para admitir que não sei como o fazer... Podes cozinhar um para mim?"
+			"text": "Olá, gentil cavalheiro. Minha esposa tem me pedido para cozinhar um prato chamado \"$(yellow)abóbora recheada$()\" e estou muito envergonhado para admitir que não sei como o fazer... Podes cozinhar um para mim?"
 		}
 	}
 }
