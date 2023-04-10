@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_helmet",
   "start": {
     "title": {
-      "text": "Blast Furnace Crafting"
+      "text": "Criando um Alto-Forno"
     },
     "description": {
-      "text": "Hey. Have you crafted the blast furnace yet? Make sure to craft a new one instead of grabbing others!"
+      "text": " Ei. Você já criou um alto-forno? Certifique-se de criar um novo em vez de pegar outros!"
     }
   },
   "complete": {
     "title": {
-      "text": "Great!"
+      "text": "Ótimo!"
     },
     "description": {
-      "text": "Great! I can certainly make better equipments with this new facility. Thanks!"
+      "text": "Ótimo! Com certeza poderei fazer equipamentos melhores com essa nova instalação. Obrigado!"
     }
   },
   "tasks": [
