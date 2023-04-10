@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "ajuda"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Ouvi dizer dos viajantes que eles viram um monstro gigante com pontas de pedras preciosas nas costas há um tempo atrás. Dizem que ele foi visto em uma área coberta de pontas de obsidiana... Estou bem curioso com as gemas que essa criatura possui. Você poderia me trazer um pedaço de papel? Irei te mostrar onde fica esse lugar."
+      "text": "Ouvi dizer dos viajantes há um tempo atrás que eles viram um monstro gigante com espinhos de pedras preciosas nas costas. Dizem que ele foi visto em uma área coberta de espinhos de obsidiana... Estou bem curioso com as gemas que essa criatura possui. Você poderia me trazer um pedaço de papel? Irei te mostrar onde fica isso."
     }
   }
 }
