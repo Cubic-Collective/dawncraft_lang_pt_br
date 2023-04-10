@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Uma oferta"
+      "text": "Uma Oferta"
     },
     "description": {
       "text": "4 esmeraldas e mostrarei onde você pode encontrar os materiais necessários para invocar o Ignis."
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Heheheheh, obrigado. Toma, não invoque essa coisa perto desta aldeia. E lembre-se, este mapa só funciona se você abri-lo no Nether. Se abrir aqui ele ficará branco. Não me pergunte o porquê disso."
+      "text": "Heheheheh, obrigado. Não invoque essa coisa perto dessa aldeia. E lembre-se, este mapa só funciona se você abri-lo no Nether. Se abrir aqui ele ficará em branco. Não me pergunte o porquê disso... Não faço a mínima ideia."
     }
   },
   "tasks": [
