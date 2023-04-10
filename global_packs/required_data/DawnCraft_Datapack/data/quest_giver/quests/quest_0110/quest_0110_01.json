@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "Olá de novo!"
     },
     "description": {
-      "text": "Brave man. Please give me a piece of paper so I can show you where the creature is at."
+      "text": "Grande homem . Por favor, me dê um pedaço de papel para que eu possa te mostrar onde está a criatura."
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Here, the cleric is the one who provided us with this information though. So I'm not sure if it's completely accurate. Either way, find this creature, kill it, and bring back whatever it drops."
+      "text": "Aqui, o clérigo é quem nos deu essa informação. Porém, não tenho certeza se é completamente preciso. De qualquer forma, encontre esta criatura, mate-a traga tudo que ela deixar."
     }
   },
   "tasks": [
