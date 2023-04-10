@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_helmet",
   "start": {
     "title": {
-      "text": "Obrigado por ter escutado."
+      "text": "Obrigado por ter Escutado."
     },
     "description": {
-      "text": "Obrigado por ter escutado. Meu alto-forno está quebrando... Você pode $(red)criar$() um novo e me dar?"
+      "text": "Obrigado por ter escutado. Meu alto-forno está quebrando... Você pode $(red)criar$() um novo e me dar para mim?"
     }
   }
 }
