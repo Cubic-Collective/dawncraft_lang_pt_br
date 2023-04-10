@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "A Friendly Chat"
+      "text": "Uma Conversa Amigável"
     },
     "description": {
-      "text": "Did you know that the cutting board can be used with a knife to cut down most food ingredients into smaller ingredients? It's worth experimenting a bit with not only food, but other resources such as logs or equipments!"
+      "text": "Você sabia que a tábua de corte pode ser usada com uma faca para cortar a maioria dos ingredientes alimentares em pedaços menores? Vale a pena experimentar não só com alimentos, mas também com outros recursos como troncos ou equipamentos!"
     }
   }
 }
