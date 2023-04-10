@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Arrow Craftsmanship"
+      "text": "Criação de Flechas"
     },
     "description": {
-      "text": "Did you get $(red)the 4 spruce logs$() yet?"
+      "text": "Você conseguiu $(red)as 4 toras de abeto?$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Good job. Here's an emerald for your work."
+      "text": "Bom trabalho. Aqui está uma esmeralda pelo seu trabalho."
     }
   },
   "tasks": [

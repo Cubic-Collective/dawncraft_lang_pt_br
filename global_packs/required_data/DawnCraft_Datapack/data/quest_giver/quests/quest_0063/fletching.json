@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Unlock Fletching Table"
+      "text": "Desbloqueie a mesa de arquearia."
     },
     "description": {
-      "text": "Huh, alright. 15 Emeralds to learn how to use the fletching table."
+      "text": "Huh, certo. 15 Esmeraldas para aprender a usar a mesa de arquearia."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Here you go. Have fun making arrows!"
+      "text": "Tudo pronto. Divirta-se fazendo flechas!"
     }
   },
   "tasks": [
