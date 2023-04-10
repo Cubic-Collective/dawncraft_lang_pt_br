@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "help"
+      "text": "ajuda"
     },
     "description": {
-      "text": "I've heard from the wandering travellers that they spotted a gigantic monster with gem spikes on its back a while ago. They say it was located in an area covered in obsidian spikes... I'm quite curious of the gems that this creature possesses. Could you fetch me a piece of paper? I'll show you where it is."
+      "text": "Ouvi dizer dos viajantes que eles viram um monstro gigante com pontas de pedras preciosas nas costas há um tempo atrás. Dizem que ele foi visto em uma área coberta de pontas de obsidiana... Estou bem curioso com as gemas que essa criatura possui. Você poderia me trazer um pedaço de papel? Irei te mostrar onde fica esse lugar."
     }
   }
 }

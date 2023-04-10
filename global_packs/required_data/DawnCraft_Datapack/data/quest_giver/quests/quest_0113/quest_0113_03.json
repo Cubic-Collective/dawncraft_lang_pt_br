@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "Olá de novo!"
     },
     "description": {
-      "text": "Still working on it! Did you get the stick yet?"
+      "text": "Ainda trabalhando nisso! trouxe a vara que te pedi?"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Here you go. This might be my best work so far, heh."
+      "text": "Aqui, toma. Este pode ter sido a melhor coisa que já fiz no meu trabalho, hehehe."
     }
   },
   "tasks": [
@@ -36,7 +36,7 @@
       "times": 1
     },
     {
-      "command": "/addreputation reputation:villager @p 3",
+      "command": "/addreputation reputation:village @p 3",
       "id": "quest_giver:command"
     }
   ]
