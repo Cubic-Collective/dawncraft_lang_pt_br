@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
+      "text": "Conseguiu matar o grandão? Se sim, traga-me o que ele deixou."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Good job! This is one of its eye alright... Let's see, I'll teach you the combat skill - Guard, as payment. It's one of the most important skills one could learn in this dimension."
+      "text": "Bom trabalho! Ele é grande mas não é dois... Como agradecimento, vou te ensinar uma habilidade de combate - Guarda. É uma das habilidades mais importantes que todo guerreiro precisa ter."
     }
   },
   "tasks": [
