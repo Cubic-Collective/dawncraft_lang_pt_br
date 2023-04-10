@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "E aí?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Tá esquecido? Derrote o Fantasma do Capitão Cornelia e então venha resgatar sua recompensa."
+      "text": "Já esqueceu? Derrote o Fantasma da Capitã Cornelia e então venha resgatar sua recompensa."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Você é um homem audacioso! Você realmente fez isso! Aqui, pegue sua recompensa. Quem não gosta de diamantes hein? Tome alguns para você e toma cuidado com a lava!"
+      "text": "Você é um homem audacioso! Você realmente fez isso! Aqui, pegue sua recompensa. Quem não gosta de diamantes hein? Tome alguns para você!"
     }
   },
   "tasks": [
