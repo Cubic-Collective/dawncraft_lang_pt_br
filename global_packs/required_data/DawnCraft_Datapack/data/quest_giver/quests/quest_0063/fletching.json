@@ -4,10 +4,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Desbloqueie a mesa de arquearia."
+      "text": "Desbloqueie a Bancadada de Arco e Flecha"
     },
     "description": {
-      "text": "Huh, certo. 15 Esmeraldas para aprender a usar a mesa de arquearia."
+      "text": "Huh, certo. 15 Esmeraldas para aprender a usar a bancada de arco e flecha."
     }
   },
   "complete": {
