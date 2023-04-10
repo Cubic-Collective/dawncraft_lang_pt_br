@@ -1,12 +1,11 @@
 {
-  "parent": "quest_giver:root",
-  "reputation": 16,
-  "icon": "minecraft:iron_pickaxe",
-  "start": {
-    "title": {
-      "text": "ajuda"
-    },
-    "description": "Haha, eu sabia! Se você se deparar com um bioma de gelo semelhante a um labirinto, procure pelo $(red)Ghost of Captain Cornelia$(). Te darei uma boa recompensa se conseguir derrotá-lo com sua força!"
-    }
-  }
+	"parent": "quest_giver:root",
+	"reputation": 16,
+	"icon": "minecraft:iron_pickaxe",
+	"start": {
+		"title": {
+			"text": "Ajuda"
+		},
+		"description": "Haha, eu sabia! Se você se deparar com um bioma de gelo semelhante a um labirinto, procure pelo $(red)Fantasma da Capitã Cornelia$(). Te darei uma boa recompensa se conseguir derrotá-la!"
+	}
 }
