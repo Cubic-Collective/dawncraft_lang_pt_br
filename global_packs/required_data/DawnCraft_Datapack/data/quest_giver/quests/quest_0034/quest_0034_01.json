@@ -7,7 +7,7 @@
       "text": "Abóbora Recheada"
     },
     "description": {
-      "text": "Já cozinhou a abóbora recheada de $(yellow)$()? Não se preocupe, eu compreendo que leva tempo!"
+      "text": "Já cozinhou uma $(yellow)abóbora recheada$()? Não se preocupe, eu compreendo que leva tempo!"
     }
   },
   "complete": {
