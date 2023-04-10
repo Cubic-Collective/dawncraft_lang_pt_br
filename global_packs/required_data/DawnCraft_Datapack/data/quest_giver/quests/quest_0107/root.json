@@ -3,10 +3,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hey boy, can you get me a piece of $(red)Dusk Log$()? It can be found in the Everdawn dimension."
+      "text": "E aí amigo, você poderia me dar uma tora de $(red)Tronco do Crepúsculo$()? Ele pode ser encontrado na dimensão Everdawn."
     }
   }
 }
