@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Uma conversa amigável"
+      "text": "Uma Conversa Amigável"
     },
     "description": {
-      "text": "Você sabia que a tábua de cortar pode ser usada com uma faca para cortar a maioria dos ingredientes alimentares em pedaços menores? Vale a pena experimentar não só com alimentos, mas também com outros recursos como toras ou equipamentos!"
+      "text": "Você sabia que a tábua de corte pode ser usada com uma faca para cortar a maioria dos ingredientes alimentares em pedaços menores? Vale a pena experimentar não só com alimentos, mas também com outros recursos como troncos ou equipamentos!"
     }
   }
 }
