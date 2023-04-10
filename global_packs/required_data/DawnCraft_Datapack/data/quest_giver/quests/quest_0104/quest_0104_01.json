@@ -4,18 +4,18 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get $(red)16 arrows$() from the fletcher? I'll pay you back for it."
+      "text": "Conseguiu $(red)16 flechas$() com o flecheiro? Irei te pagar por isso."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks, you're a life saver! I'm not good with the local fletcher so it was a bit awkward to ask..."
+      "text": "Valeu, você me salvou! não me dou bem com o flecheiro local, foi meio esquisito perguntar..."
     }
   },
   "tasks": [
