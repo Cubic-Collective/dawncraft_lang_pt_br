@@ -3,10 +3,10 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Can you give me $(red)1 Orange Ball Cactus$() if you come across any?"
+      "text": "Você poderia me dar $(red)1 Cacto de Bola Laranja$() se ver por ai?"
     }
   }
 }
