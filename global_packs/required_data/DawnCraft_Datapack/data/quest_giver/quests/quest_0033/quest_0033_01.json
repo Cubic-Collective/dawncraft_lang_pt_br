@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Exotic Meat"
+      "text": "Carne exótica"
     },
     "description": {
-      "text": "You got the$(red) kangaroo meat and hide$()?"
+      "text": "Você conseguiu a $(red)carne e a pele de canguru$()?"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Mazel Tov!"
     },
     "description": {
-      "text": "Ahh... so this is what kangaroo is like. A tender piece of meat indeed... The hide on the other hand isn't as good as the regular leather we use. A good trophy though... Thanks a lot adventurer. I don't have much to give you... Here, take these beef slices. The carcass just came in today so it's fresh!"
+      "text": "Ahh... então é assim que é a carne de canguru. Realmente é uma peça de carne macia... A pele, por outro lado, não é tão boa quanto o couro normal que usamos. É um bom troféu, no entanto... Muito obrigado, aventureiro. Não tenho muito para lhe dar... Aqui, leve estas fatias de carne. A carcaça chegou hoje, por isso está fresca!"
     }
   },
   "tasks": [
