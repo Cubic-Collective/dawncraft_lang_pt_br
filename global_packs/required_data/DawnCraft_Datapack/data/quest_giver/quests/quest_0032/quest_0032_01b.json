@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "A Little Help"
+      "text": "Uma Ajudinha?"
     },
     "description": {
-      "text": "Good man! Could you somehow get me an $(red)iron knife$()? Mine just broke..."
+      "text": "Bom homem! Você poderia me arranjar uma $(red)faca de ferro$()? A minha acabou de quebrar..."
     }
   }
 }
