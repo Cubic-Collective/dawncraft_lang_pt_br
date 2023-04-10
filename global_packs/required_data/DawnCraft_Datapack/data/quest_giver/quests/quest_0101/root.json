@@ -3,10 +3,10 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Can you give me $(red)1 Rafflesia$() if you come across any?"
+      "text": "Você poderia me dar $(red)1 Raflésia$() se ver por ai?"
     }
   }
 }

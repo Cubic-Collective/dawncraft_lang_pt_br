@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get the $(red)Rafflesia$() yet?"
+      "text": "Você já pegou a $(red)Raflésia$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks a lot."
+      "text": "Muito obrigado."
     }
   },
   "tasks": [
@@ -33,7 +33,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:village @p 1",
+      "command": "/addreputation reputation:villager @p 1",
       "id": "quest_giver:command"
     },
     {
