@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "Uma oferta"
     },
     "description": {
-      "text": "When I was in the Nether Dimension, I found a peculiar structure with a monstrous golem dwelling inside. I'll show you where it is on the map if you give me 6 emeralds."
+      "text": "Quando estive no Nether, encontrei um lugar bem peculiar com um golem monstruoso morando nela. Se você me der 6 esmeraldas eu te mostro onde ele fica no mapa."
     }
   }
 }
