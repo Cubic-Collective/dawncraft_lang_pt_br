@@ -7,7 +7,7 @@
       "text": "Olá de novo!"
     },
     "description": {
-      "text": "Você conseguiu a $(red)gem$()? Pode ser que você tenha que exterminar a criatura para obtê-lo."
+      "text": "Você conseguiu a $(red)gema$()? Pode ser que você tenha que exterminar a criatura para obtê-la."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Aqui está."
     },
     "description": {
-      "text": "Isso é incrível! Simplesmente... espêndido. Vou precisar de um tempo com isso. Você pode me trazer uma vara de madeira? Acho que posso fazer algo especial para você."
+      "text": "Isso é incrível! Simplesmente... esplêndido. Vou precisar de um tempo com isso. Você pode me trazer um graveto? Acho que posso fazer algo especial para você."
     }
   },
   "tasks": [
