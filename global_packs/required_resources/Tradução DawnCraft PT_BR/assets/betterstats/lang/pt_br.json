@@ -1,0 +1,24 @@
+{
+	"betterstats": "Better Statistics Screen",
+	
+	"betterstats.hud": "HUD de estatísticas (Beta)",
+	"betterstats.hud.entity.kills": "Abates",
+	"betterstats.hud.entity.deaths": "Mortes",
+	"betterstats.hud.hint.add_widget": "Clique com o botão direito do mouse numa estatística (Shift + Botão Direito) para adicionar aqui.",
+	"betterstats.hud.hint.del_widget": "Pressione BACKSPACE (<-) para remover a entrada selecionada.",
+	"betterstats.hud.hint.esc_close": "Pressione ESC para fechar esta tela.",
+	
+	"betterstats.gui.filters": "Filtros",
+	"betterstats.gui.show_empty_stats": "Mostrar estatísticas vazias",
+	"betterstats.gui.no_stats_yet": "Ainda não há estatísticas para mostrar...",
+	
+	"betterstats.gui.ctx_menu.pin_to_hud": "Fixar no HUD (Beta)",
+	"betterstats.gui.ctx_menu.close": "Fechar",
+	
+	"betterstats.gui.menu_bar.view": "Visualizar",
+	"betterstats.gui.menu_bar.view.vanilla_stats": "Mostrar estatísticas vanilla",
+	
+	"betterstats.gui.menu_bar.about": "Sobre",
+	"betterstats.gui.menu_bar.about.source": "Código Fonte",
+	"betterstats.gui.menu_bar.mods_other": "Outros (mods)"
+}
