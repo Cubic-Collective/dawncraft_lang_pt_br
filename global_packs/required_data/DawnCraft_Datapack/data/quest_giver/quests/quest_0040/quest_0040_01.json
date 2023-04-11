@@ -4,7 +4,7 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Uma tarefa impossível!"
+      "text": "Uma Tarefa Impossível!"
     },
     "description": {
       "text": "Volte quando você tiver domado um elefante... na verdade, se conseguir."
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Hã. Você realmente conseguiu. Bem, ouvi dizer que essas criaturas gigantes adoram flores de acácia. Aqui, não pergunte por que eu tenho elas."
+      "text": "Hã. Você realmente conseguiu. Bem, ouvi dizer que essas criaturas gigantes adoram flores de acácia. Aqui, não me pergunte por que eu tenho elas."
     }
   },
   "tasks": [
