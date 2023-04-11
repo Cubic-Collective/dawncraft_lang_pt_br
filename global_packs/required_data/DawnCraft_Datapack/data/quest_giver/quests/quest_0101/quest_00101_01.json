@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get the $(red)Rafflesia$() yet?"
+      "text": "Você já pegou a $(red)Rafflesia$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks a lot."
+      "text": "Muito obrigado."
     }
   },
   "tasks": [
