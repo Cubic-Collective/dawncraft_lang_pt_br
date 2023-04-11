@@ -4,18 +4,18 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get the $(red)10 Redstone Dust$()"
+      "text": "Você conseguiu os $(red)10 Pós de Redstone$() que pedi?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks, here you go."
+      "text": "Obrigado, aqui está sua recompensa."
     }
   },
   "tasks": [
