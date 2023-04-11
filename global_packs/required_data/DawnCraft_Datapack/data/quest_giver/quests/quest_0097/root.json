@@ -3,10 +3,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I've heard that some of our kind have moved away to individual castles with Create Contraptions.. If you ever come across one, could you tell me how the place is like?"
+      "text": "Ouvi dizer que alguns de nossa espécie se mudaram para castelos individuais com engenhocas do Create. Se você se deparar com um, poderia me dizer como é esse lugar?"
     }
   }
 }
