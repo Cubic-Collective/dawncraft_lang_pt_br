@@ -7,10 +7,7 @@
       "text": "E aí?"
     },
     "description": {
-
-      /*Não sei o que é scute. Coloquei o que eu achei na internet. "So, got the scute?" pode ser traduzido para o português como "Então, conseguiu o escudo de tartaruga?" ou "E aí, conseguiu a placa de carapaça?". A palavra "scute" se refere a uma placa óssea presente na carapaça de algumas espécies de tartarugas." Não sei se esta certo*/
-
-      "text": "E aí, conseguiu a carapaça?"
+      "text": "E aí, conseguiu a escama?"
     }
   },
   "complete": {
@@ -18,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Ah, bem, o que temos aqui. Espero que essa tarefa não tenha lhe deixado nenhuma cicatriz, haha! Aqui está sua recompensa, ouvi dizer que sua espécie gosta de diamantes."
+      "text": "Ah, bem, o que temos aqui. Espero que essa tarefa não tenha lhe deixado nenhuma cicatriz, haha! Aqui está sua recompensa, ouvi dizer que o seu tipo gosta de diamantes."
     }
   },
   "tasks": [
