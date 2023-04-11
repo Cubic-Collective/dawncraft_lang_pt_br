@@ -4,7 +4,7 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Foras-da-lei estrangeiros"
+      "text": "Bandidos Forasteiros"
     },
     "description": {
       "text": "Você pode pegar um pedaço de papel para mim? Vou desenhar um mapa para você."
@@ -14,11 +14,8 @@
     "title": {
       "text": "Aqui está."
     },
-
-    /*Eu não sei o que foreign outlaws quer dizer. O tradutor Deepl traduziu assim.*/
-    
     "description": {
-      "text": " Aqui, o grupo de foras-da-lei estrangeiros construiu um lugar onde está o marcador. Vá e derrote o líder."
+      "text": " Aqui, o grupo de bandidos forasteiros construiu um lugar onde está o marcador. Vá e derrote o líder."
     }
   },
   "tasks": [
