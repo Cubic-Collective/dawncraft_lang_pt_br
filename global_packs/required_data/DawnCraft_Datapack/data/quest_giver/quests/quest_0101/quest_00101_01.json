@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Você já pegou a $(red)Raflésia$()?"
+      "text": "Você já pegou a $(red)Rafflesia$()?"
     }
   },
   "complete": {
@@ -33,7 +33,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:villager @p 1",
+      "command": "/addreputation reputation:village @p 1",
       "id": "quest_giver:command"
     },
     {
