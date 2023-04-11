@@ -4,18 +4,18 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you get a piece of $(red)Dusk Log$() yet?"
+      "text": "Você conseguiu o $(red)Tronco de Madeira Crepuscular$() que eu pedi?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. Here's your reward."
+      "text": "Obrigado. Aqui está sua recompensa."
     }
   },
   "tasks": [
