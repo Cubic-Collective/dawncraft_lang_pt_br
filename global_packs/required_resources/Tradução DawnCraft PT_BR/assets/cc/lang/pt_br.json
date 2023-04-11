@@ -1,0 +1,17 @@
+{
+	"item.cc.claim_block": "Bloco de Reivindicação",
+	"block.cc.claim_block": "Bloco de Reivindicação",
+	"cc.lore.paper": "Documento de reclamação",
+	"cc.message.block.not_owner": "Você não possui este bloco",
+	"cc.message.block.access": "Voce nao tem acesso",
+	"cc.message.spawn": "Este pedaço está muito próximo para desovar",
+	"cc.message.claim_limit": "Você atingiu seu limite de reivindicação",
+	"cc.message.claim": "Você reivindicou este pedaço",
+	"cc.message.unclaim": "Você cancelou a reivindicação deste pedaço",
+	"cc.message.claimed.chunk": "Este pedaço foi reivindicado",
+	"cc.message.noclaims.you": "Você não tem reivindicações",
+	"cc.message.noclaims": "Sem reivindicações",
+	"cc.gui.access": "Acesso",
+	"cc.gui.modify": "Modificar",
+	"cc.gui.enable": "Habilitar"
+}

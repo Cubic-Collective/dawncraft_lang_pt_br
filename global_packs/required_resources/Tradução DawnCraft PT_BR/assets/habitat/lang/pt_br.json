@@ -1,0 +1,29 @@
+{
+  "block.habitat.slime_fern": "Samambaia de Slime",
+
+  "item.habitat.rafflesia": "Rafflesia",
+  "item.habitat.kabloom_pulp": "Polpa de Kabloom",
+  "item.habitat.kabloom_fruit": "Fruta de Kabloom",
+
+  "entity.habitat.kabloom_fruit": "Fruta de Kabloom Jogada",
+
+  "habitat.subtitle.block.rafflesia.spew": "Rafflesia vomita",
+  "habitat.subtitle.block.rafflesia.pop": "Rafflesia estoura",
+  "habitat.subtitle.block.rafflesia.slurp": "Rafflesia sorve",
+  "habitat.subtitle.block.kabloom_bush.rustle": "Kabloom farfalha",
+  "habitat.subtitle.block.kabloom_bush.shear": "Tesouras desarmam",
+  "habitat.subtitle.block.slime_fern.drip": "Slime pinga",
+
+  "habitat.subtitle.entity.kabloom_fruit.throw": "Fruta de Kabloom moscas",
+  "habitat.subtitle.entity.kabloom_fruit.explosion": "Kabloom",
+
+  "death.attack.habitat.kabloom": "%1$s foi kabloom",
+
+  "effect.habitat.blast_endurance": "Resistência Explosão",
+
+  "habitat.advancements.husbandry.suspicious.title": "Suspeito...",
+  "habitat.advancements.husbandry.bloom_defused.title": "A Flor Foi Desarmada",
+
+  "habitat.advancements.husbandry.suspicious.description": "Dê ensopado suspeito a uma Rafflesia",
+  "habitat.advancements.husbandry.bloom_defused.description": "Corte um arbusto kabloom para colher os frutos"
+}

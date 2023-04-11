@@ -1,0 +1,20 @@
+{
+  "entity.corpse.corpse": "Cadáver",
+  "entity.corpse.corpse_of": "Cadáver de %s",
+  "button.corpse.previous": "Anterior",
+  "button.corpse.next": "Próximo",
+  "gui.corpse.page": "%s de %s",
+  "gui.corpse.death_history.title": "Histórico de morte",
+  "gui.corpse.death_history.name": "Nome",
+  "gui.corpse.death_history.date_format": "dd/MM/yyyy HH:mm:ss",
+  "gui.corpse.death_history.dimension": "Dimensão",
+  "gui.corpse.death_history.location": "Localização",
+  "button.corpse.show_items": "Itens",
+  "key.corpse.death_history": "Abrir histórico de morte",
+  "message.corpse.no_death_history": "Sem histórico de morte",
+  "chat.corpse.teleport_death_location": "Teleportar para local da morte %s",
+  "tooltip.corpse.teleport": "Teleportar",
+  "tooltip.corpse.death_date": "Morreu em %s",
+  "tooltip.corpse.item_count": "Contendo %s pilha(s)",
+  "button.corpse.transfer_items": "Transferir itens"
+}
