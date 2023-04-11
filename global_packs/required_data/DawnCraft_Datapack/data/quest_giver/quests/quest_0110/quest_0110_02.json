@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Você já derrotou o Morador da Caverna? Se sim, traga-me o que ele deixou."
+      "text": "Você já derrotou o Habitante das Cavernas? Se sim, traga-me o que ele deixou."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "É estranho imaginar uma criatura com armadura natural tão resistente... Bem, estou feliz que agora ele está morto. Como agradecimento, vou te ensinar uma nova habilidade - Passada."
+      "text": "É estranho imaginar uma criatura com uma armadura natural tão resistente... Bem, estou feliz que agora ele está morto. Como agradecimento, vou te ensinar uma nova habilidade - Passo."
     }
   },
   "tasks": [
