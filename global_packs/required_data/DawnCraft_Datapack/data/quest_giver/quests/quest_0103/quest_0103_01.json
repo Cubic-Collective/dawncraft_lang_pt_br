@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "E aí?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Você conseguiu os $(red)2 Punhados de Cicuta$() que eu pedi?"
+      "text": "Você conseguiu os 2 punhados de$(red)Cicuta$() que eu pedi?"
     }
   },
   "complete": {
