@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "ajuda"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Tem um $(red)Cave Dweller() morando numa caverna aqui perto. Esse bicho é perigoso... Nossos clérigos acreditam que algum dia ele virá para nos matar... Você pode exterminar esta criatura e me trazer $(red)parts of his remain$() como prova de sua morte?"
+      "text": "Tem um $(red)Habitante das Cavernas() morando numa caverna aqui perto. Esse bicho é perigoso... Nossos clérigos acreditam que algum dia ele virá para nos matar... Você pode exterminar esta criatura e me trazer $(red)os restos$() como prova?"
     }
   }
 }
