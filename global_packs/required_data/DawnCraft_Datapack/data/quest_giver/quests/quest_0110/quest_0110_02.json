@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
+      "text": "Você já derrotou o Habitante das Cavernas? Se sim, traga-me o que ele deixou."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "It's strange to imagine a creature with natural armor this tough... Well, I'm glad its dead. Here, I'll teach you a new skill as payment - Step."
+      "text": "É estranho imaginar uma criatura com uma armadura natural tão resistente... Bem, estou feliz que agora ele está morto. Como agradecimento, vou te ensinar uma nova habilidade - Passo."
     }
   },
   "tasks": [
