@@ -4,10 +4,10 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "E então?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Você já pegou a $(red)Anémona de Bulbo de Rosa$()?"
+      "text": "Você já conseguiu a $(red)Anêmona de Bulbo de Rosa$()?"
     }
   },
   "complete": {
