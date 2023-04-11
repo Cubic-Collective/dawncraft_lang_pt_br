@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Craft a Compass!"
+      "text": "Crie uma bússola!"
     },
     "description": {
-      "text": "It isn't that hard of a task is it? Craft a compass."
+      "text": "Essa não é uma tarefa tão difícil, não é mesmo? Crie uma bússola."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Good job. Run along now, did you expect a reward?"
+      "text": "Bom trabalho. Agora vá embora, você esperava uma recompensa?"
     }
   },
   "tasks": [

@@ -3,10 +3,10 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Olá!"
     },
     "description": {
-      "text": "Hello my good sir. How would you like to learn to use the cartography table? It only costs 10 emeralds!"
+      "text": "Olá meu bom senhor. Gostaria de aprender a usar a mesa de cartografia? Isso só custa 10 esmeraldas!"
     }
   }
 }

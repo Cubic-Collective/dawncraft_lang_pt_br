@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E aí?"
     },
     "description": {
-      "text": "10 emeralds and I'll teach you how to use the cartography table."
+      "text": "10 esmeraldas e eu te ensino como usar a mesa de cartografia."
     }
   },
   "complete": {
     "title": {
-      "text": "Here ya go."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
+      "text": "Não se intimide com os equipamentos da mesa, você vai pegar o jeito!"
     }
   },
   "tasks": [

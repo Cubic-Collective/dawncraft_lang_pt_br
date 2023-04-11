@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Olá!"
     },
     "description": {
-      "text": "You look like a good cook. Could you cook something for me? There's a dish called $(red)Hamburger$(), do you know how to prepare that dish?"
+      "text": "Você parece ser um bom cozinheiro. Poderia cozinhar algo para mim? Existe um prato chamado $(red)Hambúrguer$(), você sabe como preparar esse prato?"
     }
   }
 }
