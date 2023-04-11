@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Coração de dragão"
+      "text": "Coração de Dragão"
     },
     "description": {
-      "text": "O mapa para o pódio de invocação custará 5 esmeraldas."
+      "text": "O mapa para o altar de invocação custará 5 esmeraldas."
     }
   },
   "complete": {
