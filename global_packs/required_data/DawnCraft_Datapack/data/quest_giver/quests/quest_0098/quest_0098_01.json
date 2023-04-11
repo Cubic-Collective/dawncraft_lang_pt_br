@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Você já derrotou Bahryn'muul, o Entombado e pegou seu $(red)Olho de Golem$()?"
+      "text": "Você já derrotou o golem e pegou seu $(red)Olho de Golem$()?"
     }
   },
   "complete": {
