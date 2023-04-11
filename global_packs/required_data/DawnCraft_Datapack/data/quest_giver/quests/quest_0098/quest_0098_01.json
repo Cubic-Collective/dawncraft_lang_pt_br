@@ -4,18 +4,18 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you defeat the land golem and obtain his $(red)Golem Eye$() yet?"
+      "text": "Você já derrotou o golem e pegou seu $(red)Olho de Golem$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "By the Heavens! This is one of the most fascinating item I've ever seen. It's more than I've ever imagined. Here, take these redstones as payment. I'm sorry but I don't have emeralds on me at the moment."
+      "text": "Pelos deuses! Esse é um dos itens mais fascinantes que já vi. Nunca imaginei algo assim. Aqui, pegue essas redstones como pagamento. Me desculpe, eu não tenho esmeraldas no momento."
     }
   },
   "tasks": [
