@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "Olá novamente!"
     },
     "description": {
-      "text": "Ah, almost forgot. Can you get me a piece of paper? I'll mark down the location of their hideout."
+      "text": "Ah, quase esqueci. Você pode me conseguir um pedaço de papel? Vou marcar a localização do esconderijo deles."
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Here. Please hurry! We don't know what they're planning to do with the kid."
+      "text": "Aqui está. Por favor, se apresse! Não sabemos o que eles estão planejando fazer com a criança."
     }
   },
   "tasks": [
