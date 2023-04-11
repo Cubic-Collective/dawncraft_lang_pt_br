@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "ajuda"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Beleza! Preciso de $(red)2 Punhados de Cicuta$(). É muito tóxicos para muitos animais, mas não para a besta que estou caçando..."
+      "text": "Beleza! Preciso de $(red)2 Punhados de Cicuta$(). É muito tóxico para a maioria dos animais, mas não para a besta que estou caçando..."
     }
   }
 }
