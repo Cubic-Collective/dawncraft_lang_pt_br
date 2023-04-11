@@ -1,9 +1,9 @@
 {
-  "cull-less-leaves.title": "Cortar menos folhas",
+  "cull-less-leaves.title": "Cortar Menos Folhas",
   "cull-less-leaves.option.enabled": "Ativado",
   "cull-less-leaves.option.depth": "Profundidade",
   "cull-less-leaves.option.depth.tooltip": "A quantidade de camadas de folhas antes que o interior das folhas seja cortado.\n1 = Mais rápido, porém menos bonito.\n2 = Recomendado.\n4 = Mais lento, porém mais bonito.",
-  "cull-less-leaves.sodium.option.enabled": "Cortar folhas",
+  "cull-less-leaves.sodium.option.enabled": "Cortar Folhas",
   "cull-less-leaves.sodium.option.enabled.description": "Habilita o mod 'Cull Less Leaves'.",
-  "cull-less-leaves.sodium.option.depth": "Cortar folhas profundas"
+  "cull-less-leaves.sodium.option.depth": "Cortar Folhas Profundas"
 }
