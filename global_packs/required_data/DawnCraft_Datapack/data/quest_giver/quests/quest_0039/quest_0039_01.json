@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Foreign Outlaws"
+      "text": "Bandidos Forasteiros"
     },
     "description": {
-      "text": "Can you fetched me a piece of paper for me? I'll draw you a map."
+      "text": "Você pode pegar um pedaço de papel para mim? Vou desenhar um mapa para você."
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Here, the group of foreign outlaws built a place where the marker is. Go and take out the leader."
+      "text": " Aqui, o grupo de bandidos forasteiros construiu um lugar onde está o marcador. Vá e derrote o líder."
     }
   },
   "tasks": [
