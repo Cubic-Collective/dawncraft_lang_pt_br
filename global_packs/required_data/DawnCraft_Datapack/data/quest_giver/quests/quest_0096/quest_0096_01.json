@@ -4,10 +4,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "E aí?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Você conseguiu as $(red)10 Pós de Redstone$() que pedi?"
+      "text": "Você conseguiu os $(red)10 Pós de Redstone$() que pedi?"
     }
   },
   "complete": {
