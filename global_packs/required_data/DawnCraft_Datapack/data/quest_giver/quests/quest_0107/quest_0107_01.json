@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Você conseguiu o $(red)Tronco do Crepúsculo$() que eu pedi?"
+      "text": "Você conseguiu o $(red)Tronco de Madeira Crepuscular$() que eu pedi?"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Agradecido. Aqui sua recompensa."
+      "text": "Obrigado. Aqui está sua recompensa."
     }
   },
   "tasks": [
