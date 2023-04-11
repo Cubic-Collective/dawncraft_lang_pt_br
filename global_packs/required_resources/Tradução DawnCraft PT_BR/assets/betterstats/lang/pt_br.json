@@ -4,7 +4,7 @@
 	"betterstats.hud": "HUD de estatísticas (Beta)",
 	"betterstats.hud.entity.kills": "Abates",
 	"betterstats.hud.entity.deaths": "Mortes",
-	"betterstats.hud.hint.add_widget": "Clique com o botão direito do mouse numa estatística ([Shift]+RMB) para a adicionar aqui.",
+	"betterstats.hud.hint.add_widget": "Clique com o botão direito do mouse numa estatística (Shift + Botão Direito) para adicionar aqui.",
 	"betterstats.hud.hint.del_widget": "Pressione BACKSPACE (<-) para remover a entrada selecionada.",
 	"betterstats.hud.hint.esc_close": "Pressione ESC para fechar esta tela.",
 	
