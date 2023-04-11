@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "ajuda"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Os pillagers que montaram uma base perto de nossa aldeia levou uma criança... Nossos guardas não são fortes suficiente para correr e salvar a criança. Se puder ajudar, por favor, traga-me um pedaço de papel. Eu vou te mostrar onde eles estão."
+      "text": "Os saqueadores que montaram uma base perto de nossa aldeia levaram uma criança... Nossos guardas não são fortes o suficiente para salvar a criança. Se puder ajudar, por favor, traga-me um pedaço de papel. Eu vou te mostrar onde eles estão."
     }
   }
 }
