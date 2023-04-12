@@ -4,18 +4,18 @@
   "icon": "supplementaries:slingshot",
   "start": {
     "title": {
-      "text": "Slingshot Crafting"
+      "text": "Criação de Estilingue"
     },
     "description": {
-      "text": "Couldn't make the $(red)Slingshot$() yet huh? Well I get it... A good one is strangely difficult to make."
+      "text": "Não conseguiu criar o $(red)Estilingue$() ainda, né? Não esquenta... Fazer um dos bons é bem difícil."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Yes, this is exactly what I have imagined it to be! Hm... It doesn't seem that impressive. Seems like it uses stones as ammo... Well, here you go, I don't really need it. Thanks for showing it to me!"
+      "text": "Isso, está do jeito que eu esperava! Hm... Não parece ser tão impressionante. Parece que usa pedras como munição... Bom, pega pra você, eu não preciso tanto assim dele. Obrigado por me mostrar como é um estilingue!"
     }
   },
   "tasks": [
