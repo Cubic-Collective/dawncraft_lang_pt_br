@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Flechas com efeito"
+      "text": "Flechas com Efeito"
     },
     "description": {
-      "text": "Já se esqueceu? Eu pedi $(red)12 pó de glowstone$()."
+      "text": "Já se esqueceu? Eu pedi $(red)12 Pós de Glowstone$()."
     }
   },
   "complete": {
