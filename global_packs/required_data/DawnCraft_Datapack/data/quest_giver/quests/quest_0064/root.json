@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Olá!"
     },
     "description": {
-      "text": "Primative villagers used to use something other than bows to hunt... Can you guess what that is?"
+      "text": "Aldeões primitivos costumavam usar algo diferente de arcos para caçar... Você consegue adivinhar o que eles usavam?"
     }
   }
 }
