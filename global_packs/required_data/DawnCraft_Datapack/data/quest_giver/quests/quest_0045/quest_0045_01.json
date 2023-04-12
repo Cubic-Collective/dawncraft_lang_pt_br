@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did yuo get the $(red)5 Blaze Rods$()? No worries, I know how hard it could be."
+      "text": "Você conseguiu as $(red)5 Varas de Blaze$()? Não se preocupe, eu sei como pode ser difícil."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Well done. These materials are hard to come by here in the village. I'll use them sparingly. Thanks."
+      "text": "Muito bem feito. Esses materiais são difíceis de encontrar aqui na vila. Vou usá-los com cuidado. Obrigado."
     }
   },
   "tasks": [
