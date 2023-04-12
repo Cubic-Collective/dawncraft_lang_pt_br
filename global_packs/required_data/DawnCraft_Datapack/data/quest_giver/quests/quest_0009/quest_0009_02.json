@@ -7,7 +7,7 @@
 			"text": "Então?"
 		},
 		"description": {
-			"text": "Você conseguiu obter as $(red)10 folha de Papel$()?"
+			"text": "Você conseguiu obter as $(red)10 folhas de papel$()?"
 		}
 	},
 	"complete": {
