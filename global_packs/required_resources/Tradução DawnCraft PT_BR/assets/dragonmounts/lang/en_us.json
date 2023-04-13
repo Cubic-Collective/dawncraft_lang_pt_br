@@ -1,20 +1,20 @@
 {
-  "entity.dragonmounts.dragon": "Dragon",
+  "entity.dragonmounts.dragon": "Dragão",
 
-  "dragon_breed.dragonmounts.aether": "Aether Dragon",
-  "dragon_breed.dragonmounts.fire": "Fire Dragon",
-  "dragon_breed.dragonmounts.end": "End Dragon",
-  "dragon_breed.dragonmounts.forest": "Forest Dragon",
-  "dragon_breed.dragonmounts.ghost": "Ghost Dragon",
-  "dragon_breed.dragonmounts.ice": "Ice Dragon",
-  "dragon_breed.dragonmounts.nether": "Nether Dragon",
-  "dragon_breed.dragonmounts.water": "Water Dragon",
+  "dragon_breed.dragonmounts.aether": "Dragão do Aether",
+  "dragon_breed.dragonmounts.fire": "Dragão de Fogo",
+  "dragon_breed.dragonmounts.end": "Dragão do Fim",
+  "dragon_breed.dragonmounts.forest": "Dragão da Floresta",
+  "dragon_breed.dragonmounts.ghost": "Dragão Fantasma",
+  "dragon_breed.dragonmounts.ice": "Dragão de Gelo",
+  "dragon_breed.dragonmounts.nether": "Dragão do Nether",
+  "dragon_breed.dragonmounts.water": "Dragão Aquático",
 
-  "item.dragonmounts.spawn_egg": "%s Spawn Egg",
+  "item.dragonmounts.spawn_egg": "Ovo de %s",
 
-  "block.dragonmounts.dragon_egg": "%s Egg",
-  "block.dragonmounts.dragon_egg.remaining_time": "Hatches in %s seconds.",
-  "block.dragonmounts.dragon_egg.change_breeds": "Creative mode: Interacting with a dragon will change it's breed to this egg's breed.",
+  "block.dragonmounts.dragon_egg": "Ovo de %s",
+  "block.dragonmounts.dragon_egg.remaining_time": "Chocará em %s segundos.",
+  "block.dragonmounts.dragon_egg.change_breeds": "Modo criativo: Interagir com um dragão mudará sua raça para a raça deste ovo.",
 
-  "key.dragonmounts.flight_descent": "Flight Descent"
+  "key.dragonmounts.flight_descent": "Descida de Voo"
 }
