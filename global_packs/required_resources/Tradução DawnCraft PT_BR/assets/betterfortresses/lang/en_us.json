@@ -1,10 +1,10 @@
 {
-  "Use /locate betterfortresses:fortress instead!": "Use /locate betterfortresses:fortress instead!",
+  "Use /locate betterfortresses:fortress instead!": "Use /locate betterfortresses:fortress em vez disso!",
   "text.autoconfig.betterfortresses-fabric-1_18_2.title": "YUNG's Better Nether Fortresses",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses": "Disable Vanilla Nether Fortresses",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses.@Tooltip": "Whether vanilla Nether Fortresses should be disabled.",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY": "Minimum Starting Height",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY.@Tooltip": "The minimum y-value at which the Keep can spawn.",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY": "Maximum Starting Height",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY.@Tooltip": "The maximum y-value at which the Keep can spawn."
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses": "Desativar Fortalezas do Nether Originais",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses.@Tooltip": "Se as fortalezas do Nether originais devem ser desativadas ou não.",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY": "Altura Mínima Inicial",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY.@Tooltip": "O valor mínimo de Y em que o Fortaleza pode aparecer.",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY": "Altura Máxima Inicial",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY.@Tooltip": "O valor máximo de Y em que o Fortaleza pode aparecer."
 }
