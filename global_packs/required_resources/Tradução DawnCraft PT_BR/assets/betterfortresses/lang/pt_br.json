@@ -4,7 +4,7 @@
   "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses": "Desativar Fortalezas do Nether Originais",
   "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses.@Tooltip": "Se as fortalezas do Nether originais devem ser desativadas ou não.",
   "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY": "Altura Mínima Inicial",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY.@Tooltip": "O valor mínimo de Y em que o Fortaleza pode aparecer.",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY.@Tooltip": "O valor mínimo de Y em que a Fortaleza pode aparecer.",
   "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY": "Altura Máxima Inicial",
-  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY.@Tooltip": "O valor máximo de Y em que o Fortaleza pode aparecer."
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY.@Tooltip": "O valor máximo de Y em que a Fortaleza pode aparecer."
 }
