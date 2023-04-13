@@ -1,0 +1,12 @@
+{
+  "itemGroup.geckolib_examples": "Exemplos do GeckoLib",
+
+  "item.geckolib3.geckoarmor_head": "Capacete da Armadura de Gecko",
+  "item.geckolib3.geckoarmor_chest": "Peitoral da Armadura de Gecko",
+  "item.geckolib3.geckoarmor_leggings": "Calça da Armadura de Gecko",
+  "item.geckolib3.geckoarmor_boots": "Botas da Armadura de Gecko",
+  "item.geckolib3.jackintheboxitem": "Caixa Surpresa",
+  "item.geckolib3.pistol": "Pistola",
+  "block.geckolib3.habitatblock": "Habitat de Gecko",
+  "block.geckolib3.fertilizerblock": "Fertilizante"
+}
