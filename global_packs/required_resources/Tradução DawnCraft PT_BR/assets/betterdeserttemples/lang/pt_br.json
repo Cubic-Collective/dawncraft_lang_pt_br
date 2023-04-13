@@ -1,8 +1,8 @@
 {
   "text.autoconfig.betterdeserttemples-fabric-1_18.title": "YUNG's Better Desert Temples",
-  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMinY": "Valor Mínimo de Partida Y para Templo do Deserto",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMinY": "Valor Mínimo de Y para o Templo do Deserto",
   "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMinY.@Tooltip": "O valor mínimo de Y em que o templo do deserto pode aparecer",
-  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMaxY": "Valor Máximo de Partida Y para Templo do Deserto",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMaxY": "Valor Máximo de Y para o Templo do Deserto",
   "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMaxY.@Tooltip": "O valor máximo de Y em que o templo do deserto pode aparecer",
   "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.disableVanillaPyramids": "Desativar Pirâmides Originais",
   "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.disableVanillaPyramids.@Tooltip": "Se as pirâmides originais do deserto devem ser desativadas ou não",
