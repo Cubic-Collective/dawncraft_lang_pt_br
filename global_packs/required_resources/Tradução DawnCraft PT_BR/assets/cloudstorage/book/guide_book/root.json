@@ -1,34 +1,34 @@
 {
   "parent": "",
   "text": "root.txt",
-  "title": "Cloud Storage",
+  "title": "Armazenamento em nuvem",
   "entity_buttons": [
   ],
   "linked_page_buttons": [
     {
       "linked_page": "mobs_and_materials.json",
-      "text": "Of Mobs and Materials",
+      "text": "De Mobs e Materiais",
       "x": 290,
       "y": 94,
       "page": 0
     },
     {
       "linked_page": "storage_clouds.json",
-      "text": "The Storage in our Clouds",
+      "text": "O armazenamento em nossas nuvens",
       "x": 290,
       "y": 116,
       "page": 0
     },
     {
       "linked_page": "balloon_salesman.json",
-      "text": "Death of a Salesman",
+      "text": "Morte de um vendedor",
       "x": 290,
       "y": 138,
       "page": 0
     },
     {
       "linked_page": "balloon_buddy.json",
-      "text": "All You Need is Friends",
+      "text": "Tudo o que você precisa são amigos",
       "x": 290,
       "y": 160,
       "page": 0

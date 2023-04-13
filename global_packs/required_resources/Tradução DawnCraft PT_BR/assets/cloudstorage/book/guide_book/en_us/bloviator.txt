@@ -3,17 +3,16 @@
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
-Bloviators are hostile cloud spirits that can be encountered at or above cloud height.
+Bloviadors são espíritos hostis de nuvens que podem ser encontrados na altura das nuvens ou acima delas.
 <NEWLINE>
-When attacking, bloviators will usually attempt to spew gusts of wind at their targets, in an attempt to push them to their demise.
-For this reason, it is best to use ranged weaponry against bloviators, as getting close could be tricky.
+Ao atacar, os bloviadors geralmente tentam expelir rajadas de vento em seus alvos, na tentativa de empurrá-los para a morte.
+Por esse motivo, é melhor usar armas de longo alcance contra os Bloviadors, já que se aproximar pode ser complicado.
 <NEWLINE>
-If a large bloviator is slain, it can split into multiple smaller bloviators to continue the fight. If the smallest of these is slain, they can drop a single Cloud Block.
+Se um bloviador grande for morto, ele pode se dividir em vários bloviadors menores para continuar a luta. Se o menor deles for morto, ele pode soltar um único bloco de nuvem.
 <NEWLINE>
-Bloviators are also hostile towards sheep. Rumor has it that they are jealous of their puffy wool. Tiny bloviators can also be captured in a bottle, which can be used in a pinch for a jump boost.
+Bloviadors também são hostis em relação às ovelhas. Dizem que eles têm inveja de sua lã fofa. Pequenos bloviadors também podem ser capturados em uma garrafa, que pode ser usada em momentos de aperto para obter um impulso de salto.
 <NEWLINE>
-If caught up in a rain or thunder storm, bloviators will transform into a darker variant that no longer meekly blows air at its targets. These storm bloviators instead fire lightning at their foes,
-and fighting against entire groups of them can be very difficult. Their smallest drop a Static Cloud Block instead.
+Se pegos em uma tempestade de chuva ou trovão, os bloviadors se transformarão em uma variante mais escura que não sopra ar gentilmente em seus alvos. Esses bloviadors de tempestade, em vez disso, disparam raios em seus inimigos, e lutar contra grupos inteiros deles pode ser muito difícil. O menor deles dropa um bloco de nuvem estática em vez disso.
 <NEWLINE>
-Cloud Blocks have several unique properties. They can be walked through and entities will sink in them, although they will not fall through. Cloud Blocks also lighten falls and can give a jump boost.
-The static properties of a Static Cloud Block can be transferred to a Balloon and back by using a Balloon on the block.
+Os blocos de nuvem têm várias propriedades únicas. Eles podem ser atravessados e as entidades afundarão neles, embora não caiam através deles. Os blocos de nuvem também aliviam as quedas e podem dar um impulso de salto.
+A propriedade estática de um Bloco de Nuvem Estática pode ser transferida para um Balão e de volta usando um Balão no bloco.
