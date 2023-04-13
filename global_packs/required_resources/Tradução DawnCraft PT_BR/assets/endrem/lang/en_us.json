@@ -1,30 +1,30 @@
 {
   "item.endrem.old_eye": "Olho Antigo",
-  "item.endrem.old_eye.description": "§7§oDizem as lendas que este olho já pertenceu a um dos grandes Vermes do Deserto",
+  "item.endrem.old_eye.description": "§7§oDizem as lendas que este olho já pertenceu a um dos grandes Minhocas do Deserto",
 
   "item.endrem.rogue_eye": "Olho Errante",
   "item.endrem.rogue_eye.description": "§7§oAcredita-se que este olho tenha dado aos nossos antepassados o conhecimento da Redstone",
 
   "item.endrem.nether_eye": "Olho do Nether",
-  "item.endrem.nether_eye.description": "§7§oIsso foi deixado por um demónio na batalha entre o Aether e o Nether",
+  "item.endrem.nether_eye.description": "§7§oIsso foi deixado por um demônio na batalha entre o Aether e o Nether",
 
-  "item.endrem.cold_eye": "Olho Frio",
-  "item.endrem.cold_eye.description": "§7§oUm dos últimos artefatos deixados pelos Geleólogos antes de todos desaparecerem subitamente do mundo",
+  "item.endrem.cold_eye": "Olho do Frio",
+  "item.endrem.cold_eye.description": "§7§oUm dos últimos artefatos deixados pelos Glaciólogos antes de todos desaparecerem subitamente do mundo",
 
   "item.endrem.magical_eye": "Olho Mágico",
-  "item.endrem.magical_eye.description": "§7§oSem este olho, o Evocador não tem poder",
+  "item.endrem.magical_eye.description": "§7§oSem este olho, o Invocador não tem poder",
 
   "item.endrem.black_eye": "Olho Negro",
-  "item.endrem.black_eye.description": "§7§oOs piratas dizem que deu vista à lendária Pérola Negra",
+  "item.endrem.black_eye.description": "§7§oOs piratas dizem que mostrou o caminho à lendária Pérola Negra",
 
   "item.endrem.lost_eye": "Olho Perdido",
-  "item.endrem.lost_eye.description": "§7§oÉ dito que foi forjado pelos primeiros ferreiros do tempo",
+  "item.endrem.lost_eye.description": "§7§oÉ dito que foi forjado pelos primeiros ferreiros da história",
 
   "item.endrem.wither_eye": "Olho do Wither",
   "item.endrem.wither_eye.description": "§7§oFoi testemunha da destruição. Talvez também tenha testemunhado o desaparecimento das suas coisas",
 
   "item.endrem.guardian_eye": "Olho do Guardião",
-  "item.endrem.guardian_eye.description": "§7§oTem visto muitos guerreiros a afogarem-se nas profundezas do mar",
+  "item.endrem.guardian_eye.description": "§7§oTem visto muitos guerreiros afogarem-se nas profundezas do mar",
 
   "item.endrem.cursed_eye": "Olho Amaldiçoado",
   "item.endrem.cursed_eye.description": "§7§oUm artefacto poderoso, porém destrutivo; os Piglins juraram protegê-lo à custa das suas vidas",
@@ -33,9 +33,9 @@
   "item.endrem.exotic_eye.description": "§7§oAqueles que seguiram este olho nunca mais foram vistos; rumores dizem que encontraram a grande cidade de Atlântida, ou perderam o seu caminho tentando",
 
   "item.endrem.evil_eye": "Olho Malígno",
-  "item.endrem.evil_eye.description": "§7§oUm talismã sagrado disse para proteger o seu dono da má sorte",
+  "item.endrem.evil_eye.description": "§7§oUm talismã sagrado que se diz proteger o seu dono do azar",
 
-  "item.endrem.undead_eye": "Olho Morto-vivo",
+  "item.endrem.undead_eye": "Olho Morto-Vivo",
   "item.endrem.undead_eye.description": "§7§oRecordação das vidas passadas daqueles que vivem na morte",
 
   "item.endrem.cryptic_eye": "Olho Críptico",
@@ -44,17 +44,17 @@
   "item.endrem.corrupted_eye": "Olho Corrompido",
   "item.endrem.corrupted_eye.description": "§7§oOlho de um rei ganancioso que se desvaneceu na solidão; a lenda diz que trará uma fortuna infinita ao seu dono",
 
-  "item.endrem.witch_eye": "Olho de Bruxa",
-  "item.endrem.witch_eye.description": "§7§oAcredita-se que esta pupila tenha visto as receitas de fabricação de cervejas antigas que foram perdidas no tempo.",
+  "item.endrem.witch_eye": "Olho da Bruxa",
+  "item.endrem.witch_eye.description": "§7§oAcredita-se que esta pupila tenha visto as receitas de fabricação de poções antigas que foram perdidas no tempo.",
   "item.endrem.witch_pupil": "Pupila de Bruxa",
 
-  "item.endrem.undead_soul": "Alma do Morto-vivo",
+  "item.endrem.undead_soul": "Alma do Morto-Vivo",
 
   "block.endrem.ancient_portal_frame": "Moldura de Portal Antiga",
 
-  "block.endrem.ender_eye.warning": "This eye doesn't want to be used",
-  "block.endrem.custom_eye.place": "This eye is already placed",
-  "block.endrem.custom_eye.frame_has_eye": "This frame already has an eye",
+  "block.endrem.ender_eye.warning": "Este olho não quer ser usado",
+  "block.endrem.custom_eye.place": "Este olho já está colocado",
+  "block.endrem.custom_eye.frame_has_eye": "Esta moldura já tem um olho",
 
 
   "itemGroup.endremTab": "End Remastered",
