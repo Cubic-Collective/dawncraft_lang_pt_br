@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "side": "dawncraft:block/moss_slate",
-    "bottom": "dawncraft:block/moss_slate",
-    "top": "dawncraft:block/moss_slate"
-  }
-}

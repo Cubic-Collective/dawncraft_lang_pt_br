@@ -1,6 +1,0 @@
-{
-  "parent": "dawncraft:item/key",
-  "textures": {
-    "layer0": "dawncraft:item/yellow_key"
-  }
-}

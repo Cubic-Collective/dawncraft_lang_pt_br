@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "side": "dawncraft:block/fire_brick",
-    "bottom": "dawncraft:block/fire_brick",
-    "top": "dawncraft:block/fire_brick"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "side": "dawncraft:block/moss_brick",
-    "bottom": "dawncraft:block/moss_brick",
-    "top": "dawncraft:block/moss_brick"
-  }
-}

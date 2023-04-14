@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "side": "dawncraft:block/coral",
-    "bottom": "dawncraft:block/coral",
-    "top": "dawncraft:block/coral"
-  }
-}

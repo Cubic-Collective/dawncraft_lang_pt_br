@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "side": "dawncraft:block/rock",
-    "bottom": "dawncraft:block/rock",
-    "top": "dawncraft:block/rock"
-  }
-}
