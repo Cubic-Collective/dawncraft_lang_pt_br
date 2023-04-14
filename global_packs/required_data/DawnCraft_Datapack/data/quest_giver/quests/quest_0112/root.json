@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Ei aventureiro. Você se importaria de me ouvir?"
+      "text": "Hey Adventurer. Would you mind hearing me out?"
     }
   }
 }

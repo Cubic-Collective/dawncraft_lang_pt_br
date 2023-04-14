@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "dawncraft:block/coral_slab_top"
+    },
+    "type=bottom": {
+      "model": "dawncraft:block/coral_slab"
+    },
+    "type=double": {
+      "model": "dawncraft:block/coral"
+    }
+  }
+}

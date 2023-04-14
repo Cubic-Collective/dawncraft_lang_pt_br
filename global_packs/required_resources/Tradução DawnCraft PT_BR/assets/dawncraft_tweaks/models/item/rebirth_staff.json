@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "dawncraft:item/rebirth_staff"
+	},
+	"overrides": [{
+		"predicate": {
+			"dawncraft:inert": 1
+		},
+		"model": "dawncraft:item/rebirth_staff_inert"
+	}]
+}

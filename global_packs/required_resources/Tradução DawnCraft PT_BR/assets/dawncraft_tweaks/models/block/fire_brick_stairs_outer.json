@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "side": "dawncraft:block/fire_brick",
+    "bottom": "dawncraft:block/fire_brick",
+    "top": "dawncraft:block/fire_brick"
+  }
+}

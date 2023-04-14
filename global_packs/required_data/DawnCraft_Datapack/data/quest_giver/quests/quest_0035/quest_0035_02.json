@@ -7,15 +7,15 @@
       "text": "Incendium"
     },
     "description": {
-      "text": "Lembre-se das Terras Arrasadas de Cinzas no Nether. Volte para mim depois de visitá-las."
+      "text": "Remember, the Ash Barrens in the Nether. Come back to me after you visit there."
     }
   },
   "complete": {
     "title": {
-      "text": "Pronto"
+      "text": "Finished"
     },
     "description": {
-      "text": "Isso é fascinante... Obrigado por me contar sobre esse lugar. Aqui está sua recompensa. Bem, agora vá embora... Tenho uma decisão importante a tomar."
+      "text": "That is fascinating... Thank you for telling me about that place. Here's your reward. Well, off you go now... I've got an important decision to make."
     }
   },
   "tasks": [

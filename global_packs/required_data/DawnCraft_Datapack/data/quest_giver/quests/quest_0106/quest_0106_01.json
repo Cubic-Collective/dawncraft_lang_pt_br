@@ -4,18 +4,18 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Eu preciso de um $(red)Machado de Ferro$() para trabalhar!"
+      "text": "I need an $(red)Iron Axe$() to work!"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Obrigado. Aqui, 4 esmeraldas são o suficiente?"
+      "text": "Thanks. Here, is 4 emeralds enough?"
     }
   },
   "tasks": [

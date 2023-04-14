@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Olá de novo!"
+      "text": "Hello again!"
     },
     "description": {
-      "text": "E aí? Conseguiu matar o $(red)lobisomem?$()?"
+      "text": "Did you do it? Did you kill the $(red)half wolf?$()"
     }
   },
   "complete": {
     "title": {
-      "text": "Aqui."
+      "text": "Here."
     },
     "description": {
-      "text": "Obrigado. Você tem minha confiança. Fico feliz em saber que daqui para frente ninguém mais será vítima desses monstros horríveis."
+      "text": "Thanks. I'll take your word for it. I'm glad to know that no one else will fall victim to these horrible monsters from now on."
     }
   },
   "tasks": [

@@ -3,10 +3,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Está com Tempo?"
+      "text": "Got time?"
     },
     "description": {
-      "text": "Ei, você pode me ajudar com algo? Será rápido."
+      "text": "Hey, can you help me out with something? It'll be quick."
     }
   }
 }

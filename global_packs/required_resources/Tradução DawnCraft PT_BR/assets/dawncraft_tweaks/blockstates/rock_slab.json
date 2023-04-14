@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "dawncraft:block/rock_slab_top"
+    },
+    "type=bottom": {
+      "model": "dawncraft:block/rock_slab"
+    },
+    "type=double": {
+      "model": "dawncraft:block/rock"
+    }
+  }
+}

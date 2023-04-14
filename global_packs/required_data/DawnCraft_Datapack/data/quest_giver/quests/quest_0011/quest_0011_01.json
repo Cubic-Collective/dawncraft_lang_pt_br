@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Me dê 10 esmeraldas e eu te ensinarei a usar o tear!"
+      "text": "Give me 10 emeralds and I'll teach you how to use the loom!"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Aqui está!"
+      "text": "There you go!"
     }
   },
   "tasks": [

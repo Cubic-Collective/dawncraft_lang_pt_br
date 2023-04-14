@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "dawncraft:block/sand_slate_slab_top"
+    },
+    "type=bottom": {
+      "model": "dawncraft:block/sand_slate_slab"
+    },
+    "type=double": {
+      "model": "dawncraft:block/sand_slate"
+    }
+  }
+}

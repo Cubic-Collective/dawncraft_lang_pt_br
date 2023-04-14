@@ -3,10 +3,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Poderia me dar $(red)10 Pós de Redstone$()? Irei recompensá-lo por isso."
+      "text": "Can you give me $(red)10 Redstone Dust$()? I'll pay for it of course."
     }
   }
 }

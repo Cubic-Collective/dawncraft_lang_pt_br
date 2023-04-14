@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "E aí?"
+      "text": "So?"
     },
     "description": {
-      "text": "E aí, conseguiu a escama?"
+      "text": "So, got the scute?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Ah, bem, o que temos aqui. Espero que essa tarefa não tenha lhe deixado nenhuma cicatriz, haha! Aqui está sua recompensa, ouvi dizer que o seu tipo gosta de diamantes."
+      "text": "Oh well what have we here. Hope that task didn't give you any scar, haha! Here's your reward, I heard your kind likes diamonds."
     }
   },
   "tasks": [

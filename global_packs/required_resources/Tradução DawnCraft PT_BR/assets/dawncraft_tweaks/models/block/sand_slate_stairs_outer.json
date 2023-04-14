@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "side": "dawncraft:block/sand_slate",
+    "bottom": "dawncraft:block/sand_slate",
+    "top": "dawncraft:block/sand_slate"
+  }
+}

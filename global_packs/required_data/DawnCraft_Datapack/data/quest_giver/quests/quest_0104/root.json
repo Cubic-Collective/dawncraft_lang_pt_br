@@ -3,10 +3,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "E aí como vai, poderia conseguir $(red)16 flechas$() com o flecheiro local? Irei te pagar por isso."
+      "text": "Hey there, can you get $(red)16 arrows$() from the local fletcher? I'll pay you back for it."
     }
   }
 }

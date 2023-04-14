@@ -4,18 +4,18 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "E então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Você conseguiu o $(red)Tronco de Brilho-Gélido$() que te pedi?"
+      "text": "Did you get a piece of $(red)Frostbright Log$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Obrigado. Aqui está sua recompensa."
+      "text": "Thanks. Here's your reward."
     }
   },
   "tasks": [

@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Uma Oferta"
+      "text": "An Offer"
     },
     "description": {
-      "text": "Olá aventureiro! Tenho uma oferta para você."
+      "text": "Hey fellow adventurer! I got an offer for you."
     }
   }
 }

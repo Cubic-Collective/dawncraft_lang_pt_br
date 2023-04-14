@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "E aí?"
+      "text": "So?"
     },
     "description": {
-      "text": "10 esmeraldas e eu te ensino como usar a bancada de cartografia."
+      "text": "10 emeralds and I'll teach you how to use the cartography table."
     }
   },
   "complete": {
     "title": {
-      "text": "Aqui está."
+      "text": "Here ya go."
     },
     "description": {
-      "text": "Não se intimide com os equipamentos da bancada, você vai pegar o jeito!"
+      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
     }
   },
   "tasks": [

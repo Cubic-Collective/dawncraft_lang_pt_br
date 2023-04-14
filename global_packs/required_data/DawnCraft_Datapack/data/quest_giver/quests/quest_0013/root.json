@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Você quer que eu te ensine como usar o rebolo? Vai custar 10 esmeraldas."
+      "text": "Do you want me to teach you how to use the grindstone? It'll cost 10 emeralds."
     }
   }
 }

@@ -3,10 +3,10 @@
 	"icon": "minecraft:beef",
 	"start": {
 		"title": {
-			"text": "Olá"
+			"text": "Hey there"
 		},
 		"description": {
-			"text": "Olá, gentil cavalheiro. Minha esposa tem me pedido para cozinhar um prato chamado \"$(yellow)abóbora recheada$()\" e estou muito envergonhado para admitir que não sei como o fazer... Podes cozinhar um para mim?"
+			"text": "Hello kind sir. My spouse has been asking me to cook a dish called \"$(yellow)stuffed pumpkin$()\" and I'm too embarrassed to admit that I don't know how to make it... Can you cook one for me?"
 		}
 	}
 }

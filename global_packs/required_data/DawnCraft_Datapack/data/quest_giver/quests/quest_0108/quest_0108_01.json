@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "Então?"
+			"text": "So?"
 		},
 		"description": {
-			"text": "Eu posso te ensinar a habilidade - Guarda Energizante por 15 esmeraldas."
+			"text": "I can teach you the skill - Energizing Guard for 15 emeralds."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Obrigado!"
+			"text": "Thanks!"
 		},
 		"description": {
-			"text": "Aqui está."
+			"text": "Here you go."
 		}
 	},
 	"tasks": [{

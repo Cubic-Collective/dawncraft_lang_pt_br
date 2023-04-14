@@ -4,8 +4,8 @@
 	"icon": "minecraft:iron_pickaxe",
 	"start": {
 		"title": {
-			"text": "Coração de Dragão"
+			"text": "Dragon Heart"
 		},
-		"description": "Eu me deparei com um minerador bem estranho um tempo atrás. Ele me ofereceu 2 orbes espirituais por um mapa para o monumento oceânico... Dei a ele o mapa e obtive esses orbes inúteis, agora estou tentando me livrar deles. Caro aventureiro, você poderia me dar o coração de um $(red)Dragão de Gelo$()? É muito importante para a minha pesquisa. Fique a vontade para pensar sobre isso."
+		"description": "I came across a rather strange miner a while back. He offered me 2 spirit orbs for a map to the ocean monument... I gave him the map and obtained these useless orbs, now I'm looking to get rid of them. Brave adventurer, could you get me the heart of an $(red)Ice Dragon$()? It's invaluable for my research... I'll give you some time to think about it."
 	}
 }

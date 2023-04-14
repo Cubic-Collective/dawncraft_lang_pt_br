@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "O Cavaleiro Sentinela protegeu o Olho Guardião por séculos. Nenhum dos aventureiros que conheço jamais o superou... Ouvi dizer que ele está segurando a chave que libera o olho de seu estado adormecido."
+      "text": "The Sentinel Knight protected the Guardian Eye for centuries. None of the adventurers I know ever got past him... I heard that he's holding the key that frees the eye from its dormant state."
     }
   },
   "complete": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "Incrível. Nem mesmo o Cavaleiro Sentinela é páreo para você... Bem, você está se aproximando do final de sua jornada. Como você se sente?... De qualquer forma, você precisará invocar o próximo portador do olho. Aqui, pegue esse nó de cabelo e o mapa para o altar de invocação."
+      "text": "Amazing. Even the Sentinel Knight is no match for you... Well, you're approaching the end of your journey. How do you feel? ... Anyway, you'll need to summon the next eye holder. Here, take this knot of hair and the map to its summoning altar."
     }
   },
   "tasks": [

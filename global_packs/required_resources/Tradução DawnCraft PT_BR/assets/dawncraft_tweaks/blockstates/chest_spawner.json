@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dawncraft:block/chest_spawner"
+    },
+	"facing=east": {
+      "model": "dawncraft:block/chest_spawner",
+	  "y": 90
+    },
+	"facing=south": {
+      "model": "dawncraft:block/chest_spawner",
+	  "y": 180
+    },
+	"facing=west": {
+      "model": "dawncraft:block/chest_spawner",
+	  "y": 270
+    }
+  }
+}

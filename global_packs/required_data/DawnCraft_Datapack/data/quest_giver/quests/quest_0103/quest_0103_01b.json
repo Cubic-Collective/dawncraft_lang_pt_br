@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Ajuda"
+      "text": "help"
     },
     "description": {
-      "text": "Beleza! Preciso de $(red)2 Punhados de Cicuta$(). É muito tóxico para a maioria dos animais, mas não para a besta que estou caçando..."
+      "text": "Great! I need $(red)2 Patches of Hemlock$(). It's too toxic for most animals, but not for the vile beast that I'm hunting..."
     }
   }
 }

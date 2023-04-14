@@ -3,10 +3,10 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Poderia me dar $(red)1 Anêmona de Bulbo de Rosa$() se ver por ai?"
+      "text": "Can you give me $(red)1 Rose Bulb Anemone$() if you come across any?"
     }
   }
 }

@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "O Ogro é de um nível diferente em comparação com o rei dos goblins. Prossiga com cautela."
+      "text": "The Ogre is on a different level compared to the goblin king. Proceed with caution."
     }
   },
   "complete": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "Muito bem. Talvez você seja capaz de enfrentar o $(red)Cavaleiro Rober$() agora. Ele está muito mais fraco do que era, mas eu suponho que ele ainda é muito perigoso, pois ele ainda é capaz de controlar o poder do olho que está portando. Aqui está o mapa de seu paradeiro atual."
+      "text": "Well done. Perhaps you'll be able to face $(red)Knight Rober$() now. He is much weaker than who he once was, but I'd assume that he's still very dangerous, as he is still able to contain the power of the eye he's holding. Here's the map to his current whereabouts."
     }
   },
   "tasks": [

@@ -4,8 +4,8 @@
 	"icon": "minecraft:iron_pickaxe",
 	"start": {
 		"title": {
-			"text": "Coração de Dragão"
+			"text": "Dragon Heart"
 		},
-		"description": "Acontece que tenho algo que pode te interessar, Orbes espirituais. Eles são inúteis para mim. Mas acho que aventureiros como você fariam de tudo para pôr as mãos nisso... certo? Então vamos fazer o seguinte: você me da um $(red)Coração de Dragão de Fogo$() e eu vou te dar todos os orbes que eu tenho. O que você acha?"
+		"description": "I happen to have something you might be interested in - Spirit Orbs. They're practically useless to me. But I fancy that adventurers like you would die to get your hands on that... right? I'll make ya a deal. Get me a $(red)Fire Dragon Heart$(). And I'll give you all the orbs I've got. Fair enough?"
 	}
 }

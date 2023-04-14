@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Missão de Extermínio"
+      "text": "Extermination Task"
     },
     "description": {
-      "text": "Você já se deparou com criaturas que são meio águia, meio cavalo? Elas são chamadas de Grifos. Essas feras estão pilhando meu apiário e aterrorizando minha família. Você pode me ajudar a exterminar o grifo mais próximo que encontrar dessa vila e me trazer sua pena? Não se preocupe, pagarei generosamente... Sei quanto risco você está correndo para enfrentar tal criatura."
+      "text": "Have you ever come across creatures that are half-eagle, half-horse? They are called Griffins. These beasts have been pillaging my bee farms and terrifying my family. Can you help me exterminate the closest Griffin you can find around this village and bring me its feather? Don't worry, I'll pay you handsomely... I know how much risk you're taking to take on such a creature."
     }
   }
 }

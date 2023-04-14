@@ -3,10 +3,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Olá, rapaz."
+      "text": "Hey boy."
     },
     "description": {
-      "text": "Ei aventureiro. Pode me ouvir?"
+      "text": "Hey adventurer. Lend an ear?"
     }
   }
 }

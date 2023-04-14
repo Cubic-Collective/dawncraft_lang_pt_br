@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_ingot",
   "start": {
     "title": {
-      "text": "Me traga uma coisa!"
+      "text": "Fetch Me Something!"
     },
     "description": {
-      "text": "Olá! Você já conseguiu $(red)4 barras de ferro$() para mim?"
+      "text": "Hey there! Have you got $(red)4 iron ingots$() for me yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thank you!"
     },
     "description": {
-      "text": "Obrigado! Agora finalmente serei capaz de fazer a armadura para aquele guarda... Ele não se calava sobre isso! Eu não tenho nada para você neste momento, mas juro que um dia vou te pagar de volta!"
+      "text": "Thank you! Now I'll finally be able to make the armor for that guard... He wouldn't shut up about it! I don't have anything for you right now, but I swear I'll pay you back someday!"
     }
   },
   "tasks": [

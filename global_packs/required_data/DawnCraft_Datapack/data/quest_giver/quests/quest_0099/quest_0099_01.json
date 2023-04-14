@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Você já conseguiu a $(red)Anêmona de Bulbo de Rosa$()?"
+      "text": "Did you get the $(red)Anemone Rose Bulb$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Muito obrigado."
+      "text": "Thanks a lot."
     }
   },
   "tasks": [

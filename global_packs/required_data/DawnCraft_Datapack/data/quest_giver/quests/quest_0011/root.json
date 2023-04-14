@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Você quer aprender a usar o tear? Posso te ensinar por 10 esmeraldas."
+      "text": "Do you want to learn how to use the loom? I can teach you for 10 emeralds."
     }
   }
 }

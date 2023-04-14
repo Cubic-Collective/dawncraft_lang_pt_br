@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Você já conseguiu a $(red)Erva Daninha das Almas$()?"
+      "text": "Did you get the $(red)Soul Weed$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Muito obrigado."
+      "text": "Thanks a lot."
     }
   },
   "tasks": [

@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Uma Tarefa Impossível!"
+      "text": "An Impossible Task!"
     },
     "description": {
-      "text": "Volte quando você tiver domado um elefante... na verdade, se conseguir."
+      "text": "Come back when you've tamed an elephant... Actually, if."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Hã. Você realmente conseguiu. Bem, ouvi dizer que essas criaturas gigantes adoram flores de acácia. Aqui, não me pergunte por que eu tenho elas."
+      "text": "Huh. You actually did it. Well, I heard these giant creatures love acacia blossoms. Here, don't ask why I've got them."
     }
   },
   "tasks": [

@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Ajuda"
+      "text": "help"
     },
     "description": {
-      "text": "Ouvi coisas boas sobre você. Preciso que você me consiga alguns produtos exóticos, especificamente:: $(red)pele de leão$(). Preciso de 4 desses. Volte quando tiver a mercadoria."
+      "text": "I've heard good things about your work. I need you to collect some exotic goods, specifically: $(red)lion hide$(). I need 4 of those. Come back when you've got the goods."
     }
   }
 }

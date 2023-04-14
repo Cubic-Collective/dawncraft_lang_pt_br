@@ -3,10 +3,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Ei garoto, você poderia me conseguir da um $(red)Tronco de Brilho-Gélido$()? Ele pode ser encontrado na dimensão Everbright."
+      "text": "Hey boy, can you get me a piece of $(red)Frostbright Log$()? It can be found in the Everbright dimension."
     }
   }
 }

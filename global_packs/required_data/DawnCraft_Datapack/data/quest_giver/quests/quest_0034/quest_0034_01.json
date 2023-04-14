@@ -4,18 +4,18 @@
   "icon": "minecraft:pumpkin",
   "start": {
     "title": {
-      "text": "Abóbora Recheada"
+      "text": "Stuffed Pumpkin"
     },
     "description": {
-      "text": "Já cozinhou uma $(yellow)abóbora recheada$()? Não se preocupe, eu compreendo que leva tempo!"
+      "text": "Have you cooked the $(yellow)stuffed pumpkin$() yet? Don't worry I understand that it takes time!"
     }
   },
   "complete": {
     "title": {
-      "text": "Está Pronto"
+      "text": "Finished"
     },
     "description": {
-      "text": "Que cheiro maravilhoso! Muito obrigado, vai alimentar minha família por dias."
+      "text": "That smells marvelous! Thank you so much, it will feed my family for days."
     }
   },
   "tasks": [

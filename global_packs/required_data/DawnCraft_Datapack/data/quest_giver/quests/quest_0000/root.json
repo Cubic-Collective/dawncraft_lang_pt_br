@@ -3,10 +3,10 @@
   "icon": "minecraft:diamond",
   "start": {
     "title": {
-      "text": "Deixa para lá."
+      "text": "Nevermind."
     },
     "description": {
-      "text": "O aldeão decidiu, no último segundo, não falar com você."
+      "text": "The Villager decided on the last second not to talk to you."
     }
   }
 }

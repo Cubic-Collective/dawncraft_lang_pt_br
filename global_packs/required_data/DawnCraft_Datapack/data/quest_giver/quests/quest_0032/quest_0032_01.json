@@ -4,18 +4,18 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Uma Ajudinha"
+      "text": "A Little Help"
     },
     "description": {
-      "text": "Ei, você conseguiu a faca? Lembre-se, ela precisa ser feita com ferro."
+      "text": "Hey, u got the knife? Remember, it needs to be made with iron."
     }
   },
   "complete": {
     "title": {
-      "text": "Terminei"
+      "text": "Done"
     },
     "description": {
-      "text": "Muito bem feito! É uma bela faca, obrigado."
+      "text": "Nicely done! A fine knife it is, thanks."
     }
   },
   "tasks": [

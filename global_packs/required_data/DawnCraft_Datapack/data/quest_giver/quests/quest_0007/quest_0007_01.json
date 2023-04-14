@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "10 esmeraldas para aprender a usar a bancada de arco e flecha, muito barato, né?"
+      "text": "10 Emeralds for learning how to use the fletching table, pretty cheap right?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Aqui está. Divirta-se fazendo flechas!"
+      "text": "Here you go. Have fun making arrows!"
     }
   },
   "tasks": [

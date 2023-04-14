@@ -4,18 +4,18 @@
   "icon": "minecraft:rabbit_foot",
   "start": {
     "title": {
-      "text": "Um Favor"
+      "text": "A Favor"
     },
     "description": {
-      "text": "Bom, você tem o pé de coelho?"
+      "text": "Well, do you have the rabbit foot?"
     }
   },
   "complete": {
     "title": {
-      "text": "Muito bem!"
+      "text": "Well great!"
     },
     "description": {
-      "text": "Muito bem! Eu não tenho muito para te pagar por isso... Por favor, aceite esta carne de carneiro assado!"
+      "text": "Well great! I don't have much to pay for it... Please accept this cooked mutton, freshly cooked!"
     }
   },
   "tasks": [

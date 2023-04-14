@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Uma Oferta"
+      "text": "An Offer"
     },
     "description": {
-      "text": "25 esmeraldas e eu te ensino a empunhar duas espadas largas."
+      "text": "25 Emeralds, and I'll teach you how to dual wield greatswords."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Foi bom fazer negócios com você. Tenha cuidado para não acabar com as suas costas!"
+      "text": "Nice doing business with you. Be careful not to break your back though."
     }
   },
   "tasks": [
@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:'epicfight:dualgreatsword'}",
+      "command": "/give @p epicfight:skillbook{skill:"epicfight:dualgreatsword"}",
       "id": "quest_giver:command"
     }
   ]

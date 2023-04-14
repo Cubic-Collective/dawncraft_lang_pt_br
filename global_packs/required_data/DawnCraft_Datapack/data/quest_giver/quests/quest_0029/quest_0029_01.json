@@ -4,18 +4,18 @@
   "icon": "minecraft:mushroom_stew",
   "start": {
     "title": {
-      "text": "Ensopado de Cogumelos!"
+      "text": "Mushroom Stew!"
     },
     "description": {
-      "text": "Você já fez o $(red)ensopado de cogumelos$()?"
+      "text": "Did you make the $(red)Mushroom Stew$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "É mesmo..."
+      "text": "Is that so..."
     },
     "description": {
-      "text": "Humm! Obrigado estranho!"
+      "text": "Yum! Thanks stranger!"
     }
   },
   "tasks": [

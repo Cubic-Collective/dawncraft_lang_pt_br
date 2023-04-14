@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Missão de Extermínio"
+      "text": "Extermination Task"
     },
     "description": {
-      "text": "Mate o Grifo, eu te pagarei muito bem... Mas tome cuidado, por favor."
+      "text": "Kill the Griffin, I'll pay you handsomely... But stay safe, please."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Oh, graças aos deuses, você voltou! Você demorou tanto que os piores pensamentos vieram à minha mente... Eu estou aliviado que você esteja bem. Aqui está sua recompensa. Obrigado novamente."
+      "text": "Oh thank the lords, you've returned! You took so long and the worst thoughts came to my mind... I'm glad you're okay. Here's your reward. Thanks again."
     }
   },
   "tasks": [

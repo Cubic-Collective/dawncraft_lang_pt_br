@@ -4,18 +4,18 @@
 	"icon": "minecraft:book",
 	"start": {
 		"title": {
-			"text": "Então?"
+			"text": "So?"
 		},
 		"description": {
-			"text": "Você conseguiu obter as $(red)10 folhas de papel$()?"
+			"text": "Did you get the chance to gather the $(red)10 pieces of paper$()?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Obrigado!"
+			"text": "Thanks!"
 		},
 		"description": {
-			"text": "Obrigado. Não tenho esmeraldas para te pagar no momento... Que tal isto como pagamento?"
+			"text": "Thanks. I don't have emeralds to pay you at the moment... How's this for payment?"
 		}
 	},
 	"tasks": [{

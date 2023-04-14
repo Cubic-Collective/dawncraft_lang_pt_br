@@ -12,14 +12,14 @@
 		icon: "minecraft:clock"
 		x: -4.0d
 		y: -4.0d
-		subtitle: "Bem-vindo ao DawnCraft.\\n\\nEste modpack utiliza o seu próprio sistema de busca personalizado em vez do sistema tradicional FTBQuest.\\n\\nEste livro apresentará algumas informações básicas sobre as aventuras que tem esperam."
+		subtitle: "Welcome to DawnCraft.\\n\\nThis modpack uses its custom quest system instead of the traditional FTBQuest system.\\n\\nThis book gives you some basic information you might want to know about the adventure ahead."
 		description: [""]
 		size: 8.0d
 		id: "5F5E8DC6491295DE"
 		tasks: [{
 			id: "52FB1E732B451A90"
 			type: "stat"
-			title: "Não morra!"
+			title: "Don't Die!"
 			icon: "bloodandmadness:eggs/church_doctor_flamesprayer_spawn_egg"
 			stat: "minecraft:deaths"
 			value: 10000

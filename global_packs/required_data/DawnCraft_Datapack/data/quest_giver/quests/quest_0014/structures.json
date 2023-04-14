@@ -4,18 +4,18 @@
   "icon": "minecraft:compass",
   "start": {
     "title": {
-      "text": "Os Olhos Desatentos"
+      "text": "The Unattended Eyes"
     },
     "description": {
-      "text": "Pelo que sei, atualmente existem sete olhos que não têm portadores. Aqueles que podem ser encontrados em estruturas incluem o Amaldiçoado e o Antigo. Quanto aos outros... acho que a maioria deles pode ser criada com as forças vitais em nosso reino, enquanto alguns podem ter sido roubados por bestas conscientes. Os moradores da região podem saber mais sobre isso do que eu. No entanto, sei que os clérigos estão atualmente em posse do Olho do Mal."
+      "text": "To the best of my knowledge, there are currently 7 eyes that are unattended by eye holders. The ones that can be found in structures include the Cursed and the Old. As for the others... I think most of them can be crafted with the life forces in our realm, while a few of them may have been stolen by sentient beasts. The locals around may know more about that than I do. However, I do know that the clerics are currently in possession of the Evil Eye."
     }
   },
   "complete": {
     "title": {
-      "text": "Os Olhos Desatentos"
+      "text": "The Unattended Eyes"
     },
     "description": {
-      "text": "Eu acho que não há mais necessidade de procurar pelos olhos?"
+      "text": "I think there's no need to look for the eyes anymore?"
     }
   },
   "tasks": [

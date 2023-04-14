@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "O Fim do Caminho"
+      "text": "The End of the Road"
     },
     "description": {
-      "text": "O gigante de fogo havia desaparecido de nosso reino muitas luas atrás. Conseguimos extrair um nó de seu cabelo antes que ele partisse. Os grandes clérigos encantaram o item, que teoricamente permitirá que você invoque o gigante se oferecer o item no altar. Se você perder o nó de cabelo, combine uma carga de fogo com uma poção básica de resistência ao fogo em um suporte de poções para resumonar o item."
+      "text": "The fire giant had disappeared from our realm many moons ago. We were able to extract a knot of his hair before he left. The great clerics enchanted magic into the item, which should theoretically allow you to summon the giant should you offer the item at the altar. If you ever lose the hair knot, combine a fire charge with a basic fire resistance potion in a brewing stand to re-summon the item."
     }
   },
   "complete": {
     "title": {
-      "text": "O Fim do Caminho"
+      "text": "The End of the Road"
     },
     "description": {
-      "text": "Bem, estou sem palavras... É isso, aventureiro. Você derrotou todos os portadores dos olhos. Se você já adquiriu 12 olhos, procure o portal para o End. Que Deus te acompanhe."
+      "text": "Well, I'm speechless... This is it adventurer. You have defeated all the eyeholders. If you have acquired 12 eyes already, look for the gateway into the End. God spede you."
     }
   },
   "tasks": [

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dawncraft:block/redstone_trigger"
+    }
+  }
+}

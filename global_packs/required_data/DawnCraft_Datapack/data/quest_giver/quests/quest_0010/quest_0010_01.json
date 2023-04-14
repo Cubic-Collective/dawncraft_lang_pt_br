@@ -4,18 +4,18 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "O que você me diz? 10 Esmeraldas para aprender a usar o cortador de pedras."
+      "text": "What do you say? 10 Emeralds to learn how to use the stonecutter."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Aqui está!"
+      "text": "There you go!"
     }
   },
   "tasks": [

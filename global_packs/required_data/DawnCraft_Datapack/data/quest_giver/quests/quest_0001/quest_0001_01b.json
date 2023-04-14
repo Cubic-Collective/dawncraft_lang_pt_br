@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Me traga uma coisa!"
+      "text": "Fetch Me Something!"
     },
     "description": {
-      "text": "Eu preciso de uma coisa! Você poderia me ajudar a conseguir $(red)4 barras de ferro$()? Estou ficando sem materiais para fazer armaduras... Um dia eu vou te pagar, eu prometo!!"
+      "text": "I need something! Can you help me fetch $(red)4 iron ingots$()? I'm running out of materials to make armor... I will repay you someday I promise!"
     }
   }
 }

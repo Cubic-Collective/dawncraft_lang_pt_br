@@ -1,0 +1,7 @@
+{
+  "parent": "dawncraft:block/dungeon_door",
+  "textures": {
+    "particle": "dawncraft:block/rust_door",
+    "door": "dawncraft:block/rust_door"
+  }
+}

@@ -4,18 +4,18 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Você já conseguiu as $(red)5 Pérolas de Ender$()?"
+      "text": "Did you get the $(red)5 Ender Pearls$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Obrigado. Aqui está uma recompensa pelo seu trabalho."
+      "text": "Thanks. Here, for your trouble."
     }
   },
   "tasks": [

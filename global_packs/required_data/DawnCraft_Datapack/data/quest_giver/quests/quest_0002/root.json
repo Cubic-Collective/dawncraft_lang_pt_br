@@ -3,10 +3,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Está livre?"
+      "text": "Got time?"
     },
     "description": {
-      "text": "Está livre? Aventureiro, você pode me conseguir uma coisa?"
+      "text": "Got time? Adventurer, can you fetch me something?"
     }
   }
 }

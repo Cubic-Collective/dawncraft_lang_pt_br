@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dawncraft:block/wood_door",
+      "y": 90
+    },
+    "axis=z": {
+      "model": "dawncraft:block/wood_door"
+    }
+  }
+}

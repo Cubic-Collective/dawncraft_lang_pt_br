@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Ajuda"
+      "text": "help"
     },
     "description": {
-      "text": "Eu preciso da sua ajuda para obter um item chamado $(red)Coração do Mar$(). Ele pode ser encontrado com frequência em tesouros enterrados, mas eu não tenho a experiência e a habilidade de um aventureiro para encontrá-lo. Você poderia conseguir um para mim?"
+      "text": "I need your help retrieving an item called $(red)Heart of the Sea$(). It can often be found in buried treasures, but I lack the experience and expertise an adventurer have to find it. Could you get it for me?"
     }
   }
 }

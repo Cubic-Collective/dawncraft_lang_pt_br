@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "E então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Já esqueceu? Eu preciso de 5 olhos de aranha."
+      "text": "Forgot already? I need 5 spider eyes."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Obrigado pela ajuda!"
+      "text": "Thanks for your help!"
     }
   },
   "tasks": [

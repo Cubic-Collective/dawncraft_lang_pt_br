@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Espada"
+      "text": "Sword"
     },
     "description": {
-      "text": "Curioso, não é? Bem, a verdade é que... Meu irmão era um comerciante andarilho, bem peculiar. Ele gostava de atravessar a dimensão do Nether... Mesmo sabendo o quão perigoso era. Um dia ele partiu e... nunca mais voltou. Ele deixou uma nota dizendo que ia para um castelo nas Terras Arrasadas de Cinzas. Eu próprio iria lá para descobrir se ele está realmente morto ou não, mas receio nunca mais voltar também. Afinal, já se passaram meses desde a sua última partida, tudo o que eu quero é um encerramento adequado. Ele tinha um artefato chamado $(light_blue)'Espada Invernal'$(). Você poderia ir a esse castelo e ver se consegue encontrar essa espada?"
+      "text": "Inquisitive are we? Well, the truth is... My brother was a wandering trader, a peculiar one. He enjoyed traversing through the Nether dimension... Even though he knew how dangerous it was. One day he left and... never returned. He left a note telling us he's going to a castle in the ash barrens. I was going to go there myself to find out if he's really dead or not, but I'm afraid I'll never return as well. After all, it's been months since his last departure, all I want is a proper closure... He had an artifact called $(light_blue)'Chilling Sword'$(). Do you think you can go to that castle and see if you can find this weapon?"
     }
   }
 }

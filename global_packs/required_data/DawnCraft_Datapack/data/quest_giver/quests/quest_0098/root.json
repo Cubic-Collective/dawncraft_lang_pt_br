@@ -3,10 +3,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Como vai aventureiro, poderia me ajudar com uma coisa?"
+      "text": "Hello adventurer, can you help me with something?"
     }
   }
 }

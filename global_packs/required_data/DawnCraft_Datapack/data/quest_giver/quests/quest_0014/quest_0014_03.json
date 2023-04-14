@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "Viu o mapa que eu te dei? Sua primeira tarefa é exterminar o $(red)Rei Goblin$(). Eles podem ser encontrados no topo de seus castelos."
+      "text": "See the map I gave you? Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
     }
   },
   "complete": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "Bom trabalho. Parece que você está pronto para enfrentar o $(red)Ogro Corrompido$(). Aqui, a criatura que vive no local marcado está portando um dos olhos."
+      "text": "Good job. Seems you're ready to take on the $(red)Corrupted Ogre$(). Here, the creature dwelling in the marked spot is holding one of the eyes."
     }
   },
   "tasks": [

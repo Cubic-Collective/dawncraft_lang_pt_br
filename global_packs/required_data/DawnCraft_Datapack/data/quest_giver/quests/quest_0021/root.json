@@ -3,10 +3,10 @@
   "icon": "minecraft:heart_of_the_sea",
   "start": {
     "title": {
-      "text": "Olá!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Olá, aventureiro. Você poderia me trazer algo do oceano?"
+      "text": "Hello adventurer. Could you get me something from the Ocean?"
     }
   }
 }

@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Desbloqueando a Bancada de Cartografia"
+      "text": "Unlock Cartography Table"
     },
     "description": {
-      "text": "Oh... hm, tudo bem. Me dê 15 esmeraldas e eu te ensino como usá-la."
+      "text": "Oh... hm, alright. Give me 15 emeralds and I'll teach you how to use it."
     }
   },
   "complete": {
     "title": {
-      "text": "Aqui está."
+      "text": "Here ya go."
     },
     "description": {
-      "text": "Não se intimide com os equipamentos na mesa, você vai pegar o jeito!"
+      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
     }
   },
   "tasks": [

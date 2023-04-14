@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_chestplate",
   "start": {
     "title": {
-      "text": "Ensopado de Cogumelos!"
+      "text": "Mushroom Stew!"
     },
     "description": {
-      "text": "Obrigado! Eu só quero provar uma boa tigela de um $(red)ensopado de cogumelos$()."
+      "text": "Thank you! I just want to have a taste of a good bowl of $(red)mushroom stew$()."
     }
   }
 }

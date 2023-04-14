@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Olá novamente!"
+      "text": "Hello again!"
     },
     "description": {
-      "text": "Traga-me um papel, eu vou te mostrar onde ele está."
+      "text": "Bring me a piece of paper, I'll show you where it is on the paper."
     }
   },
   "complete": {
     "title": {
-      "text": "Aqui."
+      "text": "Here."
     },
     "description": {
-      "text": "Aqui, toma, fica fácil identificar quando você vai chegando perto. Traga-me o que ele deixar cair e boa sorte!"
+      "text": "Here, it's rather easy to spot once you get close. Good luck, and bring me whatever it drops."
     }
   },
   "tasks": [

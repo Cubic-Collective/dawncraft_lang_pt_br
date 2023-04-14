@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Carne Exótica"
+      "text": "Exotic Meat"
     },
     "description": {
-      "text": "Aqui na aldeia costumamos ter apenas tipos regulares de carne. Ouvi dizer que existem criaturas chamadas cangurus que têm carne macia e suculenta em seu rabo. Você poderia conseguir uma peça dessa carne para mim? E também gostaria de dar uma olhada na pele deles."
+      "text": "Here in the village we usually only get the regular kinds of meat. I've heard that there are creatures called kangaroos that have tender and juicing meat on their tail. Could you get me a piece of their meat? And also I'd like to have a look at their hide as well."
     }
   }
 }

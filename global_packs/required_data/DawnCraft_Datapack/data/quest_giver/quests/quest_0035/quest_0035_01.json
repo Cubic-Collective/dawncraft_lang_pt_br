@@ -4,18 +4,18 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Afiação de Faca"
+      "text": "Knife Sharpening"
     },
     "description": {
-      "text": "Você já conseguiu as $(red)5 pedras de ardósia$()? Minha lâmina está ficando sem corte."
+      "text": "Have you got the $(red)5 deepslate stones$() yet? My blade's going dull."
     }
   },
   "complete": {
     "title": {
-      "text": "Consegui"
+      "text": "Finished"
     },
     "description": {
-      "text": "Bom trabalho! Como esperado, essas rochas possuem níveis de granulação grossa e fina. Muito obrigado! Aqui está sua recompensa."
+      "text": "Good work! As expected, these rocks contain both coarse and fine grit levels. Thanks a lot! Here, take it, it's your reward."
     }
   },
   "tasks": [

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "dawncraft:block/fire_brick_slab_top"
+    },
+    "type=bottom": {
+      "model": "dawncraft:block/fire_brick_slab"
+    },
+    "type=double": {
+      "model": "dawncraft:block/fire_brick"
+    }
+  }
+}

@@ -3,10 +3,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Saudações. Odiaria incomodá-lo, mas poderia me dar uma mãozinha?"
+      "text": "Greetings. I'd hate to bother you, but could you give me a hand with something?"
     }
   }
 }

@@ -4,10 +4,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Ajuda"
+      "text": "help"
     },
     "description": {
-      "text": "Obrigado por ouvir meu pedido. Você sabe sobre as 'torres de batalha' que existem nesta dimensão? Elas estão por aí em todo o mundo. Estou particularmente interessado nas Torres Terrestres e no golem que reside dentro delas. O olho que o guardião deixa contém uma tremenda energia cinética... Você acha que é capaz de me ajudar a consegui-lo para minha pesquisa?"
+      "text": "Thanks for listening to my request. Are you aware of the 'battle towers' in this dimension? They're everywhere around the world. I am particularly interested in the Land Towers, and the golem residing inside. The eye that the guardian drops hold tremendous kinetic energy... Do you think you can help me get one for my research?"
     }
   }
 }

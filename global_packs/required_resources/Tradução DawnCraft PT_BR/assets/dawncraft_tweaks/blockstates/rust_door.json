@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dawncraft:block/rust_door",
+      "y": 90
+    },
+    "axis=z": {
+      "model": "dawncraft:block/rust_door"
+    }
+  }
+}

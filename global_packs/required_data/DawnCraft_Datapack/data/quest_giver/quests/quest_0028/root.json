@@ -3,10 +3,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Oy!"
     },
     "description": {
-      "text": "Ei! Eu tenho um favor para te pedir... Você pode me ouvir?"
+      "text": "Oy! Got a favor to ask of you... Would you listen?"
     }
   }
 }

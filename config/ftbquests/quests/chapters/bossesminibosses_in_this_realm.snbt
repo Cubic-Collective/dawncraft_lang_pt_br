@@ -3,14 +3,14 @@
 	group: ""
 	order_index: 2
 	filename: "bossesminibosses_in_this_realm"
-	title: "Criaturas Notórias"
+	title: "Notorious Creatures in this Realm..."
 	icon: "apotheosis:boss_summoner"
-	subtitle: ["Derrote estas criaturas para provar o seu valor..."]
+	subtitle: ["Defeat these creatures to prove your worth..."]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Gigante de Fogo"
+			title: "Fire Giant"
 			icon: "simple_mobs:giant_knot"
 			x: -4.5d
 			y: -9.0d
@@ -25,7 +25,7 @@
 			}]
 		}
 		{
-			title: "Cavaleiro Sentinela"
+			title: "Sentinel Knight"
 			icon: "simple_mobs:sentinelkey"
 			x: -6.5d
 			y: -9.0d
@@ -40,7 +40,7 @@
 			}]
 		}
 		{
-			title: "Marciano"
+			title: "Martian"
 			x: -7.5d
 			y: -11.0d
 			shape: "square"
@@ -54,7 +54,7 @@
 			}]
 		}
 		{
-			title: "Ogro Corrompido"
+			title: "Corrupted Ogre"
 			x: -6.5d
 			y: -10.0d
 			shape: "square"
@@ -81,7 +81,7 @@
 			tasks: [{
 				id: "7001FA74512AAD19"
 				type: "kill"
-				title: "Nove Caudas"
+				title: "Nine Tails"
 				icon: "alexsmobs:lobster_tail"
 				entity: "simple_mobs:nine_tails"
 				value: 1L
@@ -95,7 +95,7 @@
 			tasks: [{
 				id: "4D745F7EB67EBF7F"
 				type: "kill"
-				title: "Lorde da Feitiçaria, o Esqueleto Soberano"
+				title: "Lord of Sorcery, the Skeleton Overlord"
 				icon: {
 					id: "ars_nouveau:archmage_robes"
 					Count: 1b
@@ -115,7 +115,7 @@
 			tasks: [{
 				id: "3FC7DF131BFEA5D1"
 				type: "kill"
-				title: "Dragão de Fogo"
+				title: "Fire Dragon"
 				icon: "simple_mobs:fire_dragon_essence"
 				entity: "simple_mobs:fire_dragon"
 				value: 1L
@@ -129,7 +129,7 @@
 			tasks: [{
 				id: "7383CB2F9C46BDE2"
 				type: "kill"
-				title: "Dragão de Gelo"
+				title: "Ice Dragon"
 				icon: "simple_mobs:ice_dragon_essence"
 				entity: "simple_mobs:ice_dragon"
 				value: 1L
@@ -157,7 +157,7 @@
 			tasks: [{
 				id: "4A44B3D3E93B316A"
 				type: "kill"
-				title: "Rei Goblin"
+				title: "Goblin King"
 				icon: {
 					id: "goblinsanddungeons:goblin_crown"
 					Count: 1b
@@ -177,7 +177,7 @@
 			tasks: [{
 				id: "7656A203BA9099CF"
 				type: "kill"
-				title: "Rei Sem Nome"
+				title: "Nameless King"
 				icon: {
 					id: "darkersouls:crown_of_tempest"
 					Count: 1b
@@ -197,7 +197,7 @@
 			tasks: [{
 				id: "447DB75056CBD118"
 				type: "kill"
-				title: "Padre Gascoigne"
+				title: "Father Gascoigne"
 				icon: "bloodandmadness:eggs/father_gascoigne_spawn_egg"
 				entity: "bloodandmadness:gascoigne_beast"
 				value: 1L
@@ -211,7 +211,7 @@
 			tasks: [{
 				id: "74327929D1B8DF51"
 				type: "kill"
-				title: "Conjurador"
+				title: "Conjurer"
 				icon: {
 					id: "conjurer_illager:conjurer_hat"
 					Count: 1b
@@ -232,7 +232,7 @@
 			tasks: [{
 				id: "30A060BFE3C678AE"
 				type: "kill"
-				title: "Mandíbula da Geada"
+				title: "Frostmaw"
 				icon: {
 					id: "mowziesmobs:ice_crystal"
 					Count: 1b
@@ -252,7 +252,7 @@
 			tasks: [{
 				id: "5281E7E360880255"
 				type: "kill"
-				title: "Barako, o Chefe Sol"
+				title: "Barako, the Sun Chief"
 				icon: "mowziesmobs:barako_mask"
 				entity: "mowziesmobs:barako"
 				value: 1L
@@ -266,7 +266,7 @@
 			tasks: [{
 				id: "5F2D3A4E907757BC"
 				type: "kill"
-				title: "Cavaleiro Rober, o Primordial"
+				title: "Knight Rober, Primordial One"
 				icon: {
 					id: "magistuarmory:ceremonialarmet"
 					Count: 1b
@@ -286,7 +286,7 @@
 			tasks: [{
 				id: "04B8D048411FF640"
 				type: "kill"
-				title: "Shogun"
+				title: "Shogunate"
 				icon: {
 					id: "epicfight:katana"
 					Count: 1b
@@ -320,7 +320,7 @@
 			tasks: [{
 				id: "734F4844D5C53EEE"
 				type: "kill"
-				title: "Juggernaut de Aço"
+				title: "Ferrous Wroughtnaut"
 				icon: "mowziesmobs:wrought_helmet"
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				value: 1L
@@ -354,7 +354,7 @@
 			tasks: [{
 				id: "54D44DF2F5B4D01A"
 				type: "kill"
-				title: "Guardião do End"
+				title: "Ender Guardian"
 				icon: "minecraft:shulker_box"
 				entity: "cataclysm:ender_guardian"
 				value: 1L
@@ -368,7 +368,7 @@
 			tasks: [{
 				id: "63CB7D304B4A5E62"
 				type: "kill"
-				title: "Golem do End"
+				title: "Ender Golem"
 				icon: "cataclysm:ender_guardian_spawner"
 				entity: "cataclysm:ender_golem"
 				value: 1L
@@ -382,7 +382,7 @@
 			tasks: [{
 				id: "1615F156D8868175"
 				type: "kill"
-				title: "Feiticeiro"
+				title: "Magispeller"
 				icon: "illageandspillage:totem_of_banishment"
 				entity: "illageandspillage:magispeller"
 				value: 1L
@@ -396,7 +396,7 @@
 			tasks: [{
 				id: "220EE68C5C6457C4"
 				type: "kill"
-				title: "Conjurador Espiritual"
+				title: "SpiritCaller"
 				icon: {
 					id: "illageandspillage:spellbound_book"
 					Count: 1b
@@ -417,7 +417,7 @@
 			tasks: [{
 				id: "5E3B11AE09EDA3EF"
 				type: "kill"
-				title: "Dragão do End"
+				title: "Ender Dragon"
 				icon: "minecraft:dragon_head"
 				entity: "minecraft:ender_dragon"
 				value: 1L
@@ -445,7 +445,7 @@
 			tasks: [{
 				id: "1A57FD426D56A8AC"
 				type: "kill"
-				title: "Monstruosidade de Netherita"
+				title: "Netherite Monstrosity"
 				icon: {
 					id: "cataclysm:infernal_forge"
 					Count: 1b
@@ -465,7 +465,7 @@
 			tasks: [{
 				id: "37132D5156C12E97"
 				type: "kill"
-				title: "Fantasma da Capitã Cornelia"
+				title: "Ghost of Captain Cornelia"
 				icon: {
 					id: "aquamirae:three_bolt_helmet"
 					Count: 1b
@@ -485,7 +485,7 @@
 			tasks: [{
 				id: "4B8BB374C630CA51"
 				type: "kill"
-				title: "Minhoca do Vazio"
+				title: "Void Worm"
 				icon: "alexsmobs:mysterious_worm"
 				entity: "alexsmobs:void_worm"
 				value: 1L
@@ -499,7 +499,7 @@
 			tasks: [{
 				id: "63C65D7821ADD9B5"
 				type: "kill"
-				title: "Mosquito das Profundezas"
+				title: "Warped Mosco"
 				icon: "alexsmobs:warped_muscle"
 				entity: "alexsmobs:warped_mosco"
 				value: 1L
@@ -513,7 +513,7 @@
 			tasks: [{
 				id: "7A847CC5B58645A8"
 				type: "kill"
-				title: "Guardião Ancião"
+				title: "Elder Guardian"
 				icon: "minecraft:heart_of_the_sea"
 				entity: "minecraft:elder_guardian"
 				value: 1L
@@ -527,7 +527,7 @@
 			tasks: [{
 				id: "4BF011179CDF0597"
 				type: "kill"
-				title: "Cultista"
+				title: "Cultist"
 				icon: {
 					id: "simple_mobs:plaguemask_helmet"
 					Count: 1b
@@ -547,7 +547,7 @@
 			tasks: [{
 				id: "0746611D8AB4D874"
 				type: "kill"
-				title: "Gigante"
+				title: "Giant"
 				icon: "simple_mobs:giant_eye_fragment"
 				entity: "minecraft:giant"
 				value: 1L
@@ -562,7 +562,7 @@
 			tasks: [{
 				id: "2ECE5BFDEBD7969E"
 				type: "kill"
-				title: "Habitante das Cavernas"
+				title: "Cave Dweller"
 				icon: {
 					id: "simple_mobs:dweller_core"
 					Count: 1b
@@ -582,7 +582,7 @@
 			tasks: [{
 				id: "53B0061130E1FEEA"
 				type: "kill"
-				title: "Destruidor de Estrelas"
+				title: "Starlit Crusher"
 				icon: "blue_skies:starlit_leaves"
 				entity: "blue_skies:starlit_crusher"
 				value: 1L
@@ -596,7 +596,7 @@
 			tasks: [{
 				id: "3C5CFB7BFDCAAE24"
 				type: "kill"
-				title: "Invocador"
+				title: "Summoner"
 				icon: "ars_nouveau:summon_focus"
 				entity: "blue_skies:summoner"
 				value: 1L
@@ -610,7 +610,7 @@
 			tasks: [{
 				id: "147168466A3409F7"
 				type: "kill"
-				title: "Alquemista"
+				title: "Alchemist"
 				icon: {
 					id: "blue_skies:alchemy_scroll"
 					Count: 1b
@@ -630,7 +630,7 @@
 			tasks: [{
 				id: "186BD8407FB7B253"
 				type: "kill"
-				title: "Aracnarca"
+				title: "Arachnarch"
 				icon: "blue_skies:spider_webbing"
 				entity: "blue_skies:arachnarch"
 				value: 1L
@@ -644,7 +644,7 @@
 			tasks: [{
 				id: "3B5D132011FD1BCA"
 				type: "kill"
-				title: "Dama Fortuna"
+				title: "Dame Fortuna"
 				icon: "meetyourfight:devils_ante"
 				entity: "meetyourfight:dame_fortuna"
 				value: 1L
@@ -658,7 +658,7 @@
 			tasks: [{
 				id: "456A4E1435763196"
 				type: "kill"
-				title: "Mandíbula do Pântano"
+				title: "Swampjaw"
 				icon: "meetyourfight:mossy_tooth"
 				entity: "meetyourfight:swampjaw"
 				value: 1L
@@ -672,7 +672,7 @@
 			tasks: [{
 				id: "762F9E96314FEA44"
 				type: "kill"
-				title: "Tocador de Sinos"
+				title: "Bellringer"
 				icon: "meetyourfight:haunted_bell"
 				entity: "meetyourfight:bellringer"
 				value: 1L
@@ -686,7 +686,7 @@
 			tasks: [{
 				id: "0977648E905A20ED"
 				type: "kill"
-				title: "Bahryn'muul, o Entombado"
+				title: "Bahryn'muul, Entombed"
 				icon: "ba_bt:guardian_eye_land"
 				entity: "ba_bt:land_golem"
 				value: 1L
@@ -700,7 +700,7 @@
 			tasks: [{
 				id: "2540B51253A76D43"
 				type: "kill"
-				title: "Moraizu'un, o Ídolo dos Afogados"
+				title: "Moraizu'un, Idol of the Drowned"
 				icon: "ba_bt:guardian_eye_ocean"
 				entity: "ba_bt:ocean_golem"
 				value: 1L

@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Daqui a pouco estarei nas minas... Tem tempo para conversar?"
+      "text": "I'll be off in the mines in a bit... Got time to chat?"
     }
   }
 }

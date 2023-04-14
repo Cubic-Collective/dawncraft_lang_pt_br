@@ -3,10 +3,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Oi meu amigo! Você poderia me ajudar a conseguir um novo machado do ferreiro? Prometo te pagar bem!"
+      "text": "My friend, can you help me get a new axe from the toolsmith? I'll pay you back I promise!"
     }
   }
 }

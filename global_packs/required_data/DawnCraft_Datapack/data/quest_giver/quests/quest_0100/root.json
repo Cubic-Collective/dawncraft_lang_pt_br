@@ -3,10 +3,10 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Você poderia me conseguir $(red)1 Flor de Esporos$() se ver por ai?"
+      "text": "Can you give me $(red)1 Spore Blossom$() if you come across any?"
     }
   }
 }

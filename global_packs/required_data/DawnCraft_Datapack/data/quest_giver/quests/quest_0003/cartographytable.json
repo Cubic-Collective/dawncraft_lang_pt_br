@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Aprenda como usar a Bancada de Cartografia"
+      "text": "Learn How to Use the Cartography Table"
     },
     "description": {
-      "text": "Ah... hm, tudo bem. Dê-me 15 esmeraldas e eu te ensinarei como usá-la."
+      "text": "Oh... hm, alright. Give me 15 emeralds and I'll teach you how to use it."
     }
   },
   "complete": {
     "title": {
-      "text": "Aqui está."
+      "text": "Here ya go."
     },
     "description": {
-      "text": "Não se intimide com os equipamentos em cima da mesa, você vai pegar o jeito!"
+      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
     }
   },
   "tasks": [

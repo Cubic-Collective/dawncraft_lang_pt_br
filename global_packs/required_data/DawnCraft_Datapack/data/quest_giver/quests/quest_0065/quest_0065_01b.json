@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Flechas com Efeito"
+      "text": "Tipped Arrows"
     },
     "description": {
-      "text": "Estou tentando fazer uma flecha com efeito. Você consegue arranjar uma dúzia de pó de glowstone?"
+      "text": "I'm trying to make tipped arrows. Can you get me a dozen glowstone dust?"
     }
   }
 }

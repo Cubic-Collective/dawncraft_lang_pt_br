@@ -4,18 +4,18 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Você conseguiu os 2 punhados de$(red)Cicuta$() que eu pedi?"
+      "text": "Did you get the 2 patches of $(red)Hemlock$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Obrigado. Agora farei a isca para atrai-lo."
+      "text": "Thanks. Now I can make the lure."
     }
   },
   "tasks": [

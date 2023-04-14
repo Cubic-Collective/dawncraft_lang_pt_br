@@ -7,15 +7,15 @@
 			"text": "Incendium"
 		},
 		"description": {
-			"text": "A $(light_blue)Espada Invernal$(). Me avise se a encontrar no castelo das Terras Arrasadas de Cinzas."
+			"text": "The $(light_blue)Chilling Sword$(). Let me know if you find it in the ash barrens castle."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Pronto"
+			"text": "Finished"
 		},
 		"description": {
-			"text": "Então... ele realmente se foi. Obrigado por me trazer essa resolução. Fique com a espada. Não tenho mais nada para recompensá-lo."
+			"text": "So... he's really gone. Thank you, for bring me closure. Keep the sword. I don't have anything else to repay you."
 		}
 	},
 	"tasks": [{

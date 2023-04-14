@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey there!"
     },
     "description": {
-      "text": "Se você se considera um aventureiro, deve ter uma bússola! Crie uma $(red)bússola$() e volte para mim."
+      "text": "If you call yourself an adventurer, you gotta have a compass! Craft a $(red)compass$() and return to me."
     }
   }
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Preciso da sua ajuda para coletar uma coisa, aventureiro."
+      "text": "Need your help collecting something, adventurer."
     }
   }
 }

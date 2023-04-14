@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Pode me trazer um pedaço de papel? Vou desenhar um mapa para você."
+      "text": "Could you fetch me a piece of paper? I'll draw you a map."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Aqui, vá até este local e tente... pegar as gemas da criatura e tragam-as até mim, por favor. Lhe garanto que seu esforço valerá a pena."
+      "text": "Please go to this location and try to... extract the gems from the creature. Bring me the gems please. I'll make sure that it'll be worth your while."
     }
   },
   "tasks": [

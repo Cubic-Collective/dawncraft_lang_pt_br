@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Saudações aventureiro! Eu tenho uma missão de extermínio para você!"
+      "text": "Adventurer! I have an extermination task for you."
     }
   }
 }

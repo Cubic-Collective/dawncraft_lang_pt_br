@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "inventory": {
+      "model": "dawncraft:item/cursed_mask"
+    }
+  }
+}

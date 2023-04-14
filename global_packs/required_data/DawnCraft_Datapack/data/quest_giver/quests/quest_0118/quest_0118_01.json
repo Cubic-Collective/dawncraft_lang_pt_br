@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Coração de Dragão"
+      "text": "Dragon Heart"
     },
     "description": {
-      "text": "Não me pergunte o porquê. Não é da sua conta, garoto.. Apenas me dê um $(red)Coração de Dragão de Fogo$()."
+      "text": "Don't ask me why. It's none of your concern, kiddo. Just get me the $(red)Fire Dragon Heart$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Sabia que podia contar com você. Aqui está."
+      "text": "Knew I could count on ya. Here ya go."
     }
   },
   "tasks": [

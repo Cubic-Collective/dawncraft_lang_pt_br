@@ -1,0 +1,6 @@
+{
+  "parent": "dawncraft:item/key",
+  "textures": {
+    "layer0": "dawncraft:item/red_key"
+  }
+}

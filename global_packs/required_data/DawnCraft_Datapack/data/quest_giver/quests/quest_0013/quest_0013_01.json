@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "So?"
     },
     "description": {
-      "text": "Me dê 10 esmeraldas e eu vou te ensinar como usar o rebolo! Barato, né?"
+      "text": "Give me 10 emeralds and I'll teach you how to use the grindstone! Cheap right?"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Aqui está! Fácil, não é?"
+      "text": "There you go! Easy right?"
     }
   },
   "tasks": [

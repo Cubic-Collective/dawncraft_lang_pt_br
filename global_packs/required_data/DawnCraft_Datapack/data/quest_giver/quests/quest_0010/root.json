@@ -3,10 +3,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Quer aprender como usar o cortador de pedras? É apenas 10 esmeraldas!"
+      "text": "Wanna learn how to use the stonecutter? It'll be only 10 emeralds!"
     }
   }
 }

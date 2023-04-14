@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Ei cara!"
+      "text": "Hey there!"
     },
     "description": {
-      "text": "Companheiro. Este lugar está me matando de tédio... Vamos conversar? Você não vai se arrepender."
+      "text": "My fellow. This place is boring me to death... Up for a little chat? It'll be worth your while."
     }
   }
 }

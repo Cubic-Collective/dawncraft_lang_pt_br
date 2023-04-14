@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Criação de Estilingue"
+      "text": "Slingshot Crafting"
     },
     "description": {
-      "text": "Isso mesmo - Estilingue! Tenho tentado fazer um que funcione, mas parece que me falta o conhecimento necessário para criar uma réplica utilizável. Por que não tenta fazer um?"
+      "text": "That's right - Slingshot! I have been trying to get one working, but seems I lack the craftmanship needed to create a usable replica. Can you give it a try?"
     }
   }
 }

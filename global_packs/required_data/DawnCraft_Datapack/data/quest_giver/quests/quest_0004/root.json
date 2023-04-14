@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Ei Aventureiro, você pode me conseguir $(red)5 carnes podres$()? Eu preciso delas para fazer poções."
+      "text": "Hey Adventurer, can you get me $(red)5 zombie flesh$()? I need it to prepare potions."
     }
   }
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Ei!"
+      "text": "Hey!"
     },
     "description": {
-      "text": "Olá, você poderia me ajudar a obter $(red)5 Varas de Blaze$()? Da dimensão do Nether?"
+      "text": "Hello there, could you help me get $(red)5 blaze rods$()? from the Nether dimension?"
     }
   }
 }

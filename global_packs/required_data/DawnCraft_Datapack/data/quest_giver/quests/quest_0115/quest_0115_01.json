@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Uma Oferta"
+      "text": "An Offer"
     },
     "description": {
-      "text": "6 Esmeraldas é tudo o que eu preciso para te mostrar onde a Monstruosidade está na Dimensão do Nether."
+      "text": "6 Emeralds if you want me to show you where the Monstrosity is in the Nether Dimension."
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "Heheheheh, obrigado! Lembre-se, este mapa só funciona se você abri-lo no Nether. Se abrir aqui ele ficará em branco. Achou confuso, né?"
+      "text": "Here you go, happy hunting! Remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Sure is confusing, ey?"
     }
   },
   "tasks": [

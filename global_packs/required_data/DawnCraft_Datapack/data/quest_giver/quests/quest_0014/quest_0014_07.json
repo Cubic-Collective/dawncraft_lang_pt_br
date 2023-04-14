@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "O próximo portador do olho é um morto-vivo. Um morto-vivo com muitos truques na manga na verdade... Ele está cercado por seus seguidores, então você pode ter dificuldades para chegar até ele."
+      "text": "The next eye holder is an undead. An undead with many tricks up its sleeves to be precise... It's surrounded by its followers, so you might have trouble getting to him."
     }
   },
   "complete": {
     "title": {
-      "text": "Caminho para os Portadores dos Olhos"
+      "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "O Esqueleto Soberano é provavelmente o morto-vivo mais poderoso que já vi. Fico surpreso que você conseguiu derrotá-lo. Certo, vamos ver... O próximo olho está guardado por um renomado Cavaleiro Sagrado. Não tenho certeza se é possível para até mesmo você. De qualquer forma, eu te darei a localização. Prossiga com cautela."
+      "text": "The Skeleton Lord is probably the most powerful undead I've ever seen. I'm surprised you're able to take him down. Alright, let's see... The next eye is guarded by a renowned Holy Knight. I'm not sure if it's possible for even you. Anyhow, I'll give you its location. Proceed with caution."
     }
   },
   "tasks": [
