@@ -1,63 +1,63 @@
 {
-  "screen.config.mod": "BisectHosting Server Integration Menu",
-  "screen.config.features": "Features",
-  "screen.config.save": "Save",
-  "screen.config.discard": "Discard",
-  "screen.config.close": "Close",
-
-  "screen.config.user.title": "User Config Screen",
-  "screen.config.pack.title": "Modpack Config Screen",
-
-  "config.pack_id": "Pack ID",
-  "config.partner_id": "Partner ID",
-  "config.pack_edit_mode": "Pack Edit Mode",
-
-  "screen.config.modules.server_creator_banner.name": "Server List Banner",
-  "modules.server_creator_banner.config.title": "Title",
-  "modules.server_creator_banner.config.description": "Description",
-  "modules.server_creator_banner.config.use_language_files": "Use Language Files",
-  "modules.server_creator_banner.config.display_banner": "Display Banner",
-
-  "screen.config.modules.public_server_list.name": "Public Server List",
-  "modules.public_server_list.open_screen.tooltip": "View public servers",
-  "modules.public_server_list.title": "Public Servers",
-  "modules.public_server_list.last_played_label": "Last Played",
-  "modules.public_server_list.public_servers_label": "Public Servers",
-  "modules.public_server_list.loading.title": "Public Server Loading Screen",
-  "modules.public_server_list.loading.loading": "Loading public servers",
-  "modules.public_server_list.loading.failed": "Failed to load public servers",
-  "modules.public_server_list.filter.name": "Filter by Name",
-  "modules.public_server_list.sort.player_count": "Sort by Player Count",
-  "modules.public_server_list.sort.ping": "Sort by Ping",
-
-  "configs.boolean.true": "True",
-  "configs.boolean.false": "False",
-
-  "step.base.create_your_server": "Let's create your Minecraft Server.",
-  "step.base.back": "Back",
-
-  "step.loading_plans.loading": "Loading plans",
-  "step.loading_plans.failed": "Failed to load plans",
-
-  "step.player_count.question": "How many players do you expect to be on the server at once?",
-  "step.player_count.next": "Next",
-
-  "step.recommended_jar.detected": "We detected you are running:",
-  "step.recommended_jar.choice": "Press 'Select' to use this pack, or press 'Change' to select a different pack.",
-  "step.recommended_jar.select": "Select",
-  "step.recommended_jar.change": "Change",
-
-  "step.select_jar.name_filter": "Filter by name",
-  "step.select_jar.platform_filter": "Filter by platform",
-  "step.select_jar.select_pack": "Select the pack",
-  "step.select_jar.select": "Select",
-
-  "step.select_package.plan": "We've selected the perfect plan for you!",
-  "step.select_package.slider": "Move the slider to choose a different plan",
-  "step.select_package.order_plan": "Order Plan",
-  "step.select_package.price": "$%s/Month",
-
-  "step.select_plan.choose_plan": "Choose plan type",
-  "step.select_plan.choose_budget": "Choose Budget",
-  "step.select_plan.choose_premium": "Choose Premium"
+  "screen.config.mod": "Menu de Integração do Servidor BisectHosting",
+  "screen.config.features": "Recursos",
+  "screen.config.save": "Salvar",
+  "screen.config.discard": "Descartar",
+  "screen.config.close": "Fechar",
+  
+  "screen.config.user.title": "Configuração de Usuário",
+  "screen.config.pack.title": "Configuração de Modpack",
+  
+  "config.pack_id": "ID do Modpack",
+  "config.partner_id": "ID do Parceiro",
+  "config.pack_edit_mode": "Modo de Edição do Modpack",
+  
+  "screen.config.modules.server_creator_banner.name": "Banner da Lista de Servidores",
+  "modules.server_creator_banner.config.title": "Título",
+  "modules.server_creator_banner.config.description": "Descrição",
+  "modules.server_creator_banner.config.use_language_files": "Usar Arquivos de Idioma",
+  "modules.server_creator_banner.config.display_banner": "Exibir Banner",
+  
+  "screen.config.modules.public_server_list.name": "Lista Pública de Servidores",
+  "modules.public_server_list.open_screen.tooltip": "Visualizar servidores públicos",
+  "modules.public_server_list.title": "Servidores Públicos",
+  "modules.public_server_list.last_played_label": "Última Jogada",
+  "modules.public_server_list.public_servers_label": "Servidores Públicos",
+  "modules.public_server_list.loading.title": "Tela de Carregamento de Servidores Públicos",
+  "modules.public_server_list.loading.loading": "Carregando servidores públicos",
+  "modules.public_server_list.loading.failed": "Falha ao carregar servidores públicos",
+  "modules.public_server_list.filter.name": "Filtrar por Nome",
+  "modules.public_server_list.sort.player_count": "Ordenar por Contagem de Jogadores",
+  "modules.public_server_list.sort.ping": "Ordenar por Ping",
+  
+  "configs.boolean.true": "Verdadeiro",
+  "configs.boolean.false": "Falso",
+  
+  "step.base.create_your_server": "Vamos criar o seu servidor de Minecraft.",
+  "step.base.back": "Voltar",
+  
+  "step.loading_plans.loading": "Carregando planos",
+  "step.loading_plans.failed": "Falha ao carregar planos",
+  
+  "step.player_count.question": "Quantos jogadores você espera ter no servidor ao mesmo tempo?",
+  "step.player_count.next": "Próximo",
+  
+  "step.recommended_jar.detected": "Detectamos que você está executando:",
+  "step.recommended_jar.choice": "Pressione 'Selecionar' para usar este pacote, ou pressione 'Alterar' para selecionar um pacote diferente.",
+  "step.recommended_jar.select": "Selecionar",
+  "step.recommended_jar.change": "Alterar",
+  
+  "step.select_jar.name_filter": "Filtrar por nome",
+  "step.select_jar.platform_filter": "Filtrar por plataforma",
+  "step.select_jar.select_pack": "Selecionar o pacote",
+  "step.select_jar.select": "Selecionar",
+  
+  "step.select_package.plan": "Selecionamos o plano perfeito para você!",
+  "step.select_package.slider": "Mova o controle deslizante para escolher um plano diferente",
+  "step.select_package.order_plan": "Encomendar Plano",
+  "step.select_package.price": "$%s/Mês",
+  
+  "step.select_plan.choose_plan": "Escolher tipo de plano",
+  "step.select_plan.choose_budget": "Escolha o Plano Econômico",
+  "step.select_plan.choose_premium": "Escolha o Plano Premium"
 }
