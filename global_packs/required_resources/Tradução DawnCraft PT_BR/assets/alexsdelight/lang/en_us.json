@@ -1,29 +1,29 @@
 {
   "itemGroup.culturalTab": "Cultural Delights",
-
-  "item.alexsdelight.cooked_bison": "Cooked Bison",
-  "item.alexsdelight.raw_bison": "Raw Bison",
-  "item.alexsdelight.cooked_bunfungus": "Cooked Bunfungus",
-  "item.alexsdelight.raw_bunfungus": "Raw Bunfungus",
-  "item.alexsdelight.cooked_centipede_leg": "Cooked Centipede Leg",
-
-  "item.alexsdelight.kangaroo_shank": "Kangaroo Shank",
-  "item.alexsdelight.cooked_kangaroo_shank": "Cooked Kangaroo Shank",
-  "item.alexsdelight.loose_moose_rib": "Loose Moose Rib",
-  "item.alexsdelight.cooked_loose_moose_rib": "Cooked Loose Moose Rib",
-  "item.alexsdelight.bison_mince": "Bison Mince",
-  "item.alexsdelight.bison_patty": "Bison Patty",
-  "item.alexsdelight.raw_bunfungus_drumstick": "Raw Bunfungus Drumstick",
-  "item.alexsdelight.cooked_bunfungus_drumstick": "Cooked Bunfungus Drumstick",
-  "item.alexsdelight.raw_catfish_slice": "Raw Catfish Slice",
-  "item.alexsdelight.cooked_catfish_slice": "Cooked Catfish Slice",
-
-  "item.alexsdelight.gongylidia_bruschetta": "Gongylidia Bruschetta",
-  "item.alexsdelight.maggot_salad": "Maggot Salad",
-  "item.alexsdelight.kangaroo_stew": "Kangaroo Stew",
-  "item.alexsdelight.acacia_blossom_soup": "Acacia Blossom Soup",
-  "item.alexsdelight.lobster_pasta": "Lobster Pasta",
-  "item.alexsdelight.bison_burger": "Bison Burger",
-  "item.alexsdelight.bunfungus_sandwich": "Bunfungus Sandwich",
-  "item.alexsdelight.kangaroo_pasta": "Kangaroo Pasta"
-}
+  
+  "item.alexsdelight.cooked_bison": "Bife de Bisão Cozido",
+  "item.alexsdelight.raw_bison": "Bife de Bisão Cru",
+  "item.alexsdelight.cooked_bunfungus": "Bunfungus Cozido",
+  "item.alexsdelight.raw_bunfungus": "Bunfungus Cru",
+  "item.alexsdelight.cooked_centipede_leg": "Perna de Centopeia Cozida",
+  
+  "item.alexsdelight.kangaroo_shank": "Coxa de Canguru",
+  "item.alexsdelight.cooked_kangaroo_shank": "Coxa de Canguru Cozida",
+  "item.alexsdelight.loose_moose_rib": "Costela Solta de Alce",
+  "item.alexsdelight.cooked_loose_moose_rib": "Costela Solta de Alce Cozida",
+  "item.alexsdelight.bison_mince": "Carne Moída de Bisão",
+  "item.alexsdelight.bison_patty": "Hambúrguer de Bisão",
+  "item.alexsdelight.raw_bunfungus_drumstick": "Tambor de Bunfungus cru",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "Tambor de Bunfungus cozido",
+  "item.alexsdelight.raw_catfish_slice": "Filé de Bagre Cru",
+  "item.alexsdelight.cooked_catfish_slice": "Filé de Bagre Cozido",
+  
+  "item.alexsdelight.gongylidia_bruschetta": "Bruschetta de Gongylidia",
+  "item.alexsdelight.maggot_salad": "Salada de Larvas",
+  "item.alexsdelight.kangaroo_stew": "Ensopado de Canguru",
+  "item.alexsdelight.acacia_blossom_soup": "Sopa de Flores de Acácia",
+  "item.alexsdelight.lobster_pasta": "Massa com Lagosta",
+  "item.alexsdelight.bison_burger": "Hambúrguer de Bisão",
+  "item.alexsdelight.bunfungus_sandwich": "Sanduíche de Bunfungus",
+  "item.alexsdelight.kangaroo_pasta": "Massa com Canguru"
+  }
