@@ -9,9 +9,3 @@ Se estiver interessado, Discord: [Here](https://discord.gg/5vPSPJtx "DawnCraft -
 ### Para Jogadores: Instalação da Tradução
 
  ...
-
-### Progresso
-
-<details open>
-  - [X] config
-</details>
