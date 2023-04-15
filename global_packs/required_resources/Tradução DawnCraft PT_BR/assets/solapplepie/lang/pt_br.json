@@ -1,0 +1,44 @@
+{
+	"tooltip.solapplepie.disabled": "Este alimento não contribui para a diversidade alimentar.",
+	
+	"command.solapplepie.solapplepie.no_permissions": "Você não tem permissões suficientes para aplicar esse comando em outros jogadores!",
+
+	"command.solapplepie.solapplepie.clear.success": "Lista de alimentos redefinida!",
+	"command.solapplepie.solapplepie.diversity_feedback": "Diversidade Alimentar: %.2f",
+	"command.solapplepie.solapplepie.sync.success": "Lista de alimentos sincronizada!",
+	
+	"item.solapplepie.food_book": "Livro de Alimentos",
+	"item.solapplepie.lunchbox": "Marmita",
+	"item.solapplepie.container.lunchbox": "Marmita",
+	"item.solapplepie.golden_lunchbox": "Marmita Dourada",
+	"item.solapplepie.container.golden_lunchbox": "Marmita Dourada",
+	"item.solapplepie.lunchbag": "Saco de Lanche",
+	"item.solapplepie.container.lunchbag": "Saco de Lanche",
+	
+	"key.solapplepie.open_food_book": "Abrir Livro de Alimentos",
+	"key.solapplepie.category": "Spice of Life: Apple Pie Edition",
+	
+	"gui.solapplepie.food_book.stats": "Visão Geral",
+	"gui.solapplepie.food_book.stats.current_diversity": "Diversidade Alimentar Atual",
+	"gui.solapplepie.food_book.stats.min_warning1": "Precisa comer %d vezes",
+	"gui.solapplepie.food_book.stats.min_warning2": "para ativar benefícios",
+	"gui.solapplepie.food_book.active_benefits_header": "Benefícios Ativos",
+	"gui.solapplepie.food_book.inactive_benefits_header": "Benefícios Inativos",
+	"gui.solapplepie.food_book.benefits.threshold_label": "Limite",
+	"gui.solapplepie.food_book.benefits.active_tooltip": "Porque sua diversidade alimentar é maior que esse limite, esse benefício está ativo.",
+	"gui.solapplepie.food_book.benefits.inactive_tooltip": "Se sua diversidade alimentar se tornar maior que esse limite, esse benefício será ativado.",
+	"gui.solapplepie.food_book.food_queue_label": "Alimentos Consumidos",
+	"gui.solapplepie.food_book.queue.food_queue_tooltip": "Uma lista de todos os alimentos consumidos no passado que contribuem para sua diversidade alimentar.",
+	
+	"gui.solapplepie.food_book.fraction": "%1$s/%2$s",
+	
+	"gui.solapplepie.food_book.queue.tooltip.uneaten_contribution_label": "Diversidade Alimentar",
+	"gui.solapplepie.food_book.queue.tooltip.contribution_label": "Contribuição para a Diversidade",
+	"gui.solapplepie.food_book.queue.tooltip.last_eaten_label": "Última vez consumido: %d refeições atrás",
+	"gui.solapplepie.food_book.queue.tooltip.last_eaten_label_singular": "Última vez consumido: %d refeição atrás",
+	
+	"config.solapplepie.is_food_tooltip_enabled": "Ativar Dica de Alimentos",
+	"config.solapplepie.food_blacklist": "Blacklist",
+	"config.solapplepie.food_whitelist": "Whitelist (desativa a blacklist)",
+	"config.solapplepie.reset_on_death": "Redefinir na Morte"	
+}
