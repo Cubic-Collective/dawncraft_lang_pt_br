@@ -5,8 +5,8 @@
   "screen.config.discard": "Descartar",
   "screen.config.close": "Fechar",
   
-  "screen.config.user.title": "Configuração de Usuário",
-  "screen.config.pack.title": "Configuração de Modpack",
+  "screen.config.user.title": "Tela de Configuração de Usuário",
+  "screen.config.pack.title": "Tela de Configuração de Modpack",
   
   "config.pack_id": "ID do Modpack",
   "config.partner_id": "ID do Parceiro",
@@ -16,7 +16,7 @@
   "modules.server_creator_banner.config.title": "Título",
   "modules.server_creator_banner.config.description": "Descrição",
   "modules.server_creator_banner.config.use_language_files": "Usar Arquivos de Idioma",
-  "modules.server_creator_banner.config.display_banner": "Exibir Banner",
+  "modules.server_creator_banner.config.display_banner": "Banner de Exibição",
   
   "screen.config.modules.public_server_list.name": "Lista Pública de Servidores",
   "modules.public_server_list.open_screen.tooltip": "Visualizar servidores públicos",
@@ -57,7 +57,7 @@
   "step.select_package.order_plan": "Encomendar Plano",
   "step.select_package.price": "$%s/Mês",
   
-  "step.select_plan.choose_plan": "Escolher tipo de plano",
-  "step.select_plan.choose_budget": "Escolha o Plano Econômico",
-  "step.select_plan.choose_premium": "Escolha o Plano Premium"
+  "step.select_plan.choose_plan": "Escolher o tipo de plano",
+  "step.select_plan.choose_budget": "Escolher o Plano Econômico",
+  "step.select_plan.choose_premium": "Escolher o Plano Premium"
 }
