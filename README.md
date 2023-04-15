@@ -15,9 +15,9 @@ Se estiver interessado, Discord: [Here](https://discord.gg/5vPSPJtx "DawnCraft -
 - [X] config
 <details open>
 <summary>Quests</summary><br>
-  - [ ] quest 0
-  - [ ] quest 1
-  - [ ] quest 2
+- [ ] quest 0
+- [ ] quest 1
+- [ ] quest 2
   - [ ] quest 3
   - [ ] quest 4
   - [ ] quest 5
