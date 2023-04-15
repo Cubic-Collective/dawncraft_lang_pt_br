@@ -13,7 +13,8 @@ Se estiver interessado, Discord: [Here](https://discord.gg/5vPSPJtx "DawnCraft -
 ### Progresso
 
 - [X] config
-- [ ] quests
+<details open>
+<summary>Quests</summary><br>
   - [ ] quest 0
   - [ ] quest 1
   - [ ] quest 2
@@ -46,3 +47,4 @@ Se estiver interessado, Discord: [Here](https://discord.gg/5vPSPJtx "DawnCraft -
   - [ ] quest 29
   - [ ] quest 30
   - [ ] quest 31
+</details>
