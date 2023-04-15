@@ -3,7 +3,7 @@
 	
 	"command.solapplepie.solapplepie.no_permissions": "Você não tem permissões suficientes para aplicar esse comando em outros jogadores!",
 
-	"command.solapplepie.solapplepie.clear.success": "Lista de alimentos resetada!",
+	"command.solapplepie.solapplepie.clear.success": "Lista de alimentos redefinida!",
 	"command.solapplepie.solapplepie.diversity_feedback": "Diversidade Alimentar: %.2f",
 	"command.solapplepie.solapplepie.sync.success": "Lista de alimentos sincronizada!",
 	
@@ -16,7 +16,7 @@
 	"item.solapplepie.container.lunchbag": "Saco de Lanche",
 	
 	"key.solapplepie.open_food_book": "Abrir Livro de Alimentos",
-	"key.solapplepie.category": "Spice of Life: Edição de Torta de Maçã",
+	"key.solapplepie.category": "Spice of Life: Apple Pie Edition",
 	
 	"gui.solapplepie.food_book.stats": "Visão Geral",
 	"gui.solapplepie.food_book.stats.current_diversity": "Diversidade Alimentar Atual",
@@ -38,7 +38,7 @@
 	"gui.solapplepie.food_book.queue.tooltip.last_eaten_label_singular": "Última vez consumido: %d refeição atrás",
 	
 	"config.solapplepie.is_food_tooltip_enabled": "Ativar Dica de Alimentos",
-	"config.solapplepie.food_blacklist": "Lista Negra",
-	"config.solapplepie.food_whitelist": "Lista Branca (desativa a lista negra)",
-	"config.solapplepie.reset_on_death": "Resetar na Morte"	
+	"config.solapplepie.food_blacklist": "Blacklist",
+	"config.solapplepie.food_whitelist": "Whitelist (desativa a blacklist)",
+	"config.solapplepie.reset_on_death": "Redefinir na Morte"	
 }
