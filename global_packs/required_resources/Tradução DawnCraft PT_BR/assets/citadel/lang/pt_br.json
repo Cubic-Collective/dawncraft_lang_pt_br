@@ -1,8 +1,8 @@
 {
     "item.citadel.debug": "Depurador do Citadel",
     "item.citadel.citadel_book": "Livro do Citadel",
-    "item.citadel.effect_item": "Item de Efeito de Poção",
-    "item.citadel.fancy_item": "Item Sofisticado",
+    "item.citadel.effect_item": "Efeito de Poção",
+    "item.citadel.fancy_item": "Item Extravagante",
     "book.citadel_book.root": "Livro do Citadel!!!",
     "book.citadel_book.link_example": "Exemplo de Link",
     "book.citadel_book.hover_text_pillager_example": "Os Links de Entidade são botões pequenos e fofos!",
@@ -15,6 +15,6 @@
     "citadel.gui.follower_type": "Tipo: ",
     "citadel.follower.none": "Nenhum",
     "citadel.follower.citadel": "Estação Espacial",
-    "citadel.follower.citadel_red": "Estação Espacial (Vermelho)",
+    "citadel.follower.citadel_red": "Estação Espacial (Vermelha)",
     "citadel.follower.citadel_gray": "Estação Espacial (Cinza)"
 }
