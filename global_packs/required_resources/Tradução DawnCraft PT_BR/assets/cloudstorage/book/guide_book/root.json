@@ -1,7 +1,7 @@
 {
   "parent": "",
   "text": "root.txt",
-  "title": "Armazenamento em nuvem",
+  "title": "Armazenamento em Nuvem",
   "entity_buttons": [
   ],
   "linked_page_buttons": [
@@ -14,21 +14,21 @@
     },
     {
       "linked_page": "storage_clouds.json",
-      "text": "O armazenamento em nossas nuvens",
+      "text": "O Armazenamento em Nossas Nuvens",
       "x": 290,
       "y": 116,
       "page": 0
     },
     {
       "linked_page": "balloon_salesman.json",
-      "text": "Morte de um vendedor",
+      "text": "Morte de um Vendedor",
       "x": 290,
       "y": 138,
       "page": 0
     },
     {
       "linked_page": "balloon_buddy.json",
-      "text": "Tudo o que você precisa são amigos",
+      "text": "Tudo o que Você Precisa são Amigos",
       "x": 290,
       "y": 160,
       "page": 0
@@ -56,4 +56,3 @@
   "entity_renders": [
   ]
 }
-
