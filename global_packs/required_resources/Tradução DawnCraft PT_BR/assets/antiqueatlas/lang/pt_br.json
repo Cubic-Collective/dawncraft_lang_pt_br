@@ -1,14 +1,14 @@
 {
-  "item.antiqueatlas.antique_atlas": "Atlas antigo #%d",
-  "item.antiqueatlas.empty_antique_atlas": "Atlas antigo vazio",
+  "item.antiqueatlas.antique_atlas": "Atlas Antigo #%d",
+  "item.antiqueatlas.empty_antique_atlas": "Atlas Atigo Vazio",
 
-  "gui.antiqueatlas.scalebar": "Escala em blocos",
-  "gui.antiqueatlas.addMarker": "Adicionar marcador",
-  "gui.antiqueatlas.delMarker": "Excluir marcador",
-  "gui.antiqueatlas.followPlayer": "Centralizar no jogador",
-  "gui.antiqueatlas.exportImage": "Exportar imagem",
-  "gui.antiqueatlas.hideMarkers": "Ocultar marcadores",
-  "gui.antiqueatlas.showMarkers": "Mostrar marcadores",
+  "gui.antiqueatlas.scalebar": "Escala em Blocos",
+  "gui.antiqueatlas.addMarker": "Adicionar Marcador",
+  "gui.antiqueatlas.delMarker": "Excluir Marcador",
+  "gui.antiqueatlas.followPlayer": "Centralizar no Jogador",
+  "gui.antiqueatlas.exportImage": "Exportar Imagem",
+  "gui.antiqueatlas.hideMarkers": "Ocultar Marcadores",
+  "gui.antiqueatlas.showMarkers": "Mostrar Marcadores",
 
   "gui.antiqueatlas.marker.label": "Título:",
   "gui.antiqueatlas.marker.type": "Tipo:",
@@ -33,6 +33,6 @@
   "gui.antiqueatlas.export.rendering.map": "Renderizando blocos-entidades do mapa",
   "gui.antiqueatlas.export.rendering.markers": "Renderizando marcadores",
 
-  "key.openatlas.desc": "Abrir atlas",
+  "key.openatlas.desc": "Abrir Atlas",
   "key.antiqueatlas.category": "Antique Atlas"
 }
