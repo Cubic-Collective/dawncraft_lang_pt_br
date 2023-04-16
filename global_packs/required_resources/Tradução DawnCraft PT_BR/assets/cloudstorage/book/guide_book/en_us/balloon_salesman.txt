@@ -1,17 +1,17 @@
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
-You are not alone in your bizarre interest into balloons and clouds of all things... obviously.
-In villages all across the world, Balloon Salesmen and their trusty Balloon Stands can be found.
-And if you cannot find a Balloon Stand, you can always craft one.
+Você não está sozinho em seu interesse bizarro por balões e nuvens de todas as coisas... obviamente.
+Em aldeias por todo o mundo, vendedores de balões e seus fiéis estandes de balões podem ser encontrados.
+E se você não pode encontrar um estande de balões, você sempre pode criar um.
 <NEWLINE>
 <NEWLINE>
-Like fences, Balloons can be tied to Balloon Stands for display purposes. String can be used on a balloon to make its string longer.
+Assim como cercas, balões podem ser amarrados em estandes de balões para fins de exibição. Cordas podem ser usadas em um balão para aumentar o comprimento da sua corda.
 <NEWLINE>
-But these Balloon Stands have another use. One can place a Balloon in their top slot to view statistics about the cloud storage linked to the Balloon,
-and the exact color of the Balloon. If a second Balloon is placed in the slot below, one can copy the color of the first Balloon to the second. This can streamline the process of making colorful and complex cloud storage systems.
+Mas esses estandes de balões têm outro uso. Pode-se colocar um Balão em seu espaço superior para ver as estatísticas sobre o armazenamento de nuvens ligado ao Balão,
+e a cor exata do Balão. Se um segundo Balão for colocado no espaço abaixo, pode-se copiar a cor do primeiro Balão para o segundo. Isso pode simplificar o processo de criar sistemas de armazenamento de nuvens coloridos e complexos.
 <NEWLINE>
-The villager who lingers around these stands peddles Balloons, amongst other things. One of these items is a Propeller Hat, which spins faster depending on whether it is a clear day or raining. Another one is Cotton Candy, a quick food item made out of a Cloud Block and sugar.
+O aldeão que fica por perto desses estandes vende Balões, entre outras coisas. Um desses itens é um Chapéu de Hélice, que gira mais rápido dependendo se é um dia claro ou chuvoso. Outro é o Algodão Doce, um item alimentar rápido feito de um Bloco de Nuvem e açúcar.
 <NEWLINE>
-Occasionally, these villagers may sell a map to a Sky Temple or a Big Balloon. These structures contain spawners and Cloud Chests with Loot Balloons. Unlike normal Balloons, Loot Balloons are uncraftable, and when placed into a Cloud Chest they can reward you with unique items. They cannot be used to upload items, or be dyed, however.
-These structures can be dangerous, given their height, and it's likely whoever constructed them could have laid traps there as well...
+Ocasionalmente, esses aldeões podem vender um mapa para um Templo do Céu ou um Balão Gigante. Essas estruturas contêm geradores e Caixas de Nuvem com Balões de loot. Ao contrário dos balões normais, os Balões de loot não podem ser criados e, quando colocados em baús de Nuvem, podem recompensá-lo com itens únicos. Eles não podem ser usados para enviar itens, ou ser tingidos, no entanto.
+Essas estruturas podem ser perigosas, dada a sua altura, e é provável que quem as construiu tenha armado armadilhas lá também...

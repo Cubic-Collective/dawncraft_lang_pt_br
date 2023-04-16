@@ -1,7 +1,7 @@
 {
   "parent": "mobs_and_materials.json",
   "text": "bloviator.txt",
-  "title": "Bloviator",
+  "title": "Bloviador",
   "entity_buttons": [
   ],
   "linked_page_buttons": [

@@ -1,7 +1,7 @@
 {
   "parent": "root.json",
   "text": "balloon_salesman.txt",
-  "title": "Death of a Salesman",
+  "title": "Morte de um Vendedor",
   "entity_buttons": [
   ],
   "linked_page_buttons": [
@@ -41,4 +41,3 @@
   "entity_renders": [
   ]
 }
-

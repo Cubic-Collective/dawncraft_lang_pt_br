@@ -1,27 +1,27 @@
 <NEWLINE>
 <NEWLINE>
-All this interest in Balloons leaves you quite lonely, which is definitely understandable.
-Luckily, you can craft yourself a friend that you cannot make organically.
-By capturing a tiny Bloviator in a bottle, you can get an Angry Cloud Bottle. By feeding this angry little cloud a cookie,
-you can make a Happy Cloud Bottle. This happy little cloud can be given a material form by crafting it into a Balloon Buddy:
+Todo esse interesse em balões te deixa bem solitário, o que é compreensível.
+Felizmente, você pode criar um amigo que não pode ser criado organicamente.
+Capturando um pequeno Bloviador em uma garrafa, você pode obter uma Garrafa de Nuvem Raivosa. Alimentando esta pequena nuvem raivosa com um cookie,
+você pode criar uma Garrafa de Nuvem Feliz. Esta pequena e nuvem feliz pode receber uma forma material, transformando-se em um Balão Amigo:
 <NEWLINE>
-Apon creation, Balloon Buddies will be assigned a personality. This personality determines the expression and behavior of the Balloon Buddy.
-All Balloon Buddies function like a wolf or cat, and can be made to stay, follow or wander. They can be picked up and itemized by sneaking with an open hand.
+Após a criação, os Balões Amigos serão atribuídos uma personalidade. Essa personalidade determina a expressão e o comportamento deles.
+Todos os Balões amigos funcionam como um lobo ou gato e podem ser feitos para ficar, seguir ou vagar. Eles podem ser pegos e transformados em itens por meio de agachar com a mão aberta.
 <NEWLINE>
-Personalities:
+Personalidades:
 <NEWLINE>
-Happy - This balloon buddy will not engage in combat, but will lower nearby monster spawns. This ability is denoted by sunshine effects coming off of the Balloon.
+Feliz - Este amigo balão não se envolverá em combate, mas diminuirá as aparições de monstros próximos. Esta habilidade é indicada por efeitos de sol saindo do balão.
 <NEWLINE>
-Cheeky - This balloon will engage in melee combat, but can dodge any arrows and other projectiles.
+Atrevido - Este balão se envolverá em combate corpo a corpo, mas pode esquivar de flechas e outros projéteis.
 <NEWLINE>
-Scary - This balloon has a terrifying visage and can send nearby monsters running in fear - although it cannot attack.
+Assustador - Este balão tem uma aparência aterrorizante e pode fazer com que monstros próximos fujam de medo - embora não possa atacar.
 <NEWLINE>
-Punished - This eyepatch-toting balloon will enter "stealth mode" and will not aggro mobs with its attacks. It also reduces its owner's detection range when nearby.
+Castigado - Este balão com tapa-olho entrará em "modo furtivo" e não atacará os monstros. Ele também reduz o alcance de detecção do proprietário quando próximo.
 <NEWLINE>
-Crazed - This balloon will engage in melee combat and attacks at a rapid rate compared to other balloons.
+Insano - Este balão irá se envolver em combate corpo a corpo e atacar em ritmo acelerado em comparação com outros balões.
 <NEWLINE>
-Trolling - This balloon picks up its attack targets and drops them from a height.
+Troll - Este balão seleciona seus alvos de ataque e os solta de uma altura elevada.
 <NEWLINE>
-Charming - This balloon will not engage in combat, but its sheer presence can put nearby mobs into love mode.
+Encantador - Este balão não se envolverá em combate, mas sua mera presença pode colocar os monstros próximos em modo de amor.
 <NEWLINE>
-Cool - This balloon's slick drawn-on shades distract hostile targets from moving or attacking for a short period.
+Legal - Este balão com óculos desenhados pode distrair alvos hostis e impedi-los de se mover ou atacar por um curto período de tempo.

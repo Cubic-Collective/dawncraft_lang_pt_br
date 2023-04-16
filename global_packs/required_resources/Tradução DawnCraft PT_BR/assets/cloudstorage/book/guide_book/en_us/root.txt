@@ -1,7 +1,7 @@
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
-Although you may have heard of "Cloud Storage" before, very few people know that it actually involves clouds and balloons.
-This introductory guide should leave you with a sense of pride and acomplishment for figuring out the ins-and-outs of cloud storage and the sky in general.
+Embora você possa ter ouvido falar de "Armazenamento em Nuvem" antes, poucas pessoas sabem que isso envolve realmente nuvens e balões.
+Este guia introdutório deve deixá-lo com um senso de orgulho e realização por descobrir os detalhes do armazenamento em nuvem e do céu em geral.
 <NEWLINE>
-Chapters:
+Capítulos:

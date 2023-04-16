@@ -1,9 +1,7 @@
-To get started with cloud storage, you will need several resources.
-Most of these can be sourced from slaying hostile mobs Chiefly among these are the Badloon and the Bloviator.
-These mobs are key to obtaining Balloon Pieces and Cloud Blocks, but finding and slaying them might not be such an easy feat...
+Para começar a usar o armazenamento em nuvem, você precisará de vários recursos. A maioria deles pode ser obtida ao derrotar mobs hostis. Os mais importantes são o Badloon e o Bloviador. Esses mobs são essenciais para obter Pedaços de Balão e Blocos de Nuvem, mas encontrar e derrotá-los pode não ser uma tarefa fácil...
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
-Once you have gathered a few Balloon Pieces and Cloud Blocks, you can finally begin storing your things in the cloud.
+Assim que você tiver coletado alguns Pedaços de Balão e Blocos de Nuvem, você finalmente pode começar a armazenar suas coisas na nuvem.
