@@ -1,7 +1,7 @@
 Para começar a armazenar itens na nuvem, você precisará de pelo menos dois Balões e um Baú de Nuvem. Eles podem ser fabricados da seguinte maneira:
 <NEWLINE>
 <NEWLINE>
-Balões podem ser amarradas em cercas para exibição e podem ser seguradas para diminuir ligeiramente o dano de queda e a velocidade.
+Balões podem ser amarrados em cercas para exibição e podem ser segurados para diminuir ligeiramente o dano de queda e a velocidade.
 <NEWLINE>
 <NEWLINE>
 Antes que o Baú das Nuvens possa ser usado, você precisará adicionar espaço ao armazenamento de nuvens associado à cor do seu balão.
