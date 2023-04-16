@@ -1,0 +1,63 @@
+{
+  "screen.config.mod": "Menu de Integração do Servidor BisectHosting",
+  "screen.config.features": "Recursos",
+  "screen.config.save": "Salvar",
+  "screen.config.discard": "Descartar",
+  "screen.config.close": "Fechar",
+  
+  "screen.config.user.title": "Tela de Configuração de Usuário",
+  "screen.config.pack.title": "Tela de Configuração de Modpack",
+  
+  "config.pack_id": "ID do Modpack",
+  "config.partner_id": "ID do Parceiro",
+  "config.pack_edit_mode": "Modo de Edição do Modpack",
+  
+  "screen.config.modules.server_creator_banner.name": "Banner da Lista de Servidores",
+  "modules.server_creator_banner.config.title": "Título",
+  "modules.server_creator_banner.config.description": "Descrição",
+  "modules.server_creator_banner.config.use_language_files": "Usar Arquivos de Idioma",
+  "modules.server_creator_banner.config.display_banner": "Banner de Exibição",
+  
+  "screen.config.modules.public_server_list.name": "Lista Pública de Servidores",
+  "modules.public_server_list.open_screen.tooltip": "Visualizar servidores públicos",
+  "modules.public_server_list.title": "Servidores Públicos",
+  "modules.public_server_list.last_played_label": "Última Jogada",
+  "modules.public_server_list.public_servers_label": "Servidores Públicos",
+  "modules.public_server_list.loading.title": "Tela de Carregamento de Servidores Públicos",
+  "modules.public_server_list.loading.loading": "Carregando servidores públicos",
+  "modules.public_server_list.loading.failed": "Falha ao carregar servidores públicos",
+  "modules.public_server_list.filter.name": "Filtrar por Nome",
+  "modules.public_server_list.sort.player_count": "Ordenar por Contagem de Jogadores",
+  "modules.public_server_list.sort.ping": "Ordenar por Ping",
+  
+  "configs.boolean.true": "Verdadeiro",
+  "configs.boolean.false": "Falso",
+  
+  "step.base.create_your_server": "Vamos criar o seu servidor de Minecraft.",
+  "step.base.back": "Voltar",
+  
+  "step.loading_plans.loading": "Carregando planos",
+  "step.loading_plans.failed": "Falha ao carregar planos",
+  
+  "step.player_count.question": "Quantos jogadores você espera ter no servidor ao mesmo tempo?",
+  "step.player_count.next": "Próximo",
+  
+  "step.recommended_jar.detected": "Detectamos que você está executando:",
+  "step.recommended_jar.choice": "Pressione 'Selecionar' para usar este pacote, ou pressione 'Alterar' para selecionar um pacote diferente.",
+  "step.recommended_jar.select": "Selecionar",
+  "step.recommended_jar.change": "Alterar",
+  
+  "step.select_jar.name_filter": "Filtrar por nome",
+  "step.select_jar.platform_filter": "Filtrar por plataforma",
+  "step.select_jar.select_pack": "Selecionar o pacote",
+  "step.select_jar.select": "Selecionar",
+  
+  "step.select_package.plan": "Selecionamos o plano perfeito para você!",
+  "step.select_package.slider": "Mova o controle deslizante para escolher um plano diferente",
+  "step.select_package.order_plan": "Encomendar Plano",
+  "step.select_package.price": "$%s/Mês",
+  
+  "step.select_plan.choose_plan": "Escolher o tipo de plano",
+  "step.select_plan.choose_budget": "Escolher o Plano Econômico",
+  "step.select_plan.choose_premium": "Escolher o Plano Premium"
+}

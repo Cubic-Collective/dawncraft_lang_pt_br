@@ -1,0 +1,20 @@
+{
+  "entity.dragonmounts.dragon": "Dragão",
+
+  "dragon_breed.dragonmounts.aether": "Dragão do Aether",
+  "dragon_breed.dragonmounts.fire": "Dragão de Fogo",
+  "dragon_breed.dragonmounts.end": "Dragão do Fim",
+  "dragon_breed.dragonmounts.forest": "Dragão da Floresta",
+  "dragon_breed.dragonmounts.ghost": "Dragão Fantasma",
+  "dragon_breed.dragonmounts.ice": "Dragão de Gelo",
+  "dragon_breed.dragonmounts.nether": "Dragão do Nether",
+  "dragon_breed.dragonmounts.water": "Dragão de Água",
+
+  "item.dragonmounts.spawn_egg": "Ovo de %s",
+
+  "block.dragonmounts.dragon_egg": "Ovo de %s",
+  "block.dragonmounts.dragon_egg.remaining_time": "Chocará em %s segundos.",
+  "block.dragonmounts.dragon_egg.change_breeds": "Modo Criativo: Interagir com um dragão mudará sua raça para a raça deste ovo.",
+
+  "key.dragonmounts.flight_descent": "Descida de Voo"
+}

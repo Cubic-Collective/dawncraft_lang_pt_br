@@ -1,0 +1,22 @@
+{
+  "tenshilib.patreon.title": "Personalização do TenshiLib para Patreon",
+  "tenshilib.patreon.level.no": "É necessário estar em um mundo para usar isso",
+  "tenshilib.patreon.not": "Apoie-me no Patreon para usar isso. As funcionalidades aqui são apenas cosméticas",
+  "tenshilib.patreon.back": "Voltar",
+  "tenshilib.patreon.save": "Salvar",
+  "tenshilib.patreon.id": "Efeito de Patreon",
+  "tenshilib.patreon.render": "Efeito de Renderização",
+  "tenshilib.patreon.location": "Local de Renderização",
+  "tenshilib.patreon.color": "Cor",
+  "tenshilib.patreon.location.CIRCLING": "Girando em torno",
+  "tenshilib.patreon.location.CIRCLINGREVERSE": "Girando em torno (direção reversa)",
+  "tenshilib.patreon.location.HAT": "Chapéu",
+  "tenshilib.patreon.location.HATNOARMOR": "Chapéu sem capacete",
+  "tenshilib.patreon.location.LEFTSHOULDER": "Ombro esquerdo",
+  "tenshilib.patreon.location.RIGHTSHOULDER": "Ombro direito",
+  "tenshilib.patreon.location.BACK": "Costas",
+  "tenshilib.patreon.id.megu_hat": "Chapéu da Megumin",
+  "tenshilib.patreon.id.chomusuke": "Chomusuke",
+  "tenshilib.patreon.id.cat": "Gato",
+  "tenshilib.patreon.id.halo": "Halo"
+}
