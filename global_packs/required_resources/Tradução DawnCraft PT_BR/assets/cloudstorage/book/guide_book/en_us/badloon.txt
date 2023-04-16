@@ -6,8 +6,8 @@ Um Badloon é um balão... que se tornou malvado. Não se sabe se eles se tornar
 <NEWLINE>
 Os Badloons são mobs hostis que podem ser encontrados a partir da altura das nuvens em todos os biomas.
 <NEWLINE>
-Talvez uma das razões pelas quais são tão hostis seja devido à sua fragilidade - um Badloon só tem um coração de saúde e pode ser estourado instantaneamente por qualquer tipo de projétil.
-Este medo de ser estourado também explica o medo completo de cactos.
+Talvez uma das razões pelas quais são tão hostis seja devido à sua fragilidade - um Badloon só tem um coração de vida e pode ser estourado instantaneamente por qualquer tipo de projétil.
+Este medo de ser estourado também explica o medo de cactos.
 Mas os Badloons têm truques em sua única luva quando se trata de combate - se houver outros mobs por perto, eles podem pegá-los e deixá-los perto de alvos, tornando o combate difícil.
 Para piorar as coisas, quaisquer creepers soltos explodirão instantaneamente. Provavelmente é melhor atacar os Badloons primeiro se houver outros monstros por perto.
 <NEWLINE>
