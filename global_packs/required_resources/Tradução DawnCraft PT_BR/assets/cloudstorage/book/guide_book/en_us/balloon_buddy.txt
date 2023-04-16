@@ -5,8 +5,8 @@ Felizmente, você pode criar um amigo que não pode ser criado organicamente.
 Capturando um pequeno Bloviador em uma garrafa, você pode obter uma Garrafa de Nuvem Raivosa. Alimentando esta pequena nuvem raivosa com um cookie,
 você pode criar uma Garrafa de Nuvem Feliz. Esta pequena e nuvem feliz pode receber uma forma material, transformando-se em um Balão Amigo:
 <NEWLINE>
-Após a criação, os Balões Amigos serão atribuídos a uma personalidade. Essa personalidade determina a expressão e o comportamento deles.
-Todos os Balões amigos funcionam como um lobo ou gato e podem ser feitos para ficar, seguir ou vagar. Eles podem ser pegos e transformados em itens por meio de furtividade com a mão aberta.
+Após a criação, os Balões Amigos serão atribuídos uma personalidade. Essa personalidade determina a expressão e o comportamento deles.
+Todos os Balões amigos funcionam como um lobo ou gato e podem ser feitos para ficar, seguir ou vagar. Eles podem ser pegos e transformados em itens por meio de agachar com a mão aberta.
 <NEWLINE>
 Personalidades:
 <NEWLINE>
