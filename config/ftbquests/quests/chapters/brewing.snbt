@@ -1,0 +1,85 @@
+{
+	id: "0AAD6825AAAC8DAF"
+	group: ""
+	order_index: 8
+	filename: "brewing"
+	title: "Brewing"
+	icon: "ars_nouveau:potion_flask"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Potion Brewing"
+			x: 0.0d
+			y: 0.0d
+			description: ["For the most part, brewing works the same as in vanilla Minecraft. However, there are many more potions available to craft, which you can see via JEI. Additionally, players can craft potion charms to recieve powerful potion effects for a longer duration than usual, and these effects can even be made permanent via Infusion."]
+			size: 2.0d
+			id: "4424AAAF4D8A945E"
+			tasks: [{
+				id: "5B174619510F5A0D"
+				type: "item"
+				item: "minecraft:brewing_stand"
+			}]
+			rewards: [{
+				id: "599741D31C4BF152"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			title: "Potion Charms"
+			icon: {
+				id: "apotheosis:potion_charm"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Potion: "minecraft:leaping"
+				}
+			}
+			x: 2.0d
+			y: 0.0d
+			description: [
+				"Players can combine multiple potions together with Blaze Powder to create potion charms. These can be right-clicked to to turn them on or off, and will provide the player with the potion effect as long as it is active either in the player's inventory or charm slot. These charms can be enchanted with Unbreaking or mending to extend their duration."
+				""
+				"&b&lUnbreakable Charms"
+				"Charms can be infused via an enchanting table to convert them into their unbreakable version. Unbreakable charms will provide their effects permanently, but can still be turned on and off. Infusing a charm requires maximum Eterna, between 8.5% and 13.5% Quanta, and between 85% and 95% Arcana. See the \"Enchanting\" Quest tab for more information about Infusions."
+			]
+			dependencies: ["4424AAAF4D8A945E"]
+			size: 1.5d
+			id: "50A3AF120AA6375A"
+			tasks: [{
+				id: "4E2A1D32B612F8EC"
+				type: "checkmark"
+				title: "Read"
+			}]
+			rewards: [{
+				id: "3CC09383FD379788"
+				type: "xp"
+				auto: "enabled"
+				xp: 10
+			}]
+		}
+		{
+			title: "Potion Jars, Melders anf Flasks"
+			icon: "ars_nouveau:potion_jar"
+			x: 0.0d
+			y: -2.0d
+			description: ["Players can craft potion jars to store large amounts of one type of potion, a potion melder to combine the effects of potions, and potion flasks to store more doses of potion in a single bottle as well as increase the strength or extend the duration. View the \"Magic\" quest tab for more details for these devices and items."]
+			dependencies: ["4424AAAF4D8A945E"]
+			size: 1.5d
+			id: "5238E383D811ED28"
+			tasks: [{
+				id: "1B1BBC8DD3E22900"
+				type: "checkmark"
+				title: "Read"
+			}]
+			rewards: [{
+				id: "3EFB277FCE02CC46"
+				type: "xp"
+				auto: "enabled"
+				xp: 10
+			}]
+		}
+	]
+	quest_links: [ ]
+}

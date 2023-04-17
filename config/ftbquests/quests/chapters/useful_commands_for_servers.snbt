@@ -1,7 +1,7 @@
 {
 	id: "456CFF8FE8F8BFAB"
 	group: ""
-	order_index: 3
+	order_index: 11
 	filename: "useful_commands_for_servers"
 	title: "Informações Úteis"
 	default_quest_shape: ""
@@ -62,7 +62,7 @@
 		}
 		{
 			x: -2.5d
-			y: -4.0d
+			y: -5.0d
 			subtitle: "Uma lista de atalhos que você deve conhecer!"
 			description: [
 				" Pressione \"i\" para obter informações sobre sua última morte"
@@ -82,7 +82,7 @@
 		}
 		{
 			x: -2.5d
-			y: -3.0d
+			y: -4.0d
 			subtitle: "Uma lista de livros de informações que você pode querer. Verifique na barra de busca do inventário a receita de cada um!"
 			description: [
 				"    Chronicle of Shadows (Apotheosis)"
@@ -104,7 +104,7 @@
 		}
 		{
 			x: -2.5d
-			y: -5.0d
+			y: -6.0d
 			subtitle: "Onde você pode encontrar um Mestre da guilda?"
 			description: [
 				" Mestre da Guilda não é uma entidade diferente de um aldeão comum. Em vez disso, é uma profissão, que pode ser alcançada por qualquer aldeão (exce- to Idiotas). \\n"
@@ -136,22 +136,7 @@
 		}
 		{
 			x: -2.5d
-			y: -6.0d
-			subtitle: "Como obter melhores preços?"
-			description: [
-				" Os preços das trocas são absurda- mente altos se você tiver uma reputa- ção neutra com os aldeões.\\n"
-				" No entanto, terminar apenas 1-2 mis- sões secundárias reduzirá significa- tivamente o preço."
-			]
-			id: "60B3AB514E67E96D"
-			tasks: [{
-				id: "1E832FA7E32D60BF"
-				type: "checkmark"
-				title: "Reputação #2"
-			}]
-		}
-		{
-			x: -2.5d
-			y: -2.0d
+			y: -3.0d
 			subtitle: "Como é detectada a conclusão das missões principais?"
 			description: [
 				" Além de matar Saqueadores e Reis Goblins, todas as outras missões prin- cipais são detectadas através do jo- gador pegando os Olhos de Ender."
@@ -224,7 +209,7 @@
 		}
 		{
 			x: -2.5d
-			y: -1.0d
+			y: -2.0d
 			subtitle: "Como ler um mapa de explorador?"
 			description: [
 				" Observe o pequeno ponto ao redor da borda do mapa. Esse é você. O topo do mapa aponta para o norte; A es- querda do mapa aponta para o oeste; etc..."

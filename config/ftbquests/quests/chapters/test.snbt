@@ -58,6 +58,7 @@
 					type: "gamestage"
 					team_reward: false
 					auto: "enabled"
+					ignore_reward_blocking: true
 					stage: "Beekeeper"
 				}
 			]
@@ -953,13 +954,6 @@
 				consume_items: false
 				only_from_crafting: false
 			}]
-			rewards: [{
-				id: "1B107E6CEF7E7346"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
-				player_command: false
-			}]
 		}
 		{
 			x: 12.0d
@@ -1001,7 +995,7 @@
 				id: "01214ACE5D82E719"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços de troca são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços de troca são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Ganhe reputação ao completar missões do Livro de Missões, ou Missões de Aldeões. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
 				player_command: false
 			}]
 		}
@@ -1278,6 +1272,111 @@
 				auto: "invisible"
 				command: "/tellraw @p [\"\",{\"text\":\"Você obteve uma \"},{\"text\":\"essência\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Você precisará consumi-la para que a estátua em forma de chifre a reconheça.\"}]"
 				player_command: false
+			}]
+		}
+		{
+			x: 15.5d
+			y: 5.5d
+			id: "1BF783F3710F1DCC"
+			tasks: [{
+				id: "4BABC121C73B5659"
+				type: "item"
+				item: {
+					id: "minecraft:filled_map"
+					Count: 1b
+					tag: {
+						Decorations: [{
+							x: 2752.0d
+							z: -1712.0d
+							id: "+"
+							type: 26b
+							rot: 180.0d
+						}]
+						map: 10
+						display: {
+							Lore: ["{\"text\":\"Um mapa deixado por um aventureiro caído para localizar uma igreja.\"}"]
+							Name: "{\"text\":\"Mapa Suspeito\"}"
+						}
+					}
+				}
+				consume_items: false
+				only_from_crafting: false
+				match_nbt: true
+			}]
+			rewards: [{
+				id: "428D7CF2521D1E68"
+				type: "gamestage"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "dg2q"
+			}]
+		}
+		{
+			x: 16.5d
+			y: 6.5d
+			id: "4B1EE4CEB29F9553"
+			tasks: [{
+				id: "379BBF5DB43D5EBD"
+				type: "item"
+				item: {
+					id: "minecraft:filled_map"
+					Count: 1b
+					tag: {
+						Decorations: [{
+							x: -3456.0d
+							z: -6992.0d
+							id: "+"
+							type: 26b
+							rot: 180.0d
+						}]
+						map: 11
+						display: {
+							Lore: ["{\"text\":\"O paradeiro do Padre Gascoigne.\"}"]
+							Name: "{\"text\":\"Localização do Padre\"}"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "0F361DAC16E3F56F"
+				type: "gamestage"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "dg2q2"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 8.0d
+			id: "4BB2FAEBF28B584E"
+			tasks: [{
+				id: "071AFA7CF87C2444"
+				type: "item"
+				item: {
+					id: "minecraft:filled_map"
+					Count: 1b
+					tag: {
+						Decorations: [{
+							x: -2992.0d
+							z: -2464.0d
+							id: "+"
+							type: 26b
+							rot: 180.0d
+						}]
+						map: 16
+						display: {
+							Lore: ["{\"text\":\"Um mapa que o levará ao ser mais poderoso desse reino.\"}"]
+							Name: "{\"text\":\"O Verdadeiro Portal do End\"}"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "2274C54EF9ADD546"
+				type: "gamestage"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "skull"
 			}]
 		}
 	]
