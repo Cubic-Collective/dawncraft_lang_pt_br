@@ -1,7 +1,7 @@
 {
 	id: "456CFF8FE8F8BFAB"
 	group: ""
-	order_index: 3
+	order_index: 11
 	filename: "useful_commands_for_servers"
 	title: "Useful Info"
 	default_quest_shape: ""
@@ -62,7 +62,7 @@
 		}
 		{
 			x: -2.5d
-			y: -4.0d
+			y: -5.0d
 			subtitle: "A list of keybinds you should know!"
 			description: [
 				"   Press \"i\" for your last death info"
@@ -82,7 +82,7 @@
 		}
 		{
 			x: -2.5d
-			y: -3.0d
+			y: -4.0d
 			subtitle: "A list of info books you might want. Check in the inventory search bar for their individual crafting recipe!"
 			description: [
 				"    Chronicle of Shadows (Apotheosis)"
@@ -104,7 +104,7 @@
 		}
 		{
 			x: -2.5d
-			y: -5.0d
+			y: -6.0d
 			subtitle: "Where can you find a guild master?"
 			description: [
 				"GuildMaster is not a separate entity to villager. Instead, it is a profession, attainable by any villager (except nitwit). \\n"
@@ -136,22 +136,7 @@
 		}
 		{
 			x: -2.5d
-			y: -6.0d
-			subtitle: "How to get better trade prices?"
-			description: [
-				"Trade prices are absurdly high if you have neutral reputation with the villagers.\\n"
-				"However, finishing just 1-2 side quests alone will most likely significantly reduce the price of trades."
-			]
-			id: "60B3AB514E67E96D"
-			tasks: [{
-				id: "1E832FA7E32D60BF"
-				type: "checkmark"
-				title: "Reputation #2"
-			}]
-		}
-		{
-			x: -2.5d
-			y: -2.0d
+			y: -3.0d
 			subtitle: "How are main quests' completion detected?"
 			description: [
 				"Besides killing pillagers and Goblin King, all the other main quests are detected through the player picking up the ender eyes."
@@ -224,7 +209,7 @@
 		}
 		{
 			x: -2.5d
-			y: -1.0d
+			y: -2.0d
 			subtitle: "How do I read an explorer map?"
 			description: [
 				"Notice the little dot around the edge of the map. That's you. The TOP of the map points to north; The LEFT of the map points to west; etc..."

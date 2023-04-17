@@ -33,6 +33,13 @@
 "item.bloodandmadness.weapons.church_scythe" : "Church Scythe",
 
 
+"item.bloodandmadness.music_box" : "Music Box",
+
+"item.bloodandmadness.blocks/workshop" : "Hunter's Workshop",
+
+
+
+
 "item.bloodandmadness.magic.a_call_beyond" : "A Call Beyond",
 "item.bloodandmadness.magic.augur_of_ebrietas" : "Augur of Ebrietas",
  
@@ -67,6 +74,12 @@
  "item.bloodandmadness.eggs.gascoigne_beast_spawn_egg" : "Beast Father Gascoigne Spawn Egg",
 "entity.bloodandmadness.silverbeast" : "Silverbeast",
  "item.bloodandmadness.eggs.silverbeast_spawn_egg" : "Silverbeast Spawn Egg",
+ "entity.bloodandmadness.beast_patient" : "Beast Patient",
+ "item.bloodandmadness.eggs.beast_patient_spawn_egg" : "Beast Patient Spawn Egg",
+  "entity.bloodandmadness.cloaked_beast_patient" : "Beast Patient",
+ "item.bloodandmadness.eggs.cloaked_beast_patient_spawn_egg" : "Beast Patient Spawn Egg",
+  "entity.bloodandmadness.ashen_blood_beast_patient" : "Beast Patient",
+ "item.bloodandmadness.eggs.ashen_blood_beast_patient_spawn_egg" : "Beast Patient Spawn Egg",
  "entity.bloodandmadness.huntsman_axe" : "Huntsman",
  "item.bloodandmadness.eggs.huntsman_axe_spawn_egg" : "Huntsman Spawn Egg",
  "entity.bloodandmadness.huntsman_cutlass" : "Huntsman",
@@ -80,7 +93,7 @@
  "item.bloodandmadness.eggs.church_giant_spawn_egg" : "Church Giant Spawn Egg",
  "item.bloodandmadness.eggs.church_doctor_lantern_spawn_egg" : "Church Doctor Spawn Egg",
  "item.bloodandmadness.eggs.church_doctor_pistol_spawn_egg" : "Church Doctor Spawn Egg",
- "item.bloodandmadness.eggs.church_doctor__flamesprayer_spawn_egg" : "Church Doctor Spawn Egg",
+ "item.bloodandmadness.eggs.church_doctor_flamesprayer_spawn_egg" : "Church Doctor Spawn Egg",
  "item.bloodandmadness.eggs.church_doctor_crucifix_spawn_egg" : "Church Doctor Spawn Egg",
  "item.bloodandmadness.eggs.church_doctor_scythe_spawn_egg" : "Church Doctor Spawn Egg",
  "entity.bloodandmadness.church_doctor" : "Church Doctor",
@@ -90,6 +103,8 @@
  "entity.bloodandmadness.church_doctor_flamesprayer" : "Church Doctor",
  "entity.bloodandmadness.church_doctor_crucifix" : "Church Doctor",
  "entity.bloodandmadness.church_doctor_scythe" : "Church Doctor",
+ "entity.bloodandmadness.celestial_emissary" : "Celestial Emissary",
+ "item.bloodandmadness.eggs.celestial_emissary_spawn_egg" : "Celestial Emissary Spawn Egg",
 
 
 
@@ -130,7 +145,7 @@
   "item.bloodandmadness.molotov_cocktail" : "Molotov Cocktail",
   "item.bloodandmadness.infinite_blood_vial" : "Infinite Blood Vial",
   "item.bloodandmadness.wolf_beast_spawn_egg" : "Scourge Beast Spawn Egg",
-   "item.bloodandmadness.music_box" : "Music Box",
+
   "block.bloodandmadness.lamp" : "Lamp",
   "block.bloodandmadness.mercury_soaked_stone" : "Mercury Soaked Stone",
    "block.bloodandmadness.workshop" : "Hunter's Workshop",
@@ -141,11 +156,11 @@
   "item.bloodandmadness.cathedral_wolf_beast_spawn_egg" : "Upper Cathedral Scourge Beast Spawn Egg",
   "entity.bloodandmadness.cathedral_wolf_beast" : "Upper Cathedral Scourge Beast",
   "item.bloodandmadness.beast_patient_spawn_egg" : "Beast Patient Spawn Egg",
-  "entity.bloodandmadness.beast_patient" : "Beast Patient",
+
   "item.bloodandmadness.female_beast_patient_spawn_egg" : "Female Beast Patient Spawn Egg",
   "entity.bloodandmadness.female_beast_patient" : "Female Beast Patient",
   "item.bloodandmadness.ashen_blood_beast_patient_spawn_egg" : "Ashen Blood Beast Patient Spawn Egg",
-  "entity.bloodandmadness.ashen_blood_beast_patient" : "Ashen Blood Beast Patient",
+
   "item.bloodandmadness.silverbeast_spawn_egg" : "Silverbeast Spawn Egg",
    "entity.bloodandmadness.cleric_beast" : "Cleric Beast",
   "item.bloodandmadness.cleric_beast_spawn_egg" : "Cleric Beast Spawn Egg",
