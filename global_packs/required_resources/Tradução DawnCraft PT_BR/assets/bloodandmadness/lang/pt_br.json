@@ -31,9 +31,16 @@
   "item.bloodandmadness.weapons.flamesprayer" : "Aspersor de Chamas",
   "item.bloodandmadness.weapons.pitchfork" : "Forquilha",
   "item.bloodandmadness.weapons.church_scythe" : "Foice da Igreja",
+
   
-  
-  "item.bloodandmadness.magic.a_call_beyond" : "Um Chamado Além",
+  "item.bloodandmadness.music_box" : "Caixa de Música",
+
+  "item.bloodandmadness.blocks/workshop" : "Oficina do Caçador",
+
+
+
+
+  "item.bloodandmadness.magic.a_call_beyond" : "Um Chamado do Além",
   "item.bloodandmadness.magic.augur_of_ebrietas" : "Aguilhada de Ebrietas",
   
   "item.bloodandmadness.bullets.quicksilver_bullet" : "Bala de Mercúrio",
@@ -67,6 +74,12 @@
   "item.bloodandmadness.eggs.gascoigne_beast_spawn_egg" : "Ovo de Padre Gascoigne Fera",
   "entity.bloodandmadness.silverbeast" : "Fera Prateada",
   "item.bloodandmadness.eggs.silverbeast_spawn_egg" : "Ovo de Fera Prateada",
+  "entity.bloodandmadness.beast_patient" : "Paciente Besta",
+  "item.bloodandmadness.eggs.beast_patient_spawn_egg" : "Ovo de Paciente Besta",
+  "entity.bloodandmadness.cloaked_beast_patient" : "Paciente Besta",
+  "item.bloodandmadness.eggs.cloaked_beast_patient_spawn_egg" : "Ovo de Paciente Besta",
+  "entity.bloodandmadness.ashen_blood_beast_patient" : "Paciente Besta",
+  "item.bloodandmadness.eggs.ashen_blood_beast_patient_spawn_egg" : "Ovo de Paciente Besta",
   "entity.bloodandmadness.huntsman_axe" : "Caçador",
   "item.bloodandmadness.eggs.huntsman_axe_spawn_egg" : "Ovo de Caçador",
   "entity.bloodandmadness.huntsman_cutlass" : "Caçador",
@@ -80,7 +93,7 @@
   "item.bloodandmadness.eggs.church_giant_spawn_egg" : "Ovo de Gigante da Igreja",
   "item.bloodandmadness.eggs.church_doctor_lantern_spawn_egg" : "Ovo de Médico da Igreja com Lanterna",
   "item.bloodandmadness.eggs.church_doctor_pistol_spawn_egg" : "Ovo de Médico da Igreja com Pistola",
-  "item.bloodandmadness.eggs.church_doctor__flamesprayer_spawn_egg" : "Ovo de Médico da Igreja com Lança-Chamas",
+  "item.bloodandmadness.eggs.church_doctor_flamesprayer_spawn_egg" : "Ovo de Médico da Igreja com Lança-Chamas",
   "item.bloodandmadness.eggs.church_doctor_crucifix_spawn_egg" : "Ovo de Médico da Igreja com Crucifixo",
   "item.bloodandmadness.eggs.church_doctor_scythe_spawn_egg" : "Ovo de Médico da Igreja com Foice",
   "entity.bloodandmadness.church_doctor" : "Médico da Igreja",
@@ -90,6 +103,8 @@
   "entity.bloodandmadness.church_doctor_flamesprayer" : "Médico da Igreja com Lança-Chamas",
   "entity.bloodandmadness.church_doctor_crucifix" : "Médico da Igreja com Crucifixo",
   "entity.bloodandmadness.church_doctor_scythe" : "Médico da Igreja com Foice",
+  "entity.bloodandmadness.celestial_emissary" : "Emissário Celestial",
+  "item.bloodandmadness.eggs.celestial_emissary_spawn_egg" : "Ovo de Emissário Celestial",
   
 
 
@@ -130,7 +145,7 @@
   "item.bloodandmadness.molotov_cocktail" : "Coquetel Molotov",
   "item.bloodandmadness.infinite_blood_vial" : "Ampola de Sangue Infinita",
   "item.bloodandmadness.wolf_beast_spawn_egg" : "Ovo de Besta do Flagelo",
-  "item.bloodandmadness.music_box" : "Caixa de Música",
+
   "block.bloodandmadness.lamp" : "Lâmpada",
   "block.bloodandmadness.mercury_soaked_stone" : "Pedra Encharcada em Mercúrio",
   "block.bloodandmadness.workshop" : "Oficina do Caçador",
@@ -141,11 +156,11 @@
   "item.bloodandmadness.cathedral_wolf_beast_spawn_egg" : "Ovo de Besta do Flagelo da Catedral Superior",
   "entity.bloodandmadness.cathedral_wolf_beast" : "Besta do Flagelo da Catedral Superior",
   "item.bloodandmadness.beast_patient_spawn_egg" : "Ovo de Paciente Besta",
-"entity.bloodandmadness.beast_patient" : "Paciente Besta",
+
 "item.bloodandmadness.female_beast_patient_spawn_egg" : "Ovo de Paciente Besta Fêmea",
 "entity.bloodandmadness.female_beast_patient" : "Paciente Besta Fêmea",
 "item.bloodandmadness.ashen_blood_beast_patient_spawn_egg" : "Ovo de Paciente Besta de Sangue Cinzento",
-"entity.bloodandmadness.ashen_blood_beast_patient" : "Paciente Besta de Sangue Cinzento",
+
 "item.bloodandmadness.silverbeast_spawn_egg" : "Ovo de Fera Prateada",
 "entity.bloodandmadness.cleric_beast" : "Fera do Clérigo",
 "item.bloodandmadness.cleric_beast_spawn_egg" : "Ovo de Fera do Clérigo",
