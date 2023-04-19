@@ -59,54 +59,54 @@
 
   "itemGroup.endremTab": "End Remastered",
 
-  "block.portal_open_sound": "Portal Opening",
-  "block.portal_open_sound.sub": "Portal Opening",
+  "block.portal_open_sound": "Abertura do Portal",
+  "block.portal_open_sound.sub": "Abertura do Portal",
 
-  "advancements.main.root.title": "The Beginning of An Adventure",
-  "advancements.main.root.description": "Get Your First Eye",
+  "advancements.main.root.title": "O Início de Uma Aventura",
+  "advancements.main.root.description": "Obtenha seu primeiro Olho",
 
-  "advancements.main.old_eye.title": "Fortune Seeker",
-  "advancements.main.old_eye.description": "Get Your First Old Eye",
+  "advancements.main.old_eye.title": "Caçador de Tesouros",
+  "advancements.main.old_eye.description": "Obtenha seu primeiro Olho Antigo",
 
-  "advancements.main.rogue_eye.title": "Welcome To The Jungle",
-  "advancements.main.rogue_eye.description": "Get Your First Rogue Eye",
+  "advancements.main.rogue_eye.title": "Bem-Vindo à Selva",
+  "advancements.main.rogue_eye.description": "Obtenha seu primeiro Olho Errante",
 
-  "advancements.main.nether_eye.title": "Stare Into Despair",
-  "advancements.main.nether_eye.description": "Get Your First Nether Eye",
+  "advancements.main.nether_eye.title": "Encare o Desespero",
+  "advancements.main.nether_eye.description": "Obtenha seu primeiro Olho do Nether",
 
-  "advancements.main.cold_eye.title": "A Nice-y Look",
-  "advancements.main.cold_eye.description": "Get Your First Cold Eye",
+  "advancements.main.cold_eye.title": "Olhar Gélido",
+  "advancements.main.cold_eye.description": "Obtenha seu primeiro Olho do Frio",
 
-  "advancements.main.corrupted_eye.title": "Cover Me In Emeralds", "%%%%%%Comment%%%%%%": "Golden Shower fits better but whatever...",
-  "advancements.main.corrupted_eye.description": "Get Your First Corrupted Eye",
+  "advancements.main.corrupted_eye.title": "Me Cubra com Esmeraldas", "%%%%%%Comment%%%%%%": "Golden Shower fits better but whatever...",
+  "advancements.main.corrupted_eye.description": "Obtenha seu primeiro Olho Corrompido",
 
-  "advancements.main.magical_eye.title": "Fallen Sorcerer",
-  "advancements.main.magical_eye.description": "Get Your First Magical Eye",
+  "advancements.main.magical_eye.title": "Feiticeiro Caído",
+  "advancements.main.magical_eye.description": "Obtenha seu primeiro Olho Mágico",
 
-  "advancements.main.black_eye.title": "Arghh, Where be Me Ship?",
-  "advancements.main.black_eye.description": "Get Your First Black Eye",
+  "advancements.main.black_eye.title": "Arghh, Onde Está Meu Navio?",
+  "advancements.main.black_eye.description": "Obtenha seu primeiro Olho Negro",
 
-  "advancements.main.lost_eye.title": "Need A Map?",
-  "advancements.main.lost_eye.description": "Get Your First Lost Eye",
+  "advancements.main.lost_eye.title": "Precisa de um Mapa?",
+  "advancements.main.lost_eye.description": "Obtenha seu primeiro Olho Perdido",
 
-  "advancements.main.wither_eye.title": "Wither You Want It Or Not",
-  "advancements.main.wither_eye.description": "Get Your First Wither Eye",
+  "advancements.main.wither_eye.title": "Querendo ou Não, Enfrentou o Wither",
+  "advancements.main.wither_eye.description": "Obtenha seu primeiro Olho do Wither",
 
-  "advancements.main.guardian_eye.title": "Who's Guarding The Temple Now?",
-  "advancements.main.guardian_eye.description": "Get Your First Guardian Eye",
+  "advancements.main.guardian_eye.title": "Quem Está Protegendo o Templo Agora?",
+  "advancements.main.guardian_eye.description": "Obtenha seu primeiro Olho Guardião",
 
-  "advancements.main.cursed_eye.title": "A New Protector...",
-  "advancements.main.cursed_eye.description": "Get Your First Cursed Eye",
+  "advancements.main.cursed_eye.title": "Um Novo Protetor...",
+  "advancements.main.cursed_eye.description": "Obtenha seu primeiro Olho Amaldiçoado",
 
-  "advancements.main.evil_eye.title": "A Real Blessing",
-  "advancements.main.evil_eye.description": "Get Your First Evil Eye",
+  "advancements.main.evil_eye.title": "Uma Verdadeira Bênção",
+  "advancements.main.evil_eye.description": "Obtenha seu primeiro Olho Malígno",
 
-  "advancements.main.exotic_eye.title": "Where's Atlantis?",
-  "advancements.main.exotic_eye.description": "Get Your First Exotic Eye",
+  "advancements.main.exotic_eye.title": "Onde Está Atlântida?",
+  "advancements.main.exotic_eye.description": "Obtenha seu primeiro Olho Exótico",
 
-  "advancements.main.undead_eye.title": "The Mirror Of The Soul",
-  "advancements.main.undead_eye.description": "Get Your First Undead Eye",
+  "advancements.main.undead_eye.title": "O Espelho da Alma",
+  "advancements.main.undead_eye.description": "Obtenha seu primeiro Olho Morto-Vivo",
 
-  "advancements.main.cryptic_eye.title": "Patience Is The Road To Wisdom",
-  "advancements.main.cryptic_eye.description": "Get Your First Cryptic Eye"
+  "advancements.main.cryptic_eye.title": "A Paciência é o Caminho para a Sabedoria",
+  "advancements.main.cryptic_eye.description": "Obtenha seu primeiro Olho Críptico"
 }
