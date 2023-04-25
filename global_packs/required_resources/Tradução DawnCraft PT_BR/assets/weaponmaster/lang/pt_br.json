@@ -1,0 +1,34 @@
+{
+	"weaponmaster.screen":"YDM's Weapon Master",
+	"key.weaponmaster.category":"YDM's Weapon Master",
+	"key.weaponmaster.opengui":"Abrir Configurações",
+	"weaponmaster.screen2":"Mais Configurações",
+	"weaponmaster.screen.reset_to_previous": "Redefinir",
+	"weaponmaster.screen.reset_to_null":"Redefinir todos para 0",
+	
+	"gui.weaponmaster.slot.posx":"Posição X: ",
+	"gui.weaponmaster.slot.posy":"Posição Y: ",
+	"gui.weaponmaster.slot.posz":"Posição Z: ",
+	
+	"gui.weaponmaster.slot.rotx":"Rotação X: ",
+	"gui.weaponmaster.slot.roty":"Rotação Y: ",
+	"gui.weaponmaster.slot.rotz":"Rotação Z: ",
+	
+	"weaponmaster.screen.other_settings":"Mais",
+	"weaponmaster.screen.shield":"Escudo",
+	"weaponmaster.screen.banner":"Estandarte",
+	
+	"gui.weaponmaster.attach.head":"Cabeça",
+	"gui.weaponmaster.attach.body":"Corpo",
+	"gui.weaponmaster.attach.larm":"Braço Esquerdo",
+	"gui.weaponmaster.attach.rarm":"Braço Direito",
+	"gui.weaponmaster.attach.lleg":"Perna Esquerda",
+	"gui.weaponmaster.attach.rleg":"Perna Direita",
+	"gui.weaponmaster.rotate":"Arraste para rotacionar",
+	"gui.weaponmaster.slot.shield":"Escudo",
+	"gui.weaponmaster.slot.banner":"Estandarte",
+	"gui.weaponmaster.mover":"Modificar a posição de:",
+	"gui.weaponmaster.arrowright":"->",
+	"gui.weaponmaster.attach":"Ligar a uma Parte do Corpo:"
+	
+}
