@@ -1,0 +1,10 @@
+{
+  "key.waterdripsound.category": "Geral",
+  "config.waterdripsound.general": "Configuração de Drip Sounds",
+  "config.waterdripsound.enable": "Habilitar",
+  "config.waterdripsound.volume": "Volume",
+  "config.waterdripsound.dripChance": "Chance de Gotejamento",
+  "config.waterdripsound.useDripstoneSounds": "Utilizar Sons de Estalactite",
+  "tooltip.config.waterdripsound.useDripstoneSounds": "Se ativado, utiliza a água/lava de estalactite\n sons de gotejamento adicionados na versão 1.17.\nCaso contrário, utiliza sons de versões\n mais antigas do mod.",
+  "config.waterdripsound.soundCategory": "Categoria de Som"
+}
