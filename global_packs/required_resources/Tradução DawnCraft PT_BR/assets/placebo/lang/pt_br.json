@@ -1,0 +1,8 @@
+{
+	"key.categories.placebo": "Placebo",
+	"placebo.toggleTrails": "Ativar Partículas do Patreon",
+	"placebo.toggleWings": "Ativar Asas do Patreon",
+	"placebo.cmd.serialize_success": "%s salvo para %s.",
+	"placebo.cmd.serialize_failure": "Ocorreu um erro durante o processo de serialização.",
+	"placebo.cmd.not_found": "%s não foi encontrado."
+}
