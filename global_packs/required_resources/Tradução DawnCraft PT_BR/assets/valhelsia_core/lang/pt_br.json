@@ -1,5 +1,5 @@
 {
-    "gui.valhelsia_core.config.error": "Erro no valor de configuração",
+    "gui.valhelsia_core.config.error": "Erro no Valor de Configuração",
     "gui.valhelsia_core.config.error.title": "Erro de Configuração",
     "gui.valhelsia_core.config.next_error": "Próximo Erro",
     "gui.valhelsia_core.config.ignoring": "Ignorando isso.",
@@ -31,5 +31,5 @@
     "cosmetic.valhelsia_core.yellow_valhelsia_cape": "Capa Valhelsia Amarela",
     "cosmetic.valhelsia_core.khytwel_valhelsia_cape": "Capa Valhelsia Khytwel",
     "cosmetic.valhelsia_core.vaelzan_valhelsia_cape": "Capa Valhelsia Vaelzan",
-    "cosmetic.valhelsia_core.team_valhelsia_cape": "Capa Valhelsia da Equipe"    
+    "cosmetic.valhelsia_core.team_valhelsia_cape": "Capa do Time Valhelsia"    
 }
