@@ -6,6 +6,12 @@ ModPack Version: 1.15
 
 Se estiver interessado, Discord: [Here](https://discord.gg/c8JCqVyn "DawnCraft - Tradução pt_br")
 
+### Progresso
+
+ - FTBQuests: 4/12
+ - Missões: 74/118
+ - Mods: 90/166
+
 ### Para Jogadores: Instalação da Tradução
 
  ...
