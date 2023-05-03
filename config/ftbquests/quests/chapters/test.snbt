@@ -839,13 +839,22 @@
 				advancement: "simple_mobs:notorious"
 				criterion: ""
 			}]
-			rewards: [{
-				id: "0206FC6701ED673E"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Parece que a sua reputação é \"},{\"text\":\"ruim \",\"color\":\"red\"},{\"text\":\"entre os aldeões. Os aldeões agora vão parar de negociar com você. Se a sua reputação cair ainda mais, guardas e golems de ferro podem começar a te atacar. Você pode melhorar sua reputação entregando \"},{\"text\":\"pacotes de dinheiro \",\"color\":\"green\"},{\"text\":\"nos baús financeiros dentro das casas da guildas ou das barracas.\"}]"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "0206FC6701ED673E"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"Parece que a sua reputação é \"},{\"text\":\"ruim\",\"bold\":true,\"color\":\"red\"},{\"text\":\" com os aldeões. Você foi \"},{\"text\":\"perdoado\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" por está ser sua primeira ofensa... Mas na próxima vez, aldeões não irão mais trocar com você. E se sua reputação piorar ainda mais, guardas e golens de ferro podem começar a te atacar. Você pode melhorar a sua reputação entregando \"},{\"text\":\"pacotes de dinheiro\",\"bold\":true,\"color\":\"green\"},{\"text\":\" (criável) \",\"italic\":true},{\"text\":\"nos baús financeiros dentro das casas da guildas ou das barracas.\"}]"
+					player_command: false
+				}
+				{
+					id: "71CF84030CC57DE5"
+					type: "command"
+					auto: "invisible"
+					command: "/setreputation reputation:villager @p 0"
+					player_command: false
+				}
+			]
 		}
 		{
 			x: 12.0d

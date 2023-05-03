@@ -2,7 +2,7 @@
 
 CurseForge Link: [Here](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
-ModPack Version: 1.15
+ModPack Version: 1.16_hf
 
 Se estiver interessado, Discord: [Here](https://discord.gg/c8JCqVyn "DawnCraft - Tradução pt_br")
 
@@ -10,7 +10,7 @@ Se estiver interessado, Discord: [Here](https://discord.gg/c8JCqVyn "DawnCraft -
 
  - FTBQuests: 4/12
  - Missões: 74/118
- - Mods: 90/166
+ - Mods: 90/167
 
 ### Para Jogadores: Instalação da Tradução
 
