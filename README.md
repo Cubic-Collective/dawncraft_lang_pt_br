@@ -1,10 +1,10 @@
 ## DawnCraft ModPack Brazilian-Portuguese Localization (WIP)
 
-CurseForge Link: [Here](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
+CurseForge Link: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
 ModPack Version: 1.16_hf
 
-Se estiver interessado, Discord: [Here](https://discord.gg/c8JCqVyn "DawnCraft - Tradução pt_br")
+Se estiver interessado, Discord: [Link](https://discord.gg/c8JCqVyn "DawnCraft - Tradução pt_br")
 
 ### Progresso
 
