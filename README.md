@@ -4,7 +4,7 @@ CurseForge Link: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft
 
 ModPack Version: 1.16_hf
 
-Se estiver interessado, Discord: [Link](https://discord.gg/c8JCqVyn "DawnCraft - Tradução pt_br")
+Se estiver interessado, Discord: [Link](https://discord.gg/QHCuJP4f "DawnCraft - Tradução pt_br")
 
 ### Progresso
 
