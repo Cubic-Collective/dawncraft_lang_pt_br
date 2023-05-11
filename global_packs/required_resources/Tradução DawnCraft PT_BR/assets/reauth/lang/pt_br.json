@@ -44,7 +44,7 @@
   "reauth.msauth.step.initial": "Iniciando processo de autenticação",
   "reauth.msauth.step.finished": "Login bem-sucedido",
   "reauth.msauth.step.profile": "Salvando Perfil",
-  "reauth.msauth.step.failed": "Login falhou - Por favor, tente novamente",
+  "reauth.msauth.step.failed": "Login falhou",
   "reauth.msauth.step.crypto": "Inicializando criptografia do Perfil",
   "reauth.msauth.step.yggdrasil": "Autenticando com Mojang",
   "reauth.msauth.step.microsoft.code.await": "Por favor, verifique seu navegador para fazer login",
@@ -56,5 +56,13 @@
   "reauth.msauth.step.xsts": "Autenticação com o Serviço de Token do Xbox Live",
   "reauth.msauth.step.mojang": "Autenticação com a Mojang",
   "reauth.msauth.step.fetch": "Recuperando Informações do Perfil",
-  "reauth.msauth.button.browser": "Abrir Página de Login no Navegador"
+  "reauth.msauth.button.browser": "Abrir Página de Login no Navegador",
+  "reauth.error.none": "Login falhou com sucesso",
+  "reauth.error.cancelled": "Login foi cancelado",
+  "reauth.error.unknown": "Ocorreu um erro desconhecido\nTente novamente",
+  "reauth.error.network": "Não é possível acessar os servidores de autenticação\nVerifique sua conexão e tente novamente",
+  "reauth.error.expired": "Perfil salvo expirou\nFaça login novamente",
+  "reauth.error.crypto": "Perfil salvo está corrompido\nFaça login novamente",
+  "reauth.error.xbox": "Nenhuma conta Xbox encontrada\nVerifique se você usou a conta correta",
+  "reauth.error.minecraft": "Nenhuma conta Minecraft encontrada\nVerifique se você usou a conta correta\n\nInformações para usuários do Xbox Game Pass:\nConfigure sua conta no Launcher oficial"
 }

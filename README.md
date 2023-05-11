@@ -2,7 +2,7 @@
 
 CurseForge Link: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
-ModPack Version: 1.16_hf
+ModPack Version: 1.17
 
 Se estiver interessado, Discord: [Link](https://discord.gg/QHCuJP4f "DawnCraft - Tradução pt_br")
 

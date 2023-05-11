@@ -1004,7 +1004,7 @@
 				id: "01214ACE5D82E719"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços de troca são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Ganhe reputação ao completar missões do Livro de Missões, ou Missões de Aldeões. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços de troca são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Ganhe reputação ao completar missões de Aldeões. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
 				player_command: false
 			}]
 		}
