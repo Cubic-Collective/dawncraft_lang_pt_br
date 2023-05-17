@@ -372,6 +372,7 @@
   "item.simple_mobs.u_gone_spawn_egg": "uGone Spawn Egg",
   "item.minecraft.potion.effect.blood_thirst_i": "Potion of Blood Thirst",
   "item.simple_mobs.korok_5_spawn_egg": "Korok Spawn Egg",
+  "message.fire_giant.1": "You are getting too far away from the Fire Giant. He may lose interest in you...",
   "subtitles.fire_giant.sweep": "",
   "subtitles.rat_hurt": "",
   "item.simple_mobs.sentinel_sword.tooltip": "The sword dropped by the Sentinel Knight.",
