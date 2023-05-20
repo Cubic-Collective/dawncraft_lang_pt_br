@@ -204,7 +204,7 @@
 	"text.dawncraft.quest.witch2":"Você trouxe os ingredientes para mim?¬Asa de Morcego, Casca de Árvore,¬Olho de Inseto, Cera de Abelha,¬Uma perna de uma lebre,¬Tufos de pele de um urso,¬E por fim uma gema totalmente verde.",
 	"text.dawncraft.quest.witch3":"Agora para banir o lich¬Apenas uma gota do meu sangue como uma bruxa¶Então eu devo dizer adeus a você¬Estes serão mais úteis para você do que eu.",
 	
-	"text.dawncraft.quest.king1":"Oh, ai de mim, não tenho nada em meu nome, meu reino foi destruído e minha família não existe mais.¶Mas você, você é um aventureiro, não é?¬Você pode conseguir me ajudar...¶Há apenas uma coisa que pode restaurar meu reino à sua antiga glória... um Cajado da Ressurreição!¶Se você se aventurar nas profundezas do Nether e conseguir o coração de um abutre de almas, eu devo ser capaz de fazer um.¬Eu ouvi que Abutres de Almas podem ser encontrados nos Vales das Almas.",
+	"text.dawncraft.quest.king1":"Oh, ai de mim, eu antes dominava o mundo, agora não tenho nada em meu nome, meu reino foi destruído e minha família não existe mais.¶Mas você, você é um aventureiro, não é?¬Você pode conseguir me ajudar...¶Há apenas uma coisa que pode restaurar meu reino à sua antiga glória... um Cajado da Ressurreição!¶Se você se aventurar nas profundezas do Nether e conseguir o coração de um abutre de almas, eu devo ser capaz de fazer um.¬Eu ouvi que Abutres de Almas podem ser encontrados nos Vales das Almas.",
 	"text.dawncraft.quest.king2":"Você já encontrou o Coração da Alma?¬Eu ouvi que Abutres de Almas podem ser encontrados nos Vales das Almas.",
 	"text.dawncraft.quest.king3":"Obrigado, você trouxe, infelizmente não tenho poderes mágicas, então não consigo terminar de fazer o cajado.¶Mas eu sinto um grande poder dentro de você, você deve ser capaz de dar poder a este cajado...¶Se você seguir minhas instruções, poderá dar poder a este cajado.¶Primeiro de tudo, você precisa de uma mesa encantamentos.¬Em seguida, coloque um Pedestal em cada uma das 4 direções a partir dele, com um espaçamento de 2 blocos.¬Por fim, coloque um pó de blaze em cada um dos pedestais e use o cajado descarregado na Mesa de Encantamentos.",
 	"text.dawncraft.quest.king4":"Primeiro de tudo, você precisa de uma mesa de encantamentos.¬Em seguida, coloque um Pedestal em cada uma das 4 direções a partir dele, com um espaçamento de 2 blocos.¬Por fim, coloque um pó de blaze em cada um dos pedestais e use o cajado descarregado na Mesa de Encantamentos.",
@@ -248,5 +248,14 @@
 	"text.dawncraft.decline2": "Estou ocupado",
 	"text.dawncraft.decline3": "Não, desculpe",
 	"text.dawncraft.decline4": "Agora não",
-	"text.dawncraft.decline5": "Eu recuso!"
+	"text.dawncraft.decline5": "Eu recuso!",
+
+	"advancements.adventure.kill_a_creeper.title": "Ah, cara",
+	"advancements.adventure.kill_a_creeper.description": "Mate um creeper",
+	"advancements.adventure.fallenkingdom.title": "Eu dominava o mundo",
+	"advancements.adventure.fallenkingdom.description": "Ajude um rei a restaurar seu reino.",
+	"advancements.end.root.title": "Encontre os fragmentos",
+	"advancements.end.root.description": "Entre no end...",
+	"advancements.story.enter_the_end.title": "Encontre os fragmentos",
+	"advancements.story.enter_the_end.description": "Monte o quebra-cabeça novamente..."
 }
