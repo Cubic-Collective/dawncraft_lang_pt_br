@@ -1,4 +1,0 @@
-{
-  "commands.terrablender.biomeparams.success": "Parameters at position %s %s %s: %s",
-  "commands.terrablender.biomeparams.failed": "Could not determine parameters"
-}
