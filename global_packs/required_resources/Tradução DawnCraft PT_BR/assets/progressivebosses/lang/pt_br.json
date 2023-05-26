@@ -2,19 +2,19 @@
   "item.progressivebosses.nether_star_shard": "Fragmento de Estrela do Nether",
   "item.progressivebosses.elder_guardian_spike": "Espinho de Guardião-Mestre",
 
-  "entity.progressivebosses.wither_minion": "Lacaios do Wither",
+  "entity.progressivebosses.wither_minion": "Servo do Wither",
   "death.attack.progressivebosses:wither_charge_attack": "%1$s foi atacado por %2$s.",
 
-  "entity.progressivebosses.larva": "Larva do Dragão",
-  "progressivebosses:dragon_minion": "Lacaio do Dragão",
+  "entity.progressivebosses.larva": "Larva de Dragão",
+  "progressivebosses:dragon_minion": "Servo do Dragão",
   "death.attack.progressivebosses:dragon_fireball": "%1$s foi atingido por uma bola de fogo lançada por %2$s.",
 
-  "progressivebosses:elder_minion": "Lacaio do Mestre",
+  "progressivebosses:elder_minion": "Servo do Guardião-Mestre",
 
   "progressivebosses:command.player_get_wither_difficulty": "%s invocou %d Withers.",
   "progressivebosses:command.player_get_dragon_difficulty": "%s matou %d Dragões",
-  "progressivebosses:command.player_set_boss_difficulty": "Defina a dificuldade de %s para %s como %d",
-  "progressivebosses:command.player_add_boss_difficulty": "Adicionado %d de dificuldade do %s para %s (agora %d)",
+  "progressivebosses:command.player_set_boss_difficulty": "Define a dificuldade de %s para %s como %d",
+  "progressivebosses:command.player_add_boss_difficulty": "Adicionado %d de dificuldade de %s para %s (agora %d)",
   "progressivebosses:command.summoned_entity": "Invocado %s com dificuldade %d.",
   "progressivebosses:command.summon_invalid_entity": "A entidade %s não é válida.",
 
