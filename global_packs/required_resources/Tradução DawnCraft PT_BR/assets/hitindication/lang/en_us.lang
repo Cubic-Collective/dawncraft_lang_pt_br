@@ -1,0 +1,24 @@
+
+gui.config.main_title=Hit Indicators Config
+gui.config.category.indicators=Indicators
+
+gui.config.indicators.max_indicator_count=Max Indicator Count
+gui.config.indicators.max_indicator_count.comment=Determines maximum indicator count shown on screen (0 = unlimited). Upon exceeding the oldest indicator will be removed.
+
+gui.config.indicators.display_hits_from_negative_potions=Display Hits From Non-Damaging Negative Potions
+gui.config.indicators.display_hits_from_negative_potions.comment=Shows red indicator when an entity hits the player with a non-damaging negative potion.
+
+gui.config.indicators.size_depends_on_damage=Heavy damage makes indicator larger
+gui.config.indicators.size_depends_on_damage.comment=Any instance of damage that deals 30 percent or more of max health will result in larger indicators.
+
+gui.config.indicators.indicator_default_scale=Indicator Default Scale (0-100)
+gui.config.indicators.indicator_default_scale.comment=Determines scale of indicators.
+
+gui.config.indicators.fade_rate=Indicator Fade Rate (Ticks)
+gui.config.indicators.fade_rate.comment=Amount of ticks after which indicator disappears.
+
+gui.config.indicators.indicator_opacity=Indicator Opacity (0-100)
+gui.config.indicators.indicator_opacity.comment=Determines opacity of the indicators.
+
+gui.config.indicators.display_blue_indicators=Show Block Indicator
+gui.config.indicators.display_blue_indicators.comment=Shows blue indicator when the player blocks incoming damage with a shield.
