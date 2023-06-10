@@ -3,9 +3,9 @@
 	group: ""
 	order_index: 10
 	filename: "bossesminibosses_in_this_realm"
-	title: "Criaturas Notórias"
+	title: "Criaturas Notórias neste Reino..."
 	icon: "apotheosis:boss_summoner"
-	subtitle: ["Derrote estas criaturas para provar o seu valor..."]
+	subtitle: ["Derrote essas criaturas para provar seu valor..."]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -95,7 +95,7 @@
 			tasks: [{
 				id: "4D745F7EB67EBF7F"
 				type: "kill"
-				title: "Lorde da Feitiçaria, o Esqueleto Soberano"
+				title: "Senhor da Magia, o Lorde Esqueleto"
 				icon: {
 					id: "ars_nouveau:archmage_robes"
 					Count: 1b
@@ -148,6 +148,12 @@
 				entity: "simple_mobs:elemental_deity"
 				value: 1L
 			}]
+			rewards: [{
+				id: "533C5E2EAC9A9A9F"
+				type: "item"
+				item: "scattered_weapons:soulium_ingot"
+				count: 64
+			}]
 		}
 		{
 			x: -4.5d
@@ -177,7 +183,7 @@
 			tasks: [{
 				id: "7656A203BA9099CF"
 				type: "kill"
-				title: "Rei Sem Nome"
+				title: "Nameless King"
 				icon: {
 					id: "darkersouls:crown_of_tempest"
 					Count: 1b
@@ -197,7 +203,7 @@
 			tasks: [{
 				id: "447DB75056CBD118"
 				type: "kill"
-				title: "Padre Gascoigne"
+				title: "Pai Gascoigne"
 				icon: "bloodandmadness:eggs/father_gascoigne_spawn_egg"
 				entity: "bloodandmadness:gascoigne_beast"
 				value: 1L
@@ -232,7 +238,7 @@
 			tasks: [{
 				id: "30A060BFE3C678AE"
 				type: "kill"
-				title: "Mandíbula da Geada"
+				title: "Frostmaw"
 				icon: {
 					id: "mowziesmobs:ice_crystal"
 					Count: 1b
@@ -252,7 +258,7 @@
 			tasks: [{
 				id: "5281E7E360880255"
 				type: "kill"
-				title: "Barako, o Chefe Sol"
+				title: "Barako, o Chefe do Sol"
 				icon: "mowziesmobs:barako_mask"
 				entity: "mowziesmobs:barako"
 				value: 1L
@@ -286,7 +292,7 @@
 			tasks: [{
 				id: "04B8D048411FF640"
 				type: "kill"
-				title: "Shogun"
+				title: "Xogunato"
 				icon: {
 					id: "epicfight:katana"
 					Count: 1b
@@ -320,7 +326,7 @@
 			tasks: [{
 				id: "734F4844D5C53EEE"
 				type: "kill"
-				title: "Juggernaut de Aço"
+				title: "Ferrous Wroughtnaut"
 				icon: "mowziesmobs:wrought_helmet"
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				value: 1L
@@ -354,7 +360,7 @@
 			tasks: [{
 				id: "54D44DF2F5B4D01A"
 				type: "kill"
-				title: "Guardião do End"
+				title: "Guardião Ender"
 				icon: "minecraft:shulker_box"
 				entity: "cataclysm:ender_guardian"
 				value: 1L
@@ -368,7 +374,7 @@
 			tasks: [{
 				id: "63CB7D304B4A5E62"
 				type: "kill"
-				title: "Golem do End"
+				title: "Golem Ender"
 				icon: "cataclysm:ender_guardian_spawner"
 				entity: "cataclysm:ender_golem"
 				value: 1L
@@ -382,7 +388,7 @@
 			tasks: [{
 				id: "1615F156D8868175"
 				type: "kill"
-				title: "Feiticeiro"
+				title: "Magispeller"
 				icon: "illageandspillage:totem_of_banishment"
 				entity: "illageandspillage:magispeller"
 				value: 1L
@@ -396,7 +402,7 @@
 			tasks: [{
 				id: "220EE68C5C6457C4"
 				type: "kill"
-				title: "Conjurador Espiritual"
+				title: "Invocador de Espíritos"
 				icon: {
 					id: "illageandspillage:spellbound_book"
 					Count: 1b
@@ -485,7 +491,7 @@
 			tasks: [{
 				id: "4B8BB374C630CA51"
 				type: "kill"
-				title: "Minhoca do Vazio"
+				title: "Verme do Vácuo"
 				icon: "alexsmobs:mysterious_worm"
 				entity: "alexsmobs:void_worm"
 				value: 1L
@@ -499,7 +505,7 @@
 			tasks: [{
 				id: "63C65D7821ADD9B5"
 				type: "kill"
-				title: "Mosquito das Profundezas"
+				title: "Mosco Distorcido"
 				icon: "alexsmobs:warped_muscle"
 				entity: "alexsmobs:warped_mosco"
 				value: 1L
@@ -562,7 +568,7 @@
 			tasks: [{
 				id: "2ECE5BFDEBD7969E"
 				type: "kill"
-				title: "Habitante das Cavernas"
+				title: "Morador de Caverna"
 				icon: {
 					id: "simple_mobs:dweller_core"
 					Count: 1b
@@ -582,7 +588,7 @@
 			tasks: [{
 				id: "53B0061130E1FEEA"
 				type: "kill"
-				title: "Destruidor de Estrelas"
+				title: "Triturador Estrelado"
 				icon: "blue_skies:starlit_leaves"
 				entity: "blue_skies:starlit_crusher"
 				value: 1L
@@ -610,7 +616,7 @@
 			tasks: [{
 				id: "147168466A3409F7"
 				type: "kill"
-				title: "Alquemista"
+				title: "Alquimista"
 				icon: {
 					id: "blue_skies:alchemy_scroll"
 					Count: 1b
@@ -630,7 +636,7 @@
 			tasks: [{
 				id: "186BD8407FB7B253"
 				type: "kill"
-				title: "Aracnarca"
+				title: "Arachnarch"
 				icon: "blue_skies:spider_webbing"
 				entity: "blue_skies:arachnarch"
 				value: 1L
@@ -644,7 +650,7 @@
 			tasks: [{
 				id: "3B5D132011FD1BCA"
 				type: "kill"
-				title: "Dama Fortuna"
+				title: "Dame Fortuna"
 				icon: "meetyourfight:devils_ante"
 				entity: "meetyourfight:dame_fortuna"
 				value: 1L
@@ -658,7 +664,7 @@
 			tasks: [{
 				id: "456A4E1435763196"
 				type: "kill"
-				title: "Mandíbula do Pântano"
+				title: "Swampjaw"
 				icon: "meetyourfight:mossy_tooth"
 				entity: "meetyourfight:swampjaw"
 				value: 1L
@@ -686,7 +692,7 @@
 			tasks: [{
 				id: "0977648E905A20ED"
 				type: "kill"
-				title: "Bahryn'muul, o Entombado"
+				title: "Bahryn'muul, Sepultado"
 				icon: "ba_bt:guardian_eye_land"
 				entity: "ba_bt:land_golem"
 				value: 1L
@@ -700,9 +706,23 @@
 			tasks: [{
 				id: "2540B51253A76D43"
 				type: "kill"
-				title: "Moraizu'un, o Ídolo dos Afogados"
+				title: "Moraizu'un, Ídolo dos Afogados"
 				icon: "ba_bt:guardian_eye_ocean"
 				entity: "ba_bt:ocean_golem"
+				value: 1L
+			}]
+		}
+		{
+			x: -8.5d
+			y: -7.0d
+			shape: "square"
+			id: "6DBE392A143B7359"
+			tasks: [{
+				id: "59B1CCF6F6547781"
+				type: "kill"
+				title: "Quimera Wilden"
+				icon: "ars_nouveau:wilden_tribute"
+				entity: "ars_nouveau:wilden_boss"
 				value: 1L
 			}]
 		}

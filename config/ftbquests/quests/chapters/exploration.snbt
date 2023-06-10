@@ -3,23 +3,23 @@
 	group: ""
 	order_index: 5
 	filename: "exploration"
-	title: "Exploration"
+	title: "Exploração"
 	icon: "supplementaries:globe"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Overworld"
+			title: "Mundo superior"
 			icon: "minecraft:grass_block"
 			x: 0.0d
 			y: -4.0d
-			description: ["The overworld is home to many quests, resources, treasure and challenges. Take your time, plan your course, and survive. Those who endure will find great power, and ascend to other planes."]
+			description: ["O mundo superior é o lar de muitas missões, recursos, tesouros e desafios. Leva o teu tempo, planeia o teu percurso e sobrevive. Aqueles que resistirem encontrarão grande poder e ascenderão a outros planos."]
 			size: 2.0d
 			id: "26B0E9F636E0AB36"
 			tasks: [{
 				id: "53A579D6FE317288"
 				type: "checkmark"
-				title: "Read"
+				title: "Ler"
 			}]
 			rewards: [{
 				id: "26B60CBC196BB852"
@@ -32,13 +32,13 @@
 			icon: "minecraft:nether_wart_block"
 			x: 4.5d
 			y: -4.0d
-			description: ["The nether can be accessed in the same way as Vanilla Miencraft, however the dangers and rewards that lurk there are great..."]
+			description: ["O nether pode ser acedido da mesma forma que o Vanilla Miencraft, mas os perigos e as recompensas que lá se escondem são grandes..."]
 			size: 2.0d
 			id: "697846FDD5008134"
 			tasks: [{
 				id: "675BDFC245723D63"
 				type: "checkmark"
-				title: "Read"
+				title: "Ler"
 			}]
 			rewards: [{
 				id: "530A2D340C3DFEFB"
@@ -52,13 +52,13 @@
 			icon: "blue_skies:turquoise_cobblestone"
 			x: 9.0d
 			y: -4.0d
-			description: ["The Everdawn dimension is home to many challenges and resources. Craft new gear, slay new bosses, and find legendary items."]
+			description: ["A dimensão Everdawn é o lar de muitos desafios e recursos. Cria novos equipamentos, mata novos bosses e encontra itens lendários."]
 			size: 2.0d
 			id: "278CAD60E4CC5A79"
 			tasks: [{
 				id: "369AD0EBD1632751"
 				type: "checkmark"
-				title: "Tell me more"
+				title: "Diz-me mais"
 			}]
 			rewards: [{
 				id: "28C80E50688DB642"
@@ -67,17 +67,17 @@
 			}]
 		}
 		{
-			title: "The Everdawn"
+			title: "O amanhecer"
 			icon: "blue_skies:lunar_cobblestone"
 			x: 14.0d
 			y: -4.0d
-			description: ["The Everdawn dimension is filled with new bosses and resources. Explore at your own peril. "]
+			description: ["A dimensão Everdawn está repleta de novos bosses e recursos. Explora por tua conta e risco. "]
 			size: 2.0d
 			id: "1453090ED20C0271"
 			tasks: [{
 				id: "49E9F06E0F60FE9C"
 				type: "checkmark"
-				title: "Tell me more"
+				title: "Diz-me mais"
 			}]
 			rewards: [{
 				id: "4C0727FAE6CD0011"
@@ -91,8 +91,8 @@
 			x: 19.0d
 			y: -4.0d
 			description: [
-				"The End can only be accessed by activating a portal, found in a stronghold. Unlike vanilla Minecraft, 12 unique eyes are required to unlock it. These eyes are rare, and any 12 of them will work (there are more than 12 total in the world). "
-				"\\nFinish the GuildMaster Quest:\\n- Kill 10 Pillagers to learn more."
+				"O Fim só pode ser acedido através da activação de um portal, encontrado numa fortaleza. Ao contrário do Minecraft original, são necessários 12 olhos únicos para o desbloquear. Estes olhos são raros, e quaisquer 12 deles funcionarão (há mais de 12 no mundo). "
+				"\\nTermina a GuildMaster Quest:\\n- Mata 10 Pillagers para saberes mais."
 			]
 			size: 2.0d
 			id: "57EDE0CC1790AEBD"
@@ -100,12 +100,12 @@
 				{
 					id: "0345F1E8C53FAB99"
 					type: "checkmark"
-					title: "Tell me about the Eyes"
+					title: "Fale-me sobre os Olhos"
 				}
 				{
 					id: "091E1B3C99615A7D"
 					type: "gamestage"
-					title: "Finished GuildMaster Quest"
+					title: "Missão GuildMaster concluída"
 					icon: {
 						id: "minecraft:crossbow"
 						Count: 1b
@@ -138,9 +138,9 @@
 					tag: {
 						display: {
 							Lore: [
-								"{\"text\":\"Creates a lit Everbright portal.\"}"
-								"{\"text\":\"Requires the same space as a\"}"
-								"{\"text\":\"Nether Portal\"}"
+								"{\"text\":\"Cria um portal Everbright iluminado.\"}"
+								"{\"text\":\"Requer o mesmo espaço que um\"}"
+								"{\"text\":\"Portal do Nether\"}"
 							]
 							Name: "{\"text\":\"§bEverbright Portal\"}"
 						}
@@ -164,7 +164,7 @@
 						display: {
 							Lore: [
 								"{\"text\":\"Creates a lit EverDawn portal.\"}"
-								"{\"text\":\"Requires the same space as a\"}"
+								"{\"text\":\"Requer o mesmo espaço que um\"}"
 								"{\"text\":\"Nether Portal\"}"
 							]
 							Name: "{\"text\":\"§bEverdawn Portal\"}"
@@ -178,7 +178,7 @@
 			y: -2.0d
 			description: [
 				""
-				"Held by the Corrupt Ogre, found during the main questline."
+				"Detido pelo Ogre Corrupto, encontrado durante a missão principal."
 			]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
@@ -204,7 +204,7 @@
 		{
 			x: 17.5d
 			y: -1.0d
-			description: ["Held by Knight Rober, found during the main questline"]
+			description: ["Detido pelo Cavaleiro Rober, encontrado durante a missão principal"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "27E0894F6EC59E41"
@@ -229,7 +229,7 @@
 		{
 			x: 17.5d
 			y: 0.0d
-			description: ["Held by Nine-Tails, found during the main questline."]
+			description: ["Detido por Nine-Tails, encontrado durante a missão principal."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "1DE383D583863F67"
@@ -254,7 +254,7 @@
 		{
 			x: 17.5d
 			y: 1.0d
-			description: ["Held by the Skeleton Lord, found during the main questline."]
+			description: ["Detido pelo Skeleton Lord, encontrado durante a missão principal."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "1A00AA6649D04596"
@@ -279,7 +279,7 @@
 		{
 			x: 19.0d
 			y: -2.0d
-			description: ["Held in the tree of the Sentinel, who holds the key to unlock it. Found during the main questline."]
+			description: ["Guardado na árvore da Sentinela, que tem a chave para o desbloquear. Encontrado durante a missão principal."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2124AE11DC610CC1"
@@ -304,7 +304,7 @@
 		{
 			x: 19.0d
 			y: -1.0d
-			description: ["Held by the Fire Giant, found during the main questline."]
+			description: ["Detido pelo Gigante de Fogo, encontrado durante a missão principal."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "0B132D9B1280D572"
@@ -329,7 +329,7 @@
 		{
 			x: 19.0d
 			y: 0.0d
-			description: ["Held by the Wither."]
+			description: ["Detido pelo Wither."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2813959518A55FA9"
@@ -359,7 +359,7 @@
 		{
 			x: 19.0d
 			y: 1.0d
-			description: ["Held by Frostmaw, found in cold biomes."]
+			description: ["Possuído por Frostmaw, encontrado em biomas frios."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "05624949F0147925"
@@ -383,7 +383,7 @@
 		{
 			x: 20.5d
 			y: -2.0d
-			description: ["Crafted from a Witch's Eye, dropped rarely from Witches, or found in their treasure."]
+			description: ["Criada a partir de um Olho de Bruxa, raramente largada por Bruxas ou encontrada no seu tesouro."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2ED8F709AB0A1E66"
@@ -413,7 +413,7 @@
 		{
 			x: 20.5d
 			y: -1.0d
-			description: ["Crafted from an Undead Soul, guarded by the Undead Army, who can spawn anywhere after day 100."]
+			description: ["Criada a partir de uma Alma Morta-viva, guardada pelo Exército dos Mortos-vivos, que pode aparecer em qualquer sítio depois do dia 100."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2974355CE2A6BE98"
@@ -438,7 +438,7 @@
 		{
 			x: 20.5d
 			y: 0.0d
-			description: ["Guarded by the Cleric Villagers, found as a rare, high-level trade."]
+			description: ["Guardado pelos aldeões clérigos, encontrado como um comércio raro e de alto nível."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2F938B98834890FF"
@@ -469,7 +469,7 @@
 		{
 			x: 20.5d
 			y: 1.0d
-			description: ["Can be found in Nether dungeons."]
+			description: ["Pode ser encontrado nas masmorras do Nether."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "01521D24D1CA17D0"
@@ -493,7 +493,7 @@
 		{
 			x: 17.5d
 			y: 2.0d
-			description: ["Can be found in desert pyramids."]
+			description: ["Pode ser encontrado em pirâmides do deserto."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "7E38E271D8341C63"
@@ -517,7 +517,7 @@
 		{
 			x: 19.0d
 			y: 2.0d
-			description: ["Can be found in ocean treasures."]
+			description: ["Pode ser encontrado em tesouros do oceano."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "645605CFF7A94936"
@@ -542,7 +542,7 @@
 		{
 			x: 20.5d
 			y: 2.0d
-			description: ["Can be found in Nether bastions."]
+			description: ["Pode ser encontrado nos bastiões de Nether."]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "57D9FF8914AB6540"
@@ -567,7 +567,7 @@
 		{
 			x: 11.5d
 			y: -4.0d
-			subtitle: "Find a GateKeeper to Start Your Journey!"
+			subtitle: "Encontre um GateKeeper para iniciar a sua viagem!"
 			id: "36E0F71703918811"
 			tasks: [{
 				id: "2A33CB2A044D0A89"

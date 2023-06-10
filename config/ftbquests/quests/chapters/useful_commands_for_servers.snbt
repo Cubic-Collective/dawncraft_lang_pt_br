@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 11
 	filename: "useful_commands_for_servers"
-	title: "Informações Úteis"
+	title: "Informações úteis"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [
@@ -14,7 +14,7 @@
 			height: 1.0d
 			rotation: 0.0d
 			image: "ftbteams:textures/accept.png"
-			hover: ["Informações In-Game"]
+			hover: ["In-game Info"]
 			click: ""
 			dev: false
 			corner: false
@@ -26,7 +26,7 @@
 			height: 1.0d
 			rotation: 0.0d
 			image: "ftbteams:textures/accept.png"
-			hover: ["Informações Multiplayer"]
+			hover: ["Multiplayer Info"]
 			click: ""
 			dev: false
 			corner: false
@@ -38,7 +38,7 @@
 			height: 1.0d
 			rotation: 0.0d
 			image: "orcz:textures/aaquestionmark.png"
-			hover: ["Diversos"]
+			hover: ["Misc."]
 			click: ""
 			dev: false
 			corner: false
@@ -48,42 +48,42 @@
 		{
 			x: 0.5d
 			y: -7.0d
-			subtitle: "Como desativar o fogo amigo em servidores?"
+			subtitle: "Como desativar o fogo amigo nos servidores?"
 			description: [
-				"1) /team add [time] \\n2) /team modify [time] friendlyfire false"
-				"3) /team join [time] [jogador]"
+				"1) /team add [team] \\n2) /team modify [team] friendlyfire false"
+				"3) /team join [team] [player]"
 			]
 			id: "59F404BFA55005EA"
 			tasks: [{
 				id: "01CE05960FF752C1"
 				type: "checkmark"
-				title: "Desativar fogo amigo"
+				title: "Disable friendly fire"
 			}]
 		}
 		{
 			x: -2.5d
 			y: -5.0d
-			subtitle: "Uma lista de atalhos que você deve conhecer!"
+			subtitle: "Uma lista de atalhos de teclado que você deve conhecer!"
 			description: [
-				" Pressione \"i\" para obter informações sobre sua última morte"
-				" Pressione \"h\" para chamar o seu ca- valo"
-				" Pressione \"j\" para salvar o seu ca- valo"
-				" Pressione \"r\" para ativar o modo de combate"
-				" Pressione \"b\" para abrir a sua mochi- la (se  equipada)"
-				" Pressione \"n\" para abrir a sua aljava (se equipada)"
-				" Pressione \"k\" para checar e selecio- nar habilidades habilitadas"
+				"   Press \"i\" para suas últimas informações de morte"
+				"       Press \"h\" para chamar seu cavalo"
+				"       Press \"j\" para salvar seu cavalo"
+				"    Press \"r\" para ativar o modo de combate"
+				"     Press \"b\" para abrir sua mochila \\n                 (se equipado)"
+				"      Press \"n\" para abrir sua aljava\\n                 (se equipado)"
+				"          Press \"k\" para verificar e\\n            selecionar habilidades habilitadas"
 			]
 			id: "726F1FFCA2697CF6"
 			tasks: [{
 				id: "79E1E37E279C39DE"
 				type: "checkmark"
-				title: "Atalhos úteis de saber"
+				title: "Teclas úteis para conhecer"
 			}]
 		}
 		{
 			x: -2.5d
 			y: -4.0d
-			subtitle: "Uma lista de livros de informações que você pode querer. Verifique na barra de busca do inventário a receita de cada um!"
+			subtitle: "Uma lista de livros informativos que você pode querer. Verifique na barra de pesquisa do inventário a receita de criação individual deles!"
 			description: [
 				"    Chronicle of Shadows (Apotheosis)"
 				"  Encyclopedia of life (Untamed Wilds)"
@@ -99,23 +99,23 @@
 			tasks: [{
 				id: "484069119F39A90C"
 				type: "checkmark"
-				title: "Livros de Informações"
+				title: "Info Books"
 			}]
 		}
 		{
 			x: -2.5d
 			y: -6.0d
-			subtitle: "Onde você pode encontrar um Mestre da guilda?"
+			subtitle: "Onde se pode encontrar um mestre de guilda?"
 			description: [
-				" Mestre da Guilda não é uma entidade diferente de um aldeão comum. Em vez disso, é uma profissão, que pode ser alcançada por qualquer aldeão (exce- to Idiotas). \\n"
-				" O bloco de profissões é o sino comu- mente encontrado na casa da guilda ou nas barracas. Se você encontrar uma vila com uma barraca sem um mestre da guilda, tentar esperar até o meio-dia para que os aldeões comecem a obter empregos. \\n"
-				" Você também pode tentar \"guiar\" os aldeões ao sino, com todos os meios possíveis dentro dos limites do Mine- craft."
+				"GuildMaster is not a separate entity to villager. Instead, it is a profession, attainable by any villager (except nitwit). \\n"
+				"The profession block (POI) is the bell commonly found in guild house or stalls. If you find a village with a stall without a guild master, try to wait till noon for villagers to start getting jobs. \\n"
+				"You could also try to \"guide\" villagers to the bell, with whatever means possible within the realms of Minecraft."
 			]
 			id: "63F0B07D20E74D61"
 			tasks: [{
 				id: "3900DF3E47ADF564"
 				type: "checkmark"
-				title: "Mestre da Guilda"
+				title: "Guild Master"
 			}]
 		}
 		{
@@ -123,9 +123,9 @@
 			y: -7.0d
 			subtitle: "Por que os aldeões não interagem comigo??"
 			description: [
-				" A informação está disponível na wiki.\\n\\n Mas um erro comum é que jogadores saqueiam contêineres que eles não co- locaram na frente dos aldeões. Isto não se aplica apenas aos baús dentro das aldeias. Se houver um aldeão ven- do você cometer um \"crime\" em qual- quer lugar do mundo, sua reputação vai di- minuir. \\n\\n A quantidade máxima de paco- tes de dinheiro que você precisará para me- lhorar sua reputação é de 8. Mas isso é muito improvável de acontecer, a me- nos que você massacre aldeias. Na ma- ioria das vezes 1-2 unidades de paco- tes de dinheiro serão suficientes."
-				"\\n Entretanto, se você sente que sua baixa reputação é equivocada e gos- taria de começar com uma reputação 0, ligue os cheats e faça: \\n\\n/setreputation reputation:villager @p 0"
-				"\\n Note que você TAMBÉM precisará de um contrato comercial além de ter re- putação suficiente para negociar com um aldeão. Um contrato comercial pode ser obtido através da conclusão de missões dos aldeões."
+				"As informações estão disponíveis no wiki. Mas um erro comum é que os jogadores saqueiam contêineres que não foram colocados na frente dos aldeões. Isso não se aplica apenas aos baús dentro das aldeias. Se um aldeão vir você cometer um "crime" em qualquer lugar do mundo, sua reputação diminuirá. \\n\\nA quantidade máxima de pacotes de moedas que você precisará para melhorar sua reputação é 8. Mas é muito improvável que isso aconteça, a menos que você massacre as aldeias. Na maioria das vezes, 1-2 pacotes de moedas serão suficientes."
+				"\\nNo entanto, se você achar que sua baixa reputação foi mal avaliada e quiser começar com 0 reputação, ative os cheats e faça \\n/setreputation reputation:villager @p 0"
+				"\\nObserve que você TAMBÉM precisará de um pergaminho de negociação, além de ter reputação suficiente para negociar com um aldeão. O pergaminho de negociação pode ser obtido ao concluir as missões dos aldeões."
 			]
 			id: "1B36858C66C3C77F"
 			tasks: [{
@@ -137,16 +137,16 @@
 		{
 			x: -2.5d
 			y: -3.0d
-			subtitle: "Como é detectada a conclusão das missões principais?"
+			subtitle: "Como a conclusão das missões principais é detectada?"
 			description: [
-				" Além de matar Saqueadores e Reis Goblins, todas as outras missões prin- cipais são detectadas através do jo- gador pegando os Olhos de Ender."
-				"\\n Então se você matou um dos chefes (Portadores dos Olhos) de antemão e obteve o olho. Tudo o que você pre- cisa fazer é jogar o olho que o Por- tador segurava, então pegue-o nova- mente. Com isso você deve ser capaz de completar a missão do Meste da Guilda."
+				"Além de matar os saqueadores e o Goblin King, todas as outras missões principais são detectadas quando o jogador pega os olhos do ender."
+				"\\nPortanto, se você tiver matado um dos chefes (Eye Holders) antes e obtido o olho. Tudo o que você precisa fazer é soltar o olho que o Eye Holder tinha e pegá-lo novamente. Com isso, você poderá concluir a missão do mestre da guilda."
 			]
 			id: "08F5174D848D7DF0"
 			tasks: [{
 				id: "62A75C3AC8B180D6"
 				type: "checkmark"
-				title: "Detecção de Missões"
+				title: "Detecção Quest"
 			}]
 		}
 		{
@@ -154,51 +154,51 @@
 			y: -6.0d
 			subtitle: "Qual shader devo usar?"
 			description: [
-				"             Melhor Desempenho:\\n            - Sildurs Vibrant Lite \\n"
-				"  Recomendado para Melhores Visuais:\\n        - Complimentary Reimagined"
-				"\\n Tente outros se estes não se encai-           xam em suas preferências!"
+				"             Melhor desempenho:\\n           - Sildurs Vibrant Lite\\n"
+				"      Recomendado para Melhor Visual:\\n        - Complimentary Reimagined"
+				"\\n         Tente outros se estes não funcionarem \\n           se encaixam em suas preferências!"
 			]
 			id: "7644BDD80B6EDA44"
 			tasks: [{
 				id: "43CC8096AA6E2C33"
 				type: "checkmark"
-				title: "Recomendação de Shaders"
+				title: "Recomendação de shader"
 			}]
 		}
 		{
 			x: 0.5d
 			y: -6.0d
-			subtitle: "Como posso proteger minhas propriedades em um servidor?"
+			subtitle: "Como faço para proteger minhas propriedades em um servidor?"
 			description: [
-				" Veja o mod 'Claim Chunks'. Este mod a- diciona um novo bloco - 'Bloco de Rei- vindicação' no jogo. \\n\\n Verifique a página deles do Curse- Forge para saber como personalizar suas permissões de chunks!"
-				"\\n *A quantidade máxima de chunks que um jogador pode reivindicar é, por padrão, 8."
+				"Dê uma olhada no mod "Claim Chunks". Esse mod adiciona um novo bloco - Claim Block - ao jogo. \\n\\nConsulte a página do CurseForge para saber como personalizar suas permissões de chunk!"
+				"\\n*A quantidade máxima de blocos que um jogador pode reivindicar é 8 por padrão."
 			]
 			id: "2294C358D1153CAE"
 			tasks: [{
 				id: "6C26B3CB7B7B5B78"
 				type: "checkmark"
-				title: "Reinvindicação de Chunks"
+				title: "Reivindicar pedaços"
 			}]
 		}
 		{
 			x: 3.5d
 			y: -5.0d
-			subtitle: "Como ativar o menu de configurações de gráficos do Vanilla?"
-			description: [" Pressione \"Shift\" + \"P\" no Menu de Gráfi- cos"]
+			subtitle: "Como ativar o menu de configurações gráficas do Vanilla?"
+			description: ["         Press \"Shift\" + \"P\" in the\\n               Graphics Menu"]
 			id: "0E4410A648272A97"
 			tasks: [{
 				id: "79729BB3AB3E564D"
 				type: "checkmark"
-				title: "Configurações de Gráficos Vanilla"
+				title: "Vanilla Graphics Settings"
 			}]
 		}
 		{
 			x: 3.5d
 			y: -4.0d
-			subtitle: "Por que o ProjectMMO não funciona?"
+			subtitle: "Why doesn't ProjectMMO work?"
 			description: [
-				" O mod é usado de uma maneira dife- rente neste modpack. Esqueça que ele existe."
-				"\\n Tiramos proveito da alta personali- zação do PMMO para criar habilidades especiais como conhecimento e requi- sitos definidos para itens."
+				"   The mod is used in a different way\\n    in this pack. Forget that it exists."
+				"\\n   We takes advantage of PMMO's high\\n customizability to create special skills\\n  like Knowledge and set requirements\\n                    for items."
 			]
 			id: "217D8862894AE01D"
 			tasks: [{
@@ -210,43 +210,43 @@
 		{
 			x: -2.5d
 			y: -2.0d
-			subtitle: "Como ler um mapa de explorador?"
+			subtitle: "How do I read an explorer map?"
 			description: [
-				" Observe o pequeno ponto ao redor da borda do mapa. Esse é você. O topo do mapa aponta para o norte; A es- querda do mapa aponta para o oeste; etc..."
-				"\\n Às vezes há um bug no Minecraft Va- nilla onde a cruz não é mostrada no mapa. Em casos como este, você pre- cisará olhar ao redor da área em que o mapa está localizado.."
+				"Notice the little dot around the edge of the map. That's you. The TOP of the map points to north; The LEFT of the map points to west; etc..."
+				"\\nThere is sometimes a bug in Vanilla Minecraft where a cross is not shown in the map. In cases like this, you will need to look around the area that the map is located in."
 			]
 			id: "10180D525A3F3D4F"
 			tasks: [{
 				id: "11DFA820F8B8E6FF"
 				type: "checkmark"
-				title: "Leitura do Mapa"
+				title: "Map Reading"
 			}]
 		}
 		{
 			x: 3.5d
 			y: -7.0d
-			subtitle: "Como habilitar comandos?"
+			subtitle: "How do I enable commands?"
 			description: ["/gamerule sendCommandFeedback true"]
 			id: "2E679597791BF6B8"
 			tasks: [{
 				id: "68056F1A3F76B35D"
 				type: "checkmark"
-				title: "Habilitar Comandos"
+				title: "Enable Commands"
 			}]
 		}
 		{
 			x: 0.5d
 			y: -5.0d
-			subtitle: "Como habilitar o respawn dos chefes portadores dos olhos em servidores?"
+			subtitle: "How to enable eye holder bosses' respawn for servers?"
 			description: [
 				"  /gamerule doDCBossesRespawn true"
-				"\\n  Note que somente os jogadores que estão avançando através das missões principais podem re-summonar o chefe."
+				"\\n     Note that only players who are\\n     progressing through the main\\n  quest-line can re-summon the boss."
 			]
 			id: "1708A5D4E536662D"
 			tasks: [{
 				id: "4708BF5BBA73E19F"
 				type: "checkmark"
-				title: "Habilitar Respawn de Chefes"
+				title: "Enable Boss Respawn"
 			}]
 		}
 	]

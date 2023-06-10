@@ -3,16 +3,16 @@
 	group: ""
 	order_index: 8
 	filename: "brewing"
-	title: "Brewing"
+	title: "Fabricação de poções"
 	icon: "ars_nouveau:potion_flask"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Potion Brewing"
+			title: "Preparo de Poções"
 			x: 0.0d
 			y: 0.0d
-			description: ["For the most part, brewing works the same as in vanilla Minecraft. However, there are many more potions available to craft, which you can see via JEI. Additionally, players can craft potion charms to recieve powerful potion effects for a longer duration than usual, and these effects can even be made permanent via Infusion."]
+			description: ["Na maior parte, a fabricação de poções funciona da mesma forma que no Minecraft normal. No entanto, existem muitas mais poções disponíveis para serem criadas, as quais você pode ver através do JEI (Just Enough Items). Além disso, os jogadores podem fabricar amuletos de poções para receber efeitos de poções poderosos por uma duração maior do que o normal, e esses efeitos podem até mesmo ser tornados permanentes através da Infusão."]
 			size: 2.0d
 			id: "4424AAAF4D8A945E"
 			tasks: [{
@@ -27,7 +27,7 @@
 			}]
 		}
 		{
-			title: "Potion Charms"
+			title: "Amuletos de Poções"
 			icon: {
 				id: "apotheosis:potion_charm"
 				Count: 1b
@@ -39,10 +39,10 @@
 			x: 2.0d
 			y: 0.0d
 			description: [
-				"Players can combine multiple potions together with Blaze Powder to create potion charms. These can be right-clicked to to turn them on or off, and will provide the player with the potion effect as long as it is active either in the player's inventory or charm slot. These charms can be enchanted with Unbreaking or mending to extend their duration."
+				"Os jogadores podem combinar várias poções juntas com Pó de Blaze para criar amuletos de poções. Eles podem ser ativados ou desativados com um clique direito e fornecerão ao jogador o efeito da poção enquanto estiverem ativos, seja no inventário do jogador ou no slot de amuleto. Esses amuletos podem ser encantados com Inquebrável ou conserto para estender sua duração."
 				""
-				"&b&lUnbreakable Charms"
-				"Charms can be infused via an enchanting table to convert them into their unbreakable version. Unbreakable charms will provide their effects permanently, but can still be turned on and off. Infusing a charm requires maximum Eterna, between 8.5% and 13.5% Quanta, and between 85% and 95% Arcana. See the \"Enchanting\" Quest tab for more information about Infusions."
+				"&b&lAmuletos Inquebráveis"
+				"Os amuletos podem ser infundidos através de uma mesa de encantamentos para convertê-los em sua versão inquebrável. Amuletos inquebráveis fornecerão seus efeitos permanentemente, mas ainda podem ser ativados e desativados. A infusão de um amuleto requer Eterna máxima, entre 8,5% e 13,5% de Quanta e entre 85% e 95% de Arcana. Consulte a guia de missões \"Encantamento\" para obter mais informações sobre as Infusões."
 			]
 			dependencies: ["4424AAAF4D8A945E"]
 			size: 1.5d
@@ -50,7 +50,7 @@
 			tasks: [{
 				id: "4E2A1D32B612F8EC"
 				type: "checkmark"
-				title: "Read"
+				title: "Ler"
 			}]
 			rewards: [{
 				id: "3CC09383FD379788"
@@ -60,18 +60,18 @@
 			}]
 		}
 		{
-			title: "Potion Jars, Melders anf Flasks"
+			title: "Frascos de Poção, Misturadores e Frascos"
 			icon: "ars_nouveau:potion_jar"
 			x: 0.0d
 			y: -2.0d
-			description: ["Players can craft potion jars to store large amounts of one type of potion, a potion melder to combine the effects of potions, and potion flasks to store more doses of potion in a single bottle as well as increase the strength or extend the duration. View the \"Magic\" quest tab for more details for these devices and items."]
+			description: [Os jogadores podem criar frascos de poção para armazenar grandes quantidades de um único tipo de poção, um misturador de poções para combinar os efeitos de várias poções e frascos de poção para armazenar mais doses de poção em uma única garrafa, além de aumentar a força ou estender a duração. Consulte a guia de missões \"Magia"\ para obter mais detalhes sobre esses dispositivos e itens."]
 			dependencies: ["4424AAAF4D8A945E"]
 			size: 1.5d
 			id: "5238E383D811ED28"
 			tasks: [{
 				id: "1B1BBC8DD3E22900"
 				type: "checkmark"
-				title: "Read"
+				title: "Ler"
 			}]
 			rewards: [{
 				id: "3EFB277FCE02CC46"

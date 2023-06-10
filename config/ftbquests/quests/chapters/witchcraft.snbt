@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 4
 	filename: "witchcraft"
-	title: "Witchcraft"
+	title: "Bruxaria"
 	icon: {
 		id: "hexerei:book_of_shadows"
 		Count: 1b
@@ -13,7 +13,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Welcome to Hexerei"
+			title: "Bem-vindo ao Hexerei"
 			icon: {
 				id: "hexerei:book_of_shadows"
 				Count: 1b
@@ -21,7 +21,7 @@
 			}
 			x: 0.0d
 			y: 0.0d
-			description: ["Welcome to Hexerei! Through this quest chain, you will learn all that you need to know about practicing witchcraft."]
+			description: ["Bem-vindo ao Hexerei! Por meio desta série de missões, você aprenderá tudo o que precisa saber sobre a prática de bruxaria."]
 			size: 2.0d
 			id: "758B99AACB978297"
 			tasks: [{
@@ -39,12 +39,12 @@
 			x: 0.0d
 			y: 2.0d
 			description: [
-				"Your basic witchcraft cauldron. This will be where you craft most of your items. "
+				"Seu caldeirão básico de bruxaria. É nele que você fabricará a maioria dos seus itens. "
 				""
-				"Use of this block is locked behind completion of a specific Cleric Villager quest. The knowledge required to use cauldrons can instead be unlocked in a quest found above, however the price is steep..."
+				"O uso desse bloco está bloqueado após a conclusão de uma missão específica do Cleric Villager. O conhecimento necessário para usar caldeirões pode ser desbloqueado em uma missão encontrada acima, mas o preço é alto..."
 				""
-				"&b&lUseage:"
-				"Cauldrons can hold various types of liquid, which can be poured into it directly. Some crafting recipes may also change the liquid stored into a diffent kind, which may be needed for other recipes. Additional materials needed for a crafting recipe can be tossed into the cauldron, or added via the the menu accessed by right-clicking the cauldron. Once the required materials are added, the finished item can be retreived by right-clicking the cauldron to access the crafting menu."
+				"&b&lUtilização:"
+				"Os caldeirões podem conter vários tipos de líquidos, que podem ser despejados diretamente neles. Algumas receitas de fabricação também podem transformar o líquido armazenado em um tipo diferente, que pode ser necessário para outras receitas. Os materiais adicionais necessários para uma receita de fabricação podem ser jogados no caldeirão ou adicionados por meio do menu acessado ao clicar com o botão direito do mouse no caldeirão. Depois que os materiais necessários forem adicionados, o item acabado poderá ser recuperado clicando com o botão direito do mouse no caldeirão para acessar o menu de criação."
 			]
 			dependencies: ["758B99AACB978297"]
 			size: 1.5d
@@ -61,13 +61,13 @@
 			}]
 		}
 		{
-			title: "Unlocking the Knowledge of Cauldrons"
+			title: "Desvendando o conhecimento sobre caldeirões"
 			icon: "minecraft:written_book"
 			x: 0.0d
 			y: -2.6999999999999997d
 			description: [
-				"Hexerei Cauldrons require knowledge level 2 to use. This can be obtained through a Cleric Villager quest, however those who are having trouble finding this quest or who have failed to complete it can instead purchase the knowledge here, for a price..."
-				"\\nNote: As of right now the book of shadows crashes clients if the client is using shaders."
+				"Os Caldeirões Hexerei requerem conhecimento de nível 2 para serem usados. Isso pode ser obtido por meio de uma missão do Cleric Villager, mas aqueles que estão tendo problemas para encontrar essa missão ou que não conseguiram concluí-la podem comprar o conhecimento aqui, por um preço..."
+				"\\nObservação: No momento, o livro de sombras causa falha nos clientes se eles estiverem usando shaders."
 			]
 			dependencies: ["758B99AACB978297"]
 			size: 1.8d
@@ -104,7 +104,7 @@
 		{
 			x: 1.5d
 			y: 2.0d
-			description: ["A cauldron upgrade, which allows you to add blood to your recipes for items wich require it. Simply place the sigil inside of the cauldron via the sigil slot in the cauldron crafting GUI, then jump inside to create blood. Jumping more will add more blood. Other liquid and materials can be added as usual. Usual recipes which do not require blood can still be crafted while the sigil is in the cauldron."]
+			description: ["Um aprimoramento do caldeirão que permite adicionar sangue às suas receitas de itens que precisam dele. Basta colocar o sigilo dentro do caldeirão por meio do slot de sigilo na GUI de criação do caldeirão e, em seguida, pular dentro dele para criar sangue. Saltar mais adicionará mais sangue. Outros líquidos e materiais podem ser adicionados como de costume. As receitas usuais que não requerem sangue ainda podem ser criadas enquanto o sigilo estiver no caldeirão."]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "03B7E08CB2B2362E"
@@ -122,7 +122,7 @@
 		{
 			x: -1.5d
 			y: 1.0d
-			description: ["Place 6 animal fat and 2 honeycomb into a cauldron filled with water to produce tallow. Used for the creation of candles. "]
+			description: ["Coloque 6 de gordura animal e 2 de favo de mel em um caldeirão cheio de água para produzir sebo. Usado para a criação de velas. "]
 			dependencies: ["7D2C066D53F03275"]
 			id: "3BA3BF3785F2A9EC"
 			tasks: [{
@@ -139,7 +139,7 @@
 		{
 			x: -2.5d
 			y: 0.0d
-			description: ["Place on a cauldron filled with tallow to use. Add strings to the dipper by right-clicking with them to begin dipping candles."]
+			description: ["Coloque em um caldeirão cheio de sebo para usar. Adicione cordas ao dipper clicando com o botão direito do mouse sobre elas para começar a mergulhar as velas."]
 			dependencies: ["3BA3BF3785F2A9EC"]
 			size: 1.3d
 			id: "3647588131AA1187"
@@ -157,7 +157,7 @@
 		{
 			x: -3.5d
 			y: -1.0d
-			description: ["Wow! It's a candle! Can be dyed and used as a decorative block. Light with a flint and steel for light with a limited duration. Can be used to craft candelabras. Multiple candles can be placed together on the same block."]
+			description: ["Uau! É uma vela! Pode ser tingida e usada como um bloco decorativo. Pode ser acesa com pedra e aço para obter luz com duração limitada. Pode ser usada para criar candelabros. Várias velas podem ser colocadas juntas no mesmo bloco."]
 			dependencies: ["3647588131AA1187"]
 			id: "430A7C370D3DCC00"
 			tasks: [{
@@ -174,7 +174,7 @@
 		{
 			x: -4.5d
 			y: -2.0d
-			description: ["A decorative light. Can be lit for a limited time. Can be placed on a solid block or hung from a chain. Automatically connects to above chain blocks."]
+			description: ["Uma luz decorativa. Pode ser acesa por um tempo limitado. Pode ser colocada em um bloco sólido ou pendurada em uma corrente. Conecta-se automaticamente aos blocos de corrente acima."]
 			dependencies: ["430A7C370D3DCC00"]
 			id: "7465B863C4896248"
 			tasks: [{
@@ -192,7 +192,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["A basic herb. Can be found in swamps and other biomes, or grown from sage seeds which are commonly dropped by grass and plants."]
+			description: ["Uma erva básica. Pode ser encontrada em pântanos e outros biomas, ou cultivada a partir de sementes de sálvia, que são comumente lançadas por gramíneas e plantas."]
 			dependencies: ["758B99AACB978297"]
 			id: "63426BF34D49D775"
 			tasks: [{
@@ -204,7 +204,7 @@
 		{
 			x: 2.5d
 			y: -1.5d
-			description: ["Used to dry herbs and herb-based items. Right-click with an item to hang it, and sneak+right-click to remove it."]
+			description: ["Usado para secar ervas e itens à base de ervas. Clique com o botão direito do mouse em um item para pendurá-lo e clique com o botão direito do mouse para removê-lo."]
 			dependencies: ["63426BF34D49D775"]
 			size: 1.3d
 			id: "1CFBAADF7DEF4EB8"
@@ -217,7 +217,7 @@
 		{
 			x: 3.0d
 			y: -3.0d
-			description: ["Place on an incense plate to burn. Keeps mobs from spawning in a radius. See the edge of the affected zone via a \"smoke ring\" effect that can be seen around the affected area. Can be picked up to pause the burning effect, and started again at a later time. Great for keeping bases safer throughout the night."]
+			description: ["Coloque em um prato de incenso para queimar. Impede que os mobs apareçam em um raio. Veja a borda da zona afetada por meio de um \"anel de fumaça\" efeito que pode ser visto ao redor da área afetada. Pode ser pego para pausar o efeito de queima e iniciado novamente em um momento posterior. Excelente para manter as bases mais seguras durante a noite."]
 			dependencies: ["1CFBAADF7DEF4EB8"]
 			id: "48D563E6DA99E3F9"
 			tasks: [{
@@ -235,7 +235,7 @@
 		{
 			x: 3.5d
 			y: -4.5d
-			description: ["Place dried sage bundles on this plate and light with flint and steel."]
+			description: ["Coloque feixes de sálvia seca nesse prato e acenda com pedra e aço."]
 			dependencies: ["48D563E6DA99E3F9"]
 			id: "5049C85915A199E4"
 			tasks: [{
@@ -252,7 +252,7 @@
 		{
 			x: -3.5d
 			y: 3.0d
-			description: ["Fill a lava-filled cauldron with sand to craft. Can store a very large number of one kind of any plant or herb. sneak-click to open storage, or click with a herb or plant to store it. Punch to withdraw, or sneak+punch to withdraw a full stack. Can be labelled in an anvil. Can be picked up like a shulker box and placed back down while still storing items."]
+			description: ["Encha um caldeirão cheio de lava com areia para criar. Pode armazenar um número muito grande de um tipo de planta ou erva. Clique furtivamente para abrir o armazenamento ou clique com uma erva ou planta para armazená-la. Dê um soco para retirá-la ou dê um soco + soco para retirar uma pilha completa. Pode ser rotulado em uma bigorna. Pode ser levantado como uma caixa de shulker e colocado de volta no chão enquanto ainda estiver armazenando itens."]
 			dependencies: ["7D2C066D53F03275"]
 			id: "37BD6B0893D6BC03"
 			tasks: [{
@@ -274,8 +274,8 @@
 			x: -1.3d
 			y: 5.2d
 			description: [
-				"Stores items, and displays them visually. Can be picked up along with contents like a shulker box."
-				"Craft with dye to color."
+				"Armazena itens e os exibe visualmente. Pode ser recolhido junto com o conteúdo, como uma caixa shulker."
+				"Artesanato com corante para colorir."
 			]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
@@ -299,12 +299,12 @@
 			x: 2.5d
 			y: 3.5d
 			description: [
-				"Allows flight! "
+				"Permite voar! "
 				""
-				"Sneak+right-click to open the broom menu. From here, you can customize your broom and change its settings (hover or land). IMPORTANT: If you fall off of a broom mid-flight and it is in hover mode, it will stay up there! You will have an easier time retrieving brooms in \"land\" mode... unless it lands in water..."
+				"Clique com o botão direito do mouse segurando o shift para abrir o menu da vassoura. A partir daí, você pode personalizar a vassoura e alterar suas configurações (pairar ou pousar). IMPORTANTE: se você cair de uma vassoura no meio do voo e ela estiver no modo hover, ela permanecerá lá em cima! Será mais fácil recuperar as vassouras no modo \"terra\"... a menos que ela caia na água..."
 				""
-				"Brooms are steered similarly to a boat. Right-click to mount, shift+right-click to dismount. Hold space to fly, or sneak to descend."
-				"Punch repeatedly to break and pick-up."
+				"As vassouras são dirigidas de forma semelhante a um barco. Clique com o botão direito do mouse para montar, shift+clique com o botão direito do mouse para desmontar. Mantenha pressionada a tecla espaço para voar ou a tecla sneak para descer."
+				"Dê socos repetidos para quebrar e pegar."
 			]
 			dependencies: ["03B7E08CB2B2362E"]
 			size: 1.3d
@@ -327,7 +327,7 @@
 		{
 			x: 3.5d
 			y: 4.5d
-			subtitle: "Faster, more durable, fire resistant."
+			subtitle: "Mais rápido, mais durável e resistente ao fogo."
 			dependencies: ["5227F33207D38CFC"]
 			size: 1.3d
 			id: "428171D49BCEF30E"
@@ -349,7 +349,7 @@
 		{
 			x: -1.5d
 			y: -1.0d
-			description: ["Helps find swamps and jungles for important witchcraft crafting items. Hold shift while hovering over the item for a detailed description."]
+			description: ["Ajuda a encontrar pântanos e selvas para itens importantes de artesanato de bruxaria. Mantenha a tecla Shift pressionada ao passar o mouse sobre o item para obter uma descrição detalhada."]
 			dependencies: ["758B99AACB978297"]
 			id: "461139AB9A78151D"
 			tasks: [{
@@ -366,7 +366,7 @@
 		{
 			x: 3.0d
 			y: 1.5d
-			description: ["Bottled blood. Hold shift while hovering over the item for more detail. Used in some crafting recipes."]
+			description: ["Sangue engarrafado. Mantenha a tecla Shift pressionada ao passar o mouse sobre o item para obter mais detalhes. Usado em algumas receitas de fabricação."]
 			dependencies: ["03B7E08CB2B2362E"]
 			id: "4E6B5FEB5F44E947"
 			tasks: [{
@@ -383,7 +383,7 @@
 		{
 			x: 4.0d
 			y: 3.0d
-			description: ["Add to the \"Bag\" slot of your broom. Adds storage capacity to your broom."]
+			description: ["Adicione ao compartimento \"Bag\" de sua vassoura. Adiciona capacidade de armazenamento à sua vassoura."]
 			dependencies: ["5227F33207D38CFC"]
 			id: "78FCEF109D9CB599"
 			tasks: [{
@@ -400,7 +400,7 @@
 		{
 			x: 5.0d
 			y: 3.0d
-			description: ["Further improves storage capacity."]
+			description: ["Melhora ainda mais a capacidade de armazenamento."]
 			dependencies: ["78FCEF109D9CB599"]
 			id: "7F5D2E60E4CD5CF5"
 			tasks: [{
@@ -417,7 +417,7 @@
 		{
 			x: 6.0d
 			y: 3.0d
-			description: ["Greatly improves storage capacity."]
+			description: ["Melhora muito a capacidade de armazenamento."]
 			dependencies: ["7F5D2E60E4CD5CF5"]
 			id: "217AD1F73111EF57"
 			tasks: [{
@@ -434,7 +434,7 @@
 		{
 			x: 1.5d
 			y: 4.5d
-			description: ["Decorative rings for your broom. Add them to the \"Decoration\" slot."]
+			description: ["Anéis decorativos para sua vassoura. Adicione-os ao slot \"Decoration\" (Decoração)."]
 			dependencies: ["5227F33207D38CFC"]
 			id: "6174E85ADB639FA2"
 			tasks: [{
@@ -451,7 +451,7 @@
 		{
 			x: 1.0d
 			y: 5.5d
-			description: ["Decorative item for your broom. Craft with any item to create a keychain of that item (the item will be consumed!). Add to your broom's \"Decoration\" slot to display a keychain of the chosen item."]
+			description: ["Item decorativo para sua vassoura. Use qualquer item para criar um chaveiro com esse item (o item será consumido!). Adicione à sua vassoura \"Decoration\" slot para exibir um chaveiro com o item escolhido."]
 			dependencies: ["6174E85ADB639FA2"]
 			id: "6A54AEC72104C48C"
 			tasks: [{
@@ -472,7 +472,7 @@
 		{
 			x: 0.5d
 			y: 3.5d
-			description: ["Placed in the broom's \"Brush\" slot. Allows the broom to operate. Degrades over time. Can be enchanted to improve durability. "]
+			description: ["Colocado no slot \"Brush\" da vassoura. Permite que a vassoura funcione. Degrada-se com o tempo. Pode ser encantado para aumentar a durabilidade. "]
 			dependencies: ["5227F33207D38CFC"]
 			id: "0C80B91AFB6EB414"
 			tasks: [{
@@ -495,7 +495,7 @@
 		{
 			x: 0.0d
 			y: 4.5d
-			description: ["A more durable broom brush"]
+			description: ["Uma escova de vassoura mais durável"]
 			dependencies: ["0C80B91AFB6EB414"]
 			id: "0BFAB3BEE1700004"
 			tasks: [{
@@ -518,7 +518,7 @@
 		{
 			x: 2.5d
 			y: 5.5d
-			description: ["Add to the \"Broom Tip\" slot of your broom's menu. Improves water resistance. Loses durability gradually in water. Allows flight in water."]
+			description: ["Adicione ao slot \"Broom Tip\" do menu da sua vassoura. Melhora a resistência à água. Perde a durabilidade gradualmente na água. Permite voar na água."]
 			dependencies: ["5227F33207D38CFC"]
 			id: "70C162E9A761F649"
 			tasks: [{
@@ -541,7 +541,7 @@
 		{
 			x: 2.0d
 			y: 6.5d
-			description: ["Improves brooms fire-resistance. Allows flight in lava."]
+			description: ["Melhora a resistência ao fogo das vassouras. Permite voar em lava."]
 			dependencies: ["70C162E9A761F649"]
 			id: "1E7E794756D864F1"
 			tasks: [{
@@ -564,7 +564,7 @@
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["Various herbs can be found in swamp biomes. These are required for many witchcraft recipes."]
+			description: ["Várias ervas podem ser encontradas nos biomas de pântano. Elas são necessárias para muitas receitas de bruxaria."]
 			dependencies: ["63426BF34D49D775"]
 			id: "7CB413EE0146CF04"
 			tasks: [
@@ -609,7 +609,7 @@
 		{
 			x: -3.5d
 			y: 1.5d
-			description: ["Used to grind seeds into seed mixture for crow taming."]
+			description: ["Usado para moer sementes em uma mistura de sementes para domar corvos."]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "3B1A6973557F7E3C"
@@ -627,7 +627,7 @@
 		{
 			x: -5.0d
 			y: 1.5d
-			description: ["Crafted in a pestle and mortar. Feed to wild crows for a chance to tame them. Crows can be found in most biomes, such as forests and swamps. See the \"Crow Flute\" quest next for a full guide on crow useage."]
+			description: ["Fabricado em um pilão e almofariz. Alimente os corvos selvagens para ter a chance de domá-los. Os corvos podem ser encontrados na maioria dos biomas, como florestas e pântanos. Consulte a missão \"Crow Flute\" a seguir para obter um guia completo sobre o uso de corvos."]
 			dependencies: ["3B1A6973557F7E3C"]
 			id: "4EEC8127EDECFC93"
 			tasks: [{
@@ -642,7 +642,7 @@
 			}]
 		}
 		{
-			title: "Crow Taming"
+			title: "Domesticação de corvos"
 			icon: {
 				id: "hexerei:crow_flute"
 				Count: 1b
@@ -651,27 +651,27 @@
 			x: -6.5d
 			y: 1.5d
 			description: [
-				"Crows can be tamed by feeding them Seed Mixture. Once tamed, they can be controlled using a Crow Flute."
+				"Os corvos podem ser domados alimentando-os com Seed Mixture (mistura de sementes). Depois de domados, eles podem ser controlados com uma flauta de corvo."
 				""
-				"Sneak-Right click a crow familair to access its menu. From here, you can change its follow mode, behavior, and equip various decorative items."
+				"Sneak - Clique com o botão direito do mouse em uma família de corvos para acessar seu menu. A partir daí, você pode alterar o modo de seguir, o comportamento e equipar vários itens decorativos."
 				""
-				"&b&lFollow Mode"
-				"By setting a follow mode, you can change how the crow follows the player. It can follow/perch on the player's shoulder, wander or sit. Set the crow to \"Help\" mode to enable its gathering functions."
+				"&b&lModo de acompanhamento"
+				"Ao definir um modo de acompanhamento, você pode alterar a forma como o corvo acompanha o jogador. Ele pode seguir/percorrer no ombro do jogador, vagar ou sentar-se. Configure o corvo para o modo \"Help\" para ativar suas funções de coleta."
 				""
-				"&b&lGathering"
-				"Crows in gather mode will collect nearby items and place them in a nearby coffer. The items types you wish to gether must already be present in the coffer. Crows must be set to perch on a coffer in order to deposit items (see \"Crow Flute\" section)."
+				"&b&lColeta"
+				"Os corvos no modo de coleta coletarão os itens próximos e os colocarão em um cofre próximo. Os tipos de itens que você deseja reunir já devem estar presentes no cofre. Os corvos devem ser configurados para se empoleirar em um cofre para depositar itens (consulte a seção \"Flutuação dos corvos\")."
 				""
-				"&b&lHarvesting"
-				"Crows in harvest mode will harvest nearby crops. This includes naturally generated crops and some plants (such as Hexerei plants found in swamp biomes). Can be combined with gathering crows to fully automate your farm. Best used with the crow flue (see below)."
+				"&b&lColheita"
+				"Os corvos no modo de colheita colherão as plantações próximas. Isso inclui colheitas geradas naturalmente e algumas plantas (como as plantas Hexerei encontradas em biomas de pântano). Pode ser combinado com a coleta de corvos para automatizar totalmente a sua fazenda. Melhor usado com a chaminé de corvos (veja abaixo)."
 				""
-				"&b&lCrow Flute"
-				"Sneak+right-click while holding the crow flute to access the flute menu. This menu is similar to the crow menu, but can be used to select and command multiple crows, as well as set home points for individual or groups of crows. Choosing the \"Seclect\" option will allow you to right-click crows with the flute to select or de-select them. Switching to \"Perch\" mode will allow you to set a perch location for all currently selected crows. Changing any of the follow/help settings will change those settings for all selected crows at once. Great for directing larger numbers of crows at once, and the only way to set crow perch locations. Right-click with the flute to activate the selected function."
+				"&b&lFlauta de corvo"
+				"Shift+Clique com o botão direito do mouse enquanto segura a flauta do corvo para acessar o menu da flauta. Esse menu é semelhante ao menu do corvo, mas pode ser usado para selecionar e comandar vários corvos, bem como definir pontos de partida para corvos individuais ou grupos de corvos. A escolha da opção \"Seclect\" permitirá que você clique com o botão direito do mouse nos corvos com a flauta para selecioná-los ou desmarcá-los. Mudar para o modo \"Perch\" permitirá que você defina um local de poleiro para todos os corvos selecionados no momento. Alterar qualquer uma das configurações de acompanhamento/ajuda alterará essas configurações para todos os corvos selecionados de uma só vez. Excelente para direcionar um número maior de corvos de uma só vez e a única maneira de definir locais de poleiro para corvos. Clique com o botão direito do mouse com a flauta para ativar a função selecionada."
 				""
-				"&b&lThieving"
-				"Crows in theiving mode will steal from nearby villagers, and drop the stolen items at their perch location. Set them to perch on a hopper for easy chest depositing. Steals a variety of items, including emeralds. Crows will fly around after thieving before depositing to evade detection."
+				"&b&lRoubo"
+				"Os corvos no modo de furto roubarão os aldeões próximos e deixarão os itens roubados em seu poleiro. Configure-os para se empoleirarem em um funil para facilitar o depósito de baús. Rouba uma variedade de itens, inclusive esmeraldas. Os corvos voam por aí depois de roubar antes de depositar para evitar serem detectados."
 				""
-				"&b&lBreeding"
-				"Multiple tamed crows can be given gold nuggets to breed."
+				"&b&lReprodução"
+				"Vários corvos domesticados podem receber pepitas de ouro para procriar."
 			]
 			dependencies: ["4EEC8127EDECFC93"]
 			size: 1.5d
@@ -694,7 +694,7 @@
 		{
 			x: -3.0d
 			y: 4.5d
-			description: ["Crafted in a cauldron, infused fabric is essential for crafting your witch's uniform."]
+			description: ["Fabricado em um caldeirão, o tecido infundido é essencial para a confecção do seu uniforme de bruxa."]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "4321174BCD4E13A9"
@@ -712,7 +712,7 @@
 		{
 			x: -4.5d
 			y: 5.5d
-			description: ["The witchs uniform. Slightly stronger than iron armor, and provides a number of useful effects. Allows the player to blend in with witches."]
+			description: ["O uniforme das bruxas. Um pouco mais forte que a armadura de ferro e oferece vários efeitos úteis. Permite que o jogador se misture com as bruxas."]
 			dependencies: ["4321174BCD4E13A9"]
 			id: "631CBCD0CA912A0C"
 			tasks: [
@@ -759,7 +759,7 @@
 		{
 			x: -5.5d
 			y: 6.5d
-			description: ["A cosmetically upgraded witch's hat."]
+			description: ["Um chapéu de bruxa cosmeticamente aprimorado."]
 			dependencies: ["631CBCD0CA912A0C"]
 			id: "6256CF4A57FEC937"
 			tasks: [{

@@ -3,17 +3,17 @@
 	group: ""
 	order_index: 7
 	filename: "reforging_and_socketing"
-	title: "Reforging and Socketing"
+	title: "Reforço e encaixe"
 	icon: "apotheosis:gem"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Reforging and Socketing"
+			title: "Reforço e encaixe"
 			icon: "apotheosis:gem"
 			x: 0.0d
 			y: 0.0d
-			description: ["Equipment in DawnCraft can be upgraded by reforging its quality, as well as socketing gems into the equipment. This quest chain will explain the mechanics of salvaging materials from equipment, reforging equipment, and socketing/removing gems."]
+			description: ["O equipamento em DawnCraft pode ser melhorado reforjando a sua qualidade, bem como encaixando gemas no equipamento. Esta sequência de missões explicará a mecânica de recuperar materiais de equipamentos, reforjar equipamentos e encaixar/remover gemas."]
 			size: 2.0d
 			id: "2E51B03DF4811F84"
 			tasks: [{
@@ -31,7 +31,7 @@
 		{
 			x: 0.0d
 			y: -2.0d
-			description: ["Used to socket gems into equipment. Equipment must have empty equipment slots to socket gems."]
+			description: ["Usado para colocar pedras preciosas no equipamento. O equipamento tem de ter espaços de equipamento vazios para encaixar as gemas."]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "12C0F6007CB35919"
@@ -49,7 +49,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["Uses rarity materials obtained from the Salvaging Table, and Gem Dust obtained by crushing Gems to re-forge gear. Reforginc can re-roll the stats for a piece of equipment with the same rarity, or can change the rarity of a piece of equipment (even a piece that has no rarity already)."]
+			description: ["Usa materiais de raridade obtidos na Mesa de Salvamento e Pó de Gema obtido ao esmagar Gemas para forjar novamente equipamento. O Reforginc pode reenrolar as estatísticas de uma peça de equipamento com a mesma raridade, ou pode mudar a raridade de uma peça de equipamento (mesmo uma peça que já não tenha raridade)."]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "682B2B244574C666"
@@ -67,7 +67,7 @@
 		{
 			x: -2.0d
 			y: 0.0d
-			description: ["Used to salvage materials used for reforging from equipment. The material amount provided is random, and the material type corresponds to the rarity of the salvaged equipment."]
+			description: ["Utiliza-se para recuperar materiais usados para refinar o equipamento. A quantidade de material fornecida é aleatória e o tipo de material corresponde à raridade do equipamento recuperado."]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "719B2897D9858A1F"
@@ -86,8 +86,8 @@
 			x: 0.0d
 			y: 2.0d
 			description: [
-				"Can be added to an item via the Smithing Table to add an additional socket (Max. 3 sockets)"
-				"Can be obtained by crafting, or rarely from quests or treasure."
+				"Pode ser adicionado a um objecto através da Mesa de Ferraria para adicionar um encaixe adicional (Máx. 3 encaixes)"
+				"Pode ser obtido através de artesanato ou, raramente, através de missões ou tesouros."
 			]
 			dependencies: ["2E51B03DF4811F84"]
 			id: "22978B8A8D62A2A6"
@@ -106,8 +106,8 @@
 			x: 0.0d
 			y: 3.5d
 			description: [
-				"An upgraded Sigil of Socketing, obtained by infusion (see Enchanting quest tab for more info)."
-				"Can be used to add a socket to an item, up to a maximum of 4."
+				"Um Sigilo de Broche melhorado, obtido por infusão (ver o separador da missão Encantar para mais informações)."
+				"Pode ser utilizado para adicionar um encaixe a um item, até um máximo de 4."
 			]
 			dependencies: ["22978B8A8D62A2A6"]
 			id: "54D504E6734D9B70"
@@ -125,7 +125,7 @@
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["Obtained by crushing gems. To crush a gem, toss it (or multiple) on the ground. Then, place an anvil above the gems at least one-block above, causing it to fall, crushing the gems into dust. Many gems can be crushed at once this way. Each drop will damage the anvil slightly."]
+			description: ["Obtido por esmagamento de pedras preciosas. Para esmagar uma gema, atira-a (ou várias) para o chão. Depois, coloca uma bigorna por cima das pedras preciosas, pelo menos um bloco acima, fazendo-a cair e esmagando-as até ficarem em pó. Desta forma, muitas pedras preciosas podem ser esmagadas de uma só vez. Cada queda danifica ligeiramente a bigorna."]
 			dependencies: ["682B2B244574C666"]
 			id: "2CCE38B89AB683B8"
 			tasks: [{
@@ -222,7 +222,7 @@
 		{
 			x: -1.0d
 			y: -3.5d
-			description: ["Forged with an item in a Smithing Table, extracts gems from the equipment, destroying the equipment in the process."]
+			description: ["Forjado com um item numa Mesa de Ferraria, extrai gemas do equipamento, destruindo o equipamento no processo."]
 			dependencies: ["12C0F6007CB35919"]
 			id: "0036F6587BAA1FA6"
 			tasks: [{
@@ -239,7 +239,7 @@
 		{
 			x: 1.0d
 			y: -3.5d
-			description: ["Forged with an item in a Smithing Table to remove gems from the equipment, destroying them in the process."]
+			description: ["Forjado com um item numa Mesa de Ferraria para remover gemas do equipamento, destruindo-as no processo."]
 			dependencies: ["12C0F6007CB35919"]
 			id: "653AFC11D8BA880E"
 			tasks: [{
