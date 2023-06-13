@@ -1,15 +1,15 @@
 {
   "itemGroup.pineapple": "Pineapple Delight",
-  "item.pineapple_delight.pineapple": "Pineapple",
-  "item.pineapple_delight.pineapple_side": "Pineapple Sides",
-  "item.pineapple_delight.pineapple_pie_side": "Slice of Pineapple Pie",
-  "item.pineapple_delight.pineapple_juice": "Pineapple Juice",
-  "item.pineapple_delight.pineapple_fried_rice": "Pineapple Fried Rice",
-  "item.pineapple_delight.pineapple_milk_shake": "Pineapple Milkshake",
-  "item.pineapple_delight.pineapple_ice_cream": "Pineapple Ice-cream",
+  "item.pineapple_delight.pineapple": "Abacaxi",
+  "item.pineapple_delight.pineapple_side": "Lado de Abacaxi",
+  "item.pineapple_delight.pineapple_pie_side": "Fatia de Torta de Abacaxi",
+  "item.pineapple_delight.pineapple_juice": "Suco de Abacaxi",
+  "item.pineapple_delight.pineapple_fried_rice": "Arroz Frito com Abacaxi",
+  "item.pineapple_delight.pineapple_milk_shake": "Milkshake de Abacaxi",
+  "item.pineapple_delight.pineapple_ice_cream": "Sorvete de Abacaxi",
 
-  "block.pineapple_delight.pineapple_pie": "Pineapple Pie",
-  "block.pineapple_delight.pineapple_wild_crop": "Wild Pineapple Crop",
-  "block.pineapple_delight.pineapple_crop": "Pineapple Crop",
-  "block.pineapple_delight.pineapple_crate": "Pineapple Crate"
+  "block.pineapple_delight.pineapple_pie": "Torta de Abacaxi",
+  "block.pineapple_delight.pineapple_wild_crop": "Planta de Abacaxi Selvagem",
+  "block.pineapple_delight.pineapple_crop": "Planta de Abacaxi",
+  "block.pineapple_delight.pineapple_crate": "Caixa de Abacaxi"
 }
