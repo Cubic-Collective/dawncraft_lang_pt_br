@@ -4,10 +4,10 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Exterminate"
+      "text": "Exterminação"
     },
     "description": {
-      "text": "There is a new type of evil manifesting in the dimension. These half man, half beasts are called $(red)silver beasts$(). You can find them wandering around at night. Exterminate 2 of these unholy creatures, and come back to me."
+      "text": "Existe um novo tipo de mal se manifestando na dimensão. Essas criaturas meio homem, meio besta são chamadas de $(red)bestas prateadas$(). Você pode encontrá-las vagando durante a noite. Extermine 2 dessas criaturas impuras e volte até mim."
     }
   }
 }
