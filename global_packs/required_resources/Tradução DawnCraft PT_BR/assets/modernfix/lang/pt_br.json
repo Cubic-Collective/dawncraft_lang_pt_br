@@ -1,0 +1,13 @@
+{
+  "key.modernfix": "ModernFix",
+  "key.modernfix.config": "Abrir tela de configuração",
+  "modernfix.jei_load": "Carregando JEI, isso pode levar um tempo",
+  "modernfix.no_lazydfu": "LazyDFU não está instalado. Se o Minecraft precisar atualizar os dados do jogo de uma versão mais antiga, pode haver um atraso perceptível.",
+  "modernfix.config": "Configuração do ModernFix mixin",
+  "modernfix.config.done_restart": "Concluído (reinicialização necessária)",
+  "modernfix.option.on": "ligado",
+  "modernfix.option.off": "desligado",
+  "modernfix.config.not_default": " (modificado)",
+  "asynclocator.map.locating": "Mapa (Localizando...)",
+  "asynclocator.map.none": "Mapa (Nenhuma estrutura próxima encontrada)"
+}
