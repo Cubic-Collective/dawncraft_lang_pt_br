@@ -1,0 +1,15 @@
+{
+  "itemGroup.pineapple": "Pineapple Delight",
+  "item.pineapple_delight.pineapple": "Abacaxi",
+  "item.pineapple_delight.pineapple_side": "Fatias de Abacaxi",
+  "item.pineapple_delight.pineapple_pie_side": "Fatia de Torta de Abacaxi",
+  "item.pineapple_delight.pineapple_juice": "Suco de Abacaxi",
+  "item.pineapple_delight.pineapple_fried_rice": "Arroz Frito com Abacaxi",
+  "item.pineapple_delight.pineapple_milk_shake": "Milkshake de Abacaxi",
+  "item.pineapple_delight.pineapple_ice_cream": "Sorvete de Abacaxi",
+  
+  "block.pineapple_delight.pineapple_pie": "Torta de Abacaxi",
+  "block.pineapple_delight.pineapple_wild_crop": "Abacaxi Silvestre",
+  "block.pineapple_delight.pineapple_crop": "Plantação de Abacaxi",
+  "block.pineapple_delight.pineapple_crate": "Caixote de Abacaxi"
+}
