@@ -4,10 +4,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Guards"
+      "text": "Guardas"
     },
     "description": {
-      "text": "Still want something, 'hero'? Well, want to learn how to use the mixing cauldron? Kill 3 villager guards for me. I need their sacrifice for... Well it's none of your concern. Just kill 3. The quiet ones, don't choose the chatty ones that give you task. And do it quietly... if you can. I don't want to be linked with the murder."
+      "text": "Ainda quer algo, 'herói'? Bem, deseja aprender a usar o caldeirão de mistura? Mate 3 guardas de aldeões para mim. Preciso deles como sacrifício para... Bem, não é da sua conta. Apenas elimine 3 guardas. Escolha os silenciosos, não os que falam demais e te dão tarefas. E faça isso discretamente... se for capaz. Não quero ser associado a assassinatos."
     }
   }
 }
