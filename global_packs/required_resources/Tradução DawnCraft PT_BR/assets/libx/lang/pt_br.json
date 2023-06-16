@@ -26,7 +26,7 @@
   "libx.config.gui.resource_list.type_deny_list": "Lista de Restrição",
   "libx.config.gui.resource_list.entry_type": "Tipo: %s",
   "libx.config.gui.resource_list.entry_type_simple": "Simples",
-  "libx.config.gui.resource_list.entry_type_regex": "Expressão Regular",
+  "libx.config.gui.resource_list.entry_type_regex": "Expressão Regular (Regex)",
   "libx.config.gui.resource_list.entry_mode": "Modo: %s",
   "libx.config.gui.resource_list.entry_mode_allow": "Permitir",
   "libx.config.gui.resource_list.entry_mode_deny": "Negar",
@@ -43,11 +43,11 @@
   "libx.config.gui.component.bold": "Negrito: %s",
   "libx.config.gui.component.italic": "Itálico: %s",
   "libx.config.gui.component.underlined": "Sublinhado: %s",
-  "libx.config.gui.component.strikethrough": "Riscado: %s",
+  "libx.config.gui.component.strikethrough": "Tachado: %s",
   "libx.config.gui.component.obfuscated": "Ofuscado: %s",
   "libx.config.gui.component.siblings": "Irmãos",
   "libx.config.gui.component.arguments": "Argumentos",
   "libx.config.gui.component.type_text": "Texto",
   "libx.config.gui.component.type_translate": "Tradução",
-  "libx.config.gui.component.type_key": "Atalho do Teclado"
+  "libx.config.gui.component.type_key": "Vinculação de Teclas"
 }
