@@ -1,10 +1,10 @@
 {
   "Use /locate betteroceanmonuments:ocean_monument instead!": "Use /locate betteroceanmonuments:ocean_monument em vez disso!",
   "text.autoconfig.betteroceanmonuments-fabric-1_18.title": "YUNG's Better Ocean Monuments",
-  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMinY": "Monumento do Oceano, Início mínimo Y",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMinY": "Monumento do Oceano, Início Mínimo Y",
   "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMinY.@Tooltip": "O valor mínimo do y no qual o monumento do oceano pode surgir.",
-  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMaxY": "Monumento do Oceano, Início máximo Y",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMaxY": "Monumento do Oceano, Início Máximo Y",
   "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMaxY.@Tooltip": "O valor máximo do y no qual o monumento do oceano pode surgir.",
-  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.disableVanillaMonuments": "Desativar os monumentos do oceano Vanilla",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.disableVanillaMonuments": "Desativar os Monumentos do Oceano Vanilla",
   "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.disableVanillaMonuments.@Tooltip": "Se os monumentos do oceano vanilla devem ser desativados ou não."
 }
