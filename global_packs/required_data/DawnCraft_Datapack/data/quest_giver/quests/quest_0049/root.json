@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei"
     },
     "description": {
-      "text": "Hello, can you help me get a $(red)magma cream$()? I need it for my medical research."
+      "text": "Olá, você pode me ajudar a conseguir um $(red)creme de magma$()? Eu preciso dela para minha pesquisa médica."
     }
   }
 }
