@@ -33,7 +33,7 @@
     "enchantment.difficultraids.critical_strike": "Ataque Crítico",
     "enchantment.difficultraids.critical_strike.desc": "Aumenta a chance de acerto crítico, causando dano extra. Combine com Explosão Crítica para aumentar o dano de acertos críticos",
     "enchantment.difficultraids.critical_burst": "Explosão Crítica",
-    "enchantment.difficultraids.critical_burst.desc": "Aumenta o dano causado por acertos críticos. Combine com Ataque Crítico para aumentar a chance de acerto crítico.",
+    "enchantment.difficultraids.critical_burst.desc": "Aumenta o dano causado por acertos críticos. Combine com Ataque Crítico para aumentar a chance de acerto crítico. Níveis muito altos desse encantamento reduzirão ligeiramente a chance de crítico.",
     "enchantment.difficultraids.lightning_resistance": "Resistência a Raios",
     "enchantment.difficultraids.lightning_resistance.desc": "Reduz o dano recebido por raios.",
     "enchantment.difficultraids.critical_resistance": "Resistência a Acertos Críticos",

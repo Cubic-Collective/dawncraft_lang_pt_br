@@ -18,9 +18,11 @@
   "modules.server_creator_banner.config.use_language_files": "Usar Arquivos de Idioma",
   "modules.server_creator_banner.config.display_banner": "Banner de Exibição",
   
-  "screen.config.modules.public_server_list.name": "Lista Pública de Servidores",
+  "screen.config.modules.public_server_list.name": "Lista de Servidores Públicos",
+  "modules.public_server_list.open_screen.text": "Servidores Públicos",
   "modules.public_server_list.open_screen.tooltip": "Visualizar servidores públicos",
   "modules.public_server_list.title": "Servidores Públicos",
+  "modules.public_server_list.how_to": "Adicione o seu Servidor",
   "modules.public_server_list.last_played_label": "Última Jogada",
   "modules.public_server_list.public_servers_label": "Servidores Públicos",
   "modules.public_server_list.loading.title": "Tela de Carregamento de Servidores Públicos",
@@ -29,6 +31,9 @@
   "modules.public_server_list.filter.name": "Filtrar por Nome",
   "modules.public_server_list.sort.player_count": "Ordenar por Contagem de Jogadores",
   "modules.public_server_list.sort.ping": "Ordenar por Ping",
+  "modules.public_server_list.config.button_x": "Posição do Botão Esquerdo",
+  "modules.public_server_list.config.button_y": "Posição do Botão Superior",
+  "modules.public_server_list.config.button_width": "Largura do Botão",
   
   "configs.boolean.true": "Verdadeiro",
   "configs.boolean.false": "Falso",
