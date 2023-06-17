@@ -1,4 +1,6 @@
 {
+  "block.quest_giver.guildmaster_bell": "Sino da Guilda (Ponto de Interesse)",
+  "entity.minecraft.villager.quest_giver.guildmaster": "Mestre da Guilda",
   "entity.quest_giver.quest_villager.none": "Provedor de Missões",
   "entity.quest_giver.quest_guard_villager": "Guarda",
   "entity.quest_giver.quest_villager.armorer": "Armeiro - Armadura - Provedor de Missões",
@@ -47,7 +49,24 @@
   "item.quest_giver.trading_contract_oceanographer": "Contrado Comercial da Guilda de Oceanógrafos",
   "item.quest_giver.trading_contract_woodworker": "Contrado Comercial da Guilda de Marceneiros",
   "item.quest_giver.trading_contract_beekeeper": "Contrado Comercial da Guilda de Apicultores",
+  "message.quest_giver.accept_gift": "Muito obrigado, %d!",
+  "message.quest_giver.punch_locals": "Tenha cuidado para não agredir os habitantes locais! Saia do modo de batalha antes de interagir.",
   "message.quest_giver.quest_completion": "Missão Concluída!",
-  "message.quest_giver.itemmessage": "Pressione \"%s\" para mais informações"
-
+  "message.quest_giver.itemmessage": "Pressione \"%s\" para mais informações",
+  "message.quest_giver.trading_contract": "Use Shift-Botão Direito em um Atril para aceitar este contrato, depois de aceitar, você pode fazer trocas com os aldeões.",
+  "message.quest_giver.trading_contract_sign": "Você aceitou este contrato",
+  "message.quest_giver.trading_contract_signed": "Você já aceitou este contrato",
+  "subtitle.quest_giver.villager_accept": "som de missão aceita",
+  "subtitle.quest_giver.villager_decline": "som de missão recusada",
+  "subtitle.quest_giver.villager_dialogue": "som de diálogo de missão",
+  "text.quest_giver.accept1": "Vou fazer isso!",
+  "text.quest_giver.accept2": "Certo",
+  "text.quest_giver.accept3": "Ok!",
+  "text.quest_giver.accept4": "Tudo certo!",
+  "text.quest_giver.accept5": "Eu aceito!",
+  "text.quest_giver.decline1": "Talvez depois.",
+  "text.quest_giver.decline2": "Estou ocupado",
+  "text.quest_giver.decline3": "Não, desculpe.",
+  "text.quest_giver.decline4": "Agora não",
+  "text.quest_giver.decline5": "Eu recuso!"
 }
