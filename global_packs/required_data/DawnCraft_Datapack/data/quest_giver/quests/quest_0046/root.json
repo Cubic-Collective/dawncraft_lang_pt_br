@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Greetings. I've got some extermination contracts for you, adventurer."
+      "text": "Saudações. Tenho alguns contratos de extermínio para você, aventureiro."
     }
   }
 }
