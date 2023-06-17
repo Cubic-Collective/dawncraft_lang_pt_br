@@ -1,0 +1,17 @@
+{
+   "entity.piglinproliferation.piglin_alchemist": "Piglin Alquimista",
+   "item.piglinproliferation.piglin_alchemist_spawn_egg": "Ovo de Piglin Alquimista",
+   "subtitles.entity.piglin_alchemist.prepared_to_throw_potion": "Piglin Alquimista vai lançar uma poção!",
+   "subtitles.entity.piglin_alchemist.walk": "Barulho das poções",
+   "subtitles.entity.piglin_alchemist.idle": "Piglin Alquimista grunhe",
+   "subtitles.entity.piglin_alchemist.hurt": "Piglin Alquimista machuca",
+   "subtitles.entity.piglin_alchemist.admire": "Piglin Alquimista admira",
+   "subtitles.entity.piglin_alchemist.jealous": "Piglin Alquimista resmunga de inveja",
+   "subtitles.entity.piglin_alchemist.retreat": "Piglin Alquimista retira-se",
+   "subtitles.entity.piglin_alchemist.death": "Piglin Alquimista morre",
+   "subtitles.entity.piglin_alchemist.celebrate": "Piglin Alquimista celebra",
+   "subtitles.entity.piglin_alchemist.angry": "Piglin Alquimista resmunga com raiva",
+   "subtitles.entity.piglin_alchemist.conversion": "Piglin Alquimista se transforma em Piglin Zumbificado",
+   "subtitles.entity.piglin_alchemist.step": "Piglin Alquimista dá passos",
+   "subtitles.arrow.regenhealingarrowhit": "Flecha cura"
+}

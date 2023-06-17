@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E aí?"
     },
     "description": {
-      "text": "I need your help retrieving a witch hat, any one would do. Witches seldom drop it."
+      "text": "Preciso da sua ajuda para recuperar um chapéu de bruxa, qualquer um servirá. As bruxas raramente deixam cair esse item."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "YOU FOOL! NOW LETS BRING DOOM UPON THIS VILLAGE! I TAKE GLORY IN MY SACRIFICE IF IT MEANT BRINGING THIS VILLAGE TO ITS END!"
+      "text": "IDIOTA! AGORA VAMOS TRAZER A PERDIÇÃO SOBRE ESTA VILA! EU ME GLORIFICO EM MEU SACRIFÍCIO SE ISSO SIGNIFICAR O FIM DESSA VILA!"
     }
   },
   "tasks": [

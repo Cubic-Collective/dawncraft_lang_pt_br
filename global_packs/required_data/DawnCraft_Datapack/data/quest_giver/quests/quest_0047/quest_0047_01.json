@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E então?"
     },
     "description": {
-      "text": "Did you get the $(red)ghast tear$()?"
+      "text": "Você conseguiu a $(red)lágrima de ghast$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Nice, exactly what I needed. Thanks for your help!"
+      "text": "Ótimo, exatamente o que eu precisava. Obrigado pela sua ajuda!"
     }
   },
   "tasks": [
