@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E aí?"
     },
     "description": {
-      "text": "Did you get the $(red)magma cream$()?"
+      "text": "Você conseguiu o $(red)creme de magma$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Ow! That's hot... Alright thanks for your help!"
+      "text": "Ai, isso está quente... Tudo bem, obrigado pela sua ajuda!"
     }
   },
   "tasks": [
