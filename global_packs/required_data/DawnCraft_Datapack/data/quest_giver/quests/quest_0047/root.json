@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hello, can you help me get a $(red)ghast tear$()? I need it for my medical research."
+      "text": "Olá, você pode me ajudar a conseguir uma $(red)lágrima de ghast$()? Preciso dela para minhas pesquisas médicas."
     }
   }
 }

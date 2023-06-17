@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "HAHAHAHA! RAIN POISON ON US!"
+      "text": "HAHAHAHA! CHUVA DE VENENO SOBRE NÓS!"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Well, great job. You're such a hero. Is that what you wanted to hear?"
+      "text": "Ótimo trabalho. Você é um verdadeiro herói. Era isso que você queria ouvir?"
     }
   },
   "tasks": [

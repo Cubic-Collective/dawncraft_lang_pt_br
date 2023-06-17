@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E agora?"
     },
     "description": {
-      "text": "Kill 3 regular village guards and come back to me. Don't let others see you. If your reputation gets too low I won't talk to you... For obvious reasons."
+      "text": "Elimine 3 guardas regulares da vila e retorne até mim. Não permita que outros te vejam. Se sua reputação ficar muito baixa, não irei mais falar contigo... Por razões óbvias."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Hahaha... You vile man. Here, this is how you use it. Stay mischievous."
+      "text": "Hahaha... Você é um homem vil. Aqui, é assim que você usa isso. Mantenha-se travesso."
     }
   },
   "tasks": [
