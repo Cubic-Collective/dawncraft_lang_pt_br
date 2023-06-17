@@ -4,10 +4,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Advice"
+      "text": "Conselho"
     },
     "description": {
-      "text": "Just a word of advice... Though most of the folks here are nice and all, some of them... not so much. Don't believe in everything people say, yea?"
+      "text": "Apenas um conselho... Embora a maioria das pessoas aqui sejam legais e tal, algumas delas... nem tanto. Não acredite em tudo o que as pessoas dizem, tá?"
     }
   }
 }
