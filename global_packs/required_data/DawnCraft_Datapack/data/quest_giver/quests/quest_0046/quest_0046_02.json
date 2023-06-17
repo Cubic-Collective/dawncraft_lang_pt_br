@@ -4,18 +4,18 @@
 	"icon": "minecraft:paper",
 	"start": {
 		"title": {
-			"text": "Hello"
+			"text": "Olá"
 		},
 		"description": {
-			"text": "It seems you haven't finished your contract yet., or did you forget your assignment? Bring me $()5 orcs teeth$() as proof of your extermination task."
+			"text": "Parece que você ainda não concluiu seu contrato, ou você esqueceu sua tarefa? Me traga $()5 dentes de orcs$() como prova da sua missão de extermínio."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Here."
+			"text": "Aqui está."
 		},
 		"description": {
-			"text": "Well done. I have no more task for you at the moment. Just know that evil is always lurking about, stay vigilant."
+			"text": "Muito bem. Não tenho mais tarefas para você no momento. Apenas saiba que o mal está sempre à espreita, mantenha-se vigilante."
 		}
 	},
 	"tasks": [{
