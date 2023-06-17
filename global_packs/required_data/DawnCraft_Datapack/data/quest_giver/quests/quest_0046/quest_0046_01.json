@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Hello"
+      "text": "Olá"
     },
     "description": {
-      "text": "It seems you haven't finished your contract yet. Or did you forget what your contract was? Defeat $(red)2 silver beasts$()."
+      "text": "Parece que você ainda não concluiu seu contrato. Ou você esqueceu qual era o seu contrato? Derrote $(red)2 bestas prateadas$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui."
     },
     "description": {
-      "text": "You did well. I can feel the evil forces stopping their advances briefly. But their conquest is never ending, talk to me again if you wish for another contract."
+      "text": "Você se saiu bem. Posso sentir as forças do mal temporariamente recuando. No entanto, sua conquista é interminável. Fale comigo novamente se desejar outro contrato."
     }
   },
   "tasks": [ 
