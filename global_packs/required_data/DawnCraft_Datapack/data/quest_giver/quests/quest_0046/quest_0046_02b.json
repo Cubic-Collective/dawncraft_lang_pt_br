@@ -4,10 +4,10 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Exterminate"
+      "text": "Extermínio"
     },
     "description": {
-      "text": "Hello again, my next contract for you, is to exterminate orcs that roam around our land. These humanoid monsters have set up camps everywhere. I'm sure you've seen a few. Retrieve at least 6 orcs teeth and bring them to me as proof."
+      "text": "Olá novamente, meu próximo contrato para você é exterminar os orcs que vagueiam por nossa terra. Essas criaturas humanoides montaram acampamentos em todos os lugares. Tenho certeza de que você já viu alguns. Recupere pelo menos 6 dentes de orc e traga-os para mim como prova."
     }
   }
 }
