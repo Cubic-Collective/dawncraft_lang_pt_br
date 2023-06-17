@@ -33,7 +33,7 @@
     "enchantment.difficultraids.critical_strike": "Critical Strike",
     "enchantment.difficultraids.critical_strike.desc": "Increases the chance of a critical hit, which deals extra damage. Combine with Critical Burst to increase critical hit damage.",
     "enchantment.difficultraids.critical_burst": "Critical Burst",
-    "enchantment.difficultraids.critical_burst.desc": "Increases damage dealt by critical hits. Combine with Critical Strike to increase critical hit chance.",
+    "enchantment.difficultraids.critical_burst.desc": "Increases damage dealt by critical hits. Combine with Critical Strike to increase critical hit chance. Very powerful levels of this enchantment will slightly reduce the crit chance.",
     "enchantment.difficultraids.lightning_resistance": "Lightning Resistance",
     "enchantment.difficultraids.lightning_resistance.desc": "Reduces damage taken from lightning bolts.",
     "enchantment.difficultraids.critical_resistance": "Critical Resistance",

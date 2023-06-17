@@ -19,8 +19,10 @@
   "modules.server_creator_banner.config.display_banner": "Display Banner",
 
   "screen.config.modules.public_server_list.name": "Public Server List",
+  "modules.public_server_list.open_screen.text": "Public Servers",
   "modules.public_server_list.open_screen.tooltip": "View public servers",
   "modules.public_server_list.title": "Public Servers",
+  "modules.public_server_list.how_to": "Add Your Server",
   "modules.public_server_list.last_played_label": "Last Played",
   "modules.public_server_list.public_servers_label": "Public Servers",
   "modules.public_server_list.loading.title": "Public Server Loading Screen",
@@ -29,6 +31,9 @@
   "modules.public_server_list.filter.name": "Filter by Name",
   "modules.public_server_list.sort.player_count": "Sort by Player Count",
   "modules.public_server_list.sort.ping": "Sort by Ping",
+  "modules.public_server_list.config.button_x": "Left Button Position",
+  "modules.public_server_list.config.button_y": "Top Button Position",
+  "modules.public_server_list.config.button_width": "Button Width",
 
   "configs.boolean.true": "True",
   "configs.boolean.false": "False",
