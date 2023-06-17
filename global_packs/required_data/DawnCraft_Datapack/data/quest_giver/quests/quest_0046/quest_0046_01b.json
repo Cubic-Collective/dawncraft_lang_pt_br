@@ -4,7 +4,7 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Exterminação"
+      "text": "Extermínio"
     },
     "description": {
       "text": "Existe um novo tipo de mal se manifestando na dimensão. Essas criaturas meio homem, meio besta são chamadas de $(red)bestas prateadas$(). Você pode encontrá-las vagando durante a noite. Extermine 2 dessas criaturas impuras e volte até mim."
