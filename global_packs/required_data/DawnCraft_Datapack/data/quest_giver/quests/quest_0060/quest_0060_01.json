@@ -7,7 +7,7 @@
       "text": "Fabricação de Barcos"
     },
     "description": {
-      "text": "Lembre-se, o barco deve ser feito com o material $(red)Bálsamo Corrompido$()."
+      "text": "Lembre-se, o barco deve ser feito com o material $(red)Balsa Corrompido$()."
     }
   },
   "complete": {
