@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Fantastic. Could you cook a dish called $(red)Honey Glaze Ham$()? Me and my friends are dying to taste this dish again."
+      "text": "Fantástico. Você poderia preparar um prato chamado $(red)Presunto com Cobertura de Mel$()? Eu e meus amigos estamos ansiosos para saborear esse prato novamente."
     }
   }
 }

@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "I need you to collect $(red)2 pieces of white bear fur$(). They might be slightly tougher than other bear types, so be careful. Come back when you've got the goods."
+      "text": "Preciso que você colete $(red)2 peças de pele de urso branco$(). Esses ursos podem ser um pouco mais resistentes do que outros tipos, então tome cuidado. Volte aqui quando tiver os itens em mãos."
     }
   }
 }

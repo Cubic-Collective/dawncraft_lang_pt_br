@@ -4,18 +4,18 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "You got the goods yet? $(red)2 White Bear Fur$() that is."
+      "text": "Você já conseguiu os itens? $(red)2 Peles de Urso Branco$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. Here, pleasure doing business with you."
+      "text": "Obrigado. Aqui está, foi um prazer fazer negócios com você."
     }
   },
   "tasks": [
