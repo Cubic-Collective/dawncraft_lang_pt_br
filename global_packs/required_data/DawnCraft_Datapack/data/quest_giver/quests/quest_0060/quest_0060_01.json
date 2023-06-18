@@ -4,10 +4,10 @@
   "icon": "minecraft:oak_boat",
   "start": {
     "title": {
-      "text": "Fabricação de barcos"
+      "text": "Fabricação de Barcos"
     },
     "description": {
-      "text": "Lembre-se, o barco deve ser feito com o material $(red)Balsa Corrompida$()."
+      "text": "Lembre-se, o barco deve ser feito com o material $(red)Bálsamo Corrompido$()."
     }
   },
   "complete": {
