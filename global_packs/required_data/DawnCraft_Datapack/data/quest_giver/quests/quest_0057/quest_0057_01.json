@@ -4,7 +4,7 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Fazer uma vara de pesca"
+      "text": "Fazendo uma Vara de Pesca"
     },
     "description": {
       "text": "Você conseguiu a $(red)vara de pesca$()?"
