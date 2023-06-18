@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Adventurer! Our village requires your assistance!"
+      "text": "Aventureiro! Nossa vila precisa da sua ajuda!"
     }
   }
 }

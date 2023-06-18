@@ -4,19 +4,19 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Lost Child"
+      "text": "Criança Perdida"
     },
     "description": {
-      "text": "Please go save the child, and bring him back here."
+      "text": "Por favor, vá salvar a criança e a traga de volta aqui."
     }
 
   },
   "complete": {
     "title": {
-      "text": "Lost Child: Complete"
+      "text": "Criança Perdida: Concluída"
     },
     "description": {
-      "text": "You're a hero for what you did, adventurer. We will never forget what you've done for us. Here, I'll teach you a new combat skill - Berserker."
+      "text": "Você é um verdadeiro herói pelo que fez, aventureiro. Nunca esqueceremos o seu feito. Como agradecimento, vou te ensinar uma nova habilidade de combate - Fúria Berserker."
     }
   },
   "tasks": [
