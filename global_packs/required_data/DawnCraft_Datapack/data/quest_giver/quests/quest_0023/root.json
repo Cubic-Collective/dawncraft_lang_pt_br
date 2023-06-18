@@ -3,10 +3,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "E aí?"
     },
     "description": {
-      "text": "Hey young man, want to learn some combat skills?"
+      "text": "Ei, jovem, quer aprender algumas habilidades de combate?"
     }
   }
 }
