@@ -4,10 +4,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "A Curious Request"
+      "text": "Um Pedido Curioso"
     },
     "description": {
-      "text": "Found any $(red)big guardians$()? If so give me their spike."
+      "text": "Encontrou algum $(red)guardião gigante$()? Se sim, me traga seu espinho."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Thanks!"
     },
     "description": {
-      "text": "This is... extraordinary. The ocean is full of mystery... I've heard stories of giant squids as well, guess that would be true as well. Anyway, here's your reward. Thanks for that."
+      "text": "Isso é... extraordinário. O oceano está cheio de mistérios... Também ouvi histórias sobre lulas gigantes, acho que isso também pode ser verdade. De qualquer forma, aqui está sua recompensa. Obrigado por isso."
     }
   },
   "tasks": [

@@ -4,10 +4,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Time Tracking"
+      "text": "Controle de Tempo"
     },
     "description": {
-      "text": "I heard there are things that help you keep track of time. Those are called... what was it, oh right - $(red)Hourglass$()! Can you get me one of those?"
+      "text": "Eu ouvi dizer que existem coisas que ajudam a controlar o tempo. Elas são chamadas... como era mesmo? Ah, sim - $(red)Ampulhetas$()! Você poderia conseguir uma para mim?"
     }
   }
 }

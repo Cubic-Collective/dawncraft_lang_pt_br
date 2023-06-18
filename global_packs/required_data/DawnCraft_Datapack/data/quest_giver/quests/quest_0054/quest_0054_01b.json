@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Olá"
     },
     "description": {
-      "text": "Our equipments are a bit broken in... do you think you can get us an $(red)iron hoe$()?"
+      "text": "Nossos equipamentos estão um pouco desgastados... você poderia nos ajudar a conseguir uma $(red)enxada de ferro$()?"
     }
   }
 }

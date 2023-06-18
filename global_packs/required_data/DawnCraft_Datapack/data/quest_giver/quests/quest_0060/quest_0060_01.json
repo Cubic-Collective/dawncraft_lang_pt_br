@@ -4,18 +4,18 @@
   "icon": "minecraft:oak_boat",
   "start": {
     "title": {
-      "text": "Boat Making"
+      "text": "Fabricação de Barcos"
     },
     "description": {
-      "text": "Remember, the boat has to be made with the material $(red)Blighted Balsa$()."
+      "text": "Lembre-se, o barco deve ser feito com o material $(red)Balsa Corrompida$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "It's passable, could use a little more work. But this will do, thanks. Here's your reward, think you'll like it."
+      "text": "Está aceitável, poderia ser um pouco melhor. Mas isso servirá, obrigado. Aqui está sua recompensa, acredito que você vá gostar."
     }
   },
   "tasks": [

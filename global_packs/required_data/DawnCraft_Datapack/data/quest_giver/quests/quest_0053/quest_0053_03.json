@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E aí?"
     },
     "description": {
-      "text": "So, did you get the $(red)4 sweet berries$()?"
+      "text": "Então, conseguiu as $(red)4 bagas doces$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "You've been great, young man. Do me another favor? I need 2 beetroots... I promise it's the last thing I'll ask."
+      "text": "Você foi ótimo, jovem. Poderia me fazer mais um favor? Preciso de 2 beterrabas... Prometo que é a última coisa que peço."
     }
   },
   "tasks": [

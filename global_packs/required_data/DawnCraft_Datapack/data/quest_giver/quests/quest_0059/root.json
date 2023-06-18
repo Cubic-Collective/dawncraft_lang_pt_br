@@ -3,10 +3,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "It's so hard to keep track of time when I'm out fishing... Hey fella, can you help me out with something?"
+      "text": "É tão difícil acompanhar o tempo quando estou pescando... Ei, camarada, você pode me ajudar com uma coisa?"
     }
   }
 }

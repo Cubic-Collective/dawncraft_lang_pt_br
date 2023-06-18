@@ -4,18 +4,18 @@
 	"icon": "minecraft:cod",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "E aí?"
 		},
 		"description": {
-			"text": "Did you get the redstone dust? I think I just need 1."
+			"text": "Você conseguiu o pó de redstone? Acho que só preciso de 1."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Thanks! Here's for your trouble."
+			"text": "Obrigado! Aqui está sua recompensa pela ajuda."
 		}
 	},
 	"tasks": [{

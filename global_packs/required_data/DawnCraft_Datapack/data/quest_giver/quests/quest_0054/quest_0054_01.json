@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E então?"
     },
     "description": {
-      "text": "Did you get the $(red)iron hoe$()?"
+      "text": "Você conseguiu a $(red)enxada de ferro$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Oh you got it for us... I'm very grateful for that. I feel bad for asking for another favor... But do you think you can make $(red)2 loaves of bread$() for us? We're only good at growing and harvesting you see. You can use the wheat in our farm for that!"
+      "text": "Ah, você conseguiu para nós... Sou muito grato por isso. Me sinto mal por pedir outro favor... Mas será que você poderia fazer $(red)2 pães$() para nós? Só sabemos cultivar e colher, sabe. Você pode usar o trigo da nossa fazenda para isso!"
     }
   },
   "tasks": [
