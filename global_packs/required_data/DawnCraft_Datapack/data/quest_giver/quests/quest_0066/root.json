@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Got a job for you, adventurer."
+      "text": "Tenho um trabalho para você, aventureiro."
     }
   }
 }

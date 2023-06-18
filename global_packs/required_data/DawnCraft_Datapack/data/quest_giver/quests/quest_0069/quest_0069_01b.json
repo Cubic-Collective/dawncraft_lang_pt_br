@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Could you fetch me a piece of rabbit hide?"
+      "text": "Você poderia me conseguir uma pele de coelho?"
     }
   }
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Adventurer, you any good at cooking?"
+      "text": "Aventureiro, você é bom em cozinhar?"
     }
   }
 }

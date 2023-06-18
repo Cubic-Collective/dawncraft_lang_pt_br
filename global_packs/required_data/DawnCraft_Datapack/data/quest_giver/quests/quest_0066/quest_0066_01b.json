@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "I need you to collect $(red)2 pieces of black bear fur$(). Come back when you've got the goods."
+      "text": "Preciso que você colete $(red)2 peles de urso negro$(). Volte quando tiver os itens."
     }
   }
 }
