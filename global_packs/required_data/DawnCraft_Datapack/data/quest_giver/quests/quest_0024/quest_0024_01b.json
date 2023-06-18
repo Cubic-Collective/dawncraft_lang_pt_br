@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "The pillagers have kidnapped a child from our village... Please go save him and bring him home. The guards here are swarmed with patrol duties, you're our only hope."
+      "text": "Os saqueadores sequestraram uma criança de nossa vila... Por favor, vá salvá-la e a traga de volta para casa. Os guardas aqui estão sobrecarregados com deveres de patrulha, e você é a nossa única esperança."
     }
   }
 }
