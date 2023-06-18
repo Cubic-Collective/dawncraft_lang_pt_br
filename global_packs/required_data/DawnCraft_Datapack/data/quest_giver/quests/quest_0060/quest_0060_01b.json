@@ -4,7 +4,7 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Fabricação de barcos"
+      "text": "Fabricação de Barcos"
     },
     "description": {
       "text": "Ótimo. Você poderia me ajudar a fazer um barco para pescar? A madeira de mogno costuma ser a melhor opção, mas nesta dimensão temos a próxima melhor coisa - $(red)Balsa Corrompida$(). Faça um barco com essa madeira e me entregue... Eu confio que, como um aventureiro experiente, você tem habilidades na fabricação de barcos, certo?"
