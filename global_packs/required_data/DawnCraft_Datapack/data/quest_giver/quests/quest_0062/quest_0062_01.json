@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Feathers Fetching"
+      "text": "Coleta de Penas"
     },
     "description": {
-      "text": "Did you get $(red)2 Roadrunner Feathers$() yet?"
+      "text": "Você já conseguiu $(red)2 Penas de Avestruz$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "hm... The quality doesn't seem to be especially good. I'll see if I can make use of it in other ways. Anyway, here, for your trouble."
+      "text": "Hmm... A qualidade não parece ser especialmente boa. Vou ver se consigo usá-la de outras maneiras. De qualquer forma, aqui está, como agradecimento pelo seu esforço."
     }
   },
   "tasks": [

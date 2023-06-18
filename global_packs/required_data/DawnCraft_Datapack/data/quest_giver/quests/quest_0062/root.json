@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I heard that there is a type of terrestrial bird in desert biomes with excellent feathers for arrow making. Do you think you can hunt 2 of them down and bring me their drops?."
+      "text": "Ouvi dizer que existem aves terrestres nos biomas de deserto com penas excelentes para a Criação de flechas. Será que você poderia caçar 2 delas e trazer as penas para mim?"
     }
   }
 }
