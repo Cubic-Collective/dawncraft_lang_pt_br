@@ -4,18 +4,18 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Hunting Request"
+      "text": "Pedido de Caça"
     },
     "description": {
-      "text": "(*You realize that that's not how sharks attack; And that only some of the most passive shark types such as $(red)Hammerhead Shark$() drop their teeth on death. But you decided to stay silent*)"
+      "text": "(*Você percebe que não é assim que os tubarões atacam e que apenas alguns tipos de tubarões mais pacíficos, como o $(red)Tubarão Martelo$(), soltam seus dentes ao morrer. Mas você decide ficar em silêncio*)"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Hahahaha.... I shall engrave my sister's name on this thing and wear it as a pendant. Thanks adventurer, here's your reward."
+      "text": "Hahahaha... Vou gravar o nome da minha irmã neste dente e usá-lo como pingente. Obrigado, aventureiro. Aqui está a sua recompensa."
     }
   },
   "tasks": [

@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E aí?"
     },
     "description": {
-      "text": "Well... Why are you still here? Are you expecting some kind of reward?"
+      "text": "Bem... Por que você ainda está aqui? Está esperando algum tipo de recompensa?"
     }
   }
 }

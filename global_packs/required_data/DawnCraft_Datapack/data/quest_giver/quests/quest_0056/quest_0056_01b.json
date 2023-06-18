@@ -4,10 +4,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "A Curious Request"
+      "text": "Um Pedido Curioso"
     },
     "description": {
-      "text": "Great. Basically, an Oceanographer told me that there are these creatures out in the sea called guardians with spikes coming out of them... I find that hard to believe as I've never encountered anything like this for my whole life around the coastline. If you ever come across one and decide to kill it, could you give me one of their $(red)spikes$() as proof of their existence? I heard from the Oceanographer that only the big one drops its spike on death though."
+      "text": "Ótimo. Basicamente, um Oceanógrafo me contou que existem criaturas no mar chamadas guardiões com espinhos saindo de seus corpos... Acho isso difícil de acreditar, já que nunca encontrei algo assim durante toda a minha vida na costa. Se algum dia você se deparar com um desses guardiões e decidir eliminá-lo, poderia trazer um de seus $(red)espinhos$() como prova de sua existência? Segundo o Oceanógrafo, apenas os guardiões maiores dropam seus espinhos ao morrer."
     }
   }
 }

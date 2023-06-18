@@ -3,10 +3,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hey adventurer, you look like you've been through hell, haha! Just kidding, can you help me with something?"
+      "text": "Ei, aventureiro, você parece ter passado por apuros, haha! Brincadeira, você pode me ajudar com algo?"
     }
   }
 }

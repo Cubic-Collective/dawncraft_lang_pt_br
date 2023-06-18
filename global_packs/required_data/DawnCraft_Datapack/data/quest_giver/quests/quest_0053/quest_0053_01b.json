@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Hello"
+      "text": "Olá"
     },
     "description": {
-      "text": "Great, could you get me $(red)2 onions$()?"
+      "text": "Ótimo, você poderia me conseguir $(red)2 cebolas$()?"
     }
   }
 }

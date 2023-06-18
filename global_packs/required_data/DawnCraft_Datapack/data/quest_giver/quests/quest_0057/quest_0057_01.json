@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Making a Fishing Rod"
+      "text": "Fazer uma vara de pesca"
     },
     "description": {
-      "text": "Did you get the $(red)fishing rod$()?"
+      "text": "Você conseguiu a $(red)vara de pesca$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks, I don't have much to give you. Um... take this cod, it's fresh."
+      "text": "Obrigado, não tenho muito para te dar. Hum... pegue este bacalhau, ele está fresco."
     }
   },
   "tasks": [

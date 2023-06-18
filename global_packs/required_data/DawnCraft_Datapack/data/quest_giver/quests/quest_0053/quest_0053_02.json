@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E aí?"
     },
     "description": {
-      "text": "Did you get the $(red)2 melon seeds$()?"
+      "text": "Você conseguiu as $(red)2 sementes de melancia$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Get me 4 sweet berries as well? Villagers like myself can't risk going into the woods to collect these.   *You hear the villager chuckle as he finishes his sentence.*"
+      "text": "Consegue me arrumar também 4 frutas doces? Nós, aldeões, não podemos correr o risco de ir para a floresta coletá-las.   *Você ouve o aldeão rindo enquanto termina a frase.*"
     }
   },
   "tasks": [

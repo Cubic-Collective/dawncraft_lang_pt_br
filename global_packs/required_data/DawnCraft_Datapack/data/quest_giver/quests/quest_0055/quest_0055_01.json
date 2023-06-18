@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Então?"
     },
     "description": {
-      "text": "Did you take the trip to Nether and retrieve the $(red)ghost pepper$() yet?"
+      "text": "Você fez a viagem para o Nether e conseguiu pegar a $(red)pimenta fantasma$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Ow, it's burning my hand! This is ghost pepper alright, haha! Here's your reward."
+      "text": "Nossa, está queimando minha mão! Isso é mesmo pimenta fantasma, haha! Aqui está sua recompensa."
     }
   },
   "tasks": [

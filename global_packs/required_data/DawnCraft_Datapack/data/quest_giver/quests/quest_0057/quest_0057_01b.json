@@ -4,10 +4,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Making a Fishing Rod"
+      "text": "Fazer uma vara de pesca"
     },
     "description": {
-      "text": "My fishing rod is almost broken... can you make me a new one? The usual crafter is out of town these days..."
+      "text": "Minha vara de pesca está quase quebrada... você poderia fazer uma nova para mim? O artesão habitual está fora da cidade atualmente..."
     }
   }
 }

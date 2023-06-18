@@ -3,10 +3,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Know anything about boat making? Either way, wanna help me out?"
+      "text": "Você tem algum conhecimento sobre fabricação de barcos? De qualquer forma, gostaria de me ajudar?"
     }
   }
 }

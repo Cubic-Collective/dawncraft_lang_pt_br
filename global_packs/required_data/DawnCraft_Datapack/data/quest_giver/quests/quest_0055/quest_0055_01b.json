@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E então?"
     },
     "description": {
-      "text": "Spices seem to be the new craze in this village... I'm looking to grow the hottest pepper known and make a profit, haha! Have you heard of a kind of pepper called 'ghost pepper' that can be found the Nether? Well, I need you to collect $(red)3 of those ghost peppers$() and bring them to me."
+      "text": "Os temperos estão fazendo o maior sucesso nessa vila... Estou pensando em cultivar a pimenta mais ardida do mundo e ganhar dinheiro com isso, haha! Já ouviu falar de uma pimenta chamada 'pimenta fantasma' que pode ser encontrada no Nether? Bem, preciso que você consiga $(red)3 dessas pimentas fantasma$() e me traga."
     }
   }
 }

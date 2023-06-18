@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E aí?"
     },
     "description": {
-      "text": "Got the $(red)pumpkin seeds$() yet?"
+      "text": "Conseguiu as $(red)sementes de abóbora$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Many thanks, now I can grow a small pumpkin farm behind my house and begin my studies, haha!"
+      "text": "Muito obrigado! Agora posso cultivar uma pequena fazenda de abóboras atrás da minha casa e iniciar meus estudos, haha!"
     }
   },
   "tasks": [

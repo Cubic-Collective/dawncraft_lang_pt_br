@@ -4,18 +4,18 @@
 	"icon": "minecraft:wheat_seeds",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "E aí?"
 		},
 		"description": {
-			"text": "Forgot already? Don't worry let me remind you. I need a $(red)straw bale$()."
+			"text": "Esqueceu, né? Não tem problema, deixe-me refrescar sua memória. Eu preciso de um $(red)fardo de palha$()."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Valeu!"
 		},
 		"description": {
-			"text": "A straw bale! Now we can make ourselves brand new straw hats! Thanks stranger."
+			"text": "Um fardo de palha! Agora podemos fazer novos chapéus de palha para nós! Obrigado, estranho."
 		}
 	},
 	"tasks": [{
