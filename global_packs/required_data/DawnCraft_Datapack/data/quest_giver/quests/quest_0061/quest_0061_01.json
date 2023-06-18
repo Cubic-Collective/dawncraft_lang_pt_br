@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Arrow Making"
+      "text": "Criação de Flechas"
     },
     "description": {
-      "text": "Did you get $(red)2 feathers$() yet?"
+      "text": "Você já conseguiu $(red)2 penas$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. Here, the arrows as promised."
+      "text": "Obrigado. Aqui estão as flechas como prometido."
     }
   },
   "tasks": [
