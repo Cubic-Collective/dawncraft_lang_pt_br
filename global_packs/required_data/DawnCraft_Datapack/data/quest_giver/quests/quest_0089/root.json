@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "I'm dying to drink a bottle of honey! Could you fetch one for me?"
+      "text": "Estou morrendo de vontade de beber uma garrafa de mel! Você poderia pegar uma para mim?"
     }
   }
 }

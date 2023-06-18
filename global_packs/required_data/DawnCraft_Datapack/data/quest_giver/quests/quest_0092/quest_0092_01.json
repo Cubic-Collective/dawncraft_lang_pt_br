@@ -4,18 +4,18 @@
 	"icon": "minecraft:ender_pearl",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "E aí?"
 		},
 		"description": {
-			"text": "Please let me take a look once you've obtained the $(red)dragon egg$()."
+			"text": "Por favor, deixe-me dar uma olhada quando você obtiver o $(red)ovo do dragão$()."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Sorry to do this to you, my friend... But I need it. Goodbye."
+			"text": "Sinto muito por fazer isso com você, meu amigo... Mas eu preciso disso. Adeus."
 		}
 	},
 	"tasks": [{

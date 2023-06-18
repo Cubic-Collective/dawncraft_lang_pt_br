@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Wheat Please!"
+      "text": "Por Favor, Trigo!"
     },
     "description": {
-      "text": "Did you get the $(red)wheats$()? There should be enough in the farm."
+      "text": "Você conseguiu os $(red)trigos$()? Deve haver o suficiente na fazenda."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. I don't have much to give you... would you accept these wool?"
+      "text": "Obrigado. Eu não tenho muito para te dar... você aceitaria essa lã?"
     }
   },
   "tasks": [

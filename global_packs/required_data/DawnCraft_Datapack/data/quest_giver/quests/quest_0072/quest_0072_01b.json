@@ -4,10 +4,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "A Friendly Chat"
+      "text": "Uma Conversa Amigável"
     },
     "description": {
-      "text": "Did you know that you can automate certain processes such as farming or mining by using ars nouveau pixies? You can also do it with create contraptions... But you might need to talk to an engineer to learn how to use it."
+      "text": "Você sabia que é possível automatizar certos processos, como agricultura ou mineração, usando as fadas do ars nouveau? Além disso, Você também pode fazer isso com mecanismos... Mas talvez precise falar com um engenheiro para aprender como usá-los."
     }
   }
 }

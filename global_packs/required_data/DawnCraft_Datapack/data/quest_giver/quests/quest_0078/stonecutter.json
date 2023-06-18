@@ -4,18 +4,18 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Learn How to Use the Stonecutter"
+      "text": "Aprenda a Usar o Cortador de Pedras"
     },
     "description": {
-      "text": "hm.. alright. Give me 15 Emeralds if you want to learn how to use the stonecutter."
+      "text": "Hmm... tudo bem. Me dê 15 Esmeraldas se você quiser aprender a usar a cortador de pedras."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "There you go!"
+      "text": "Aqui está!"
     }
   },
   "tasks": [

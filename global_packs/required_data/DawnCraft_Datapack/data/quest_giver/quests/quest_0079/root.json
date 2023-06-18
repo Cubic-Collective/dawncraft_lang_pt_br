@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Would you be interested in an extermination task?"
+      "text": "Você estaria interessado em uma tarefa de extermínio?"
     }
   }
 }

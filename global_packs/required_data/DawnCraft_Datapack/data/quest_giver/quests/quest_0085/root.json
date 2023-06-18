@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Hey there! Can you help me get some crimson wood stems from the Nether? I'm trying to make tools with special handles."
+      "text": "Olá! Você poderia me ajudar a obter alguns Troncos de Madeira Carmesim do Nether? Estou tentando fazer ferramentas com cabos especiais."
     }
   }
 }

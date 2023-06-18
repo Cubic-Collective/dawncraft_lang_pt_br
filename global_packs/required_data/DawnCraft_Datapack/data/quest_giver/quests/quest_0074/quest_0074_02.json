@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E então?"
     },
     "description": {
-      "text": "I need another one of your $(red)spirit orbs$()."
+      "text": "Eu preciso de mais um dos seus $(red)orbes espirituais$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Haha... young man, you're too gullible. Don't place your trust in someone you've barely talked to. I'll return the orbs to you since I feel bad, but remember this: Not everyone is as nice as me."
+      "text": "Haha... jovem, você é muito ingênuo. Não coloque sua confiança em alguém com quem mal conversou. Vou devolver os orbes para você porque me sinto mal, mas lembre-se disso: Nem todos são tão gentis quanto eu."
     }
   },
   "tasks": [

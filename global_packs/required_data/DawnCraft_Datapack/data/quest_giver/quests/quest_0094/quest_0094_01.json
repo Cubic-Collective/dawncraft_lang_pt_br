@@ -4,18 +4,18 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "E então?"
     },
     "description": {
-      "text": "Come back to me once you've made the dish $(red)Ennegel Pasta$(). I'll pay you handsomely for it."
+      "text": "Volte até mim quando tiver preparado o prato $(red)Macarrão Ennegel$(). Vou recompensá-lo generosamente por isso."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "This flavor...! Just like my ma's cooking... Thank you adventurer, you have no idea how grateful I am for this. Here, take this. It's a katana forged with ender power. I doubt there's a weapon out there stronger than this one."
+      "text": "Este sabor... Igualzinho à comida da minha mãe... Agradeço imensamente, aventureiro. Você não faz ideia de quanto estou grato por isso. Aqui, pegue isto. É uma katana forjada com o poder dos enders. Duvido que exista uma arma mais forte."
     }
   },
   "tasks": [

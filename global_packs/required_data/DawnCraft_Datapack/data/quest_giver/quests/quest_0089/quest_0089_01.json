@@ -4,18 +4,18 @@
   "icon": "minecraft:honey_bottle",
   "start": {
     "title": {
-      "text": "Honey?"
+      "text": "Mel?"
     },
     "description": {
-      "text": "Did you get the $(red)Honey Bottle$()?"
+      "text": "Você conseguiu a $(red)Garrafa de Mel$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "That is the best honey I've drank in a while! Thanks!"
+      "text": "Esse é o melhor mel que já provei em muito tempo! Obrigado!"
     }
   },
   "tasks": [

@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Extermination Contract"
+      "text": "Contrato de Extermínio"
     },
     "description": {
-      "text": "Please come back when you finished the extermination contract - $(red)Kill 5 Pillagers$()."
+      "text": "Por favor, volte quando tiver concluído o contrato de extermínio - $(red)Mate 5 Saqueadores$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Than- ... It seems the time has come. The pillagers are here. Comrade, I've forged this greatsword for times like this. Please put it into good use, and help us. All of our lives depend on you now."
+      "text": "Obri-... Parece que chegou a hora. Os saqueadores estão aqui. Camarada, forjei esta espada enorme para momentos como este. Por favor, use-a bem e nos ajude. Todas as nossas vidas dependem de você agora."
     }
   },
   "tasks": [

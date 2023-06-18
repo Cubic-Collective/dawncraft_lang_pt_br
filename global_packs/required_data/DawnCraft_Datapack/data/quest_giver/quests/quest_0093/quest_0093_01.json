@@ -4,10 +4,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "There's a hidden creature living in the depths of the end dimension - The Void Worm. You can summon it by throwing the larva into the depths of the end. The larva can be created by throwing crimson mosquito larva into enderiophage's capsid."
+      "text": "No fundo da dimensão do End, existe uma criatura oculta - O Verme do Vazio. Para invocá-lo, você precisa lançar a larva nas profundezas do End. Essa larva pode ser criada ao lançar larvas de mosquito carmesim no Capsídeo de um Enderiófago."
     }
   }
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Hello there, could you get me a pair of shears? Mine broke just now."
+      "text": "Olá, você poderia me conseguir um par de tesouras? As minhas acabaram de quebrar."
     }
   }
 }

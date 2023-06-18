@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Retrieving a Precious Item"
+      "text": "Recuperando um Item Precioso"
     },
     "description": {
-      "text": "Please get me a piece of paper so I can draw you a map."
+      "text": "Por favor, me traga um pedaço de papel para que eu possa desenhar um mapa para você."
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "Aqui está."
     },
     "description": {
-      "text": "Sorry for the trouble. Here is the place I want you to go. There is a book there that belonged to me. That place used to be a temple filled with scholars from all around the dimension, but I don't know how it is now. Please proceed with caution, and bring me my book."
+      "text": "Desculpe pelo incômodo. Aqui está o local para onde você precisa ir. Há um livro lá que me pertence. Esse lugar costumava ser um templo cheio de estudiosos de toda a dimensão, mas não sei como está agora. Por favor, proceda com cautela e traga o meu livro."
     }
   },
   "tasks": [

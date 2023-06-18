@@ -4,10 +4,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Extermination Request"
+      "text": "Pedido de Extermínio"
     },
     "description": {
-      "text": "Creepers are spawning more frequently around here at night... They don't harm us but they scare away our poor lambs. Can you exterminate them at night? I'll give you payments once you've reached 6 kills."
+      "text": "Os Creepers estão aparecendo com mais frequência por aqui durante a noite... Eles não nos prejudicam, mas assustam nossas pobres ovelhas. Você pode exterminá-los durante a noite? Eu lhe darei recompensas quando você alcançar 6 mortes."
     }
   }
 }

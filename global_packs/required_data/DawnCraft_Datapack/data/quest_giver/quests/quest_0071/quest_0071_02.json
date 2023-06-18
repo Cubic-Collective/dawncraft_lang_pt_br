@@ -4,18 +4,18 @@
 	"icon": "minecraft:book",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "E então?"
 		},
 		"description": {
-			"text": "Please return to me if you can find the book."
+			"text": "Por favor, volte até mim se encontrar o livro."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "This book has... sentimental values. Words cannot express how grateful I am for your service. Here, take these. I've heard that adventurers use magic too, is that right?"
+			"text": "Este livro tem... valores sentimentais. Palavras não podem expressar o quão grato estou pelo seu serviço. Aqui, pegue isso. Ouvi dizer que aventureiros também usam magia, é verdade?"
 		}
 	},
 	"tasks": [{

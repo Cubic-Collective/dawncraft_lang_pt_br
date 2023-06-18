@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Hello, could you help me get 2 grown wheat from the farm for me? I need to it to breed my woollybacks."
+      "text": "Olá, você poderia me ajudar a conseguir 2 trigos maduros da fazenda? Eu preciso deles para cruzar minhas ovelhas de lã."
     }
   }
 }

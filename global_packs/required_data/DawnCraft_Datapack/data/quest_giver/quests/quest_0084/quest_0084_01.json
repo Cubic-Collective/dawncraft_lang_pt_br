@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Netherite Ingot"
+      "text": "Barra de Netherita"
     },
     "description": {
-      "text": "Do you have the $(red)netherite ingot$()?"
+      "text": "Você tem a $(red)barra de netherita$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. Here, take some emeralds."
+      "text": "Obrigado. Aqui estão algumas esmeraldas para você."
     }
   },
   "tasks": [

@@ -4,18 +4,18 @@
   "icon": "minecraft:ancient_debris",
   "start": {
     "title": {
-      "text": "Debris Fetching"
+      "text": "Em Busca de Detritos"
     },
     "description": {
-      "text": "Did you get your hands on an $(red)ancient debris$() yet?"
+      "text": "Você já encontrou algum $(red)detrito ancestral$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "This... this is amazing! Here, take my emeralds."
+      "text": "Isso... isso é incrível! Aqui, pegue minhas esmeraldas."
     }
   },
   "tasks": [

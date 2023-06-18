@@ -4,10 +4,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "help"
+      "text": "ajuda"
     },
     "description": {
-      "text": "There's a dish called End Delight. It's a dish that can only be made with ingredients found in the End Dimension... Please gather all the resources and cook one for me."
+      "text": "Existe um prato chamado Delícia do End. É um prato que só pode ser preparado com ingredientes encontrados na Dimensão do End... Por favor, colete todos os recursos necessários e prepare um para mim."
     }
   }
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hey there, you look like you're a good cook. Could you cook something for me?"
+      "text": "Ei, você parece ser um bom cozinheiro. Você poderia cozinhar algo para mim?"
     }
   }
 }

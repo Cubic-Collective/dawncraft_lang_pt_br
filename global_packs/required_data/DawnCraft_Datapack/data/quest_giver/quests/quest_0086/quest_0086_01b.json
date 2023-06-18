@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "An Urgent Request"
+      "text": "Um Pedido Urgente"
     },
     "description": {
-      "text": "Evil is coming. Can you help me get 16 iron ingot? I need to make more weapons for the guards... We're not prepared."
+      "text": "O mal está se aproximando. Você pode me ajudar a obter 16 barras de ferro? Preciso fazer mais armas para os guardas... Não estamos preparados."
     }
   }
 }

@@ -4,18 +4,18 @@
 	"icon": "minecraft:stone",
 	"start": {
 		"title": {
-			"text": "Stones from Another Dimension"
+			"text": "Pedras de Outra Dimensão"
 		},
 		"description": {
-			"text": "Got the $(red)turquoise stone$() yet? You can find them in the Everbright dimension."
+			"text": "Você já encontrou a $(red)pedra turquesa$()? Elas podem ser encontradas na dimensão Brilho Eterno."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "hm... the quality is... not bad. I'll put it to good use, thanks!"
+			"text": "Hmm... a qualidade está... não é ruim. Vou encontrar um bom uso para ela. Obrigado!"
 		}
 	},
 	"tasks": [{
