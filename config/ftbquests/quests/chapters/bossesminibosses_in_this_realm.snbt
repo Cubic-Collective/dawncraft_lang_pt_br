@@ -720,7 +720,7 @@
 			tasks: [{
 				id: "59B1CCF6F6547781"
 				type: "kill"
-				title: "Wilden Chimera"
+				title: "Quimera Selvagem"
 				icon: "ars_nouveau:wilden_tribute"
 				entity: "ars_nouveau:wilden_boss"
 				value: 1L
