@@ -1,4 +1,4 @@
-tellraw @s {"text":"Você foi amaldiçoado! A próxima vila que ousar pisar testemunhará o poder astuto das bruxas!","color":"dark_purple"}
+tellraw @s {"text":"Você foi amaldiçoado! A próxima vila em que você ousar pisar testemunhará o poder astuto das bruxas!","color":"dark_purple"}
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 1
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 0.75
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 0.5
