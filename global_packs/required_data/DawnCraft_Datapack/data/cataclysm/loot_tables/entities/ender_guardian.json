@@ -23,12 +23,12 @@
 					},
 					{
 						"function": "minecraft:set_name",
-						"name": "The True End's Portal"
+						"name": "O Portal do Verdadeiro Fim"
 					},
 					{
 						"function": "minecraft:set_lore",
 						"lore": [{
-							"text": "A map leading you to the most powerful being within the realm."
+							"text": "Um mapa que o leva ao ser mais poderoso desse do reino."
 						}]
 					}
 				]
