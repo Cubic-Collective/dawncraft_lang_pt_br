@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:corrupted_ogre",
-	"name": "Corrupted Ogre, the eye holder",
+	"name": "Ogro Corrompido, o portador dos olhos",
 	"namevisible": false,
   	"ai-goals": {                                      
     	    "brutalbosses:aftercombatregen": {                
