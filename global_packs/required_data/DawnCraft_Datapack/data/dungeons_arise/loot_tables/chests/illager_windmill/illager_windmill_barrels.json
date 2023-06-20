@@ -187,7 +187,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Beer\",\"color\":\"gold\",\"bold\":true,\"italic\":false}'},CustomPotionEffects:[{Id:1b,Amplifier:1b,Duration:4800},{Id:3b,Amplifier:1b,Duration:4800},{Id:10b,Amplifier:0b,Duration:4800},{Id:18b,Amplifier:3b,Duration:9600}],CustomPotionColor:15794030}"
+              "tag": "{display:{Name:'{\"text\":\"Cerveja\",\"color\":\"gold\",\"bold\":true,\"italic\":false}'},CustomPotionEffects:[{Id:1b,Amplifier:1b,Duration:4800},{Id:3b,Amplifier:1b,Duration:4800},{Id:10b,Amplifier:0b,Duration:4800},{Id:18b,Amplifier:3b,Duration:9600}],CustomPotionColor:15794030}"
             }
           ]
         },
