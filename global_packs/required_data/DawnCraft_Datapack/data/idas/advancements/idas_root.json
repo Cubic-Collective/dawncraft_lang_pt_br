@@ -4,10 +4,10 @@
       "item": "minecraft:filled_map"
     },
     "title": {
-      "translate": "Integrated Dungeons and Structures"
+      "translate": "Dungeons e Estruturas Integradas"
     },
     "description": {
-      "translate": "Start exploring for structures!"
+      "translate": "Comece a explorar as estruturas!"
     },
     "show_toast": false,
     "announce_to_chat": false,
