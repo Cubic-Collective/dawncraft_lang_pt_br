@@ -124,7 +124,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Fine Wine\"}'},CustomPotionEffects:[{Id:9b,Amplifier:0b,Duration:200},{Id:10b,Amplifier:3b,Duration:80}]}"
+              "tag": "{display:{Name:'{\"text\":\"Vinho Fino\"}'},CustomPotionEffects:[{Id:9b,Amplifier:0b,Duration:200},{Id:10b,Amplifier:3b,Duration:80}]}"
             }
           ]
         },
