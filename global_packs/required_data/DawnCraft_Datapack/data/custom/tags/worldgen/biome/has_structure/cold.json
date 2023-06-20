@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#custom:snowy_beach",
+    "#custom:snowy_plains",
+    "#custom:snowy_taiga",
+    "#custom:snowy_slopes",
+    "#custom:swedish"
+  ]
+}

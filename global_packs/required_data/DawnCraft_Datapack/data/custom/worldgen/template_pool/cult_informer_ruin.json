@@ -1,0 +1,15 @@
+{
+    "name": "custom:cult_informer_ruin",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:cult_informer_ruin/cult_informer_ruin",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

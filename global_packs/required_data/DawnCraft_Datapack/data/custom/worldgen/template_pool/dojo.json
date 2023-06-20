@@ -1,0 +1,15 @@
+{
+    "name": "custom:dojo",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:dojo/dojo",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

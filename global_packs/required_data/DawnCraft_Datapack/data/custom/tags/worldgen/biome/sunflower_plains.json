@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:sunflower_plains",
+        {
+            "id": "terralith:steppe",
+            "required": false
+        }
+    ]
+}

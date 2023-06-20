@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:ice_dragon_spawn",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 984389971,
+    "spacing": 40,
+    "separation": 30,
+    "type": "minecraft:random_spread"
+  }
+}

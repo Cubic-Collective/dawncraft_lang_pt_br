@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:birch_forest",
+        {
+            "id": "terralith:birch_taiga",
+            "required": false
+        },
+        {
+            "id": "terralith:temperate_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:valley_clearing",
+            "required": false
+        }
+    ]
+}

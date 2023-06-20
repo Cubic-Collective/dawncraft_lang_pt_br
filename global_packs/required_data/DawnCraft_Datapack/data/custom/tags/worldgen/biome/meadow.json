@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:meadow",
+        {
+            "id": "terralith:blooming_plateau",
+            "required": false
+        }
+    ]
+}

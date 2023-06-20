@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "minecraft:grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "minecraft:snow",
+    "minecraft:dead_bush",
+    "minecraft:fire"
+  ]
+}

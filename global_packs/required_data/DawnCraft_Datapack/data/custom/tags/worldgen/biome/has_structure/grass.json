@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#custom:birch_forest",
+    "#custom:flower_forest",
+    "#custom:forest",
+    "#custom:grove",
+    "#custom:jungle",
+    "#custom:meadow",
+    "#custom:plains",
+    "#custom:savanna",
+    "#custom:snowy_plains",
+    "#custom:snowy_taiga",
+    "#custom:snowy_slopes",
+    "#custom:sparse_jungle",
+    "#custom:sunflower_plains",
+    "#custom:swamp",
+    "#custom:taiga",
+    "#custom:classic",
+    "#custom:mediterranean",
+    "#custom:swedish"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "config": {
+    "start_pool": "custom:librarian_ruin",
+    "size": 7,
+    "spawn_criteria": [
+      {
+        "min_height": 60,
+        "max_height": 2147483647,
+        "check_size": 50,
+        "type": "shrines:height"
+      },
+      {
+        "spawn_chance": 0.3,
+        "type": "shrines:random_chance"
+      },
+      {
+        "delta": 2.0,
+        "check_size": 34,
+        "type": "shrines:ground_level_delta"
+      },
+      {
+        "range": -1,
+        "type": "shrines:min_structure_distance"
+      }
+    ],
+    "placement_calculator": {
+      "type": "shrines:simple",
+      "heightmap": "WORLD_SURFACE_WG"
+    }
+  },
+  "biomes": "#custom:has_structure/grass",
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "type": "shrines:surface"
+}

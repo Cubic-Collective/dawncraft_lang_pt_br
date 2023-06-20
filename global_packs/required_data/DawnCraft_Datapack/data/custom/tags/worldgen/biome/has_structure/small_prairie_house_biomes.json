@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#custom:plains",
+    "#custom:meadow",
+    "#custom:sunflower_plains"
+  ]
+}

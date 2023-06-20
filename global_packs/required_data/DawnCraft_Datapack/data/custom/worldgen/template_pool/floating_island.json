@@ -1,0 +1,15 @@
+{
+    "name": "custom:floating_island",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:floating_island/floating_island",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+	"type": "minecraft:chest",
+	"pools": [{
+			"rolls": 1,
+			"entries": [{
+					"type": "minecraft:item",
+					"name": "minecraft:rose_bush",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 2
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:blue_orchid",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 2
+						}
+					}]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 1,
+				"max": 2
+			},
+			"entries": [{
+					"type": "minecraft:loot_table",
+					"name": "minecraft:armor/mid_helmet_enchanted"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "minecraft:armor/mid_chest_enchanted"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "minecraft:armor/mid_leggings_enchanted"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "minecraft:armor/mid_boots_enchanted"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:crossbow"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:coal",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 4,
+							"max": 8
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:book",
+					"functions": [{
+						"function": "minecraft:enchant_with_levels",
+						"levels": {
+							"min": 1,
+							"max": 6
+						},
+						"treasure": false
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 25,
+					"name": "minecraft:lapis_lazuli",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 8
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"name": "minecraft:bucket"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:book",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 4
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:gold_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 3,
+					"name": "minecraft:emerald"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"name": "minecraft:feather",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 4
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"name": "minecraft:slime_ball",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 2
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"name": "minecraft:raw_iron",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 3
+						}
+					}]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [{
+				"type": "minecraft:loot_table",
+				"name": "minecraft:chests/village/village_plains_house"
+			}]
+		}
+	]
+}

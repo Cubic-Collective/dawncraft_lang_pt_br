@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "terralith:hot_shrubland",
+            "required": false
+        },
+        {
+            "id": "terralith:brushland",
+            "required": false
+        }
+    ]
+}

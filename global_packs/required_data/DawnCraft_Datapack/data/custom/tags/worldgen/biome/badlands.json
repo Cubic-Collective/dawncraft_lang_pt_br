@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:badlands",
+        {
+               "id": "terralith:snowy_badlands",
+               "required": false
+        },
+        {
+            "id": "terralith:arid_highlands",
+            "required": false
+        }
+    ]
+}

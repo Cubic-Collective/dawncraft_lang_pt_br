@@ -1,0 +1,31 @@
+{
+"xp_values":{
+	"BLOCK_BREAK":{},
+	"BLOCK_PLACE":{},
+	"GROW":{},
+	"HIT_BLOCK":{},
+	"ACTIVATE_BLOCK":{}
+},
+"nbt_xp_values":{
+	"BLOCK_BREAK":[],
+	"BLOCK_PLACE":[],
+	"GROW":[],
+	"HIT_BLOCK":[],
+	"ACTIVATE_BLOCK":[]
+},
+"requirements":{
+	"PLACE":{},
+	"BREAK":{},
+	 "INTERACT": {
+		"cooking": 2
+	}
+},
+"nbt_requirements":{
+	"PLACE":[],
+	"BREAK":[],
+	"INTERACT":[]
+},
+"vein_data":{
+    "consumeAmount": 0
+}
+}

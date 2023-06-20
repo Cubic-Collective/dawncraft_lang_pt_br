@@ -1,0 +1,253 @@
+{
+	"structures": [{
+			"structure": "custom:wolf_hideout",
+			"weight": 2
+		},
+		{
+			"structure": "custom:librarian_ruin",
+			"weight": 3
+		},
+		{
+			"structure": "custom:cult_informer_ruin",
+			"weight": 2
+		},
+		{
+			"structure": "custom:barrel_house",
+			"weight": 2
+		},
+		{
+			"structure": "custom:armorer_dungeon",
+			"weight": 2
+		},
+		{
+			"structure": "custom:toolsmith_ruin",
+			"weight": 2
+		},
+		{
+			"structure": "custom:fallen_house",
+			"weight": 2
+		},
+		{
+			"structure": "custom:npc_spawn",
+			"weight": 2
+		},
+		{
+			"structure": "custom:npc_spawn_desert",
+			"weight": 2
+		},
+		{
+			"structure": "custom:castle",
+			"weight": 2
+		},
+		{
+			"structure": "custom:puzzle_dungeon",
+			"weight": 4
+		},
+		{
+			"structure": "dungeons_arise:abandoned_temple",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:bandit_village",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:ceryneian_hind",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:coliseum",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:fishing_hut",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:giant_mushroom",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:heavenly_rider",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:heavenly_conqueror",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:illager_campsite",
+			"weight": 6
+		},
+		{
+			"structure": "dungeons_arise:illager_corsair",
+			"weight": 4
+		},
+		{
+			"structure": "dungeons_arise:illager_fort",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:illager_galley",
+			"weight": 4
+		},
+		{
+			"structure": "dungeons_arise:illager_windmill",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:jungle_tree_house",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:lighthouse",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:merchant_campsite",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:monastery",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:mushroom_house",
+			"weight": 4
+		},
+		{
+			"structure": "dungeons_arise:mushroom_mines",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:mushroom_village",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:scorched_mines",
+			"weight": 2
+		},
+		{
+			"structure": "dungeons_arise:small_blimp",
+			"weight": 5
+		},
+		{
+			"structure": "dungeons_arise:wishing_well",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:typhon",
+			"weight": 4
+		},
+		{
+			"structure": "dungeons_arise:undead_pirate_ship",
+			"weight": 3
+		},
+		{
+			"structure": "dungeons_arise:aviary",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:bandit_towers",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:foundry",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:heavenly_challenger",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:thornborn_towers",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:infested_temple",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:mining_system",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:plague_asylum",
+			"weight": 1
+		},
+		{
+			"structure": "dungeons_arise:shiraz_palace",
+			"weight": 1
+		},
+		{
+			"structure": "idas:abandonedhouse",
+			"weight": 2
+		},
+		{
+			"structure": "idas:bearclaw_inn",
+			"weight": 2
+		},
+		{
+			"structure": "idas:hermits_hollow",
+			"weight": 2
+		},
+		{
+			"structure": "idas:hunters_cabin",
+			"weight": 2
+		},
+		{
+			"structure": "idas:castle",
+			"weight": 2
+		},
+		{
+			"structure": "idas:brickhouse",
+			"weight": 2
+		},
+		{
+			"structure": "idas:enchantingtower",
+			"weight": 2
+		},
+		{
+			"structure": "idas:wizard_tower",
+			"weight": 2
+		},
+		{
+			"structure": "idas:redhorn_guild",
+			"weight": 1
+		},
+		{
+			"structure": "idas:beekeepers_house",
+			"weight": 2
+		},
+		{
+			"structure": "idas:farmhouse",
+			"weight": 2
+		},
+		{
+			"structure": "idas:hauntedhouse",
+			"weight": 1
+		},
+		{
+			"structure": "idas:witches_treestump",
+			"weight": 1
+		},
+		{
+			"structure": "idas:fishermans_lodge",
+			"weight": 2
+		},
+		{
+			"structure": "idas:apothecary_abode",
+			"weight": 1
+		},
+		{
+			"structure": "idas:treetop_tavern",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"salt": 659268395,
+		"spacing": 30,
+		"separation": 10,
+		"type": "minecraft:random_spread"
+	}
+}

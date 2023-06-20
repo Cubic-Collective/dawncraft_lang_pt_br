@@ -1,0 +1,23 @@
+{
+	"display": {
+		"title": {
+			"text": "Tricked"
+		},
+		"description": {
+			"text": "Got tricked by an alchemist."
+		},
+		"icon": {
+			"item": "minecraft:carved_pumpkin"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"Start": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"parent": "custom:root"
+}

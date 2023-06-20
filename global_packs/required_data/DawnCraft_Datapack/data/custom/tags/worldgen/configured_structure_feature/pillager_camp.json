@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:pillager_outpost",
+    "dungeons_arise:illager_campsite",
+    "idas:pillager_camp",
+    "idas:pillager_fortress",
+    "dungeons_arise:illager_corsair",
+    "dungeons_arise:illager_fort",
+    "dungeons_arise:illager_galley",
+    "dungeons_arise:illager_windmill"
+  ]
+}

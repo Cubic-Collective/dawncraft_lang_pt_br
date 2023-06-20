@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:rat",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 391968402,
+    "spacing": 14,
+    "separation": 4,
+    "type": "minecraft:random_spread"
+  }
+}

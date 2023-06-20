@@ -1,0 +1,186 @@
+{
+    "name": "custom:puzzle_dungeon",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon1",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon3",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon4",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon5",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon6",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon7",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon8",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon9",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon10",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon11",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon12",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon13",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon14",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon15",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon16",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon17",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon18",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon19",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:puzzle_dungeon/puzzle_dungeon20",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

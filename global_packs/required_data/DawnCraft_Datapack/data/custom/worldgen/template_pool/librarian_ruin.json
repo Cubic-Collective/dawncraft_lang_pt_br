@@ -1,0 +1,15 @@
+{
+    "name": "custom:librarian_ruin",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:librarian_ruin/librarian_ruin",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

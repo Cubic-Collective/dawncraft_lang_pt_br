@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:entity",
+
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+			      {
+              "function": "minecraft:fill_player_head",
+              "entity": "this"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{PlayerHead:1b}"
+            }
+          ],
+          "name": "minecraft:player_head"
+        }
+      ]
+    }
+  ]
+}

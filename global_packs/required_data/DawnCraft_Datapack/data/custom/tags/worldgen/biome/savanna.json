@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:savanna",
+        {
+            "id": "terralith:savanna_plateau",
+            "required": false
+        },
+        {
+            "id": "terralith:savanna_badlands",
+            "required": false
+        }
+    ]
+}

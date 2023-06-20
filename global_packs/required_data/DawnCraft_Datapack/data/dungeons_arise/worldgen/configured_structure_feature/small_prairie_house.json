@@ -1,0 +1,13 @@
+{
+  "type": "dungeons_arise:small_prairie_house",
+
+  "config": {
+    "start_pool": "dungeons_arise:prairie/small_prairie_house/small_prairie_house_start",
+    "size": 7
+  },
+  "biomes": "#custom:has_structure/small_prairie_house_biomes",
+  "adapt_noise": true,
+  "spawn_overrides": {
+
+  }
+}

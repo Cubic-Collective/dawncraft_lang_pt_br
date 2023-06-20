@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:korok",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 389831231,
+    "spacing": 7,
+    "separation": 3,
+    "type": "minecraft:random_spread"
+  }
+}

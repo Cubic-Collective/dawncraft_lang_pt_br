@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:ogre_swamp_spawn",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 970001596,
+    "spacing": 25,
+    "separation": 4,
+    "type": "minecraft:random_spread"
+  }
+}

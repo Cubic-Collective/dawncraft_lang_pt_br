@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:sparse_jungle",
+        {
+            "id": "terralith:tropical_jungle",
+            "required": false
+        }
+    ]
+}

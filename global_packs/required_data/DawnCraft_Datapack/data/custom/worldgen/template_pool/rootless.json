@@ -1,0 +1,24 @@
+{
+    "name": "custom:rootless",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:rootless/rootless",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:rootless/rootless_2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:desert",
+        {
+            "id": "terralith:desert_oasis",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+	"type": "minecraft:chest",
+	"pools": [{
+			"rolls": 1,
+			"entries": [{
+					"type": "minecraft:item",
+					"weight": 100,
+					"name": "minecraft:golden_apple",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 2
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 80,
+					"name": "minecraft:raw_gold",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 4
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 100,
+					"name": "minecraft:raw_iron",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1,
+							"max": 4
+						}
+					}]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 1,
+				"max": 2
+			},
+			"entries": [{
+					"type": "minecraft:loot_table",
+					"name": "minecraft:armor/high_helmet_enchanted"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "minecraft:armor/mid_helmet_enchanted"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 25,
+					"name": "minecraft:diamond_pickaxe",
+					"functions": [{
+						"function": "minecraft:enchant_randomly"
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 100,
+					"name": "minecraft:iron_pickaxe",
+					"functions": [{
+						"function": "minecraft:enchant_randomly"
+					}]
+				}
+			]
+		}
+	]
+}

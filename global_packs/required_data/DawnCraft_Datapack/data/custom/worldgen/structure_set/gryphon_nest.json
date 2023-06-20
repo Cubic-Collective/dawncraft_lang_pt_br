@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:gryphon_nest",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 172384381,
+    "spacing": 10,
+    "separation": 5,
+    "type": "minecraft:random_spread"
+  }
+}

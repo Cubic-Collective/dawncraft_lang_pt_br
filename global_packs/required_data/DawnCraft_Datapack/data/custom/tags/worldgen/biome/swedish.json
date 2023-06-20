@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "terralith:snowy_maple_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:forested_highlands",
+            "required": false
+        }
+    ]
+}

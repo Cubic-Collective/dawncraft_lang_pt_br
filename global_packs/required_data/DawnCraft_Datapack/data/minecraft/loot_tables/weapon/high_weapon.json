@@ -1,0 +1,307 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_shortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_katzbalger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_ranseur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_ranseur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_morgenstern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_guisarme"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_guisarme"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_chainmorgenstern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_chainmorgenstern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:dagger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:spear"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:moondagger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:soulskythe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:soulknife"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:highlanderaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:hawkbrand"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_flamebladedsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_heavywarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "orcz:orcteeth_tool_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "orcz:orcteeth_tool_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:messer_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:barbedclub"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:blacksmith_hammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_shortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_shortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_katzbalger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_katzbalger"
+        },		
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_shortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_katzbalger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_ranseur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_ranseur"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_morgenstern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_guisarme"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_guisarme"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_chainmorgenstern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_chainmorgenstern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:dagger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:spear"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:moondagger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:soulskythe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:soulknife"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:highlanderaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scattered_weapons:hawkbrand"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_flamebladedsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_heavywarhammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "orcz:orcteeth_tool_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "orcz:orcteeth_tool_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:messer_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:barbedclub"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:blacksmith_hammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_shortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_stylet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_shortsword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:gold_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:iron_pike"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:steel_katzbalger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magistuarmory:copper_katzbalger"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_damage",
+          "damage": {
+            "min": 0,
+            "max": 100
+          },
+          "add": true,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]	
+    }
+  ]
+}		
+		

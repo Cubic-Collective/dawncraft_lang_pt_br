@@ -1,0 +1,42 @@
+{
+    "name": "custom:npc_spawn",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:npc_spawn/alchemist_house",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:npc_spawn/hidden_grave",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:npc_spawn/witch_hut",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:npc_spawn/sorcerer_house",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

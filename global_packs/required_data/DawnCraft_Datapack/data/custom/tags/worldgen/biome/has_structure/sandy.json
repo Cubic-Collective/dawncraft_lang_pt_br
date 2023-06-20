@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#custom:desert",
+    "#custom:savanna",
+    "#custom:badlands"
+   ]
+}

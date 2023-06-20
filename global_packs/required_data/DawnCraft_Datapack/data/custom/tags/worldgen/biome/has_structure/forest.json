@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#custom:birch_forest",
+    "#custom:flower_forest",
+    "#custom:forest",
+    "#custom:grove",
+    "#custom:savanna",
+    "#custom:sparse_jungle",
+    "#custom:swamp",
+    "#custom:old_growth_birch_forest",
+    "#custom:old_growth_taiga",
+    "#custom:taiga"
+  ]
+}

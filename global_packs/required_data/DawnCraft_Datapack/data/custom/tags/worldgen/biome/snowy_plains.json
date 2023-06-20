@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:snowy_plains",
+        {
+            "id": "terralith:wintry_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:alpine_grove",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "idas:sunken_ship/sunken_ship",
+      "weight": 1
+    },
+    {
+      "structure": "idas:sunken_ship/sunken_ship_coral",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169480681,
+    "spacing": 30,
+    "separation": 15,
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "custom:korok",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:korok/korok_1",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:korok/korok_2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:korok/korok_3",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:korok/korok_4",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:korok/korok_5",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:fire_dragon_spawn",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 347818456,
+    "spacing": 40,
+    "separation": 30,
+    "type": "minecraft:random_spread"
+  }
+}

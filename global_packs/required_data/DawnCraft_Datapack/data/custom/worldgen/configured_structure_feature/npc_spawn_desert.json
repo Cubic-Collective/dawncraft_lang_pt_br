@@ -1,0 +1,30 @@
+{
+  "config": {
+    "start_pool": "custom:npc_spawn_desert",
+    "size": 7,
+    "spawn_criteria": [
+      {
+        "min_height": 60,
+        "max_height": 2147483647,
+        "check_size": 15,
+        "type": "shrines:height"
+      },
+      {
+        "spawn_chance": 0.4,
+        "type": "shrines:random_chance"
+      },
+      {
+        "range": -1,
+        "type": "shrines:min_structure_distance"
+      }
+    ],
+    "placement_calculator": {
+      "type": "shrines:simple",
+      "heightmap": "WORLD_SURFACE_WG"
+    }
+  },
+  "biomes": "#custom:has_structure/sandy",
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "type": "shrines:surface"
+}

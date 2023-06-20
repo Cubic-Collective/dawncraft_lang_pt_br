@@ -1,0 +1,55 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "reagent": [
+    {
+      "item": "ars_nouveau:mundane_belt"
+    }
+  ],
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "minecraft:sugar"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:crops/nether_wart"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:glowstone"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_block"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:feathers"
+      }
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:belt_of_unstable_gifts"
+  },
+  "sourceCost": 0,
+  "keepNbtOfReagent": false
+}

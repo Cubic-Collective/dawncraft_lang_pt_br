@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:flower_forest",
+        {
+            "id": "terralith:cloud_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:lavender_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:sakura_grove",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "structures": [{
+        "structure": "custom:skull_island",
+        "weight": 1
+    }],
+    "placement": {
+        "salt": 1694767220,
+        "spacing": 100,
+        "separation": 50,
+        "type": "minecraft:random_spread"
+    }
+}

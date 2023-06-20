@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "#custom:badlands",
+    "#custom:beach",
+    "#custom:birch_forest",
+    "#custom:desert",
+    "#custom:flower_forest",
+    "#custom:forest",
+    "#custom:grove",
+    "#custom:jungle",
+    "#custom:meadow",
+    "#custom:mushroom_fields",
+    "#custom:plains",
+    "#custom:savanna",
+    "#custom:snowy_beach",
+    "#custom:snowy_plains",
+    "#custom:snowy_taiga",
+    "#custom:snowy_slopes",
+    "#custom:sparse_jungle",
+    "#custom:sunflower_plains",
+    "#custom:swamp",
+    "#custom:taiga",
+    "#custom:windswept_hills",
+    "#custom:classic",
+    "#custom:mediterranean",
+    "#custom:oriental",
+    "#custom:swedish",
+    "#custom:tudor"
+  ]
+}

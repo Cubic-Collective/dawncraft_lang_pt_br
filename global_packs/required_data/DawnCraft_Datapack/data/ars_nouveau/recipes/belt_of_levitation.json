@@ -1,0 +1,55 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "reagent": [
+    {
+      "item": "ars_nouveau:mundane_belt"
+    }
+  ],
+  "pedestalItems": [
+    {
+      "item": {
+        "item": "minecraft:netherite_block"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:feather"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:feather"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:feather"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:air_essence"
+      }
+    }
+  ],
+  "output": {
+    "item": "ars_nouveau:belt_of_levitation"
+  },
+  "sourceCost": 0,
+  "keepNbtOfReagent": false
+}

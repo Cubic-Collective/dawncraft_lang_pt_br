@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:church_group",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 478139574,
+    "spacing": 8,
+    "separation": 5,
+    "type": "minecraft:random_spread"
+  }
+}

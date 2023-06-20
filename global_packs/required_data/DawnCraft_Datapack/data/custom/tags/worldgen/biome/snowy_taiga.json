@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:snowy_taiga",
+        {
+            "id": "terralith:forested_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:shield",
+            "required": false
+        },
+        {
+            "id": "terralith:shield_clearing",
+            "required": false
+        },
+        {
+            "id": "terralith:snowy_maple_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:snowy_shield",
+            "required": false
+        }
+    ]
+}

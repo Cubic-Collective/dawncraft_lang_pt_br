@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "#custom:beach",
+    "#custom:birch_forest",
+    "#custom:desert",
+    "#custom:flower_forest",
+    "#custom:forest",
+    "#custom:grove",
+    "#custom:savanna",
+    "#custom:windswept_hills",
+    "#custom:mediterranean",
+    "#custom:oriental",
+    "#custom:tudor"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "custom:npc_spawn_desert",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:npc_spawn_desert/desert_house1",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:npc_spawn_desert/desert_castle",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:npc_spawn_desert/desert_house2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

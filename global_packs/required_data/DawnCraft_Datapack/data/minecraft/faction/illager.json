@@ -1,0 +1,130 @@
+{
+  "name": "minecraft:illager",
+  "replace": false,
+  "banner": {"id":"minecraft:white_banner","Count":1,"tag":{"HideFlags":32,"BlockEntityTag":{"Patterns":[{"Pattern":"mr","Color":9},{"Pattern":"bs","Color":8},{"Pattern":"cs","Color":7},{"Pattern":"bo","Color":8},{"Pattern":"ms","Color":15},{"Pattern":"hh","Color":8},{"Pattern":"mc","Color":8},{"Pattern":"bo","Color":15}]},"display":{"Name":{"color":"gold","translate":"block.minecraft.ominous_banner"}}}},
+  "relations": {
+    "enemies": ["faction_craft:undead"]
+  },
+  "entities": [
+    {
+      "entity_type": "minecraft:pillager",
+      "weight": 100,
+      "strength": 6,
+      "rank": "soldier",
+      "maximum_rank": "general",
+      "minimum_wave": 1,
+      "boosts": {
+        "rarity_overrides": [
+          {
+            "boost": "faction_craft:mount/faction_ravager",
+            "rarity": "common"
+          }
+        ]
+      }
+    },
+    {
+      "entity_type": "minecraft:vindicator",
+      "weight": 80,
+      "strength": 8,
+      "rank": "soldier",
+      "maximum_rank": "leader",
+      "minimum_wave": 2
+    },
+    {
+      "entity_type": "minecraft:evoker",
+      "weight": 40,
+      "strength": 10,
+      "rank": "captain",
+      "maximum_rank": "leader",
+      "minimum_wave": 5,
+      "boosts": {
+        "rarity_overrides": [
+          {
+            "boost": "faction_craft:mount/faction_ravager",
+            "rarity": "common"
+          }
+        ]
+      }
+    },
+    {
+      "entity_type": "minecraft:witch",
+      "weight": 40,
+      "strength": 9,
+      "rank": "captain",
+      "maximum_rank": "leader",
+      "minimum_wave": 4,
+      "boosts": {
+        "rarity_overrides": [
+          {
+            "boost": "faction_craft:mount/faction_ravager",
+            "rarity": "common"
+          }
+        ]
+      }
+    },
+    {
+      "entity_type": "minecraft:ravager",
+      "weight": 15,
+      "strength": 5,
+      "rank": "mount",
+      "maximum_rank": "mount",
+      "minimum_wave": 4
+    },
+    {
+      "entity_type": "minecraft:ravager",
+      "weight": 15,
+      "strength": 5,
+      "rank": "support",
+      "maximum_rank": "support",
+      "minimum_wave": 3
+    },
+	{
+		"entity_type": "difficultraids:warrior_illager",
+		"weight": 5,
+		"strength": 6,
+		"rank": "soldier",
+		"maximum_rank": "soldier",
+		"minimum_wave": 1
+	},
+	{
+		"entity_type": "difficultraids:electro_illager",
+		"weight": 5,
+		"strength": 6,
+		"rank": "soldier",
+		"maximum_rank": "soldier",
+		"minimum_wave": 1
+	},
+	{
+		"entity_type": "difficultraids:shaman_illager",
+		"weight": 5,
+		"strength": 6,
+		"rank": "soldier",
+		"maximum_rank": "soldier",
+		"minimum_wave": 1
+	},
+	{
+		"entity_type": "difficultraids:tank_illager",
+		"weight": 5,
+		"strength": 6,
+		"rank": "soldier",
+		"maximum_rank": "soldier",
+		"minimum_wave": 1
+	},
+	{
+	"entity_type": "savage_and_ravage:executioner",
+	"weight": 5,
+	"strength": 6,
+	"rank": "soldier",
+	"maximum_rank": "soldier",
+	"minimum_wave": 1
+	},
+	{
+	"entity_type": "savage_and_ravage:griefer",
+	"weight": 5,
+	"strength": 6,
+	"rank": "soldier",
+	"maximum_rank": "soldier",
+	"minimum_wave": 1
+	}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "custom:sentinel_tree",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "custom:sentinel_tree/sentinel_tree",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "single_pool_element"
+            }
+        }
+    ]
+}

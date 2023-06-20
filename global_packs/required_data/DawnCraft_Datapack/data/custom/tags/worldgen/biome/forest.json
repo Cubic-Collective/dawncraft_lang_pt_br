@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:forest",
+	"minecraft:dark_forest",
+        {
+            "id": "terralith:forested_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:lush_valley",
+            "required": false
+        }
+    ]
+}

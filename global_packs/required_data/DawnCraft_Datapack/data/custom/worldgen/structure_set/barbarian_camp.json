@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:barbarian_camp",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 756269174,
+    "spacing": 15,
+    "separation": 5,
+    "type": "minecraft:random_spread"
+  }
+}
