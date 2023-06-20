@@ -28,7 +28,7 @@
 					{
 						"function": "minecraft:set_lore",
 						"lore": [{
-							"text": "Um mapa que o leva ao ser mais poderoso dentro do reino."
+							"text": "Um mapa que o leva ao ser mais poderoso desse do reino."
 						}]
 					}
 				]
