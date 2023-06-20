@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:skeletonlord",
-	"name": "Lord of Sorcery, the Skeleton Overlord",
+	"name": "Lorde da Feitiçaria, o Esqueleto Soberano",
 	"namevisible": false,
 	"showbossbar": false,
   	"ai-goals": {                                      
