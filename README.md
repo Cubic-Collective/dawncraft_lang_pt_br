@@ -10,7 +10,7 @@ Se estiver interessado, Discord: [Link](https://discord.gg/55cev7Nngn "DawnCraft
 
  - FTBQuests: 4/12
  - Missões: 101/118
- - Mods: 120/181
+ - Mods: 121/181
 
 ### Para Jogadores: Instalação da Tradução
 
