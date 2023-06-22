@@ -7,7 +7,7 @@
       "text": "Um Trabalho Culinário"
     },
     "description": {
-      "text": "Você poderia me ajudar cozinhando um prato chamado \"$(red)Macarrão com Costeleta de Carneiro$()\"?"
+      "text": "Você poderia me ajudar cozinhando um prato chamado \"$(red)Macarrão com Costeletas de Carneiro$()\"?"
     }
   },
   "complete": {
