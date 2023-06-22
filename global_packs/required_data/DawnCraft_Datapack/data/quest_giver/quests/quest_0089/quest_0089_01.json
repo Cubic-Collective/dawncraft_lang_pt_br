@@ -7,7 +7,7 @@
       "text": "Mel?"
     },
     "description": {
-      "text": "Você conseguiu a $(red)Garrafa de Mel$()?"
+      "text": "Você conseguiu o $(red)Frasco de Mel$()?"
     }
   },
   "complete": {
