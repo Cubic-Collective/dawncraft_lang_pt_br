@@ -2,12 +2,12 @@
     "__comment": "Criado com o gerador de conquistas de TheDestruc7i0n: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Semelhante às Almas",
+            "text": "Souls Like",
             "color": "black",
             "bold": true
         },
         "description": {
-            "text": "Derrotou o ataque das bruxas."
+            "text": "Derrotou a invasão das bruxas."
         },
         "icon": {
             "item": "minecraft:stone_sword"
