@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Armorer Trade Scroll Obtained!",
+            "text": "Obteve o Pergaminho de Troca do Armeiro!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Armorer."
+            "text": "Obteve o Pergaminho de Troca para o Armeiro."
         },
         "icon": {
             "item": "minecraft:paper"

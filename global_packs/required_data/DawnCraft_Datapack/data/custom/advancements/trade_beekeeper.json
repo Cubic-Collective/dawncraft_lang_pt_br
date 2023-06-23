@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Beekeeper Trade Scroll Obtained!",
+            "text": "Obteve o Pergaminho de Troca do Apicultor",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Beekeeper."
+            "text": "Obteve o Pergaminho de Troca para o Apicultor"
         },
         "icon": {
             "item": "minecraft:paper"

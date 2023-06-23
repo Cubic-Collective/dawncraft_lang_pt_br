@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Scarlet Rot...",
+            "text": "Podridão Escarlate...",
             "color": "yellow",
             "bold": true
         },
         "description": {
-            "text": "Found the biome Ash Barrens."
+            "text": "Encontrou o bioma Ermos das Cinzas."
         },
         "icon": {
             "item": "minecraft:bone_meal"

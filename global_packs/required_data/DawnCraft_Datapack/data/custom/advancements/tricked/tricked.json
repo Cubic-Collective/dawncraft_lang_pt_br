@@ -1,10 +1,10 @@
 {
 	"display": {
 		"title": {
-			"text": "Tricked"
+			"text": "Enganado"
 		},
 		"description": {
-			"text": "Got tricked by an alchemist."
+			"text": "Foi enganado por um alquimista."
 		},
 		"icon": {
 			"item": "minecraft:carved_pumpkin"
