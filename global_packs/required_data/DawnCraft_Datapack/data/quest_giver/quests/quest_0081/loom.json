@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Unlock Loom"
+      "text": "Desbloqueie o Tear"
     },
     "description": {
-      "text": "No problem friend. Give me 15 emeralds and I'll teach you how to use the loom!"
+      "text": "Sem problema, amigo. Me dê 15 esmeraldas e eu te ensinarei como usar o tear!"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "There you go!"
+      "text": "Aqui está!"
     }
   },
   "tasks": [

@@ -3,10 +3,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Could you get me a $(red)lunar stone$() from the Everdawn dimension? I'm curious about its quality."
+      "text": "Você poderia me conseguir uma $(red)pedra lunar$() da dimensão Everdawn? Estou curioso sobre a qualidade."
     }
   }
 }

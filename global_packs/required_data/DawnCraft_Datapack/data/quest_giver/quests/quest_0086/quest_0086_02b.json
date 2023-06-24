@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Great. I need you to exterminate any pillager that you can find. We need to distract them so they won't have as much time planning their attack... Come back to me after you've killed 5."
+      "text": "Ótimo. Preciso da sua ajuda para exterminar todos os saqueadores que encontrar. Precisamos distraí-los para que não tenham tempo de planejar um ataque devastador. Volte até mim assim que tiver eliminado pelo menos 5 deles."
     }
   }
 }

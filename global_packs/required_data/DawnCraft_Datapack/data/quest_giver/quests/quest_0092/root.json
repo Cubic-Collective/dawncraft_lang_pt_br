@@ -3,10 +3,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Hello adventurer... When you defeat the enderdragon, could you do something for me? Just a small thing."
+      "text": "Olá, aventureiro... Quando você derrotar o Dragão do End, poderia me fazer um favor? É algo simples."
     }
   }
 }

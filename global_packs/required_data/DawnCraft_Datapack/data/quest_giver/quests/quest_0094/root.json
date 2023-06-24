@@ -3,10 +3,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hello adventurer, there's a dish that I think only you can make for me. I'll pay handsomely for it, what do you say?"
+      "text": "Olá aventureiro, há um prato que eu acredito que só você possa fazer para mim. Serei generoso em te pagar por ele, o que você acha?"
     }
   }
 }

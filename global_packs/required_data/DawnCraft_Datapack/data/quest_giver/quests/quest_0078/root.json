@@ -3,10 +3,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "If you ever get to the end dimension. Could you get me an $(red)end stone$()?"
+      "text": "Se você algum dia chegar à dimensão do End, poderia me trazer uma $(red)pedra do End$()?"
     }
   }
 }

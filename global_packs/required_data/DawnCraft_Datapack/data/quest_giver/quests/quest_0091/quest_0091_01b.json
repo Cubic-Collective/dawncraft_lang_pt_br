@@ -4,10 +4,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "help"
+      "text": "Ajuda"
     },
     "description": {
-      "text": "Great! Did you know that upon defeat, the Ender Dragon will drop its egg? I was wondering if it would be possible for you to let me take a look at the $(red)dragon egg$(), it will make my day."
+      "text": "Ótimo! Você sabia que ao derrotar o Dragão do End, ele vai dropar o seu ovo? Eu estava me perguntando se seria possível você me deixar dar uma olhada no $(red)ovo de dragão$(), isso vai alegrar o meu dia."
     }
   }
 }

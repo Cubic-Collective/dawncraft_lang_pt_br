@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "An Urgent Request"
+      "text": "Um Pedido Urgente"
     },
     "description": {
-      "text": "Did you get the $(red)16 iron ingots$()? Please hurry."
+      "text": "Você conseguiu as $(red)16 barras de ferro$()? Por favor, seja rápido."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thank you, I know that I shouldn't be asking an adventurer to help with resource gathering... But I don't have much choice. The pillager army is closing in, they're coming to this village soon... Let me know if you want an extermination contract, I'll be happy to offer."
+      "text": "Obrigado, eu sei que não deveria estar pedindo a um aventureiro para ajudar com a coleta de recursos... Mas não tenho muita escolha. O exército dos saqueadores está se aproximando, eles estão vindo para esta vila em breve... Deixe-me saber se você quer um contrato de extermínio, ficarei feliz em oferecer."
     }
   },
   "tasks": [

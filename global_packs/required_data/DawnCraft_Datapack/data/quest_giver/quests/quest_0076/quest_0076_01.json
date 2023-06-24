@@ -4,18 +4,18 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Stones from Another Dimension"
+      "text": "Pedras de Outra Dimensão"
     },
     "description": {
-      "text": "Got the $(red)lunar stone$() yet? You can find them in the Everdawn dimension."
+      "text": "Já conseguiu a $(red)pedra lunar$()? Você pode encontrá-las na dimensão Everdawn."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks. The quality is... subpar. I'll think of other uses for it."
+      "text": "Obrigado. A qualidade é... abaixo do esperado. Vou pensar em outros usos para ela."
     }
   },
   "tasks": [

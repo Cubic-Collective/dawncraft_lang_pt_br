@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Hey traveller, you seem to be good at retrieving things! Wanna help me out?"
+      "text": "Ei viajante, você parece ser bom em encontrar coisas! Quer me ajudar?"
     }
   }
 }

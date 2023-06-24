@@ -4,10 +4,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Knowledge in Forestry"
+      "text": "Conhecimento em Marcenaria"
     },
     "description": {
-      "text": "Thanks for listening to my request. I've recently taken an interest in forestry, and thus I have been studying a lot about trees in our dimension; However it seems that there are other peculiar types of trees in other dimensions such as Everbright and Everdawn. Do you think you can help me gather a block of $(red)Dusk Leaves, Maple Leaves, and Starlight Leaves$() each for my research? "
+      "text": "Obrigado por atender ao meu pedido. Tenho me interessado recentemente por marcenaria e, por isso, tenho estudado muito sobre árvores em nossa dimensão. No entanto, parece que existem outros tipos peculiares de árvores em outras dimensões, como em Everbright e Everdawn. Você acha que pode me ajudar a coletar um bloco de $(red)Folhas Crepusculares, Folhas de Bordo e Folhas Estreladas$() cada uma para minha pesquisa? "
     }
   }
 }

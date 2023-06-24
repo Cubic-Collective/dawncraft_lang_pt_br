@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Log Gathering"
+      "text": "Coleta de Troncos"
     },
     "description": {
-      "text": "Did you get the $(red)Crimson Wood Stem$()?"
+      "text": "Você conseguiu o $(red)Caule Carmesim$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Thanks! I don't have emeralds at the moment... Will you take this diamond pickaxe? I just made it a few hours ago."
+      "text": "Obrigado! No momento, não tenho esmeraldas... Você aceitaria esta picareta de diamante? Eu a fiz algumas horas atrás."
     }
   },
   "tasks": [

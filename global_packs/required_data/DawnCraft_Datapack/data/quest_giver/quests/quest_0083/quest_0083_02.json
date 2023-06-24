@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_axe",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "E então?"
 		},
 		"description": {
-			"text": "Did you get me my iron axe yet? Please hurry."
+			"text": "Você já conseguiu meu machado de ferro? Por favor, se apresse."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "YES! This is the axe I've made... I've never been able to top this, you know. Anyway, here's your reward. I appreciate your help."
+			"text": "SIM! Este é o machado que eu fiz... Nunca consegui superá-lo, sabe. De qualquer forma, aqui está a sua recompensa. Agradeço sua ajuda."
 		}
 	},
 	"tasks": [{

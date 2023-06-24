@@ -3,10 +3,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Oi!"
     },
     "description": {
-      "text": "Could you get me an $(red)ancient debris$()? I've never had a chance to work with such high quality minerals... I am willing to pay a high price for it!"
+      "text": "Você poderia me conseguir um $(red)detrito ancestral$()? Eu nunca tive a oportunidade de trabalhar com minerais de alta qualidade como esse... Estou disposto a pagar um preço generoso por isso!"
     }
   }
 }

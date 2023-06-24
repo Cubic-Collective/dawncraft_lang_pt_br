@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "A Bizarre Request"
+      "text": "Um Pedido Bizarro"
     },
     "description": {
-      "text": "Could I have 1 of your $(red)spirit orbs$()?"
+      "text": "Você poderia me dar 1 dos seus $(red)orbes espirituais$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "The structure of this is too complicated... Would you mind giving me another one of these?"
+      "text": "A estrutura disso é muito complicada... Você se importaria de me dar mais um desses?"
     }
   },
   "tasks": [
