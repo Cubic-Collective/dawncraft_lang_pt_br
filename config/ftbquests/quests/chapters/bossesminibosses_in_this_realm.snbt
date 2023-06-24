@@ -491,7 +491,7 @@
 			tasks: [{
 				id: "4B8BB374C630CA51"
 				type: "kill"
-				title: "Minhoca do Vazio"
+				title: "Verme do Vazio"
 				icon: "alexsmobs:mysterious_worm"
 				entity: "alexsmobs:void_worm"
 				value: 1L
