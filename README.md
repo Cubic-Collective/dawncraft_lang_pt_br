@@ -1,6 +1,6 @@
 ## DawnCraft ModPack Brazilian-Portuguese Localization (WIP)
 
-CurseForge Link: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
+CurseForge: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
 Versão do ModPack: 1.24
 
