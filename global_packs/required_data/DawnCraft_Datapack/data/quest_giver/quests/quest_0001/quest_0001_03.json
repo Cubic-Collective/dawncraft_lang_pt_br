@@ -32,7 +32,7 @@
       "item": {
  	   "type": "minecraft:item_nbt",
            "item": "minecraft:iron_chestplate",
-           "nbt":  "{display:{Name:'[{\"text\":\"Leal\",\"italic\":false}]',Lore:['[{\"text\":\"Uma armadura feita especificamente para o campeão do armeiro.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
+           "nbt":  "{display:{Name:'[{\"text\":\"Leal\",\"italic\":false}]',Lore:['[{\"text\":\"Um peitoral que o armadureiro fez especificamente para o seu campeão.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
       },
       "id": "quest_giver:item",
       "times": 1
