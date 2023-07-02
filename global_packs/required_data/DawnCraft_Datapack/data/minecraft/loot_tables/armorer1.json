@@ -18,13 +18,13 @@
 				},
             			{
             			"function": "minecraft:set_name",
-             			 "name": "Armorer's Map"
+             			 "name": "Mapa do Armeiro"
             			},
             			{
               			"function": "minecraft:set_lore",
               			"lore": [
                			 {
-                 		 "text": "A Map Given by the Armorer to retrieve his necklace."
+                 		 "text": "Um mapa dado pelo armeiro para recuperar seu colar."
                 		}
               			]
             			}

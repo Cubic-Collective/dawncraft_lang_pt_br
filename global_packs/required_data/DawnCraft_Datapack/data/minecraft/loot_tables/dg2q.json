@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "A Suspicious Map"
+					"name": "Um Mapa Suspeito"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A map given by a fallen adventurer to locate a church."
+						"text": "Um mapa dado pelo aventureiro caído para localizar uma igreja."
 					}]
 				}
 			]

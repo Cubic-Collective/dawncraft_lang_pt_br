@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to the Fire Giant"
+					"name": "Mapa para o Gigante de Fogo"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "The whereabouts of the Fire Giant - the last Eye Holder."
+						"text": "A paradeiro do Gigante de Fogo - o último dos Portadores dos Olhos."
 					}]
 				}
 			]

@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to the Soul Blacksmith"
+					"name": "Um mapa para o Ferreiro das Almas"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "Netherite Monstrosity's Whereabouts."
+						"text": "O paradeiro da Monstruosidade de Netherita."
 					}]
 				}
 			]

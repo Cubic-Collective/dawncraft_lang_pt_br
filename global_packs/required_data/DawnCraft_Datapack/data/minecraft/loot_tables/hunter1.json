@@ -15,12 +15,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Hunter's Map"
+					"name": "Mapa do Caçador"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A map given by the hunter to locate a floating palace called Rootless."
+						"text": "Um mapa dado pelo caçador para localizar um palácio flutuante chamado Rootless."
 					}]
 				}
 			]

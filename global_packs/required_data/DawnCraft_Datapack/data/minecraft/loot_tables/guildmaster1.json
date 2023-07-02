@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to the Corrupt Ogre"
+					"name": "Mapa para o Ogro Corrompido"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "The whereabouts of the Corrupt Ogre - one of the Eye Holders."
+						"text": "A paradeiro do Ogro Corrompido - um dos Portadores dos Olhos."
 					}]
 				}
 			]

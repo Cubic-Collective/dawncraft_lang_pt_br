@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to a haunted place"
+					"name": "Mapa para um lugar assombrado"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A map given by the miner to investigate a haunted place."
+						"text": "Um mapa dado pelo minerador para investigar um lugar assombrado."
 					}]
 				}
 			]

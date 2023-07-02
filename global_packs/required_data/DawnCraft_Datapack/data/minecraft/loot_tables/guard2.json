@@ -15,12 +15,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Guard's Map"
+					"name": "Mapa do Guarda"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "The whereabouts of a lost child. Save him and bring him back to the village."
+						"text": "O paradeiro de uma criança perdida. Salve-a e a traga de volta para a vila."
 					}]
 				}
 			]

@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to a Pillager Camp"
+					"name": "Mapa para um acampamento de Saqueadores"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "The map to the closest pillager camp near you."
+						"text": "O mapa para o acampamento de saqueadores mais próximo de você."
 					}]
 				}
 			]
