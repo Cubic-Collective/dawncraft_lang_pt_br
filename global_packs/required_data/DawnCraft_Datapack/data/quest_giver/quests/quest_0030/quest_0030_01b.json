@@ -7,7 +7,7 @@
       "text": "Obrigado por ter Escutado."
     },
     "description": {
-      "text": "Obrigado por ter escutado. Meu alto-forno está quebrando... Você pode $(red)fabricar$() um novo e me dar?"
+      "text": "Obrigado por ter escutado. Meu alto-forno está quebrando... Você pode $(red)fabricar$() um novo para mim?"
     }
   }
 }
