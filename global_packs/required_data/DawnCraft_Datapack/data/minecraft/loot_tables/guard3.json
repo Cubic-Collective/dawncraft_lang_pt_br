@@ -15,12 +15,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Guard's Map"
+					"name": "Mapa do Guarda"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "The whereabouts of a monster underground. Dig deep and defeat the monster."
+						"text": "O paradeiro de um monstro subterrâneo. Cave fundo e derrote o monstro."
 					}]
 				}
 			]

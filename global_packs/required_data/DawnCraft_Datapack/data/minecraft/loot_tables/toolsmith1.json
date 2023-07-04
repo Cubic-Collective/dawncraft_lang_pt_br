@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Toolsmith's Map"
+					"name": "Mapa do Ferreiro"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A map given by the toolsmith to retrieve his favorite axe."
+						"text": "Um mapa dado pelo ferreiro para recuperar seu machado favorito."
 					}]
 				}
 			]

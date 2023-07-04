@@ -18,13 +18,13 @@
 				},
             			{
             			"function": "minecraft:set_name",
-             			 "name": "Cartographer's Map"
+             			 "name": "Mapa do Cartógrafo"
             			},
             			{
               			"function": "minecraft:set_lore",
               			"lore": [
                			 {
-                 		 "text": "A map given by the Cartographer to locate a group of rogue eastern warriors."
+                 		 "text": "Um mapa dado pelo Cartógrafo para localizar um grupo de guerreiros orientais rebeldes."
                 		}
               			]
             			}

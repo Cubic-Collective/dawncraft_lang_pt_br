@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to the Sentinel Knight"
+					"name": "Mapa para o Cavaleiro Sentinela"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "The whereabouts of the Sentinel Knight - one of the Eye Holders."
+						"text": "O paradeiro do Cavaleiro Sentinela - um dos Portadores dos Olhos."
 					}]
 				}
 			]

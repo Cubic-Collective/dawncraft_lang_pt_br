@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Location of the Father"
+					"name": "Localização do Padre"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "Father Gascoigne's whereabouts."
+						"text": "Paradeiro do Padre Gascoigne."
 					}]
 				}
 			]

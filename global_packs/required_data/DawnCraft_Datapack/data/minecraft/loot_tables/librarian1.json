@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Librarian's Ruin"
+					"name": "Ruínas do Bibliotecário"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A map given by the librarian to retrieve his book."
+						"text": "Um mapa dado pelo bibliotecário para recuperar seu livro."
 					}]
 				}
 			]

@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to the Ruined Citadel"
+					"name": "Mapa para a Cidadela Arruinada"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "Ender Guardian's whereabouts."
+						"text": "Paradeiro do Guardião do End."
 					}]
 				}
 			]

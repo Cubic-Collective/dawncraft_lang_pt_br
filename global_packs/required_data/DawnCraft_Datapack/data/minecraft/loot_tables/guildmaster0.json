@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to the Ruined Keep"
+					"name": "Mapa para a Fortaleza em Ruínas"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "The location of Ruined Keep - the Goblin King's Hideout."
+						"text": "A paradeiro da Fortaleza em Ruínas - o esconderijo do Rei Goblin."
 					}]
 				}
 			]

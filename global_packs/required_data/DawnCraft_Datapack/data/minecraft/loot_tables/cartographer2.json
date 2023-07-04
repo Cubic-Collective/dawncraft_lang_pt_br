@@ -18,13 +18,13 @@
 				},
             			{
             			"function": "minecraft:set_name",
-             			 "name": "Map to the Summoning Altar"
+             			 "name": "Mapa para o Altar de Invocação"
             			},
             			{
               			"function": "minecraft:set_lore",
               			"lore": [
                			 {
-                 		 "text": "A map given by the cartographer to locate the summoning altar."
+                 		 "text": "Um mapa dado pelo cartógrafo para localizar o altar de invocação."
                 		}
               			]
             			}

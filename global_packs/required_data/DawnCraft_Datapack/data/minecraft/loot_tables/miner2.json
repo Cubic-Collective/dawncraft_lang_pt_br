@@ -18,12 +18,12 @@
 				},
 				{
 					"function": "minecraft:set_name",
-					"name": "Map to a strange adventurer"
+					"name": "Um mapa para um aventureiro estranho"
 				},
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A map given by the miner to hunt down a beast."
+						"text": "Um mapa dado pelo minerador para caçar uma besta."
 					}]
 				}
 			]

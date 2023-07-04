@@ -18,12 +18,12 @@
 				},
 				{
 				"function": "minecraft:set_name",
-				"name": "Guard's Map"
+				"name": "Mapa do Guarda"
 				},
 				{
 				"function": "minecraft:set_lore",
 				"lore": [{
-				"text": "The whereabouts of a man-eating Giant. Defeat the monster."
+				"text": "O paradeiro de um gigante devorador de pessoas. Derrote a criatura."
 				}]
 				}
 			]
