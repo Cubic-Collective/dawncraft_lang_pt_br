@@ -62,7 +62,7 @@
 			title: "Reputação (e como restaurá-la)"
 			x: -1.5d
 			y: -3.0d
-			description: ["As Pacotes de Esmeralda podem ser doados ao Mestre da Guilda de qualquer aldeia para restaurar sua reputação. Esses pacotes podem ser fabricados com 8 esmeraldas e um couro. Para doar, basta localizar o Mestre da Guilda (um aldeão vestido de azul, que mora em uma cabana com telhado vermelho) e clicar com o botão direito na caixa de doações no balcão para fazer a doação. O jogador precisará dormir para que a doação entre em vigor. Pode ser necessário mais de um pacote para restaurar completamente a reputação. A reputação é reduzida ao saquear baús ou barris na frente dos aldeões ou ao prejudicá-los. Se sua reputação estiver baixa, você não poderá receber missões ou realizar trocas com os aldeões, nem entregar missões existentes."]
+			description: ["Os Pacotes de Esmeralda podem ser doados ao Mestre da Guilda de qualquer vila para restaurar a reputação. Esses pacotes podem ser feitos usando 8 esmeraldas e um couro. Para fazer a doação, basta encontrar o Mestre da Guilda, um aldeão vestido de azul que vive em uma cabana com telhado vermelho, e clicar com o botão direito na caixa de doações no balcão. É necessário dormir para que a doação seja efetivada. Pode ser necessário mais de um pacote para restaurar completamente a reputação. A reputação é reduzida ao saquear baús ou barris na frente dos aldeões ou ao machucá-los. Se a reputação estiver baixa, você não poderá receber missões, realizar trocas com os aldeões ou concluir missões existentes."]
 			dependencies: ["49AF23C212917B34"]
 			id: "257D44B8882C8937"
 			tasks: [{
@@ -81,7 +81,7 @@
 			icon: "quest_giver:trading_contract_armorer"
 			x: -1.5d
 			y: -1.5d
-			description: ["Os contratos de negociação são necessários para realizar negociações com os aldeões. Antes de poderem ser usados, um jogador deve pressionar Shift+Clique com um contrato em sua mão em um púlpito para assiná-lo e, em seguida, clicar com o botão direito no aldeão apropriado com o contrato assinado para realizar a negociação. Se um jogador morrer com um contrato, será necessário assiná-lo novamente. Os contratos podem ser obtidos diretamente dos aldeões como recompensa de missões ou desbloqueados por meio das missões abaixo. As missões a seguir são muito mais caras de serem concluídas, mas removem a aleatoriedade das missões dos aldeões em troca. "]
+			description: ["Os Contratos Comerciais são essenciais para realizar negociações com os aldeões. Antes de utilizá-los, o jogador deve pressionar Shift+Clique com um contrato em sua mão em um púlpito para assiná-lo. Em seguida, basta clicar com o botão direito no aldeão apropriado com o contrato assinado para realizar a negociação. Caso o jogador morra com um contrato, será necessário assiná-lo novamente. Os contratos podem ser obtidos diretamente dos aldeões como recompensa de missões ou desbloqueados por meio das seguintes missões. Embora essas missões sejam mais caras de serem concluídas, elas eliminam a aleatoriedade das missões dos aldeões em troca."]
 			dependencies: ["257D44B8882C8937"]
 			id: "58CD06935381272E"
 			tasks: [{
@@ -97,7 +97,7 @@
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Armaduras"
+			title: "Contrado Comercial de Armadureiros"
 			icon: {
 				id: "magistuarmory:wingedhussar_chestplate"
 				Count: 1b
@@ -177,14 +177,14 @@
 			rewards: [{
 				id: "2DD17758B701B4FC"
 				type: "command"
-				title: "Contrato de Negociação de Terras"
+				title: "Contrato Comercial de Terras"
 				icon: "quest_giver:trading_contract_toolsmith"
 				command: "/advancement grant @p only custom:trade_armorer"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Açougueiro"
+			title: "Contrado Comercial de Açougueiros"
 			icon: "minecraft:beef"
 			x: -3.0d
 			y: -1.5d
@@ -238,7 +238,7 @@
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Reivindicação"
+			title: "Contrado Comercial de Reivindicação"
 			icon: "minecraft:filled_map"
 			x: -2.5d
 			y: -0.5d
@@ -285,14 +285,14 @@
 			rewards: [{
 				id: "280B1951564FE37C"
 				type: "command"
-				title: "Contrato de Negociação de Reclamação"
+				title: "Contrado Comercial de Reclamações"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_cartographer"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Clérigo"
+			title: "Contrado Comercial de Clérigos"
 			icon: "minecraft:brewing_stand"
 			x: -1.5d
 			y: 0.0d
@@ -338,14 +338,14 @@
 			rewards: [{
 				id: "72B10BBF2C498725"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_cleric"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Agricultor"
+			title: "Contrado Comercial de Fazendeiros"
 			icon: "minecraft:wheat"
 			x: -0.5d
 			y: -0.5d
@@ -406,14 +406,14 @@
 			rewards: [{
 				id: "75629351AA1174D7"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_farmer"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Pescador"
+			title: "Contrado Comercial de Pescadores"
 			icon: {
 				id: "minecraft:fishing_rod"
 				Count: 1b
@@ -466,14 +466,14 @@
 			rewards: [{
 				id: "4A4AD406EF8E16E6"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicaçãot"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_angler"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Arqueiro"
+			title: "Contrado Comercial de Flecheiros"
 			icon: "minecraft:spectral_arrow"
 			x: -0.5d
 			y: -2.5d
@@ -532,14 +532,14 @@
 			rewards: [{
 				id: "4E936AD991C6DF38"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_fletcher"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Curtidor"
+			title: "Contrado Comercial de Coureiros"
 			icon: "minecraft:leather"
 			x: -2.5d
 			y: 0.5d
@@ -577,14 +577,14 @@
 			rewards: [{
 				id: "562E3BBEF3358F4D"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_leatherworker"
 				player_command: false
 			}]
 		}
 		{
-			title: "Librarian Trading Contract"
+			title: "Contrado Comercial de Bibliotecários"
 			icon: "minecraft:book"
 			x: -0.5d
 			y: 0.5d
@@ -631,14 +631,14 @@
 			rewards: [{
 				id: "199333E8368F50FE"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_librarian"
 				player_command: false
 			}]
 		}
 		{
-			title: "Mason Trading Contract"
+			title: "Contrado Comercial de Pedreiros"
 			icon: "minecraft:stonecutter"
 			x: 0.5d
 			y: -0.5d
@@ -678,14 +678,14 @@
 			rewards: [{
 				id: "02EC6E6E3EA0FE54"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_mason"
 				player_command: false
 			}]
 		}
 		{
-			title: "Shepherd Trading Contract"
+			title: "Contrado Comercial de Pastores"
 			icon: {
 				id: "minecraft:shears"
 				Count: 1b
@@ -737,14 +737,14 @@
 			rewards: [{
 				id: "4CE7B90D24F795E6"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_shepherd"
 				player_command: false
 			}]
 		}
 		{
-			title: "Toolsmith Trading Contract"
+			title: "Contrado Comercial de Ferreiros"
 			icon: {
 				id: "minecraft:diamond_shovel"
 				Count: 1b
@@ -813,14 +813,14 @@
 			rewards: [{
 				id: "224712D630BBECBD"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_toolsmith"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação Enderiano"
+			title: "Contrado Comercial de Enderianógrafos"
 			icon: "minecraft:ender_pearl"
 			x: -3.5d
 			y: -2.5d
@@ -853,14 +853,14 @@
 			rewards: [{
 				id: "66A352FA29523680"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_enderian"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Engenheiro"
+			title: "Contrado Comercial de Engenheiros"
 			icon: "create:cogwheel"
 			x: -2.5d
 			y: -3.5d
@@ -900,14 +900,14 @@
 			rewards: [{
 				id: "6754EE64FC4B32A7"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_engineer"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Florista"
+			title: "Contrado Comercial de Floristas"
 			icon: "minecraft:cornflower"
 			x: -0.5d
 			y: -3.5d
@@ -989,14 +989,14 @@
 			rewards: [{
 				id: "2F78A6D4D40AC92F"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_florist"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Caçador"
+			title: "Contrado Comercial de Caçadores"
 			icon: {
 				id: "minecraft:bow"
 				Count: 1b
@@ -1049,14 +1049,14 @@
 			rewards: [{
 				id: "4F8105978561C3F2"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_hunter"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação Netheriano"
+			title: "Contrado Comercial de Netherianógrafo"
 			icon: "minecraft:nether_wart_block"
 			x: 1.0d
 			y: -1.5d
@@ -1093,14 +1093,14 @@
 			rewards: [{
 				id: "36C0B6E99A563254"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_netherian"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Oceanógrafo"
+			title: "Contrado Comercial de Oceanógrafos"
 			icon: "minecraft:tropical_fish"
 			x: -4.0d
 			y: -1.5d
@@ -1158,14 +1158,14 @@
 			rewards: [{
 				id: "11D8F8F81C6EDC24"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_cleric"
 				command: "/advancement grant @p only custom:trade_oceanographer"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Marceneiro"
+			title: "Contrado Comercial de Marceneiros"
 			icon: {
 				id: "minecraft:diamond_axe"
 				Count: 1b
@@ -1223,14 +1223,14 @@
 			rewards: [{
 				id: "405D1CDE2535D2DA"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_woodworker"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Minerador"
+			title: "Contrado Comercial Mineradores"
 			icon: {
 				id: "minecraft:diamond_pickaxe"
 				Count: 1b
@@ -1289,14 +1289,14 @@
 			rewards: [{
 				id: "165DAF1EB8D63AD1"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_miner"
 				player_command: false
 			}]
 		}
 		{
-			title: "Contrato de Negociação de Apicultor"
+			title: "Contrado Comercial de Apicultores"
 			icon: "minecraft:honeycomb"
 			x: 0.0d
 			y: -4.5d
@@ -1329,14 +1329,14 @@
 			rewards: [{
 				id: "63EC80BB59C9FD0F"
 				type: "command"
-				title: "Contrato de Negociação de Reivindicação"
+				title: "Contrado Comercial de Reivindicação"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_beekeeper"
 				player_command: false
 			}]
 		}
 		{
-			title: "Traversal"
+			title: "Exploração"
 			icon: {
 				id: "minecraft:leather_boots"
 				Count: 1b
@@ -1347,8 +1347,8 @@
 			x: 1.5d
 			y: -5.25d
 			description: [
-				"Este pacote de modificações exigirá que você viaje milhares, ou até dezenas de milhares, de blocos para localizar estruturas importantes, chefes, biomas e muito mais. Para ajudar nessa tarefa, existem várias maneiras úteis de se locomover, detalhadas nas missões abaixo."
-				"Muitos mods adicionam formas adicionais de locomoção, que serão explicadas em suas respectivas abas de missões, e encontrar equipamentos com bônus de velocidade também pode ajudar."
+				"Este modpack exigirá que você viaje milhares, ou até dezenas de milhares, de blocos para localizar estruturas importantes, chefes, biomas e muito mais. Para auxiliar nessa tarefa, existem várias maneiras úteis de se locomover, detalhadas nas seguintes missões."
+				"Muitos mods oferecem maneiras extras de se locomover, que serão explicadas em suas respectivas guias de missões. Além disso, encontrar equipamentos com bônus de velocidade também pode ser útil."
 			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
@@ -1368,7 +1368,7 @@
 		{
 			x: 2.0d
 			y: -3.0d
-			description: ["Planadores são uma ótima maneira de atravessar terrenos irregulares. Encontre um lugar alto e pule. Usar o planador consumirá sua resistência, então tenha cuidado para não ficar sem, pois você cairá do céu. Se você tiver pouca resistência, considere se manter em penhascos mais baixos por enquanto."]
+			description: ["Planadores são uma ótima forma de atravessar terrenos irregulares. Basta encontrar um local elevado e saltar. No entanto, é preciso ter em mente que o uso do planador irá consumir sua resistência, então tome cuidado para não esgotá-la e acabar caindo do céu. Caso esteja com pouca resistência, é aconselhável evitar voar em alturas muito elevadas e permanecer em penhascos mais baixos por enquanto."]
 			dependencies: ["5165327673FA3C3A"]
 			id: "5F8E6856198022AB"
 			tasks: [{
@@ -1384,11 +1384,11 @@
 			}]
 		}
 		{
-			title: "Stamina"
+			title: "Vigor"
 			icon: "paraglider:spirit_orb"
 			x: 2.0d
 			y: -1.5d
-			description: ["A única maneira de aumentar sua resistência é usando Orbes Espirituais ou Essência. Eles podem ser encontrados em masmorras de quebra-cabeças (grandes estruturas amarelas ou azuis, contendo um quebra-cabeça para ser resolvido) ou em algumas missões. A Essência pode ser obtida ao derrotar certas criaturas, como ogros e Médicos da Igreja, que aparecem na natureza, e também em algumas missões. Uma vez obtidos, clique com o botão direito no item para consumi-lo. Quando tiver 4 orbes ou 6 essências, fale com a estátua apropriada em qualquer vila para trocá-los por mais saúde ou resistência."]
+			description: ["A única maneira de aumentar seu vigor é usando Orbes Espirituais ou Essência. Eles podem ser encontrados em masmorras de quebra-cabeças (grandes estruturas amarelas ou azuis, contendo um quebra-cabeça para ser resolvido) ou em algumas missões. A Essência pode ser obtida ao derrotar certas criaturas, como ogros e Médicos da Igreja, que aparecem na natureza, e também em algumas missões. Uma vez obtidos, clique com o botão direito no item para consumi-lo. Quando tiver 4 orbes ou 6 essências, fale com a estátua apropriada em qualquer vila para trocá-los por mais pontos de vida ou vigor."]
 			dependencies: ["5F8E6856198022AB"]
 			id: "1C144F8F242A570F"
 			tasks: [{
@@ -1405,7 +1405,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["Enquanto você explora, encontrará Marcadores de Caminho em algumas vilas. Você pode clicar com o botão direito neles (ou quebrá-los e colocá-los novamente para definir um novo nome) para salvar sua localização. É possível viajar entre os Marcadores de Caminho ao custo de experiência. No entanto, ao criar uma Pedra de Teleporte, você terá teleportes ilimitados (com um tempo de recarga) para qualquer uma de suas localizações salvas, de qualquer lugar."]
+			description: ["Enquanto você explora, encontrará Obeliscos em algumas vilas. Basta clicar com o botão direito neles (ou quebrá-los e colocá-los novamente para atribuir um novo nome) para salvar sua localização. É possível viajar entre os Obeliscos, mas isso terá um custo em experiência. No entanto, ao criar uma Pedra de Teleporte, você terá teleportes ilimitados (com um tempo de recarga) para qualquer uma das suas localizações salvas, de qualquer lugar."]
 			dependencies: ["1C144F8F242A570F"]
 			id: "55A2F317B39F413E"
 			tasks: [{
@@ -1435,7 +1435,7 @@
 		{
 			x: 2.0d
 			y: 1.5d
-			description: ["Além de serem encontrados no mundo, também é possível crias os Marcadores de Caminho. Isso pode ser uma ótima maneira de adicionar um local de teleporte à sua base principal, além de permitir viagens rápidas de ida e volta durante jornadas longas. Basta colocar o marcador, teleportar para casa, reabastecer/reparar e, em seguida, teleportar de volta e pegar o marcador novamente. "]
+			description: ["Além de serem encontrados no mundo, você também pode criar os Obeliscos. Essa é uma excelente forma de adicionar um ponto de teleporte à sua base principal e facilitar viagens rápidas de ida e volta durante jornadas longas. Tudo o que você precisa fazer é colocar o obelisco, teleportar para casa para reabastecer ou reparar, e depois teleportar de volta e pegar o obelisco novamente. "]
 			dependencies: ["55A2F317B39F413E"]
 			id: "679E0992FAE07E57"
 			tasks: [{
@@ -1461,9 +1461,9 @@
 			x: 3.75d
 			y: -5.25d
 			description: [
-				"Ao começar, você estará em desvantagem numérica e com pouca potência. Isso é normal - é assim que deve ser. Você certamente terá que buscar equipamentos no início do jogo e provavelmente encontrará a morte pelo caminho. Seja paciente, explore, mine, crie e siga os passos abaixo para colocar seu personagem no caminho certo para enfrentar os chefes mais intimidadores."
+				"Ao começar, você estará em desvantagem numérica e com pouca potência. Isso é normal e faz parte do jogo. Certamente será necessário procurar equipamentos no início e provavelmente encontrará a morte pelo caminho. Seja paciente, explore, mine, crie e siga os passos abaixo para colocar seu personagem no caminho certo e enfrentar os chefes mais desafiadores."
 				""
-				"Após a morte, você manterá a maioria dos seus itens. No entanto, você perderá alguns itens (como minérios, alguns materiais ou moedas), que ficarão armazenados em um cadáver do jogador e desaparecerão após 7 minutos. A morte também causará danos em suas ferramentas e equipamentos, além de aplicar um efeito negativo que aumentará ainda mais os danos nos equipamentos e a perda de experiência por um determinado período de tempo. Morrer repetidamente em um curto período pode danificar severamente seus equipamentos e causar maior perda de experiência."
+				"Após a morte, você manterá a maioria dos seus itens. No entanto, alguns itens, como minérios, certos materiais ou moedas, serão perdidos e ficarão armazenados em um cadáver do jogador, desaparecendo após 7 minutos. Além disso, a morte causará danos em suas ferramentas e equipamentos, juntamente com a aplicação de um efeito negativo que aumentará ainda mais os danos nos equipamentos e a perda de experiência durante um período de tempo específico. Morrer repetidamente em um curto período pode causar danos significativos aos seus equipamentos e resultar em uma maior perda de experiência."
 			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
@@ -1491,7 +1491,7 @@
 			}
 			x: 3.5d
 			y: -1.5d
-			description: ["O próximo passo é encontrar equipamentos com estatísticas melhores. Isso pode ser alcançado saqueando baús, lutando contra monstros e através de algumas missões. Esses equipamentos são mais poderosos, mas uma vez que eles quebram, desaparecem para sempre. Portanto, use-os com parcimônia até ter alguns equipamentos extras disponíveis."]
+			description: ["O próximo passo é encontrar equipamentos com estatísticas melhores. Isso pode ser feito ao saquear baús, enfrentar monstros e completar missões. Esses equipamentos são mais poderosos, porém, uma vez quebrados, desaparecem permanentemente. Portanto, utilize-os com cuidado até que você tenha alguns equipamentos extras à disposição."]
 			dependencies: ["648C999659850F11"]
 			id: "52D8E61B177F4493"
 			tasks: [{
@@ -1511,7 +1511,7 @@
 			icon: "apotheosis:boss_summoner"
 			x: 3.5d
 			y: -3.0d
-			description: ["O primeiro passo para fortalecer-se é manter as coisas seguras - minerar, criar itens e fazer algumas explorações leves. Os equipamentos criados não serão tão fortes quanto os encontrados, mas eles cumprirão sua função até que você consiga algo melhor. "]
+			description: ["O primeiro passo para se fortalecer é manter as coisas seguras - minerar, criar itens e fazer explorações leves. Os equipamentos que você criar não serão tão poderosos quanto os encontrados, mas eles servirão bem até que você consiga algo melhor."]
 			dependencies: ["60154554DCD1D411"]
 			id: "648C999659850F11"
 			tasks: [{
@@ -1527,11 +1527,11 @@
 			}]
 		}
 		{
-			title: "Diet"
+			title: "Alimentação"
 			icon: "minecraft:apple"
 			x: 5.0d
 			y: -1.5d
-			description: ["Um dos fatores mais importantes para o seu sucesso em combate é a sua alimentação. Os monstros causam danos intensos e rápidos, e a sua saúde certamente será afetada. Comer refeições com alta saturação garantirá que a regeneração da sua saúde dure mais tempo, e isso pode fazer a diferença entre a vida e a morte. Alimentos dourados podem ajudar ainda mais nesse aspecto, embora a um preço alto. Além disso, a diversidade da sua alimentação aplicará bônus que podem ajudá-lo a sobreviver. Consulte a guia \"Culinária e Agricultura\" para ver as opções de refeições. O Livro de Alimentos (craftável e obtido nesta missão) mostrará os bônus das refeições atuais e possíveis."]
+			description: ["Um dos fatores mais importantes para o seu sucesso em combate é a sua alimentação. Os monstros causam danos intensos e rápidos, e a sua saúde certamente será afetada. Comer refeições com alta saturação garantirá que a regeneração da sua saúde dure mais tempo, e isso pode fazer a diferença entre a vida e a morte. Alimentos dourados podem ajudar ainda mais nesse aspecto, embora a um alto custo. Além disso, diversificar a sua alimentação proporcionará bônus que podem ajudá-lo a sobreviver. Consulte o guia \"Culinária e Agricultura\" para ver as opções de refeições disponíveis. O Livro de Alimentos, que pode ser criado e obtido nesta missão, mostrará os bônus das refeições atuais e possíveis."]
 			dependencies: ["52D8E61B177F4493"]
 			id: "56A78445B3458AE9"
 			tasks: [{
@@ -1550,7 +1550,7 @@
 			icon: "minecraft:feather"
 			x: 5.0d
 			y: -3.0d
-			description: ["As habilidades podem melhorar significativamente sua capacidade de sobrevivência. A habilidade \"Dodge Roll\" pode ser obtida por meio da primeira missão do Mestre da Guilda, e outras habilidades de combate podem ser aprendidas por meio das missões dos guardas dos vilarejos. Procure por vilarejos para obter essas habilidades úteis. A tecla \"Dodge\" pode ser configurada e editada nas configurações de controles. Você pode aprender uma habilidade clicando com o botão direito enquanto a segura e equipá-la por meio do menu \"Editor de Habilidades\" (configurável)."]
+			description: ["As habilidades podem melhorar significativamente a sua capacidade de sobrevivência. A habilidade "Rolamento" pode ser obtida na primeira missão do Mestre da Guilda, e outras habilidades de combate podem ser aprendidas nas missões dos guardas das vilas. Procure pelas vilas para adquirir essas habilidades úteis. A tecla de \"Esquiva\" pode ser configurada e editada nas configurações de controle. Para aprender uma habilidade, clique com o botão direito sobre ela, segure e a equipe por meio do menu \"Editor de Habilidades\" (configurável)."]
 			dependencies: ["648C999659850F11"]
 			id: "76CA9142CEA54D1F"
 			tasks: [{
@@ -1576,7 +1576,7 @@
 			}
 			x: 5.5d
 			y: -5.0d
-			description: ["O sistema de combate deste modpack é baseado no Epic Fight Mod. Pressione a tecla \"R\" (configurável) para ativar o modo de combate, que permitirá que você use habilidades e execute ataques especiais! No entanto, em alguns casos, você ainda pode querer usar ataques normais, como quando está sendo agarrado pelo Arachnarch da Dimensão EverDawn. Observe que os ataques normais causam metade do dano em comparação com o modo de combate, simplesmente porque você não está se comprometendo totalmente com seus ataques."]
+			description: ["O sistema de combate deste modpack é baseado no Mod Epic Fight. Pressione a tecla \"R\" (configurável) para ativar o modo de combate, que permitirá que você use habilidades e execute ataques especiais! No entanto, em alguns casos, você ainda pode optar por usar ataques normais, como quando está sendo agarrado pelo Arachnarch da Dimensão EverDawn. É importante ressaltar que os ataques normais causam metade do dano em comparação com o modo de combate, simplesmente porque você não está se dedicando totalmente aos seus ataques."]
 			dependencies: ["60154554DCD1D411"]
 			id: "601DF1F35CF01A0A"
 			tasks: [{
@@ -1611,13 +1611,13 @@
 			x: 3.75d
 			y: -7.5d
 			description: [
-				"Os jogadores podem equipar uma série de itens adicionais em slots de equipamentos especiais."
+				"Os jogadores podem equipar uma variedade de itens adicionais em slots de equipamento especiais."
 				""
 				"&b&lCurios"
-				"O menu de curiosidades pode ser acessado pressionando o botão no canto superior esquerdo do playe rportrait no menu de inventário. Isso mostrará todos os slots Curio disponíveis para anéis, encantos e assim por diante. Alguns itens podem até adicionar slots adicionais."
+				"O menu do Curios pode ser acessado pressionando o botão no canto superior esquerdo do retrato do jogador no menu de inventário. Isso mostrará todos os slots de Curios disponíveis para anéis, amuletos e outros itens semelhantes. Alguns itens podem até adicionar slots adicionais."
 				""
-				"&b&lArcs"
-				"Arcos podem ser encontrados nas dimensões adicionadas pelo mod Blue Skies. Este menu pode ser acessado através da guia Arcs à esquerda da tela de inventário."
+				"&b&lArcos"
+				"Arcos podem ser encontrados nas dimensões adicionadas pelo mod Blue Skies. Este menu pode ser acessado através da guia "Arcos" à esquerda da tela de inventário."
 			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
@@ -1639,9 +1639,9 @@
 			x: -1.5d
 			y: -7.5d
 			description: [
-				"Este modpack destina-se a ser jogado principalmente em 3ª pessoa percpective. Por padrão, você pode alternar perspectivas com F5, mas vinculá-lo a uma chave como ~ pode ser uma maneira mais rápida de trocar em tempo real. "
-				"A localização da mira em relação ao jogador pode ser ajustada com as teclas de seta para a esquerda e para a direita, e a câmera pode ser ampliada e reduzida com para cima e para baixo. Ajuste de acordo com a sua preferência. "
-				"O mote de combate pode ser ativado com R por padrão, no entanto, você pode querer revinculá-lo a uma tecla diferente, como um botão extra do mouse, se disponível."
+				"Este modpack foi desenvolvido principalmente para ser jogado em terceira pessoa. Por padrão, você pode alternar entre as perspectivas pressionando F5, mas atribuir uma tecla como ~ para essa função pode ser uma maneira mais rápida de alternar em tempo real."
+				"Você pode ajustar a posição da mira em relação ao jogador usando as teclas de seta para a esquerda e direita, e a câmera pode ser ampliada ou reduzida usando as teclas para cima e para baixo. Faça os ajustes conforme sua preferência."
+				"O modo de combate pode ser ativado pressionando R por padrão, mas você pode preferir atribuí-lo a uma tecla diferente, como um botão adicional do mouse, se estiver disponível."
 			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
