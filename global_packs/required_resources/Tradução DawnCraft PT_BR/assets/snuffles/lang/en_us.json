@@ -1,21 +1,21 @@
 {
-  "block.snuffles.snuffle_fluff": "Snuffle Fluff",
-  "block.snuffles.frosty_fluff": "Frosty Fluff",
-  "block.snuffles.snuffle_fluff_carpet": "Snuffle Fluff Carpet",
-  "block.snuffles.frosty_fluff_carpet": "Frosty Fluff Carpet",
+  "block.snuffles.snuffle_fluff": "Pelagem de Snuffle",
+  "block.snuffles.frosty_fluff": "Pelagem Gelada",
+  "block.snuffles.snuffle_fluff_carpet": "Tapete de Pelagem de Snuffle",
+  "block.snuffles.frosty_fluff_carpet": "Tapete de Pelagem Gelada",
 
-  "item.snuffles.snuffle_spawn_egg": "Snuffle Spawn Egg",
+  "item.snuffles.snuffle_spawn_egg": "Ovo de Snuffle",
 
   "entity.snuffles.snuffle": "Snuffle",
 
-  "snuffles.subtitles.block.frosty_fluff.thaw": "Fluff thaws",
+  "snuffles.subtitles.block.frosty_fluff.thaw": "Pelagem descongela",
 
-  "snuffles.subtitles.entity.snuffle.ambient": "Snuffle snuffles",
-  "snuffles.subtitles.entity.snuffle.death": "Snuffle dies",
-  "snuffles.subtitles.entity.snuffle.eat": "Snuffle slurps",
-  "snuffles.subtitles.entity.snuffle.hurt": "Snuffle hurts",
-  "snuffles.subtitles.entity.snuffle.shake": "Snuffle shakes",
-  "snuffles.subtitles.entity.snuffle.step": "Snuffle steps",
-  "snuffles.subtitles.entity.snuffle.style": "Slimeball squishes",
-  "snuffles.subtitles.entity.snuffle.thaw": "Snuffle thaws"
+  "snuffles.subtitles.entity.snuffle.ambient": "Snuffle fareja",
+  "snuffles.subtitles.entity.snuffle.death": "Snuffle morre",
+  "snuffles.subtitles.entity.snuffle.eat": "Snuffle lambe",
+  "snuffles.subtitles.entity.snuffle.hurt": "Snuffle se machuca",
+  "snuffles.subtitles.entity.snuffle.shake": "Snuffle se sacode",
+  "snuffles.subtitles.entity.snuffle.step": "Snuffle pisa",
+  "snuffles.subtitles.entity.snuffle.style": "Bola de Slime se espreme",
+  "snuffles.subtitles.entity.snuffle.thaw": "Snuffle descongela"
 }
