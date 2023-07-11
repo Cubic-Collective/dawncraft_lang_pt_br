@@ -1,0 +1,18 @@
+{
+  "type": "ars_nouveau:glyph",
+  "count": 1,
+  "inputItems": [
+    {
+      "item": {
+        "item": "simple_mobs:giant_eye_fragment"
+      }
+    },
+    {
+      "item": {
+        "item": "minecraft:torch"
+      }
+    }
+  ],
+  "exp": 27,
+  "output": "ars_nouveau:glyph_light"
+}
