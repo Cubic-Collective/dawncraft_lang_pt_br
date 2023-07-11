@@ -34,6 +34,9 @@
   "modules.public_server_list.config.button_x": "Posição do Botão Esquerdo",
   "modules.public_server_list.config.button_y": "Posição do Botão Superior",
   "modules.public_server_list.config.button_width": "Largura do Botão",
+  "modules.public_server_list.config.vanilla_button": "Botão do Vanilla",
+  "modules.public_server_list.no_servers": "Não há servidores públicos listados.",
+  "modules.public_server_list.first_server": "Seja o primeiro a adicionar um servidor!",
   
   "configs.boolean.true": "Verdadeiro",
   "configs.boolean.false": "Falso",
