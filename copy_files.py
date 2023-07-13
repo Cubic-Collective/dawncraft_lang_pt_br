@@ -24,7 +24,7 @@ def copy_files_and_folders(source_dir, destination_dir, items):
         else:
             print(f"Cannot copy {item_path}: item does not exist")
 
-source_directory = r'C:\Users\Gustavo\curseforge\minecraft\Instances\DawnCraft - An Adventure RPG Modpack'
+source_directory = r''
 destination_folder = os.path.dirname(os.path.abspath(__file__))
 
 items_to_copy = [
