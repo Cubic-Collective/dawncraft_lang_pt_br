@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "quest_giver:pillager_hideout",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 917273649,
+    "spacing": 45,
+    "separation": 25,
+    "type": "minecraft:random_spread"
+  }
+}

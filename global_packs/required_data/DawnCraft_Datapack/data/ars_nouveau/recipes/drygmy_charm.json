@@ -18,17 +18,17 @@
     },
     {
       "item": {
-        "item": "minecraft:apple"
+        "item": "simple_mobs:imp_scale"
       }
     },
     {
       "item": {
-        "item": "simple_mobs:griffin_feather"
+        "item": "simple_mobs:imp_scale"
       }
     },
     {
       "item": {
-        "tag": "forge:seeds"
+        "item": "simple_mobs:imp_scale"
       }
     },
     {

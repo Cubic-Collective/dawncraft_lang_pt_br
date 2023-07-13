@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "quest_giver:pillager_base",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 728361903,
+    "spacing": 60,
+    "separation": 45,
+    "type": "minecraft:random_spread"
+  }
+}

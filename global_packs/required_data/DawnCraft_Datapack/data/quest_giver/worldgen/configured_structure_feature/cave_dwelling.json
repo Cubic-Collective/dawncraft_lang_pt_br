@@ -1,0 +1,10 @@
+{
+  "type": "quest_giver:cave_dwelling",
+  "config": {
+    "start_pool": "quest_giver:cave_dwelling",
+    "size": 1
+  },
+  "biomes": "#custom:has_structure/everything",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

@@ -1,0 +1,10 @@
+{
+  "type": "quest_giver:pillager_hideout",
+  "config": {
+    "start_pool": "quest_giver:pillager_hideout",
+    "size": 1
+  },
+  "biomes": "#custom:has_structure/everything",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}
