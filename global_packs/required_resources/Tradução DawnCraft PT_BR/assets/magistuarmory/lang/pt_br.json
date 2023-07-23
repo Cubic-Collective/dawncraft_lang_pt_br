@@ -329,6 +329,7 @@
 "itemGroup.magistuarmory.particular_weapons": "Armas Medievais",
 "itemGroup.magistuarmory.shields": "Escudos Medievais",
 "itemGroup.magistuarmory.rusted": "Itens Enferrujados",
+"itemGroup.magistuarmory.armor_decorations": "Decorações de Armadura",
 
 
 
@@ -402,22 +403,24 @@
 
 
 
-  "silvertools.hurt": "dano contra mortos-vivos",
+  "silvertools.hurt": "+%1$f dano contra mortos-vivos",
   "flamebladed.hurt": "Reduz a saúde máxima do inimigo",
   "halberd.hurt": "Tem uma chance de derrubar o inimigo do cavalo",
-  "bonusattackreach": "alcance do ataque",
+  "bonusattackreach": "%1$f alcance do ataque",
   "slowmovementspeed": "Velocidade de movimento reduzida",
   "effect.laceration": "Laceração",
   "lance.rideronly": "Usado apenas enquanto montado",
   "lance.leftclick": "Clique esquerdo antes de atingir para derrubar o alvo",
+  "medieval_bag.rightclick": "Clique com o botão direito obter o conteúdo",
   "lance.bonusdamage": "O dano é baseado na massa e na velocidade",
-  "armorpiercing": "perfuração de armadura",
+  "armorpiercing": "%1$f% perfuração de armadura",
   "twohandedi": "Duas Mãos I",
   "twohandedii": "Duas Mãos II",
-  "kgweight": "peso em kg",
-  "maxdamageblock": "bloqueio de dano máximo",
-  "twohandedpenalty_1": "Velocidade de ataque e dano reduzido devido ao uso ",
+  "kgweight": "%1$f peso em kg",
+  "maxdamageblock": "%1$f bloqueio de dano máximo",
+  "twohandedpenalty_1": "Velocidade de ataque e/ou dano reduzido devido ao uso ",
   "twohandedpenalty_2": "de arma de duas mãos com uma mão só",
+  "canbeplacedonground": "Pressione Shift + Botão Direito para colocar no chão",
 
 
 
@@ -440,6 +443,40 @@
   
 
 
+  "item.magistuarmory.torse_and_mantle_decoration": "Torse And Mantle Decoration",
+  "item.magistuarmory.gazelle_horns_decoration": "Gazelle Horns Decoration",
+  "item.magistuarmory.duck_decoration": "Duck Decoration",
+  "item.magistuarmory.spike_decoration": "Spike Decoration",
+  "item.magistuarmory.horse_decoration": "Horse Decoration",
+  "item.magistuarmory.crown_decoration": "Crown Decoration",
+  "item.magistuarmory.flowercrown_decoration": "Flowercrown Decoration",
+  "item.magistuarmory.unicorn_decoration": "Unicorn Decoration",
+  "item.magistuarmory.bullhorns_decoration": "Bullhorns Decoration",
+  "item.magistuarmory.dragon_decoration": "Dragon Decoration",
+  "item.magistuarmory.minicrown_decoration": "Minicrown",
+  "item.magistuarmory.torse_decoration": "Torse Decoration",
+  "item.magistuarmory.two_plumes_decoration": "Two Plumes Decoration",
+  "item.magistuarmory.antlers_decoration": "Antlers Decoration",
+  "item.magistuarmory.plume_left_decoration": "Plume Left Decoration",
+  "item.magistuarmory.plume_middle_decoration": "Plume Middle Decoration",
+  "item.magistuarmory.plume_right_decoration": "Plume Right Decoration",
+  "item.magistuarmory.bear_decoration": "Bear Decoration",
+  "item.magistuarmory.lily_decoration": "Lily Decoration",
+  "item.magistuarmory.lion_decoration": "Lion Decoration",
+  "item.magistuarmory.demon_horns_decoration": "Demon Horns Decoration",
+  "item.magistuarmory.feathers_decoration": "Feathers Decoration",
+  "item.magistuarmory.viking_horns_decoration": "Viking Horns Decoration",
+  "item.magistuarmory.griffin_decoration": "Griffin Decoration",
+  "item.magistuarmory.hood_decoration": "Hood Decoration",
+  "item.magistuarmory.ecranche_decoration": "Ecranche Decoration",
+  "item.magistuarmory.rondel_decoration": "Rondel Decoration",
+
+
+
+  "item.magistuarmory.medieval_bag": "Bag Full of Stuff",
+
+
+
   "item.magistuarmory.blacksmith_hammer": "Martelo de Ferreiro",
   "item.magistuarmory.pitchfork": "Forcado",
   "item.magistuarmory.barbedclub": "Clava com Espinhos",
@@ -456,38 +493,42 @@
 
 
 
- "magistuarmory.withsurcoat.black": " com Sobretudo Preto",
-"magistuarmory.withsurcoat.red": " com Sobretudo Vermelho",
-"magistuarmory.withsurcoat.green": " com Sobretudo Verde",
-"magistuarmory.withsurcoat.brown": " com Sobretudo Marrom",
-"magistuarmory.withsurcoat.blue": " com Sobretudo Azul",
-"magistuarmory.withsurcoat.purple": " com Sobretudo Roxo",
-"magistuarmory.withsurcoat.cyan": " com Sobretudo Ciano",
-"magistuarmory.withsurcoat.light_gray": " com Sobretudo Cinza Claro",
-"magistuarmory.withsurcoat.gray": " com Sobretudo Cinza",
-"magistuarmory.withsurcoat.pink": " com Sobretudo Rosa",
-"magistuarmory.withsurcoat.lime": " com Sobretudo Lima",
-"magistuarmory.withsurcoat.yellow": " com Sobretudo Amarelo",
-"magistuarmory.withsurcoat.light_blue": " com Sobretudo Azul Claro",
-"magistuarmory.withsurcoat.magenta": " com Sobretudo Magenta",
-"magistuarmory.withsurcoat.orange": " com Sobretudo Laranja",
-"magistuarmory.withsurcoat.white": " com Sobretudo Branco",
-"magistuarmory.withcaparison.black": " com Caparison Preto",
-"magistuarmory.withcaparison.red": " com Caparison Vermelho",
-"magistuarmory.withcaparison.green": " com Caparison Verde",
-"magistuarmory.withcaparison.brown": " com Caparison Marrom",
-"magistuarmory.withcaparison.blue": " com Caparison Azul",
-"magistuarmory.withcaparison.purple": " com Caparison Roxo",
-"magistuarmory.withcaparison.cyan": " com Caparison Ciano",
-"magistuarmory.withcaparison.light_gray": " com Caparison Cinza Claro",
-"magistuarmory.withcaparison.gray": " com Caparison Cinza",
-"magistuarmory.withcaparison.pink": " com Caparison Rosa",
-"magistuarmory.withcaparison.lime": " com Caparison Lima",
-"magistuarmory.withcaparison.yellow": " com Caparison Amarelo",
-"magistuarmory.withcaparison.light_blue": " com Caparison Azul Claro",
-"magistuarmory.withcaparison.magenta": " com Caparison Magenta",
-"magistuarmory.withcaparison.orange": " com Caparison Laranja",
-"magistuarmory.withcaparison.white": " com Caparison Branco",
+ "magistuarmory.withsurcoat.black": "%1$s com Sobretudo Preto",
+"magistuarmory.withsurcoat.red": "%1$s com Sobretudo Vermelho",
+"magistuarmory.withsurcoat.green": "%1$s com Sobretudo Verde",
+"magistuarmory.withsurcoat.brown": "%1$s com Sobretudo Marrom",
+"magistuarmory.withsurcoat.blue": "%1$s com Sobretudo Azul",
+"magistuarmory.withsurcoat.purple": "%1$s com Sobretudo Roxo",
+"magistuarmory.withsurcoat.cyan": "%1$s com Sobretudo Ciano",
+"magistuarmory.withsurcoat.light_gray": "%1$s com Sobretudo Cinza Claro",
+"magistuarmory.withsurcoat.gray": "%1$s com Sobretudo Cinza",
+"magistuarmory.withsurcoat.pink": "%1$s com Sobretudo Rosa",
+"magistuarmory.withsurcoat.lime": "%1$s com Sobretudo Lima",
+"magistuarmory.withsurcoat.yellow": "%1$s com Sobretudo Amarelo",
+"magistuarmory.withsurcoat.light_blue": "%1$s com Sobretudo Azul Claro",
+"magistuarmory.withsurcoat.magenta": "%1$s com Sobretudo Magenta",
+"magistuarmory.withsurcoat.orange": "%1$s com Sobretudo Laranja",
+"magistuarmory.withsurcoat.white": "%1$s com Sobretudo Branco",
+"magistuarmory.withcaparison.black": "%1$s com Caparison Preto",
+"magistuarmory.withcaparison.red": "%1$s  com Caparison Vermelho",
+"magistuarmory.withcaparison.green": "%1$s com Caparison Verde",
+"magistuarmory.withcaparison.brown": "%1$s com Caparison Marrom",
+"magistuarmory.withcaparison.blue": "%1$s com Caparison Azul",
+"magistuarmory.withcaparison.purple": "%1$s com Caparison Roxo",
+"magistuarmory.withcaparison.cyan": "%1$s com Caparison Ciano",
+"magistuarmory.withcaparison.light_gray": "%1$s com Caparison Cinza Claro",
+"magistuarmory.withcaparison.gray": "%1$s com Caparison Cinza",
+"magistuarmory.withcaparison.pink": "%1$s com Caparison Rosa",
+"magistuarmory.withcaparison.lime": "%1$s com Caparison Lima",
+"magistuarmory.withcaparison.yellow": "%1$s com Caparison Amarelo",
+"magistuarmory.withcaparison.light_blue": "%1$s com Caparison Azul Claro",
+"magistuarmory.withcaparison.magenta": "%1$s com Caparison Magenta",
+"magistuarmory.withcaparison.orange": "%1$s com Caparison Laranja",
+"magistuarmory.withcaparison.white": "%1$s com Caparison Branco",
+
+
+
+"magistuarmory.decorated": "Decorated %1$s",
 
 
 
@@ -538,17 +579,21 @@
 
 
 
-"death.attack.additional": "%1$s foi morto por %2$s",
-"death.attack.additional.item": "%1$s foi morto por %2$s usando %3$s",
+"death.attack.additional": "%1$s foi morto",
+"death.attack.additional.item": "%1$s foi morto usando %2$s",
+"death.attack.additional.player": "%1$s foi morto",
 "death.attack.entity": "%1$s foi morto por %2$s",
 "death.attack.entity.item": "%1$s foi morto por %2$s usando %3$s",
+"death.attack.entity.player": "%1$s foi morto por %2$s",
 "death.attack.armorPiercing": "%1$s foi morto por %2$s",
 "death.attack.armorPiercing.item": "%1$s foi morto por %2$s usando %3$s",
+"death.attack.armorPiercing.player": "%1$s foi morto por %2$s",
 "death.attack.silver": "%1$s foi queimado com prata por %2$s",
-"death.attack.silver.player": "%1$s foi queimado com prata enquanto lutava contra %2$s",
 "death.attack.silver.item": "%1$s foi queimado com prata por %2$s usando %3$s",
+"death.attack.silver.player": "%1$s foi queimado com prata enquanto lutava contra %2$s",
 "death.attack.entityAdditional": "%1$s foi morto por %2$s",
 "death.attack.entityAdditional.item": "%1$s foi morto por %2$s usando %3$s",
+"death.attack.entityAdditional.player": "%1$s foi morto por %2$s",
 
 
 
