@@ -2,7 +2,7 @@
 
 CurseForge: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
-Versão do ModPack: 1.26
+Versão do ModPack: 1.27
 
 Se estiver interessado, Discord: [Link](https://discord.gg/55cev7Nngn "DawnCraft - Tradução pt_br")
 
@@ -19,3 +19,4 @@ Tutorial: [Link](https://discord.com/channels/1093965596384833657/11183094399891
 ### Incompleto:
 
  - modernfix
+ - magistuarmory (70% update v1.27)
