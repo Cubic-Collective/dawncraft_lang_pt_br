@@ -12,7 +12,7 @@
 			title: "Preparo de Poções"
 			x: 0.0d
 			y: 0.0d
-			description: ["Na maior parte, a fabricação de poções funciona da mesma forma que no Minecraft normal. No entanto, existem muitas mais poções disponíveis para serem criadas, as quais você pode ver através do JEI (Just Enough Items). Além disso, os jogadores podem fabricar amuletos de poções para receber efeitos de poções poderosos por uma duração maior do que o normal, e esses efeitos podem até mesmo ser tornados permanentes através da Infusão."]
+			description: ["Em geral, a fabricação de poções segue a mesma mecânica do Minecraft convencional. No entanto, agora há uma ampla variedade de poções disponíveis para serem criadas, as quais podem ser visualizadas pelo JEI (Just Enough Items). Além disso, os jogadores têm a possibilidade de confeccionar amuletos de poções, que conferem efeitos poderosos por um período mais longo do que o habitual, podendo até mesmo ser tornados permanentes por meio da Infusão."]
 			size: 2.0d
 			id: "4424AAAF4D8A945E"
 			tasks: [{
@@ -39,10 +39,10 @@
 			x: 2.0d
 			y: 0.0d
 			description: [
-				"Os jogadores podem combinar várias poções juntas com Pó de Blaze para criar amuletos de poções. Eles podem ser ativados ou desativados com um clique direito e fornecerão ao jogador o efeito da poção enquanto estiverem ativos, seja no inventário do jogador ou no slot de amuleto. Esses amuletos podem ser encantados com Inquebrável ou conserto para estender sua duração."
+				"Os jogadores podem combinar várias poções utilizando Pó de Blaze a fim de criar amuletos de poções. Esses amuletos podem ser ativados ou desativados com um clique direito, concedendo ao jogador o efeito da poção enquanto estiverem ativos, seja no inventário ou no slot reservado para os amuletos. Além disso, é possível encantar esses amuletos com Inquebrável ou Remendo para prolongar a sua duração."
 				""
 				"&b&lAmuletos Inquebráveis"
-				"Os amuletos podem ser infundidos através de uma mesa de encantamentos para convertê-los em sua versão inquebrável. Amuletos inquebráveis fornecerão seus efeitos permanentemente, mas ainda podem ser ativados e desativados. A infusão de um amuleto requer Eterna máxima, entre 8,5% e 13,5% de Quanta e entre 85% e 95% de Arcana. Consulte a guia de missões \"Encantamento\" para obter mais informações sobre as Infusões."
+				"Os amuletos podem ser infundidos utilizando uma mesa de encantamentos, tornando-os inquebráveis. Os amuletos inquebráveis concedem efeitos permanentes, mas ainda podem ser ativados e desativados. Para realizar a infusão de um amuleto, é necessário ter uma quantidade máxima de Eterna, entre 8,5% e 13,5% de Quanta e entre 85% e 95% de Arcana. Para obter mais detalhes sobre as Infusões, consulte a guia de missões Encantamento."
 			]
 			dependencies: ["4424AAAF4D8A945E"]
 			size: 1.5d
@@ -64,7 +64,7 @@
 			icon: "ars_nouveau:potion_jar"
 			x: 0.0d
 			y: -2.0d
-			description: [Os jogadores podem criar frascos de poção para armazenar grandes quantidades de um único tipo de poção, um misturador de poções para combinar os efeitos de várias poções e frascos de poção para armazenar mais doses de poção em uma única garrafa, além de aumentar a força ou estender a duração. Consulte a guia de missões \"Magia"\ para obter mais detalhes sobre esses dispositivos e itens."]
+			description: ["Os jogadores podem criar frascos de poção para armazenar grandes quantidades de uma única poção, bem como um misturador de poções para combinar os efeitos de diversas poções. Além disso, é possível usar frascos de poção para armazenar várias doses de poção em uma única garrafa, aumentando a sua potência ou prolongando a sua duração. Para mais informações sobre esses dispositivos e itens, consulte a guia de missões Magia."]
 			dependencies: ["4424AAAF4D8A945E"]
 			size: 1.5d
 			id: "5238E383D811ED28"
