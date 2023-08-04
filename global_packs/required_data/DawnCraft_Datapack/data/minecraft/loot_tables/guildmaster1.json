@@ -23,7 +23,7 @@
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A paradeiro do Ogro Corrompido - um dos Portadores dos Olhos."
+						"text": "O paradeiro do Ogro Corrompido - um dos Portadores dos Olhos."
 					}]
 				}
 			]
