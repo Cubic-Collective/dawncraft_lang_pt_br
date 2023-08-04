@@ -23,7 +23,7 @@
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "A paradeiro da Fortaleza em Ruínas - o esconderijo do Rei Goblin."
+						"text": "O paradeiro da Fortaleza em Ruínas - o esconderijo do Rei Goblin."
 					}]
 				}
 			]
