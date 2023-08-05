@@ -4,7 +4,7 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Então?"
+      "text": "E então?"
     },
     "description": {
       "text": "Você conseguiu os $(red)8 ossos$()?"
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Ótimo! Agora minhas plantações crescerão mais rápido que as dos outros agricultores! Haha! Bem, obrigado, caro senhor, aqui está uma esmeralda."
+      "text": "Ótimo! Agora minhas plantações crescerão mais rápido que as dos outros agricultores! Haha! Bem, obrigado, meu senhor. Aqui está uma esmeralda como agradecimento."
     }
   },
   "tasks": [
