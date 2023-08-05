@@ -4,7 +4,7 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Desbloquear a Vara de Pesca"
+      "text": "Desbloqueando a Vara de Pesca"
     },
     "description": {
       "text": "Pronto para aprender como pescar? Me traga 15 esmeraldas!"
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Não foi tão difícil, não é mesmo? Mas não se movimente muito, isso assusta o peixe."
+      "text": "Não foi tão difícil, não é mesmo? Mas cuidado para não balançar demais, isso assusta os peixes."
     }
   },
   "tasks": [
