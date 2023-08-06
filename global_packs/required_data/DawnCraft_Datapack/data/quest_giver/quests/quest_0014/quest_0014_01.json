@@ -7,7 +7,7 @@
 			"text": "Treinamento Básico"
 		},
 		"description": {
-			"text": "Volte depois de ter cumprido os requisitos - $(red)Mate 10 saqueadores$()."
+			"text": "Volte após cumprir os requisitos - $(red)Mate 10 saqueadores$()."
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "Treinamento Básico"
 		},
 		"description": {
-			"text": "Aqui, apenas abra o livro e aprenda a habilidade. Se você quiser obter mais livros de habilidades, eu sugeriria fazer um pouco do missões do guarda. Boa sorte em sua jornada."
+			"text": "Aqui, apenas abra o livro e aprenda a habilidade. Se você quiser obter mais livros de habilidades, eu sugeriria fazer algumas missões do guarda. Boa sorte em sua jornada."
 		}
 	},
 	"tasks": [{
