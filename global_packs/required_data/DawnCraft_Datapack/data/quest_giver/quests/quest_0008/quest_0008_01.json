@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Que? Ah, você esqueceu. Eu estava pedindo por $(red)4 Peles de Leão$()."
+      "text": "Que? Ah, você esqueceu. Eu estava pedindo $(red)4 Peles de Leão$()."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Obrigado. Aqui, muito prazer em fazer negócios com você."
+      "text": "Obrigado. Aqui, feliz em fazer negócios com você."
     }
   },
   "tasks": [
