@@ -8,6 +8,7 @@ def copy_files_and_folders(source_dir, destination_dir, items):
     for item in items:
         item_path = os.path.join(source_dir, item)
         destination_path = os.path.join(destination_dir, item)
+        print(item)
 
         if os.path.exists(destination_path):
             if os.path.isfile(destination_path):
