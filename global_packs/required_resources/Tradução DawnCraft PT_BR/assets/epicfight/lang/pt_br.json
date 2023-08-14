@@ -182,7 +182,7 @@
 	"skill.epicfight.berserker.tooltip" : "Você ganha 0.3%% de dano de ataque bônus e 0.5%% de velocidade de ataque bônus para cada 1%% da vida perdida. A velocidade de ataque não aumenta mais que 5.0",
 	"skill.epicfight.stamina_pillager" : "Saqueador de Estamina",
 	"skill.epicfight.stamina_pillager.tooltip" : "Depois de matar um inimigo, ganha 30%% da estamina perdida.",
-	"skill.epicfight.swordmaster" : "Mestre das Espadas",
+	"skill.epicfight.swordmaster" : "Mestre da Espada",
 	"skill.epicfight.swordmaster.tooltip" : "Você ganha 30%% de velocidade de ataque bônus quando usa %s.",
 	"skill.epicfight.technician" : "Técnico",
 	"skill.epicfight.technician.tooltip" : "Recupera a estamina usada quando se esquiva de acordo com o tempo de ataque do inimigo.",
