@@ -1,13 +1,13 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "__comment": "Criado com o gerador de conquistas de TheDestruc7i0n: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Be Gone Witch!",
+            "text": "Vá Embora, Bruxa!",
             "color": "dark_purple",
             "bold": true
         },
         "description": {
-            "text": "Defeated witch raid."
+            "text": "Derrote uma invasão de bruxas."
         },
         "icon": {
             "item": "minecraft:potion"

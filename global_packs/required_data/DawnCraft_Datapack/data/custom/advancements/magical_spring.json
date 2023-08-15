@@ -1,13 +1,13 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "__comment": "Criado com o gerador de conquistas de TheDestruc7i0n: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Magical Spring!",
+            "text": "Fonte Mágica!",
             "color": "yellow",
             "bold": true
         },
         "description": {
-            "text": "Found biome Haze Mountain."
+            "text": "Descobriu o bioma Montanha do Nevoeiro."
         },
         "icon": {
             "item": "minecraft:potion"

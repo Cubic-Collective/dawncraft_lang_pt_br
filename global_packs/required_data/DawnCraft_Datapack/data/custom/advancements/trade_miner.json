@@ -1,13 +1,13 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "__comment": "Criado com o gerador de conquistas de TheDestruc7i0n: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Miner Trade Scroll Obtained!",
+            "text": "Pergaminho de Troca de Minerador Obtido!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Miner."
+            "text": "Obtenha o Pergaminho de Troca para Minerador."
         },
         "icon": {
             "item": "minecraft:paper"

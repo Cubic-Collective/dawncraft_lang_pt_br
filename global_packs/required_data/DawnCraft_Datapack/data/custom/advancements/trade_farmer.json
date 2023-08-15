@@ -1,13 +1,13 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "__comment": "Criado com o gerador de conquistas de TheDestruc7i0n: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Farmer Trade Scroll Obtained!",
+            "text": "Pergaminho de Troca de Fazendeiro Obtido!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Farmer."
+            "text": "Obtenha o Pergaminho de Troca para Fazendeiro."
         },
         "icon": {
             "item": "minecraft:paper"

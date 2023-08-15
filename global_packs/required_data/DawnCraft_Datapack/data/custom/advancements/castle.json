@@ -1,13 +1,13 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "__comment": "Criado com o gerador de conquistas de TheDestruc7i0n: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "A Creative Castle!",
+            "text": "Um Castelo Criativo!",
             "color": "yellow",
             "bold": true
         },
         "description": {
-            "text": "Found a villager castle with Create Contraptions."
+            "text": "Encontrou um castelo de aldeões com engenhocas do Create."
         },
         "icon": {
             "item": "minecraft:poppy"

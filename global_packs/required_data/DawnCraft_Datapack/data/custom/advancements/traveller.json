@@ -1,13 +1,13 @@
 {
-    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "__comment": "Criado com o gerador de conquistas de TheDestruc7i0n: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "A World of Wonders!",
+            "text": "Um Mundo de Maravilhas!",
             "color": "dark_purple",
             "bold": true
         },
         "description": {
-            "text": "Found the three biomes: White Mesa, Ancient Sands & Volcanic Peaks."
+            "text": "Encontrou os três biomas: Terras Áridas Brancas, Areias Ancestrais & Picos Vulcânicos."
         },
         "icon": {
             "item": "minecraft:poppy"
