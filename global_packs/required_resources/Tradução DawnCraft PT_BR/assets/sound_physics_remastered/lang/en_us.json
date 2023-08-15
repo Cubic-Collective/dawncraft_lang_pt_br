@@ -3,11 +3,11 @@
 
   "cloth_config.sound_physics_remastered.category.general": "Geral",
   "cloth_config.sound_physics_remastered.category.performance": "Desempenho",
-  "cloth_config.sound_physics_remastered.category.reflectivity": "Refletividades do bloco",
+  "cloth_config.sound_physics_remastered.category.reflectivity": "Refletividades do Bloco",
   "cloth_config.sound_physics_remastered.category.occlusion": "Fatores de Oclusão do Bloco",
   "cloth_config.sound_physics_remastered.category.debug": "Depurar",
 
-  "cloth_config.sound_physics_remastered.enabled": "Ativar física do som",
+  "cloth_config.sound_physics_remastered.enabled": "Ativar Sound Physics",
   "cloth_config.sound_physics_remastered.enabled.description": "Habilita/Desabilita todos os efeitos sonoros.",
   "cloth_config.sound_physics_remastered.simple_voice_chat_integration": "Integração com Simple Voice Chat",
   "cloth_config.sound_physics_remastered.simple_voice_chat_integration.description": "Ativa/desativa os efeitos sonoros do áudio do Simple Voice Chat.",
