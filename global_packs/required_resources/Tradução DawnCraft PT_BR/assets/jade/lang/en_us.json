@@ -5,7 +5,7 @@
   "tooltip.waila.delay": "Atraso: %d",
   "tooltip.waila.mode": "Modo: %s",
   "tooltip.waila.mode_comparator": "Comparador",
-  "tooltip.waila.mode_subtractor": "Subtrutor",
+  "tooltip.waila.mode_subtractor": "Subtrator",
   "tooltip.waila.state": "Estado: %s",
   "tooltip.waila.state_on": "Ligado",
   "tooltip.waila.state_off": "Desligado",
