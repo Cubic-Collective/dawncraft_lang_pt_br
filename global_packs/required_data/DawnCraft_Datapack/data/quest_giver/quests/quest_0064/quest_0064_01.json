@@ -4,10 +4,10 @@
   "icon": "supplementaries:slingshot",
   "start": {
     "title": {
-      "text": "Criação de Estilingue"
+      "text": "Fabricação de Estilingue"
     },
     "description": {
-      "text": "Não conseguiu fabricar o $(red)Estilingue$() ainda, né? Não esquenta... Fazer um dos bons é bem difícil."
+      "text": "Ainda não conseguiu fazer o $(red)Estilingue$(), né? Não esquenta... Fazer um boa é estranhamente difícil."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Isso, está do jeito que eu esperava! Hm... Não parece ser tão impressionante. Parece que usa pedras como munição... Bom, pega pra você, eu não preciso tanto assim dele. Obrigado por me mostrar como é um estilingue!"
+      "text": "Sim, isso é exatamente como eu imaginei! Hm... Não parece tão impressionante. Parece que usa pedras como munição... Bem, aqui está, pega pra você, eu realmente não preciso disso. Obrigado por me mostrar!"
     }
   },
   "tasks": [

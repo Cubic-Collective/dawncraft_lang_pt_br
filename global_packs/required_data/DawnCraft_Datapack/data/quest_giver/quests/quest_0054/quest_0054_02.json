@@ -7,7 +7,7 @@
 			"text": "E então?"
 		},
 		"description": {
-			"text": "Por favor, me avise se você puder fazer $(red)2 pães$() para nós. Sem pressa!"
+			"text": "Por favor, me avise se você puder fazer $(red)2 pães$() para nós. Mas sem pressa!"
 		}
 	},
 	"complete": {

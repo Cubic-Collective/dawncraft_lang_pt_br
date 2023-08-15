@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Oi!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Oi jovem, que tal uma conversa?"
+      "text": "Ei, jovem, gostaria de uma conversa?"
     }
   }
 }

@@ -4,7 +4,7 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Criação de Flechas"
+      "text": "Fabricação de Flechas"
     },
     "description": {
       "text": "Você já conseguiu $(red)2 penas$()?"

@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Criação de Flechas"
+      "text": "Fabricação de Flechas"
     },
     "description": {
-      "text": "Estou precisando de algumas penas para fabricar flechas. Você poderia me conseguir $(red)2 penas$()? Como recompensa, posso te dar algumas flechas quando terminar."
+      "text": "Estou precisando de algumas penas para fazer flechas. Você poderia pegar $(red)2 penas$() para mim? Posso lhe dar algumas das flechas depois que eu terminar."
     }
   }
 }

@@ -7,7 +7,7 @@
       "text": "Carne Exótica"
     },
     "description": {
-      "text": "Você conseguiu a $(red)carne e a pele de canguru$()?"
+      "text": "Você conseguiu a $(red)carne e o couro de canguru$()?"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Mazel Tov!"
     },
     "description": {
-      "text": "Ahh... então é assim que é a carne de canguru. Realmente é uma peça de carne macia... A pele, por outro lado, não é tão boa quanto o couro normal que usamos. É um bom troféu, no entanto... Muito obrigado, aventureiro. Não tenho muito para lhe dar... Aqui, leve estas fatias de carne. A carcaça chegou hoje, por isso está fresca!"
+      "text": "Ahh... então é assim que é a carne de canguru. De fato, é uma carne macia... Mas o couro não é tão bom quanto o couro comum que usamos. Um bom troféu, no entanto... Muito obrigado, aventureiro. Não tenho muito para lhe dar... Aqui, leve estas fatias de carne. A carcaça chegou hoje, por isso está fresca!"
     }
   },
   "tasks": [

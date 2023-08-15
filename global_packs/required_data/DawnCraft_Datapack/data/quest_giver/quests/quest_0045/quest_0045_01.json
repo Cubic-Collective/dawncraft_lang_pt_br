@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Você conseguiu as $(red)5 Varas de Blaze$()? Não se preocupe, eu sei como pode ser difícil."
+      "text": "Você conseguiu as $(red)5 Varas de Blaze$()? Não se preocupe, sei o quanto pode ser difícil."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Muito bem feito. Esses materiais são difíceis de encontrar aqui na vila. Vou usá-los com cuidado. Obrigado."
+      "text": "Bom trabalho. Esses materiais são difíceis de encontrar aqui na vila. Vou usá-los com cuidado. Obrigado."
     }
   },
   "tasks": [
