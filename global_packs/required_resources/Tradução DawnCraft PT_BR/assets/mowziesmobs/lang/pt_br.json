@@ -262,7 +262,7 @@
   "advancements.mowziesmobs.kill_barakoana.title": "Por trás da máscara",
   "advancements.mowziesmobs.kill_barakoana.description": "Mate um Barakoana",
   "advancements.mowziesmobs.kill_frostmaw.title": "Frio de morrer",
-  "advancements.mowziesmobs.kill_frostmaw.description": "Mate uma mandíbula da geada",
+  "advancements.mowziesmobs.kill_frostmaw.description": "Mate um mandíbula da geada",
   "advancements.mowziesmobs.kill_naga.title": "Matador de passarinho",
   "advancements.mowziesmobs.kill_naga.description": "Mate uma naga",
   "advancements.mowziesmobs.kill_grottol.title": "Seu monstro...",
@@ -272,7 +272,7 @@
   "advancements.mowziesmobs.suns_blessing.title": "Tá quente, né?",
   "advancements.mowziesmobs.suns_blessing.description": "Receba a bênção do Sol",
   "advancements.mowziesmobs.steal_ice_crystal.title": "Coração gelado",
-  "advancements.mowziesmobs.steal_ice_crystal.description": "Roube um cristal de gelo de uma mandíbula da geada",
+  "advancements.mowziesmobs.steal_ice_crystal.description": "Roube um cristal de gelo de um mandíbula da geada",
   "advancements.mowziesmobs.kill_grottol_fortune.title": "É tudo ou nada",
   "advancements.mowziesmobs.kill_grottol_fortune.description": "Mate um grutáceo com uma picareta com fortuna",
   "advancements.mowziesmobs.kill_grottol_silk_touch.title": "Você vem comigo",
@@ -372,5 +372,5 @@
   "subtitles.mowziesmobs.petiole": "Pecíolo",
   "subtitles.mowziesmobs.barako_theme": "Tema de batalha do Barako",
   "subtitles.mowziesmobs.ferrous_wroughtnaut_theme": "Tema de batalha do cavaleiro de ferro forjado",
-  "subtitles.mowziesmobs.frostmaw_theme": "Tema de batalha da mandíbula da geada"
+  "subtitles.mowziesmobs.frostmaw_theme": "Tema de batalha do mandíbula da geada"
 }
