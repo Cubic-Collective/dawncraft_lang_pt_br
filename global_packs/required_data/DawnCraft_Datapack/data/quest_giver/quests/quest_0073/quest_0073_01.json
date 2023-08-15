@@ -7,7 +7,7 @@
 			"text": "Conhecimento em Marcenaria"
 		},
 		"description": {
-			"text": "Os 3 tipos de folhas para recuperar são: $(red)Folhas Crepusculares, Folhas de Bordo, Folhas Estreladas$().."
+			"text": "Os 3 tipos de folhas para recuperar são: $(red)Folhas Crepusculares, Folhas de Bordo, Folhas Estreladas$()."
 		}
 	},
 	"complete": {

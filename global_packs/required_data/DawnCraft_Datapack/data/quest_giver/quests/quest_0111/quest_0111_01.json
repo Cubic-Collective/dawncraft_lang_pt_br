@@ -7,7 +7,7 @@
       "text": "Olá novamente!"
     },
     "description": {
-      "text": "Traga-me um papel, eu vou te mostrar onde ele está."
+      "text": "Me traga um papel, eu vou te mostrar onde ele está."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Aqui."
     },
     "description": {
-      "text": "Aqui, toma, fica fácil identificar quando você vai chegando perto. Traga-me o que ele deixar cair e boa sorte!"
+      "text": "Aqui, é bem fácil de identificar assim que você se aproxima. Boa sorte e traga o que quer que ele solte."
     }
   },
   "tasks": [

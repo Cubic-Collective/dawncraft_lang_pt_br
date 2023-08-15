@@ -6,7 +6,7 @@
       "text": "Ei!"
     },
     "description": {
-      "text": "Se você se considera um aventureiro, deve ter uma bússola! Crie uma $(red)bússola$() e volte para mim."
+      "text": "Se você se autodenomina um aventureiro, você precisa ter uma bússola! Fabrique uma $(red)bússola$() e volte até mim."
     }
   }
 }

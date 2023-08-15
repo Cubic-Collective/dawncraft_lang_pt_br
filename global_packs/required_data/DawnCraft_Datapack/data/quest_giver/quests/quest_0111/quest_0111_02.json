@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Conseguiu matar o grandão? Se sim, traga-me o que ele deixou."
+      "text": "Conseguiu matar o habitante das cavernas? Se sim, me traga os itens que ele deixou cair."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Bom trabalho! Este é um de seus olhos, certo... Como agradecimento, vou te ensinar uma habilidade de combate - Guarda. É uma das habilidades mais importantes que todo aventureiro precisa ter."
+      "text": "Bom trabalho! Este é realmente um de seus olhos... Como agradecimento, vou te ensinar uma habilidade de combate - Guarda. É uma das habilidades mais importantes que todo aventureiro precisa ter."
     }
   },
   "tasks": [

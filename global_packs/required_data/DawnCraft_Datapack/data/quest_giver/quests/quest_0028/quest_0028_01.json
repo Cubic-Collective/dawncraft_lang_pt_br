@@ -7,15 +7,15 @@
       "text": "Montanha do Nevoeiro"
     },
     "description": {
-      "text": "Ei, você já encontrou o bioma mística $(red)Montanha do Nevoeiro$()?"
+      "text": "Ei, você já encontrou o bioma místico $(red)Montanha do Nevoeiro$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "É mesmo..."
+      "text": "Entendi..."
     },
     "description": {
-      "text": "É mesmo... Isso é bastante decepcionante, para ser sincero. Eu pensei que houvesse dragões morando na Montanha do Nevoeiro... Bem, pelo menos agora eu sei que é um mito. Obrigado."
+      "text": "Entendi... Isso é bem decepcionante, para ser sincero. Eu achava que haveria dragões vivendo na Montanha do Nevoeiro... Enfim, pelo menos agora eu sei que é um mito. Obrigado."
     }
   },
   "tasks": [

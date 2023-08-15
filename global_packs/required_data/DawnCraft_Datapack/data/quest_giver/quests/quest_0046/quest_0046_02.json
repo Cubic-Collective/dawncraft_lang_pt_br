@@ -7,7 +7,7 @@
 			"text": "Olá"
 		},
 		"description": {
-			"text": "Parece que você ainda não concluiu seu contrato, ou você esqueceu sua tarefa? Me traga $()5 dentes de orc$() como prova da sua missão de extermínio."
+			"text": "Parece que você ainda não concluiu o seu contrato., ou você esqueceu da sua tarefa? Traga para mim $(red)5 dentes de orcs$() como prova da sua tarefa de extermínio."
 		}
 	},
 	"complete": {

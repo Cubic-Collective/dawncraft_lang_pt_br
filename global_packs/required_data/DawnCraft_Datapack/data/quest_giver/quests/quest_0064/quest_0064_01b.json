@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Criação de Estilingue"
+      "text": "Fabricação de Estilingue"
     },
     "description": {
-      "text": "Isso mesmo - Estilingue! Tenho tentado fazer um que funcione, mas parece que me falta o conhecimento necessário para criar uma réplica utilizável. Por que não tenta fazer um?"
+      "text": "Isso mesmo - Estilingue! Tenho tentado fazer um que funcione, mas parece que eu não tenho a habilidade necessária para criar uma réplica utilizável. Você poderia tentar?"
     }
   }
 }

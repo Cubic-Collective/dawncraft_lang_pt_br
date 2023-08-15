@@ -7,7 +7,7 @@
       "text": "Olá"
     },
     "description": {
-      "text": "Ótimo, você poderia me conseguir $(red)2 cebolas$()?"
+      "text": "Ótimo, você poderia conseguir $(red)2 cebolas$() para mim?"
     }
   }
 }

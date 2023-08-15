@@ -6,7 +6,7 @@
       "text": "Olá!"
     },
     "description": {
-      "text": "Você parece ser um bom cozinheiro. Poderia cozinhar algo para mim? Existe um prato chamado $(red)Hambúrguer$(), você sabe como preparar esse prato?"
+      "text": "Você parece ser um bom cozinheiro. Você poderia cozinhar algo para mim? Existe um prato chamado $(red)Hambúrguer$(), você sabe como prepara-lo?"
     }
   }
 }

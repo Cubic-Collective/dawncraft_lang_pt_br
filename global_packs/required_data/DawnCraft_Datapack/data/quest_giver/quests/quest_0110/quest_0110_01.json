@@ -7,7 +7,7 @@
       "text": "Olá de novo!"
     },
     "description": {
-      "text": "Grande homem . Por favor, me dê um pedaço de papel para que eu possa te mostrar onde está a criatura."
+      "text": "Grande homem. Por favor, me dê um pedaço de papel para que eu possa te mostrar onde está a criatura."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Aqui está."
     },
     "description": {
-      "text": "Aqui, o clérigo é quem nos deu essa informação. Porém, não tenho certeza se é completamente correto. De qualquer forma, encontre esta criatura, mate-a, e traga para mim tudo que ela deixar."
+      "text": "Aqui, o clérigo é quem nos deu essa informação, embora eu não tenha certeza se é totalmente precisa. De qualquer forma, encontre essa criatura, mate-a e traga de volta o que quer que ela deixe cair."
     }
   },
   "tasks": [

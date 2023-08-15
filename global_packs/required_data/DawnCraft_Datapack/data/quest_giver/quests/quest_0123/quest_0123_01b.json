@@ -6,6 +6,6 @@
 		"title": {
 			"text": "Sculk"
 		},
-		"description": "Enquanto eu estava minerando, eu encontrei algo estranho nas profundezas das ardósias. Eram esporos infestados, sons agudos e vibrantes que cercavam a área. Ouvi de outros mineradores que essas infestações são chamadas de $(red)sculks$(), e que tive sorte de sair vivo... Só que, estou fascinado pelos sons estridentes e com as infestações. Você poderia conseguir um daqueles $(red)gritadores sculk$() das Profundezas Sombrias?"
+		"description": "Enquanto eu estava minerando, eu encontrei algo estranho nas profundezas das ardósias. Eram esporos infestados, sons agudos e vibrantes que cercavam a área. Ouvi de outros mineradores que essas infestações são chamadas de $(red)sculks$(), e que tive sorte de sair vivo... Só que, estou fascinado pelos sons estridentes e com as infestações. Você poderia conseguir um daqueles $(red)emissores de sculk$() das Profundezas Sombrias?"
 	}
 }
