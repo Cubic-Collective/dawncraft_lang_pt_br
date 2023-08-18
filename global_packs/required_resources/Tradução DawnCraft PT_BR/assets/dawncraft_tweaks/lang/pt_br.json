@@ -4,62 +4,62 @@
 	"itemGroup.dawncraft.DungeonItems": "Itens do DawnCraft",
 
 	"block.dawncraft.forest_brick": "Tijolo da Floresta",
-	"block.dawncraft.forest_brick_stairs": "Escada de Tijolo da Floresta",
+	"block.dawncraft.forest_brick_stairs": "Escadas de Tijolo da Floresta",
 	"block.dawncraft.forest_brick_slab": "Laje de Tijolo da Floresta",
 	"block.dawncraft.forest_brick_wall": "Muro de Tijolo da Floresta",
 	
 	"block.dawncraft.fire_brick": "Tijolo de Fogo",
-	"block.dawncraft.fire_brick_stairs": "Escada de Tijolo de Fogo",
+	"block.dawncraft.fire_brick_stairs": "Escadas de Tijolo de Fogo",
 	"block.dawncraft.fire_brick_slab": "Laje de Tijolo de Fogo",
 	"block.dawncraft.fire_brick_wall": "Muro de Tijolo de Fogo",
 	
 	"block.dawncraft.coral": "Coral",
-	"block.dawncraft.coral_stairs": "Escada de Coral",
+	"block.dawncraft.coral_stairs": "Escadas de Coral",
 	"block.dawncraft.coral_slab": "Laje de Coral",
 	"block.dawncraft.coral_wall": "Muro de Coral",
 	
 	"block.dawncraft.magma_slate": "Magma Compactado",
-	"block.dawncraft.magma_slate_stairs": "Escada de Magma Compactado",
+	"block.dawncraft.magma_slate_stairs": "Escadas de Magma Compactado",
 	"block.dawncraft.magma_slate_slab": "Laje de Magma Compactado",
 	"block.dawncraft.magma_slate_wall": "Muro de Magma Compactado",
 	
 	"block.dawncraft.moss_brick": "Tijolo de Musgo",
-	"block.dawncraft.moss_brick_stairs": "Escada de Tijolo de Musgo",
+	"block.dawncraft.moss_brick_stairs": "Escadas de Tijolo de Musgo",
 	"block.dawncraft.moss_brick_slab": "Laje de Tijolo de Musgo",
 	"block.dawncraft.moss_brick_wall": "Muro de Tijolo de Musgo",
 	
 	"block.dawncraft.mud_brick": "Tijolo de Barro",
-	"block.dawncraft.mud_brick_stairs": "Escada de Tijolo de Barro",
+	"block.dawncraft.mud_brick_stairs": "Escadas de Tijolo de Barro",
 	"block.dawncraft.mud_brick_slab": "Laje de Tijolo de Barro",
 	"block.dawncraft.mud_brick_wall": "Muro de Tijolo de Barro",
 	
 	"block.dawncraft.rock": "Rocha",
-	"block.dawncraft.rock_stairs": "Escada de Rocha",
+	"block.dawncraft.rock_stairs": "Escadas de Rocha",
 	"block.dawncraft.rock_slab": "Laje de Rocha",
 	"block.dawncraft.rock_wall": "Muro de Rocha",
 	
 	"block.dawncraft.sand_brick": "Tijolo de Areia",
-	"block.dawncraft.sand_brick_stairs": "Escada de Tijolo de Areia",
+	"block.dawncraft.sand_brick_stairs": "Escadas de Tijolo de Areia",
 	"block.dawncraft.sand_brick_slab": "Laje de Tijolo de Areia",
 	"block.dawncraft.sand_brick_wall": "Muro de Tijolo de Areia",
 	
 	"block.dawncraft.sand_slate": "Areia Compactada",
-	"block.dawncraft.sand_slate_stairs": "Escada de Areia Compactada",
+	"block.dawncraft.sand_slate_stairs": "Escadas de Areia Compactada",
 	"block.dawncraft.sand_slate_slab": "Laje de Areia Compactada",
 	"block.dawncraft.sand_slate_wall": "Muro de Areia Compactada",
 	
 	"block.dawncraft.shadow_brick": "Tijolo Sombrio",
-	"block.dawncraft.shadow_brick_stairs": "Escada de Tijolo Sombrio",
+	"block.dawncraft.shadow_brick_stairs": "Escadas de Tijolo Sombrio",
 	"block.dawncraft.shadow_brick_slab": "Laje de Tijolo Sombrio",
 	"block.dawncraft.shadow_brick_wall": "Muro de Tijolo Sombrio",
 	
 	"block.dawncraft.water_brick": "Tijolo Aquático",
-	"block.dawncraft.water_brick_stairs": "Escada de Tijolo Aquático",
+	"block.dawncraft.water_brick_stairs": "Escadas de Tijolo Aquático",
 	"block.dawncraft.water_brick_slab": "Laje de Tijolo Aquático",
 	"block.dawncraft.water_brick_wall": "Muro de Tijolo Aquático",
 	
 	"block.dawncraft.moss_slate": "Musgo Compactado",
-	"block.dawncraft.moss_slate_stairs": "Escada de Musgo Compactado",
+	"block.dawncraft.moss_slate_stairs": "Escadas de Musgo Compactado",
 	"block.dawncraft.moss_slate_slab": "Laje de Musgo Compactado",
 	"block.dawncraft.moss_slate_wall": "Muro de Musgo Compactado",
 	
@@ -99,7 +99,7 @@
 	"map.dawncraft.cultist": "Mapa Suspeito",
 	"map.dawncraft.cultist.lore": "Um mapa dado por um aventureiro caído para localizar uma igreja.",
 	"map.dawncraft.cultist_2": "Mapa do Cultista",
-	"map.dawncraft.cultist_2.lore": "O paradeiro do padre Gascoigne.",
+	"map.dawncraft.cultist_2.lore": "O paradeiro do Padre Gascoigne.",
 	
 	"entity.dawncraft.fallen": "Aventureiro Caído",
 	
