@@ -20,7 +20,7 @@
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "Um mapa marcando a vila mais próxima de você... Fico me perguntando por que está aqui."
+						"text": "Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui."
 					}]
 				}
 			]
