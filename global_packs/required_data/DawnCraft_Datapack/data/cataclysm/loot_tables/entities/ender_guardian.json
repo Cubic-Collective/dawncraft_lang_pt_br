@@ -23,7 +23,7 @@
 					},
 					{
 						"function": "minecraft:set_name",
-						"name": "O Portal do Verdadeiro Fim"
+						"name": "O Portal do Verdadeiro End"
 					},
 					{
 						"function": "minecraft:set_lore",
