@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "A Saucerful of Secrets",
+            "text": "Um Prato Cheio de Segredos",
             "color": "dark_purple"
         },
         "description": {
-            "text": "Find a Giant Mushroom"
+            "text": "Encontre um Cogumelo Gigante"
         },
         "icon": {
             "item": "minecraft:red_mushroom_block"

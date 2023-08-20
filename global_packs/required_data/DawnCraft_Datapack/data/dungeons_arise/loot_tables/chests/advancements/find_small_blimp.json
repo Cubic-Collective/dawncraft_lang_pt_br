@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Sky High",
+            "text": "Alto no Céu",
             "color": "red"
         },
         "description": {
-            "text": "Find a Small Blimp"
+            "text": "Encontre um Dirigível Pequeno"
         },
         "icon": {
             "item": "minecraft:comparator"

@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Fishing In The Dark",
+            "text": "Pescando na Escuridão",
             "color": "dark_blue"
         },
         "description": {
-            "text": "Find a Fishing Hut"
+            "text": "Encontre uma Cabana de Pesca"
         },
         "icon": {
             "item": "minecraft:fishing_rod"

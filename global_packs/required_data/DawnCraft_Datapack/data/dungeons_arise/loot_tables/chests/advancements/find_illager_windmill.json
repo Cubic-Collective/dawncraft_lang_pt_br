@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "All Along The Watchtower",
+            "text": "Por Toda a Torre de Vigia",
             "color": "dark_purple"
         },
         "description": {
-            "text": "Find an Illager Windmill"
+            "text": "Encontre um Moinho de Vento Illager"
         },
         "icon": {
             "item": "minecraft:iron_hoe"

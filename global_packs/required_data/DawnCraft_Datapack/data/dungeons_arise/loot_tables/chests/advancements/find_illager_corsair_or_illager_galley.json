@@ -4,11 +4,11 @@
       "item": "minecraft:tropical_fish"
     },
     "title": {
-      "text": "You Are A Pirate",
+      "text": "Você é um Pirata",
       "color": "dark_aqua"
     },
     "description": {
-      "text": "Find an Illager Corsair or an Illager Galley"
+      "text": "Encontre um Corsário Illager ou uma Galé Illager"
     },
     "frame": "task",
     "show_toast": true,

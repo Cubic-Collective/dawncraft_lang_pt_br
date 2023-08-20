@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Enter Sandman",
+            "text": "Entre no Sonho",
             "color": "gold"
         },
         "description": {
-            "text": "Find the Shiraz Palace"
+            "text": "Encontre o Palácio de Shiraz"
         },
         "icon": {
             "item": "minecraft:totem_of_undying"

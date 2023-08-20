@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "The Lighthouse",
+            "text": "O Farol",
             "color": "yellow"
         },
         "description": {
-            "text": "Arrive at a Lighthouse"
+            "text": "Chegue a um Farol"
         },
         "icon": {
             "item": "minecraft:redstone_lamp"

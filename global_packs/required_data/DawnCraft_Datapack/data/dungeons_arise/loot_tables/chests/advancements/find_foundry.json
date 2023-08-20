@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Iron Maiden",
+            "text": "Dama de Ferro",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find a Foundry "
+            "text": "Encontre uma Fundição "
         },
         "icon": {
             "item": "minecraft:netherite_ingot"

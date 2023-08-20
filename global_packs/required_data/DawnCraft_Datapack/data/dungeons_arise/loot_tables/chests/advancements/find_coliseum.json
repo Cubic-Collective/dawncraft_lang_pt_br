@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Remember Me For Centuries",
+            "text": "Lembra de Mim por Séculos",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find a Coliseum"
+            "text": "Encontre um Coliseu"
         },
         "icon": {
             "item": "minecraft:shield"

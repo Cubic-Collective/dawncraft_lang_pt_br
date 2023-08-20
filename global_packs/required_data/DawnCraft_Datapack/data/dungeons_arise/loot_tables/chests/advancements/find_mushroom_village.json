@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Sweet Dreams",
+            "text": "Doces Sonhos",
             "color": "green"
         },
         "description": {
-            "text": "Find a Mushroom Village"
+            "text": "Encontre uma Vila de Cogumelos"
         },
         "icon": {
             "item": "minecraft:crimson_fence"

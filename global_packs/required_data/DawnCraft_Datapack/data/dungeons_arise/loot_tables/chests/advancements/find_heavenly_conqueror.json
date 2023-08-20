@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Ghost Riders In The Sky",
+            "text": "Fantasmas Cavalgando no Céu",
             "color": "red"
         },
         "description": {
-            "text": "Find a Heavenly Conqueror"
+            "text": "Encontre um Conquistador Celestial"
         },
         "icon": {
             "item": "minecraft:golden_chestplate"

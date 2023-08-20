@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "People Are Strange",
+            "text": "As Pessoas São Estranhas",
             "color": "dark_purple"
         },
         "description": {
-            "text": "Find an Illager Campsite"
+            "text": "Encontre um Acampamento de Illagers"
         },
         "icon": {
             "item": "minecraft:crossbow"

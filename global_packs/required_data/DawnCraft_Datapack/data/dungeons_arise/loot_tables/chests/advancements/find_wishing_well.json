@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Jump",
+            "text": "Pule",
             "color": "dark_aqua"
         },
         "description": {
-            "text": "Find a Wishing Well "
+            "text": "Encontre um Poço dos Desejos"
         },
         "icon": {
             "item": "minecraft:melon_slice"

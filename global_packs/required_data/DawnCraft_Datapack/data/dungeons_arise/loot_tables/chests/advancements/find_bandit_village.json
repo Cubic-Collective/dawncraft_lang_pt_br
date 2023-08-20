@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Rusted Root",
+            "text": "Raiz Enferrujada",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find a Bandit Village"
+            "text": "Encontre uma Vila de Bandidos"
         },
         "icon": {
             "item": "minecraft:dead_bush"

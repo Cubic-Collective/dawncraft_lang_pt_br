@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "We All Lift Together",
+            "text": "Todos Nós Levantamos Juntos",
             "color": "dark_blue"
         },
         "description": {
-            "text": "Find a Mushroom Mine"
+            "text": "Encontre uma Mina de Cogumelos"
         },
         "icon": {
             "item": "minecraft:iron_pickaxe"

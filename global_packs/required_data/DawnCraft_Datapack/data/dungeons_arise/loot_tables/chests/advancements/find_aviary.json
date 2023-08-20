@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Three Little Birds",
+            "text": "Três Passarinhos",
             "color": "gold"
         },
         "description": {
-            "text": "Find an Aviary"
+            "text": "Encontre um Aviário"
         },
         "icon": {
             "item": "minecraft:phantom_membrane"

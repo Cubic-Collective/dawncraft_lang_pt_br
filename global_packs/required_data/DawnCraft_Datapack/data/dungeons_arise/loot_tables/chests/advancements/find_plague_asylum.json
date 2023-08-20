@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Renai Circulation",
+            "text": "Circulação Renai",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find a Plague Asylum"
+            "text": "Encontre um Asilo da Praga"
         },
         "icon": {
             "item": "minecraft:splash_potion"

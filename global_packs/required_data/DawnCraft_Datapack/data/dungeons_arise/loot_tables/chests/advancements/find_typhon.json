@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Jaws",
+            "text": "Tubarão",
             "color": "dark_aqua"
         },
         "description": {
-            "text": "Find a Typhon"
+            "text": "Encontre um Tifão"
         },
         "icon": {
             "item": "minecraft:fire_coral"
