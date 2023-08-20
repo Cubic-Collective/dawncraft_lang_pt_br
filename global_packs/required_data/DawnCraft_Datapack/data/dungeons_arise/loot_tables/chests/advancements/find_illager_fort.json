@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Wild Tales",
+            "text": "Contos Selvagens",
             "color": "dark_purple"
         },
         "description": {
-            "text": "Find an Illager Fort"
+            "text": "Encontre um Forte de Illagers"
         },
         "icon": {
             "item": "minecraft:snowball"

@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Super Creeps",
+            "text": "Super Roedores",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find an Infested Temple"
+            "text": "Encontre um Templo Infestado"
         },
         "icon": {
             "item": "minecraft:infested_stone_bricks"

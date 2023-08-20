@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Over The Garden Wall",
+            "text": "Sobre o Muro do Jardim",
             "color": "dark_green"
         },
         "description": {
-            "text": "Find a Mushroom House"
+            "text": "Encontre uma Casa de Cogumelo"
         },
         "icon": {
             "item": "minecraft:warped_fungus"

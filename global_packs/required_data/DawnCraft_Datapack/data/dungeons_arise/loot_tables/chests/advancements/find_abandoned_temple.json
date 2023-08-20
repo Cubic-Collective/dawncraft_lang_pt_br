@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Lost for Words",
+            "text": "Sem Palavras",
             "color": "aqua"
         },
         "description": {
-            "text": "Find an Abandoned Temple"
+            "text": "Encontre um Templo Abandonado"
         },
         "icon": {
             "item": "minecraft:cracked_stone_bricks"

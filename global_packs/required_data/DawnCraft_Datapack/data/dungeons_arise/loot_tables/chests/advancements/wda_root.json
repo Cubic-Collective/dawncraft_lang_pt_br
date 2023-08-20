@@ -1,7 +1,7 @@
 {
     "display": {
         "title": {
-            "text": "When Dungeons Arise",
+            "text": "Quando Surgem Masmorras",
             "color": "gold",
             "bold": false,
             "italic": false,
@@ -10,7 +10,7 @@
             "obfuscated": false
         },
         "description": {
-            "text": "Dungeons arise on a brave new world",
+            "text": "Masmorras surgem em um admirável mundo novo",
             "color": "white"
         },
         "icon": {

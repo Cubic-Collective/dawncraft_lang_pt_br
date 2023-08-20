@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "A Quiet Place",
+            "text": "Um Lugar Silencioso",
             "color": "blue"
         },
         "description": {
-            "text": "Find a Monastery"
+            "text": "Encontre um Monastério"
         },
         "icon": {
             "item": "minecraft:feather"

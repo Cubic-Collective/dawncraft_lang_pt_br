@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Who Killed This Thing?",
+            "text": "Quem Matou Esta Criatura?",
             "color": "white"
         },
         "description": {
-            "text": "Find a Ceryneian Hind"
+            "text": "Encontre uma Cerva Cerínea"
         },
         "icon": {
             "item": "minecraft:bone"

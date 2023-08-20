@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Ride Of The Valkyries",
+            "text": "Cavalgada das Valquírias",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find a Heavenly Rider"
+            "text": "Encontre um Viajante Celestial"
         },
         "icon": {
             "item": "minecraft:saddle"

@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "The Imperial March",
+            "text": "Marcha Imperial",
             "color": "gold"
         },
         "description": {
-            "text": "Find a Heavenly Challenger"
+            "text": "Encontre um Desafiante Celestial"
         },
         "icon": {
             "item": "minecraft:netherite_chestplate"

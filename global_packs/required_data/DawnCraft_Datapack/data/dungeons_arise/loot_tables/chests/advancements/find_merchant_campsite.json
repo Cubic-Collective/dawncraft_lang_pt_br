@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Let's Groove",
+            "text": "Vamos Curtir",
             "color": "dark_green"
         },
         "description": {
-            "text": "Find a Merchant Campsite"
+            "text": "Encontre um Acampamento de Comerciantes"
         },
         "icon": {
             "item": "minecraft:emerald"

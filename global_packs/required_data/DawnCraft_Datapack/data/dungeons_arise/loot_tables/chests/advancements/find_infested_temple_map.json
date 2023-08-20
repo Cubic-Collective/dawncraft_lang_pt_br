@@ -3,8 +3,8 @@
     "icon": {
       "item": "minecraft:filled_map"
     },
-    "title": "On The Road",
-    "description": "Discover an Infested Temple explorer map",
+    "title": "Pé na Estrada",
+    "description": "Descubra um Mapa de Exploração de um Templo Infestado",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": false,
