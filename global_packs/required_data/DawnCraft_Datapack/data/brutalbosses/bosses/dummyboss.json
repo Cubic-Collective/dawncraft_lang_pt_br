@@ -1,6 +1,6 @@
 {
   "entity": "minecraft:zombie",
-  "name": "Dummy the useless, used for adding fail chances to a loottables spawn list.",
+  "name": "Manequim, o Inútil, usado para adicionar chances de falha a uma lista de geração de saques.",
   "spawnatchest": {
     "minecraft:chests/simple_dungeon": 20,
     "minecraft:chests/shipwreck_supply": 1,
