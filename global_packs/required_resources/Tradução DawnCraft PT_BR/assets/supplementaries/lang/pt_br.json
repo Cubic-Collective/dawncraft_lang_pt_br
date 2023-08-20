@@ -186,7 +186,7 @@
   "message.supplementaries.jar": "Pode armazenar tigelas, garrafas, baldes e biscoitos, bem como pequenos mobs",
   "block.supplementaries.statue": "Estátua",
   "filled_map.adventure": "Mapa do Aventureiro",
-  "filled_map.structure": "Mapa de Exploração de(o) %s",
+  "filled_map.structure": "Mapa de Exploração de %s",
   "filled_map.jungle_temple": "Mapa de Exploração de Selva",
   "filled_map.village": "Mapa do Desbravador de Vila",
   "filled_map.desert_pyramid": "Mapa de Exploração de Deserto",
