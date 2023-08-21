@@ -8,7 +8,7 @@ Se estiver interessado, Discord: [Link](https://discord.gg/55cev7Nngn "DawnCraft
 
 ### Progresso
 
- - FTBQuests: 4/12
+ - FTBQuests: 5/12
  - Missões: 118/118
  - Mods: 130/187
 
