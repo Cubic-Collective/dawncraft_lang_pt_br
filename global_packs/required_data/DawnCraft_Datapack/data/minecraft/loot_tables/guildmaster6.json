@@ -23,7 +23,7 @@
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "O paradeiro do Gigante de Fogo - o último dos Portadores dos Olhos."
+						"text": "O paradeiro do Gigante de Fogo - o último Portador dos Olhos."
 					}]
 				}
 			]
