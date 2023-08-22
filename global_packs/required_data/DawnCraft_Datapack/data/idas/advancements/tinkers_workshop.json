@@ -5,10 +5,10 @@
       "item": "create:brass_ingot"
     },
     "title": {
-      "translate": "Tinker's Workshop"
+      "translate": "Oficina do Artesão"
     },
     "description": {
-      "translate": "Become the latest test subject of the Tinker..."
+      "translate": "Torne-se a mais recente cobaia ao teste do Artesão..."
     },
     "show_toast": true,
     "announce_to_chat": true,

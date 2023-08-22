@@ -5,10 +5,10 @@
       "item": "minecraft:wooden_sword"
     },
     "title": {
-      "translate": "The Redhorn Guild"
+      "translate": "Guilda do Chifre Vermelho"
     },
     "description": {
-      "translate": "A Refuge and Training Grounds"
+      "translate": "Um Refúgio e Campo de Treinamento"
     },
     "show_toast": true,
     "announce_to_chat": true,

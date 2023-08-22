@@ -5,10 +5,10 @@
       "item": "create:rose_quartz"
     },
     "title": {
-      "translate": "Wizard Tower"
+      "translate": "Torre do Mago"
     },
     "description": {
-      "translate": "A Mage's Spire"
+      "translate": "Pináculo de um Mago"
     },
     "show_toast": true,
     "announce_to_chat": true,

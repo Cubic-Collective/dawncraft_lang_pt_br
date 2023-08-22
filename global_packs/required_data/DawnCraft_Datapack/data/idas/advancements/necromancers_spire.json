@@ -5,10 +5,10 @@
       "item": "minecraft:skeleton_skull"
     },
     "title": {
-      "translate": "The Necromancer's Spire"
+      "translate": "Torre do Necromante"
     },
     "description": {
-      "translate": "A Chilling Evil Lurks Within..."
+      "translate": "Uma Malícia Gélida o Espreita de Dentro..."
     },
     "show_toast": true,
     "announce_to_chat": true,

@@ -5,10 +5,10 @@
       "item": "minecraft:nether_wart"
     },
     "title": {
-      "translate": "A Witch's Stump"
+      "translate": "Toco da Bruxa"
     },
     "description": {
-      "translate": "A place of dark magic in the woods"
+      "translate": "Um lugar de magia negra na floresta"
     },
     "show_toast": true,
     "announce_to_chat": true,

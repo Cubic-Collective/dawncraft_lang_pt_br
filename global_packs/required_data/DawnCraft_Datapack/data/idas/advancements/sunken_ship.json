@@ -5,10 +5,10 @@
       "item": "alexsmobs:skelewag_sword"
     },
     "title": {
-      "translate": "A Sunken Ship"
+      "translate": "Um Navio Afundado"
     },
     "description": {
-      "translate": "A Captain Always Goes Down With Their Ship..."
+      "translate": "Um Capitão Sempre Afunda com Seu Navio..."
     },
     "show_toast": true,
     "announce_to_chat": true,

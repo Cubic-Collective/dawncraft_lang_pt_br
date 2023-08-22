@@ -5,10 +5,10 @@
       "item": "minecraft:lapis_lazuli"
     },
     "title": {
-      "translate": "Enchanting Tower"
+      "translate": "Torre de Encantamento"
     },
     "description": {
-      "translate": "A Cleric's Tower"
+      "translate": "A Torre do Clérigo"
     },
     "show_toast": true,
     "announce_to_chat": true,

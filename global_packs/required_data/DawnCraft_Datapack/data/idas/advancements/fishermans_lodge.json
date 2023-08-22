@@ -5,10 +5,10 @@
       "item": "minecraft:cod"
     },
     "title": {
-      "translate": "Fisherman's Lodge"
+      "translate": "Abrigo do Pescador"
     },
     "description": {
-      "translate": "The Fisherman of the Lake"
+      "translate": "O Pescador do Lago"
     },
     "show_toast": true,
     "announce_to_chat": true,
