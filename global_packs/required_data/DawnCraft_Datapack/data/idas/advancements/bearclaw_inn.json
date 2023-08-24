@@ -5,10 +5,10 @@
       "item": "alexsmobs:bear_fur"
     },
     "title": {
-      "translate": "The Bearclaw Inn"
+      "translate": "Pousada Garra de Urso"
     },
     "description": {
-      "translate": "An Inn for a Weary Traveler"
+      "translate": "Uma Pousada para um Viajante Cansado"
     },
     "show_toast": true,
     "announce_to_chat": true,

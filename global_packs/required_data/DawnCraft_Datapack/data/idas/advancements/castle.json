@@ -5,10 +5,10 @@
       "item": "minecraft:lodestone"
     },
     "title": {
-      "translate": "Castle"
+      "translate": "Castelo"
     },
     "description": {
-      "translate": "Fortress of the Villagers"
+      "translate": "Fortaleza dos Aldeões"
     },
     "show_toast": true,
     "announce_to_chat": true,

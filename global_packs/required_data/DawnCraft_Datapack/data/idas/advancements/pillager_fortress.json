@@ -5,10 +5,10 @@
       "item": "minecraft:totem_of_undying"
     },
     "title": {
-      "translate": "Pillager Fortress"
+      "translate": "Fortaleza dos Saqueadores"
     },
     "description": {
-      "translate": "Pillage the Illage Away"
+      "translate": "Saqueie a vila por Completo"
     },
     "show_toast": true,
     "announce_to_chat": true,
