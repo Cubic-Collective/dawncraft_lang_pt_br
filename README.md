@@ -14,6 +14,7 @@ Se você tem um conhecimento básico em inglês e deseja ajudar na tradução, s
 
 ### Para Jogadores: Instalação da Tradução
 
+Download: [Link](https://github.com/GMalvestiti/dawncraft_lang_pt_br/archive/refs/heads/main.zip)
 Tutorial: [Link](https://discord.com/channels/1093965596384833657/1118309439989104721 "Tutorial")
 
 ### Incompleto:
