@@ -4,7 +4,7 @@ CurseForge: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft "Daw
 
 Versão do ModPack: 1.28_f2
 
-Se você tem um conhecimento básico em inglês e deseja ajudar na tradução, sinta-se à vontade para participar do nosso discord para mais informações: [Link](https://discord.gg/QQxckfPWvz "DawnCraft - Tradução pt_br")
+Se você possui um conhecimento básico de inglês e deseja contribuir com a tradução, convidamos você a se juntar ao nosso [Discord](https://discord.gg/QQxckfPWvz "DawnCraft - Tradução pt_br") para obter mais informações.
 
 ### Progresso
 
