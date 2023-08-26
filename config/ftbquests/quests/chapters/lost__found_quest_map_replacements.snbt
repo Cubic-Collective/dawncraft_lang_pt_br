@@ -43,7 +43,7 @@
 				{
 					id: "7C99E794683023D1"
 					type: "gamestage"
-					title: "Mapa adquirido!"
+					title: "Mapa Adquirido!"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster2"
 				}
@@ -51,7 +51,7 @@
 			rewards: [{
 				id: "751657E6C6CE4190"
 				type: "command"
-				title: "Obter mapa"
+				title: "Obter Mapa"
 				icon: "simple_mobs:rolled_map_1"
 				auto: "enabled"
 				command: "/loot give @p loot minecraft:guildmaster0"
