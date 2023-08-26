@@ -1,8 +1,8 @@
 {
     "comment_id": "/Adventure Module",
 
-    "info.apotheosis.affix_item": "Item de afixo apótico",
-    "item.modifiers.both_hands": "Quando em qualquer mão:",
+    "info.apotheosis.affix_item": "Item de Afixo Apoteótico",
+    "item.modifiers.both_hands": "Quando em Qualquer Mão:",
 	
 	"death.attack.apotheosis.execute": "%s foi executado por %s",
 	"death.attack.apotheosis.execute.item": "%s foi executado por %s usando %s",
