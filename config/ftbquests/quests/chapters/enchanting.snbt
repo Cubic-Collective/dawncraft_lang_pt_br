@@ -9,22 +9,22 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Enchanting in DawnCraft"
+			title: "Encantamento em DawnCraft"
 			x: 0.0d
 			y: 0.0d
 			description: [
-				"Enchanting in DawnCraft works very differently from vanilla minecraft. For starters, you will need enchanting knowledge lv2. This is obtained from the Guild Master's main quest line (specifically, the quest to defeat the Nine Tails boss). "
+				"O sistema de Encantamento em Dawn- Craft difere bastante do Minecraft convencional. Para começar, você pre- cisará do conhecimento de encanta- mento nível 2. Isso é obtido por meio da linha principal de missões do Mestre da Guilda (mais precisamente, na missão para derrotar o chefe Nove Caudas)."
 				""
-				"There are 3 new values which effect the quality of your enchantments - Eterna, Quanta and Arcana. The number of enchantment clues can also be affected. See below for descriptions of each."
+				"Existem 3 novos valores que afetam a qualidade dos seus encantamentos - Eterna, Quanta e Arcana. O número de pistas de encantamento também pode ser afetado. Veja abaixo as descri- ções de cada um."
 				""
 				"&b&lEterna"
-				"Represents how strong your enchantment is, increasing the level cost. Only blocks surrounding the enchanting table one-block away and two-blocks high will affect enchantment values. Enchantment levels can reach up to 100 (rather than the vanilla 30), allowing for rarer and higher-level enchantments than usual."
+				"Representa o quão forte é o seu en- cantamento, aumentando o custo de nível. Somente os blocos ao redor da mesa de encantamento, a uma distância de um bloco e com altura de dois blo- cos, afetarão os valores de encanta- mento. Os níveis de encantamento po- dem chegar até 100 (ao contrário dos 30 padrão), permitindo encantamentos mais raros e de níveis mais altos do que o usual."
 				""
 				"&b&lQuanta"
-				"Affects the potential power and variance of the enchantmenr. High quanta can lead to large boosts in enchantment quality, however you also risk getting lower level enchantments or even curses if you are unlucky. \"Rectification\" can be added via certain blocks to reduce the potential negative effects of quanta, making it a purely beneficial stat. An amount of quanta is always good to have, even without rectification."
+				"Afeta o potencial de poder e variação do encantamento. Um valor alto de quanta pode resultar em melhorias significativas na qualidade do encanta- mento. No entanto, também há o risco de obter encantamentos de nível infe- rior ou até mesmo maldições se você tiver azar. A \"Retificação\" pode ser adicionada por meio de certos blocos para reduzir os efeitos negativos potenciais de quanta, tornando-o uma característica exclusivamente vanta- josa. Ter um certo nível de quanta é sempre recomendável, mesmo sem a retificação."
 				""
 				"&b&lArcana"
-				"Increases the number of enchantments and makes rare enchantments more common."
+				"Aumenta o número de encantamentos e torna os encantamentos raros mais comuns."
 			]
 			size: 2.0d
 			id: "72D5F73986EBD718"
@@ -56,7 +56,7 @@
 		{
 			x: 1.5d
 			y: -1.0d
-			description: ["Your most basic enchanting item. Can provide a max of 15 Eterna, allowing for enchantments up to lv30. Provides no Quanta or Arcana benefits. Fewer than the vanilla number are required before the maximum is reached, so can be mixed with other items to gain more Quanta and Arcana until higher level bookshelves are available."]
+			description: ["Seu item de encantamento mais básico. Pode fornecer um máximo de 15 Eterna, permitindo encantamentos até o nível 30. Não oferece benefícios de Quanta ou Arcana. Menos itens do que o núme- ro padrão são necessários antes de atingir o máximo, então podem ser com- binados com outros itens para obter mais Quanta e Arcana até que estantes de livros de nível mais alto estejam disponíveis."]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "4E7331F85C954C6F"
@@ -74,7 +74,7 @@
 		{
 			x: 2.0d
 			y: -2.0d
-			description: ["Can be placed surrounding the enchanting table one-block away and up to two-blocks high to add a small amount of Arcana. There is no limit beyond how many you can fit. Placing multiple on the same block provides no additional benefit."]
+			description: ["Pode ser colocado ao redor da mesa de encantamento a um bloco de distân- cia e até dois blocos de altura para adicionar uma pequena quantidade de Arcana. Não há limite além da quantida- de que você pode colocar. Colocar vários no mesmo bloco não oferece benefício adicional."]
 			dependencies: ["4E7331F85C954C6F"]
 			id: "6ADFD817111E5435"
 			tasks: [{
@@ -91,7 +91,7 @@
 		{
 			x: 1.0d
 			y: -2.0d
-			description: ["Can be placed one-block away from the enchanting table, up to two-blocks high to add a small amount of Quanta. Good for mixing with bookshelves and candles early game to gain a better mix of enchanting potential."]
+			description: ["Pode ser colocado a um bloco de dis- tância da mesa de encantamentos, com altura de até dois blocos, para adicio- nar uma pequena quantidade de Quan- ta. É bom para misturar com estantes de livros e velas no início do jogo para obter uma melhor combinação de potencial de encantamento."]
 			dependencies: ["4E7331F85C954C6F"]
 			id: "51262C602F3BEF9E"
 			tasks: [{
@@ -108,7 +108,7 @@
 		{
 			x: 1.0d
 			y: -3.0d
-			description: ["Provides a larger amount of Quanta than skulls, but can be difficult to acquire."]
+			description: ["Fornece uma quantidade maior de Quanta do que crânios de esqueletos normais, mas pode ser difícil de adquirir."]
 			dependencies: ["51262C602F3BEF9E"]
 			id: "033C72478F243B7F"
 			tasks: [{
@@ -126,8 +126,8 @@
 			x: 2.0d
 			y: 0.5d
 			description: [
-				"An upgraded bookshelf which add increased Eterna and some Quanta. Increases maximum Eterna."
-				"Can be mixed with Seashelves for more balanced enchanting."
+				"Uma estante de livros aprimorada que adiciona mais Eterna e um pouco de Quanta. Aumenta o máximo Eterna.\\n"
+				"Pode ser combinada com Estantes do Mar para um encantamento mais equi- librado."
 			]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
@@ -147,9 +147,9 @@
 			x: 1.0d
 			y: 1.5d
 			description: [
-				"An upgraded bookshelf which provides Greater Eterna and some Arcana."
-				"Increases max Eterna."
-				"Can be mixed with Hellshelves for more balanced enchanting."
+				"Uma estante de livros aprimorada que oferece Eterna Maior e um pouco de Arcana.\\n"
+				"Aumenta a Eterna máxima.\\n"
+				"Pode ser combinado com Estantes Infernais para um encantamento mais equilibrado."
 			]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
@@ -168,7 +168,7 @@
 		{
 			x: 2.5d
 			y: 2.0d
-			description: ["The highest tier of bookshelf. Adds a higher, balanced spread of stats."]
+			description: ["O nível mais alto de estante de livros. Adiciona uma distribuição de estatísti- cas mais alta e equilibrada."]
 			dependencies: [
 				"580AF20D915596F0"
 				"3E869581140512FE"
@@ -189,7 +189,7 @@
 		{
 			x: -1.5d
 			y: 3.0d
-			description: ["Reveals more enchantment results in the enchanting table."]
+			description: ["Revela mais resultados de encanta- mento na mesa de encantamento."]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "269C3BC39A0E74FD"
@@ -207,7 +207,7 @@
 		{
 			x: -0.5d
 			y: -3.0d
-			description: ["An unusual shelf, decreases Eterna but adds maximum chaos."]
+			description: ["Uma estante incomum, diminui Eterna mas aumenta o caos máximo."]
 			dependencies: ["72D5F73986EBD718"]
 			id: "7D66E73514323E51"
 			tasks: [{
@@ -224,7 +224,7 @@
 		{
 			x: -1.5d
 			y: -2.5d
-			description: ["An unusual booskelf. Decreases Eterna slightly, but makes enchanting less random."]
+			description: ["Uma estante de livros incomum. Diminui ligeiramente a Eterna, mas torna o encantamento menos aleatório."]
 			dependencies: ["72D5F73986EBD718"]
 			id: "60852BB9DAB419FA"
 			tasks: [{
@@ -239,11 +239,11 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: 1.5d
+			x: -3.2500000000000004d
+			y: 1.3d
 			description: [
-				"Can store a large number of enchanted books in one location. Combines enchanted books automatically, and enchanted books can be withdrawn at any available strength easily. A must-have for enchanters with storage problems."
-				"Can save you a significant amount of exp when combining enchantments."
+				"Pode armazenar uma grande quanti- dade de livros encantados em um único local. Combina automaticamente livros encantados e esses livros podem ser retirados em qualquer nível de força facilmente. Um item indispensável para encantadores com problemas de armazenamento.\\n"
+				"Pode economizar uma quantidade signi- ficativa de experiência ao combinar encantamentos."
 			]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.3d
@@ -262,7 +262,7 @@
 		{
 			x: -2.5d
 			y: 4.0d
-			description: ["Reveals even more enchanting clues."]
+			description: ["Revela ainda mais pistas de encanta- mento."]
 			dependencies: ["269C3BC39A0E74FD"]
 			id: "05D97F244E928ACE"
 			tasks: [{
@@ -279,7 +279,7 @@
 		{
 			x: -5.0d
 			y: 1.5d
-			description: ["The ultimate enchantment storage and combination solution."]
+			description: ["A solução definitiva para armazena- mento e combinação de encantamentos."]
 			dependencies: ["39A6BA59CA48DA92"]
 			id: "13D8F6001BE3FC5C"
 			tasks: [{
@@ -296,7 +296,7 @@
 		{
 			x: 1.0d
 			y: 3.0d
-			description: ["An infused version of a Seashelf. To infuse a shelf, place it in an ehcnating table while you meet the required levels and enchanting stats. To see the requirements, click on the item image here, or search in JEI."]
+			description: ["Uma versão infundida de uma Estante do Mar. Para fazer a infusão de uma estante, coloque-a em uma mesa de encantamentos quando atingir os níveis e estatísticas de encantamento neces- sários. Para ver os requisitos, clique na imagem do item aqui ou procure no JEI."]
 			dependencies: ["580AF20D915596F0"]
 			id: "3571E087401DC67E"
 			tasks: [{
@@ -313,7 +313,7 @@
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["An infused version of the Hellshelf. To infuse, place the shelf in the enchanting table while you meet the required levels and enchanting stats (seen by clicking the infused hellshelf here, or in JEI). "]
+			description: ["Uma versão infundida da Estante In- fernal. Para realizar a infusão, colo- que a estante na mesa de encantamen- tos quando você atingir os níveis e estatísticas de encantamento neces- sários (vistos ao clicar na estante infernal infundida aqui ou no JEI)."]
 			dependencies: ["3E869581140512FE"]
 			id: "10DBEF685353A185"
 			tasks: [{
@@ -337,7 +337,7 @@
 		{
 			x: 5.0d
 			y: 0.0d
-			description: ["More chaotic, higher potential."]
+			description: ["Mais caótica, potencial mais elevado."]
 			dependencies: ["10DBEF685353A185"]
 			id: "220063A9A8F1D260"
 			tasks: [{
@@ -354,7 +354,7 @@
 		{
 			x: 4.5d
 			y: -1.0d
-			description: ["An upgraded Infused Hellshelf. provides increased stats."]
+			description: ["Uma Estante Infernal Infundida aprimo- rada. Fornece estatísticas aumentadas."]
 			dependencies: ["10DBEF685353A185"]
 			id: "328702B1D4999C5F"
 			tasks: [{
@@ -371,7 +371,7 @@
 		{
 			x: 0.0d
 			y: 4.0d
-			description: ["An upgraded version of the Infused Seashelf. Provides higher stats."]
+			description: ["Uma versão aprimorada da Estante do Mar Infundida. Fornece estatísticas mais elevadas."]
 			dependencies: ["3571E087401DC67E"]
 			id: "624FD51FE060AADC"
 			tasks: [{
@@ -388,7 +388,7 @@
 		{
 			x: 1.0d
 			y: 4.5d
-			description: ["More chaotic, higher potential."]
+			description: ["Mais caótico, com maior potencial."]
 			dependencies: ["3571E087401DC67E"]
 			id: "12344C141B7E1FEB"
 			tasks: [{
@@ -405,7 +405,7 @@
 		{
 			x: 3.0d
 			y: 3.5d
-			description: ["Adds a significant amount of Eterna, but no other stats. Good for mixing with other bookshelves to reach max Eterna quickly."]
+			description: ["Adiciona uma quantidade significativa de Eterna, mas não possui outras estatís- ticas. Útil para combinar com outras estantes de livros para atingir rapida- mente o máximo de Eterna."]
 			dependencies: ["33DCA1E150BE1ADB"]
 			id: "08D4C071292F7B94"
 			tasks: [{
@@ -422,7 +422,7 @@
 		{
 			x: 4.0d
 			y: 2.5d
-			description: ["Improved Endshelf with better stats"]
+			description: ["Estante do End Melhorada com estatís- ticas melhores."]
 			dependencies: ["33DCA1E150BE1ADB"]
 			id: "583AA3AED6ADAD73"
 			tasks: [{
@@ -439,7 +439,7 @@
 		{
 			x: -2.5d
 			y: 0.0d
-			description: ["Adds Rectification to your enchanting setup. Rectification decreases the potential for quanta to curse items or offer lower-level enchantments. Max Rectification turns Quanta into a purely beneficial stat. Rectification level can be see when hovering over an enchantment in the enchanting GUI."]
+			description: ["Adiciona Retificação à sua configura- ção de encantamentos. A Retificação reduz a probabilidade de quanta amal- diçoarem itens ou oferecerem encan- tamentos de níveis mais baixos. O máxi- mo de Retificação transforma Quanta em uma estatística puramente benéfica. O nível de Retificação pode ser visto ao passar o cursor sobre um encan- tamento na interface de encantamento."]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "6BD42073B410FD59"
@@ -457,7 +457,7 @@
 		{
 			x: -4.0d
 			y: 0.0d
-			description: ["Further improves Rectification"]
+			description: ["Melhora ainda mais a Retificação."]
 			dependencies: ["6BD42073B410FD59"]
 			id: "637B8123F0E769C6"
 			tasks: [{
@@ -474,7 +474,7 @@
 		{
 			x: -5.0d
 			y: 0.0d
-			description: ["Provides a high level of Rectification"]
+			description: ["Fornece um alto nível de Retificação."]
 			dependencies: ["637B8123F0E769C6"]
 			id: "73D14FE0FE249386"
 			tasks: [{
@@ -489,17 +489,17 @@
 			}]
 		}
 		{
-			title: "Tomes"
+			title: "Tomos"
 			icon: "apotheosis:pickaxe_tome"
 			x: -2.5d
 			y: -1.5d
-			description: ["Various tomes can be crafted, such as \"Tome of Miners\", \"Tome of Helmets\", and so-on. Search these in JEI to see all available tomes and recipes. These can be enchanted similarly to books, but will only recieve enchantments available to the appropriate tome (eg. a Tome of Helmets will only recieve viable helmet enchantments)."]
+			description: ["É possível criar vários tomos, como o \"Tomo dos Mineradores\", \"Tomo de Ca- pacetes\" e outros. Pesquise por eles no JEI para ver todos os tomos dispo- níveis e suas receitas. Eles podem ser encantados de forma semelhante aos livros, porém receberão apenas os encantamentos adequados ao tipo de tomo (por exemplo, um Tomo de Capace- tes receberá apenas encantamentos viáveis para capacetes)."]
 			dependencies: ["72D5F73986EBD718"]
 			id: "78123CEA9B11D861"
 			tasks: [{
 				id: "689ACCA742B5217A"
 				type: "checkmark"
-				title: "Read"
+				title: "Lido"
 			}]
 			rewards: [{
 				id: "5326DC92B5A8D359"
@@ -511,7 +511,7 @@
 		{
 			x: -3.5d
 			y: -2.0d
-			description: ["Can consume an item to transfer some enchantments to itself. Used in an anvil. Can be a good way of moving enchantments from one item to another, but you never know exactly what you will get..."]
+			description: ["Pode consumir um item para transferir alguns encantamentos para si mesmo. Utilizado em uma bigorna. Pode ser uma boa maneira de transferir encanta- mentos de um item para outro, mas você nunca sabe exatamente o que obterá..."]
 			dependencies: ["78123CEA9B11D861"]
 			id: "7FDA72264E869611"
 			tasks: [{
@@ -528,7 +528,7 @@
 		{
 			x: -1.5d
 			y: 1.5d
-			description: ["Can remove curses from an item. Used in an anvil with a cursed item. Consumes levels on use."]
+			description: ["Pode remover maldições de um item. Utilizado em uma bigorna com um item amaldiçoado. Consome níveis ao ser usado."]
 			dependencies: ["72D5F73986EBD718"]
 			id: "47450E3E6F80ED9F"
 			tasks: [{
