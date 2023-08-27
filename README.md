@@ -11,7 +11,7 @@ Se você possui um conhecimento básico de inglês e deseja contribuir com a tra
  - FTBQuests: 6/12
  - Missões: 118/118
  - Mods: 131/187
-twatw
+
 ### Para Jogadores: Instalação da Tradução
 
 Download: [Link](https://github.com/GMalvestiti/dawncraft_lang_pt_br/archive/refs/heads/main.zip)<br>
