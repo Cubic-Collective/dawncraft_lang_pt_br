@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 7
 	filename: "reforging_and_socketing"
-	title: "Reforging and Socketing"
+	title: "Reforjamento e Encaixe"
 	icon: "apotheosis:gem"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
