@@ -8,7 +8,7 @@ Se você possui um conhecimento básico de inglês e deseja contribuir com a tra
 
 ### Progresso
 
- - FTBQuests: 6/12
+ - FTBQuests: 7/12
  - Missões: 118/118
  - Mods: 131/187
 
