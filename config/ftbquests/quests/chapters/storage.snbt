@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 2
 	filename: "storage"
-	title: "Storage"
+	title: "Armazenamento"
 	icon: "minecraft:chest"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -11,7 +11,7 @@
 		{
 			x: 0.0d
 			y: 0.0d
-			description: ["Basic chests will only get you so far in this modpack, as there are thousands of unique items, and you will quickly find yourself drowning in a sea of chests to sort. Luckily, there are mods included in this modpack which make sorting your treasures (and junk) much easier."]
+			description: ["Baús simples o levarão apenas até certo ponto neste modpack, pois há milhares de itens únicos, e você rapi- damente se encontrará afogado em um mar de baús para organizar. Felizmen- te, há mods incluídos neste modpack que tornam a organização de seus tesouros (e itens indesejados) muito mais fácil."]
 			size: 2.0d
 			id: "4D1B105EE54EDEAF"
 			tasks: [{
@@ -26,10 +26,10 @@
 			}]
 		}
 		{
-			title: "Storage Drawers"
+			title: "Gavetas de Armazenamento"
 			x: 2.25d
 			y: 0.0d
-			description: ["Storage Drawers are the perfect solution for when you need to store A LOT of one type of item. Great for things you will have a ton of and want easy access to (or discard of). These can be crafted in variants with additional drawers to store a few different stacks in one block, and can be upgraded to hold more stacks worth of items."]
+			description: ["As Gavetas de Armazenamento são a solução perfeita quando você precisa armazenar UMA GRANDE QUANTIDADE de um tipo de item. Ótimas para coisas das quais você terá uma quantidade enor- me e deseja acesso fácil (ou descar- tar). Elas podem ser fabricadas em variantes com gavetas adicionais para armazenar alguns stacks diferentes em um único bloco, e podem ser atuali- zadas para armazenar mais stacks de itens."]
 			dependencies: ["4D1B105EE54EDEAF"]
 			size: 1.5d
 			id: "15C8700EFE52353A"
@@ -45,18 +45,18 @@
 			}]
 		}
 		{
-			title: "Cloud Storage"
+			title: "Armazenamento em Nuvem"
 			icon: "cloudstorage:cloud_chest"
 			x: 0.0d
 			y: -2.0d
-			description: ["Cloud Storage can take some time to acquire the required materials, however it offers a very flexible storage system. Want one large storage network? Several smaller ones? Several large, seperate networks? Cloud storage can do it all - just be sure you aren't afraid of heights!"]
+			description: ["O Armazenamento em Nuvem pode levar algum tempo para adquirir os materiais necessários, no entanto, ele oferece um sistema de armazenamento muito flexível. Quer uma grande rede de armazenamento? Várias redes meno- res? Várias redes grandes separa- das? O armazenamento em nuvem pode fazer tudo isso - apenas certifique- se de que não tem medo de alturas!"]
 			dependencies: ["4D1B105EE54EDEAF"]
 			size: 1.5d
 			id: "6578C82B120DE0EA"
 			tasks: [{
 				id: "7F2BD0E1BBFBF5C1"
 				type: "checkmark"
-				title: "Read"
+				title: "Lido"
 			}]
 			rewards: [{
 				id: "6529B7B6EEBBFEB9"
@@ -67,7 +67,7 @@
 		{
 			x: 0.0d
 			y: -3.5d
-			description: ["To get started with cloud storage, you will need balloon pieces to craft a balloon, and cloud blocks. Baloon mobs spawn above Y=196, as do cloud mobs, so you better find some mountains! It is not a bad idea to build a platform in the air to fight them more easily, and a bow certainly helps. Baloons drop pieces which can be crafted with string to make a balloon, and cloud mobs drop cloud blocks, which can be used to craft cloud chests. "]
+			description: ["Para começar com o armazenamento em nuvem, você precisará de pedaços de balão para criar um balão, e blocos de nuvem. Os mobs de balão surgem acima da camada 196, assim como os mobs de nuvem, então é melhor você encontrar algumas montanhas! Não é uma má ideia construir uma plataforma no ar para enfrentá-los mais facilmente, e um ar- co certamente ajuda. Os balões soltam pedaços que podem ser combinados com cordas para criar um balão, e os mobs de nuvem soltam blocos de nuvem, que podem ser usados para criar baús de nuvem."]
 			dependencies: ["6578C82B120DE0EA"]
 			id: "34A5470646A4CE63"
 			tasks: [{
@@ -84,7 +84,7 @@
 		{
 			x: 0.0d
 			y: -5.0d
-			description: ["The last step to set up your cloud storage is to place a cloud chest anywhere directly beneath a sky block (not indoors!). Right-click it with a balloon, and its inventory will sync-up with all cloud chests of the same balloon color. Additional chests of the same balloon color will all connect to the same storage network."]
+			description: ["O último passo para configurar o seu armazenamento em nuvem é colocar um baú de nuvem em qualquer lugar com o céu exposto (não em ambientes fecha- dos!). Clique com o botão direito nele usando um balão, e o seu inventário sincronizará com todos os baús de nuvem da mesma cor de balão. Baús adicionais da mesma cor de balão esta- rão todos conectados à mesma rede de armazenamento."]
 			dependencies: ["34A5470646A4CE63"]
 			id: "5209737ECC6EC599"
 			tasks: [{
@@ -102,7 +102,7 @@
 		{
 			x: 0.0d
 			y: -6.5d
-			description: ["Static Balloons and Static Chests can be used to create a cloud inventory that can be accessed by all players. This is great for groups looking to share inventories. Static cloud blocks can be obtained by fighting cloud mobs during thunder storms. Place a static cloud block and right-click it with a balloon to charge the balloon. Craft the static cloud chest from static cloud blocks."]
+			description: ["Balões Estáticos e Baús Estáticos po- dem ser usados para criar um inven- tário em nuvem que pode ser acessado por todos os jogadores. Isso é ótimo para grupos que desejam compartilhar inventários. Blocos de nuvem estáticos podem ser obtidos ao enfrentar mobs de nuvem durante tempestades com raios. Coloque um bloco de nuvem es- tática e clique com o botão direito nele segurando um balão para carregar o balão. Crie o baú de nuvem estática a partir de blocos de nuvem estática."]
 			dependencies: ["5209737ECC6EC599"]
 			id: "34ABF0F5257443E6"
 			tasks: [
@@ -244,7 +244,7 @@
 		{
 			x: -1.7999999999999998d
 			y: 0.0d
-			description: ["Press B to open (by default). Can be equipped to your backpack equipment slot in the Curios menu."]
+			description: ["Pressione B para abrir (por padrão). Pode ser equipado no slot de equipa- mento da mochila no menu do mod Curi- os (no canto superior esquerdo, ao lado da sua skin, no inventário)."]
 			dependencies: ["4D1B105EE54EDEAF"]
 			size: 1.2d
 			id: "31FF51CECF71BD12"
