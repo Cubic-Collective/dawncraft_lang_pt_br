@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 6
 	filename: "enchanting"
-	title: "Enchanting"
+	title: "Encantamento"
 	icon: "apotheosis:blazing_hellshelf"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
