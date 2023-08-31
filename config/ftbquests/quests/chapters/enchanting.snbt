@@ -239,8 +239,8 @@
 			}]
 		}
 		{
-			x: -3.2500000000000004d
-			y: 1.3d
+			x: -3.5d
+			y: 1.5d
 			description: [
 				"Pode armazenar uma grande quanti- dade de livros encantados em um único local. Combina automaticamente livros encantados e esses livros podem ser retirados em qualquer nível de força facilmente. Um item indispensável para encantadores com problemas de armazenamento.\\n"
 				"Pode economizar uma quantidade signi- ficativa de experiência ao combinar encantamentos."
