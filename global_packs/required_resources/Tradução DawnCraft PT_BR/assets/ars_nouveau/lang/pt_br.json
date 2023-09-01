@@ -915,7 +915,7 @@
     "ars_nouveau.page3.wixie_charm": "O Wixie selecionará automaticamente a receita de criação com base nos inventários próximos, você não precisa especificar os materiais exatos para a receita. Por exemplo, se você quiser criar Gravetos, o Wixie misturará e combinara tábuas próximos de um baú para cumprir a receita. Cada criação requer uma pequena quantidade de mana e será drenada automaticamente dos Jarros de Mana próximos. Um sinal de redstone no caldeirão irá parar a criação.",
     "ars_nouveau.item_crafting": "Criação de Itens",
     "ars_nouveau.potion_crafting": "Criação de Poções",
-    "ars_nouveau.page.summon_focus": "Um foco de conjuração especial. Concede a invocações de feitiços duração adicional, força, velocidade, e causa dano aos inimigos que as eliminam. Além disso, conjurar feitiços que tenham você como alvo, como Próprio e Órbita, irá conjurar uma cópia do feitiço em suas invocações próximas.",
+    "ars_nouveau.page.summon_focus": "Um foco de conjuração especial. Concede às invocações mágicas duração, força e velocidade adicionais e causa dano a inimigos que as matam. Além disso, conjurar magias que tenham você como alvo, como Próprio e Órbita, irá conjurar uma cópia da magia em suas invocações próximas.",
     "ars_nouveau.page1.potion_flask": "Um frasco que armazena 8 cargas de uma poção. Para encher o frasco, use o frasco em um Jarro de Poção ou crie o frasco em uma Bancada de Trabalho com outra poção. Você pode esvaziar o frasco usando o frasco em um Jarro de Poção enquanto estiver agachado.",
     "ars_nouveau.page2.potion_flask": "Um frasco encantado que estende o tempo dos efeitos em 50%.",
     "ars_nouveau.page3.potion_flask": "Um frasco encantado que aumenta o poder dos efeitos em 1, mas reduz seu tempo pela metade.",
