@@ -1,7 +1,7 @@
 {
 	id: "3EE7B887A0FC6FCD"
 	group: ""
-	order_index: 1
+	order_index: 2
 	filename: "dawncraft"
 	title: "Getting Started"
 	icon: "minecraft:writable_book"
@@ -1463,7 +1463,7 @@
 			description: [
 				"When first starting out, you will be outnumbered and underpowered. It's okay - that's the way it is supposed to be. You will no-doubt have to scavenge for your early-game gear, and will probably meet your death in the process. Be patient, explore, mine, craft, and follow the below steps to get your character on-track to best the most intimidating bosses."
 				""
-				"Upon death, you will keep most of your items. However, you will drop some items (such as ores ,some materials, or currency), and these will be stored in a player corpse, which will despawn after 7 minutes. Death will also damage your tools and equipment, as well as give you a debuff which will increase equipment damage and exp loss further for a period of time. Dying repeatedly in a short time can severely damage your equipment and cause increased exp loss."
+				"Upon death, you will keep most of your items. However, you will drop some items (such as ores ,some materials, or currency), and these will be stored in a player corpse, which will despawn after 7 minutes. Death will also destroy some of your experience levels, as well as give you a debuff which will increase exp loss further for a period of time."
 			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
@@ -1575,7 +1575,7 @@
 				}
 			}
 			x: 5.5d
-			y: -5.0d
+			y: -6.5d
 			description: ["This modpack's combat system is based around the Epic Fight Mod. Press \"R\" (configurable) to activate combat mode, which will allow you to use skills and do special attacks! However, in some cases you might still want to use vanilla attacks, such as when you're being grabbed by the Arachnarch from the EverDawn Dimension. Do note that vanilla attacks deal half as much damage as you would in combat mode, simply because you're not committing to your attacks."]
 			dependencies: ["60154554DCD1D411"]
 			id: "601DF1F35CF01A0A"
@@ -1656,6 +1656,30 @@
 				type: "xp"
 				auto: "enabled"
 				xp: 1
+			}]
+		}
+		{
+			title: "Tip for Fighting"
+			icon: "habitat:fairy_spore_lantern"
+			x: 5.0d
+			y: -4.5d
+			description: [
+				"1) You can cancel your forward movement while attacking by holding \"S\"."
+				""
+				"2) You have the weakness effect when your stamina bar is drained. Use your stamina sparingly."
+				"\\n3) Jump attacks do more damage to your enemies."
+			]
+			dependencies: ["601DF1F35CF01A0A"]
+			id: "0AB45BDD23F2E85A"
+			tasks: [{
+				id: "14B632E87C7DA8DA"
+				type: "checkmark"
+				title: "Read"
+			}]
+			rewards: [{
+				id: "3F0FE4919A0EC5D6"
+				type: "xp"
+				xp: 3
 			}]
 		}
 	]

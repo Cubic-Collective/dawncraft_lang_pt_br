@@ -1,7 +1,7 @@
 {
 	id: "548E6559E6915C5F"
 	group: ""
-	order_index: 9
+	order_index: 10
 	filename: "lost__found_quest_map_replacements"
 	title: "Lost and Found (Quest Map Replacements)"
 	icon: "minecraft:filled_map"
@@ -1335,7 +1335,7 @@
 			y: -3.5d
 			subtitle: "Replacing lost quest maps"
 			description: [
-				"&l&aWelcome to the Lost and Found!"
+				"&l&aWelcome to the Lost and Found!\\n"
 				"Here, you will find replacements for all of DawnCraft's quest maps. Sometimes you might misplace a map, drop one somewhere. Normally, this would prevent you from progressing in your questline - but fear not!"
 				""
 				"Using this quest page, you can replace any quest map in the game. Simply click the check mark in any of these quests, and you will be given the map for the respective quest (repeatable, in case you are really bad at keeping track of things)."

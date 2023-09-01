@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chainmail_boots"
+    },
+    "title": "Continous death",
+    "description": "",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "dawncraft:fractured_soul": {
+            "amplifier": 4
+          }
+        }
+      }
+    }
+  }
+}
