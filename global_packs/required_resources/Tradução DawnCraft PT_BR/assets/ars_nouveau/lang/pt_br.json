@@ -167,7 +167,7 @@
     "ars_nouveau.off": "Ativo: Não",
     "item.ars_nouveau.void_jar": "Jarro do Vazio",
     "ars_nouveau.rune.setperm": "Esta runa agora é permanente.",
-    "ars_nouveau.page.void_jar": "Um jarro que pode destruir itens ao serem coletados e conceder uma pequena quantidade de mana em troca. Para ligar e desligar o jarro, use-o enquanto estiver agachado. Para adicionar ou remover um item a ser destruído pelo jarro, use-a com um item na mão esquerda ou use um item na Mesa de Escriba com o jarro colocada nela. O jarro deve estar em sua barra de atalhos para funcionar.",
+    "ars_nouveau.page.void_jar": "Um jarro que pode destruir itens ao serem coletados e concede uma pequena quantidade de mana em troca. Para ligar e desligar o jarro, use-o enquanto estiver agachado. Para adicionar ou remover um item a ser destruído pelo jarro, use-a com um item na mão esquerda ou use um item na Mesa de Escriba com o jarro colocado nela. O jarro deve estar em sua barra de atalhos para funcionar.",
     "ars_nouveau.page.runic_chalk": "O Giz Rúnico pode ser usado para colocar runas permanentes no chão que conjurarão feitiços em entidades que as atravessarem. Para dar a uma runa um feitiço, inscreva um pergaminho de feitiço usando a mesa de escriba. Depois que a runa conjurar o feitiço, ela ficará descarregada. Uma runa descarregada se recarregará automaticamente a partir de jarros de mana próximos. Usar Giz Rúnico em uma runa temporária a converterá em permanente.",
     "ars_nouveau.wand.invalid": "Feitiço inválido. Varinhas aceitam apenas Efeitos e Aprimoramentos.",
     "item.ars_nouveau.wand": "Varinha de Conjuração",
