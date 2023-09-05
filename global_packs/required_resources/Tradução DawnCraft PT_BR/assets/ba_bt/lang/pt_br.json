@@ -1,0 +1,215 @@
+{
+	"itemGroup.ba_bt": "BrassAmber Battletowers",
+	"block.ba_bt.tab_icon": "BrassAmber Battletowers",
+
+	// Entities
+	"entity.ba_bt.land_golem": "Bahryn'muul, o Observador Entombado",
+	"entity.ba_bt.ocean_golem": "Moraizu'un, o Ídolo dos Afogados",
+	"entity.ba_bt.core_golem": "Obthu'ryn, o Deus do Núcleo",
+	"entity.ba_bt.nether_golem": "Infuur'niir, o Rei Blaze Tirano",
+	"entity.ba_bt.end_golem": "Shul'losniir, o Guardião Deformado",
+	"entity.ba_bt.sky_golem": "Veyhz'kriin, a Deusa do Céu",
+
+	"entity.ba_bt.sky_minion": "Minion do Céu",
+	"entity.ba_bt.platinum_skeleton": "Cavaleiro de Platina",
+	"entity.ba_bt.bt_cultist": "Cultista",
+
+	"entity.ba_bt.land_monolith": "Monólito da Terra",
+	"entity.ba_bt.ocean_monolith": "Monólito do Oceano",
+	"entity.ba_bt.core_monolith": "Monólito do Núcleo",
+	"entity.ba_bt.nether_monolith": "Monólito do Nether",
+	"entity.ba_bt.end_monolith": "Monólito do End",
+	"entity.ba_bt.sky_monolith": "Monólito do Céu",
+
+	"entity.ba_bt.land_obelisk": "Obelisco da Terra",
+	"entity.ba_bt.ocean_obelisk": "Obelisco do Oceano",
+	"entity.ba_bt.core_obelisk": "Obelisco do Núcleo",
+	"entity.ba_bt.nether_obelisk": "Obelisco do Nether",
+	"entity.ba_bt.end_obelisk": "Obelisco do do End",
+	"entity.ba_bt.sky_obelisk": "Obelisco do Céu",
+
+	"entity.ba_bt.destroy_tower": "Destruir Torre",
+
+	// Golem Sounds
+	"ba_bt.subtitle.golem.hurt": "Golem ferido",
+	"ba_bt.subtitle.golem.death": "Golem morre",
+	"ba_bt.subtitle.golem.charge": "Golem carregando",
+	"ba_bt.subtitle.golem.awaken": "Golem desperta",
+	"ba_bt.subtitle.golem.ambient": "Golem ruge",
+	"ba_bt.subtitle.golem.special": "Golem ataca",
+
+	"ba_bt.subtitle.golem.land.fight": "Ira de Bahryn'muul",
+	"ba_bt.subtitle.golem.ocean.fight": "Vazio de Moraizu'un",
+	"ba_bt.subtitle.golem.core.fight": "Despertar de Obthu'ryn",
+	"ba_bt.subtitle.golem.nether.fight": "Trono de Infuur'niir",
+	"ba_bt.subtitle.golem.end.fight": "Mente de Shul'losniir",
+	"ba_bt.subtitle.golem.sky.fight": "Queda de Veyhz'kriin",
+
+	"ba_bt.subtitle.monolith.spawn.golem": "Golem Começa a Surgir",
+
+	"ba_bt.subtitle.tower.break.start": "Torre começa a quebrar",
+	"ba_bt.subtitle.tower.break.crumble": "Piso da torre desmorona",
+	"ba_bt.subtitle.tower.break.collapse": "Torre entrando em colapso",
+	"ba_bt.subtitle.tower.ambient.music.land": "Música Ambiente da Torre da Terra",
+	"ba_bt.subtitle.tower.ambient.music.ocean": "Música Ambiente da Torre do Oceano",
+	"ba_bt.subtitle.tower.ambient.music.core": "Música Ambiente da Torre do Núcleo",
+	"ba_bt.subtitle.tower.ambient.music.nether": "Música Ambiente da Torre do Nether",
+	"ba_bt.subtitle.tower.ambient.music.end": "Música Ambiente da Torre do End",
+	"ba_bt.subtitle.tower.ambient.music.sky": "Música Ambiente da Torre do Céu",
+	"ba_bt.subtitle.tower.ambient.music.city": "Música Ambiente da Cidade Restaurada",
+
+	// Blocks
+	"block.ba_bt.land_golem_chest": "Baú de Bahryn'muul",
+	"block.ba_bt.land_chest": "Baú da Terra",
+
+	"block.ba_bt.ocean_golem_chest": "Baú de Moraizu'un",
+	"block.ba_bt.ocean_chest": "Baú do Oceano",
+
+	"block.ba_bt.platinum_block": "Bloco de Platina",
+	"block.ba_bt.platinum_tiles": "Ladrilhos de Platina",
+
+	"block.ba_bt.bt_land_spawner" : "Gerador da Terra",
+	"block.ba_bt.bt_ocean_spawner" : "Gerador do Oceano",
+	"block.ba_bt.bt_core_spawner" : "Gerador do Núcleo",
+	"block.ba_bt.bt_nether_spawner" : "Gerador do Nether",
+	"block.ba_bt.bt_end_spawner" : "Gerador do End",
+	"block.ba_bt.bt_sky_spawner" : "Gerador do Céu",
+
+	"block.ba_bt.spawner_marker" : "Marcador de Gerador",
+
+	// Containers
+	"container.ba_bt.land_golem_chest": "Baú de Bahryn'muul",
+	"container.ba_bt.land_golem_chest_double": "Baú grande de Bahryn'muul",
+	"container.ba_bt.land_chest": "Baú da Terra",
+	"container.ba_bt.land_chest_double": "Baú grande da Terra",
+
+	"container.ba_bt.tower_chest.isLocked": "Desbloqueia após a destruição de spawners próximos",
+	
+	"container.ba_bt.ocean_golem_chest": "Baú de Moraizu'un",
+	"container.ba_bt.ocean_golem_chest_double": "Baú Grande de Moraizu'un",
+	"container.ba_bt.ocean_chest": "Baú do Oceano",
+	"container.ba_bt.ocean_chest_double": "Baú Grande do Oceano",
+
+	// Items
+	"item.ba_bt.monolith_key_land": "Chave do Monólito da Terra",
+	"item.ba_bt.monolith_key_ocean": "Chave do Monólito do Oceano",
+	"item.ba_bt.monolith_key_core": "Chave do Monólito do Núcleo",
+	"item.ba_bt.monolith_key_nether": "Chave do Monólito do Nether",
+	"item.ba_bt.monolith_key_end": "Chave do Monólito do End",
+	"item.ba_bt.monolith_key_sky": "Chave do Monólito do Céu",
+
+	"item.ba_bt.guardian_eye_land": "Olho de Bahryn'muul",
+	"item.ba_bt.guardian_eye_ocean": "Olho de Moraizu'un",
+	"item.ba_bt.guardian_eye_core": "Olho de Obthu'uryn",
+	"item.ba_bt.guardian_eye_nether": "Olho de Infuur'niir",
+	"item.ba_bt.guardian_eye_end": "Olho de Shul'losniir",
+	"item.ba_bt.guardian_eye_sky": "Olho de Veyhz'kriin",
+
+	"item.ba_bt.monolith_land": "Monólito da Terra",
+	"item.ba_bt.monolith_ocean": "Monólito do Oceano",
+	"item.ba_bt.monolith_core": "Monólito do Núcleo",
+	"item.ba_bt.monolith_nether": "Monólito do Nether",
+	"item.ba_bt.monolith_end": "Monólito do End",
+	"item.ba_bt.monolith_sky": "Monólito do Céu",
+
+	"item.ba_bt.platinum_ingot": "Barra de Platina",
+	"item.ba_bt.platinum_shard": "Fragmento de Platina",
+	"item.ba_bt.platinum_sword": "Espada de Platina",
+
+	"item.ba_bt.platinum_helmet": "Capacete de Platina",
+	"item.ba_bt.platinum_chestplate": "Peitoral de Platina",
+	"item.ba_bt.platinum_leggings": "Calças de Platina",
+	"item.ba_bt.platinum_boots": "Botas de Platina",
+
+	"item.ba_bt.land_chest_shard": "Fragmento de Baú da Terra",
+	"item.ba_bt.ocean_chest_shard": "Fragmento de Baú do Oceano",
+
+	"item.ba_bt.platinum_skeleton_spawn_egg": "Ovo de Cavaleiro de Platina",
+
+	"item.ba_bt.bt_land_resonance_stone": "Pedra de Ressonância da Terra",
+	"item.ba_bt.bt_ocean_resonance_stone": "Pedra de Ressonância do Oceano",
+	"item.ba_bt.bt_core_resonance_stone": "Pedra de Ressonância do Núcleo",
+	"item.ba_bt.bt_nether_resonance_stone": "Pedra de Ressonância do Nether",
+	"item.ba_bt.bt_end_resonance_stone": "Pedra de Ressonância do End",
+	"item.ba_bt.bt_sky_resonance_stone": "Pedra de Ressonância do Céu",
+	"item.ba_bt.bt_city_resonance_stone": "Pedra de Ressonância da Cidade",
+
+	// Effects
+	"effect.ba_bt.depth_dropper_effect": "Queda Profunda",
+
+	// Enchantments
+	"enchantment.ba_bt.depth_dropper": "Queda Profunda",
+
+	// Item Tooltips
+	"tooltip.ba_bt.hold_shift": "Segure §eSHIFT§r para mais informações.",
+	"tooltip.ba_bt.monolith_key": "Espero que você saiba o que está fazendo..",
+	"tooltip.ba_bt.tower_chest": "Desbloqueia após a destruição de spawners próximos.",
+	"tooltip.ba_bt.golem_chest": "Vinculado à força vital do guardião",
+
+	"tooltip.ba_bt.monolith_land": "O Guardião foi preso aí dentro!",
+	"tooltip.ba_bt.monolith_ocean": "A Besta espera pacientemente aí dentro...",
+	"tooltip.ba_bt.monolith_core": "O Deus espera que os tolos interfiram...",
+	"tooltip.ba_bt.monolith_nether": "O Tirano descansa preguiçosamente lá dentro...",
+	"tooltip.ba_bt.monolith_end": "O Guardião medita aí dentro...",
+	"tooltip.ba_bt.monolith_sky": "A Deusa observa...",
+
+	"tooltip.ba_bt.eye_hold_shift": "Segure §eSHIFT§r para ver as últimas palavras do Guardião",
+	"tooltip.ba_bt.land_eye": "Vaayus, a torre foi comprometida...",
+	"tooltip.ba_bt.ocean_eye": "Louvado seja o vazio... Louvado seja eu...",
+	"tooltip.ba_bt.core_eye": "Nada pode detê-los agora..",
+	"tooltip.ba_bt.nether_eye": "Eu vou fazer você APODRECER em minhas MASMORRAS por isso!...",
+	"tooltip.ba_bt.end_eye": "Ela se aproxima, através da fenda...",
+	"tooltip.ba_bt.sky_eye": "Eu falhei com você, Sr. Vaayus... ",
+
+	"item.ba_bt.bt_land_resonance_stone.desc": "Lena Raine: Ancestralidade",
+	"item.ba_bt.bt_ocean_resonance_stone.desc": "C418: Peixe-Dragão",
+	"item.ba_bt.bt_core_resonance_stone.desc": "Lena Raine: Bem Abaixo",
+	"item.ba_bt.bt_nether_resonance_stone.desc": "Lena Raine: Rubedo",
+	"item.ba_bt.bt_end_resonance_stone.desc": "LudoCrypt: Radiação Complexa",
+	"item.ba_bt.bt_sky_resonance_stone.desc": "Emile van Kreiken: Nuvens",
+	"item.ba_bt.bt_city_resonance_stone.desc": "Lena Raine: Labiríntico",
+
+	// Overscreen titles
+	"title.ba_bt.land": "Bahryn'muul, o Guardião da Terra",
+	"title.ba_bt.ocean": "Moraizu'un, o Guardião do Oceano",
+	"title.ba_bt.core": "Obthu'uryn, o Deus do Núcleo",
+	"title.ba_bt.nether": "Infuur'niir, o Tirano do Nether",
+	"title.ba_bt.end": "Shul'losniir, o Guardião do End",
+	"title.ba_bt.sky": "Veyhz'kriin, a Deusa do Céu",
+
+	"title.ba_bt.guardian_defeated_1": " Foi destruído",
+
+	"title.ba_bt.land_defeated_2": "Sem sua energia...",
+	"title.ba_bt.land_defeated_3": "...A torre entrará em colapso...",
+
+	"title.ba_bt.ocean_defeated_2": "Como Ídolo voltou ao vazio...",
+	"title.ba_bt.ocean_defeated_3": "...O chão começa a desmoronar...",
+
+	"title.ba_bt.core_defeated_2": "Sem o receptáculo de deus...",
+	"title.ba_bt.core_defeated_3": "...As paredes começam a derreter...",
+
+	"title.ba_bt.nether_defeated_2": "Sem o controle do Tirano...",
+	"title.ba_bt.nether_defeated_3": "...A torre floresce mais uma vez...",
+
+	"title.ba_bt.end_defeated_2": "Derrotado, mas não destruído...",
+	"title.ba_bt.end_defeated_3": "...O chão começa a desaparecer...",
+
+	"title.ba_bt.sky_defeated_2": "Uma Deusa morta...",
+	"title.ba_bt.sky_defeated_3": "...A torre se dissolve em névoa...",
+
+	// Advancements
+	"advancements.ba_bt.battle_tower.title": "BattleTowers",
+	"advancements.ba_bt.battle_tower.description": "BattleTowers",
+	"advancements.ba_bt.land_tower_found.title": "Um Teste de Tempo",
+	"advancements.ba_bt.land_tower_found.description": "-Redescubra uma BattleTower antiga",
+	"advancements.ba_bt.find_land_key.title": "A Chave Para um Poder Antigo...",
+	"advancements.ba_bt.find_land_key.description": "-Encontre uma Chave de Monólito",
+	"advancements.ba_bt.kill_land_golem.title": "As Profundezas do Oceano Começam a se Agitar...",
+	"advancements.ba_bt.kill_land_golem.description": "-Destrua Bahryn'muul, o Vigilante Entombado da Torre",
+	"advancements.ba_bt.ocean_tower_found.title": "Cuidado Onde Pisa",
+	"advancements.ba_bt.ocean_tower_found.description": "-Caia no Fosso Abissal",
+	"advancements.ba_bt.find_ocean_key.title": "O Que Eles Estão Escondendo...",
+	"advancements.ba_bt.find_ocean_key.description": "-Encontre uma Chave do Monólito do Oceano",
+	"advancements.ba_bt.kill_ocean_golem.title": "O Núcleo Fica Inquieto...",
+	"advancements.ba_bt.kill_ocean_golem.description": "-Destrua Moraizu'un, o Ídolo dos Afogados"
+}
