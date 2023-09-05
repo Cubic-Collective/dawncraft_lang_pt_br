@@ -68,12 +68,12 @@
 	"block.ba_bt.platinum_block": "Bloco de Platina",
 	"block.ba_bt.platinum_tiles": "Ladrilhos de Platina",
 
-	"block.ba_bt.bt_land_spawner" : "Spawner da Terra",
-	"block.ba_bt.bt_ocean_spawner" : "Spawner do Oceano",
-	"block.ba_bt.bt_core_spawner" : "Spawner do Núcleo",
-	"block.ba_bt.bt_nether_spawner" : "Spawner do Nether",
-	"block.ba_bt.bt_end_spawner" : "Spawner do End",
-	"block.ba_bt.bt_sky_spawner" : "Spawner do Céu",
+	"block.ba_bt.bt_land_spawner" : "Gerador da Terra",
+	"block.ba_bt.bt_ocean_spawner" : "Gerador do Oceano",
+	"block.ba_bt.bt_core_spawner" : "Gerador do Núcleo",
+	"block.ba_bt.bt_nether_spawner" : "Gerador do Nether",
+	"block.ba_bt.bt_end_spawner" : "Gerador do End",
+	"block.ba_bt.bt_sky_spawner" : "Gerador do Céu",
 
 	"block.ba_bt.spawner_marker" : "Marcador de Gerador",
 
@@ -86,9 +86,9 @@
 	"container.ba_bt.tower_chest.isLocked": "Desbloqueia após a destruição de spawners próximos",
 	
 	"container.ba_bt.ocean_golem_chest": "Baú de Moraizu'un",
-	"container.ba_bt.ocean_golem_chest_double": "Baú grande de Moraizu'un",
+	"container.ba_bt.ocean_golem_chest_double": "Baú Grande de Moraizu'un",
 	"container.ba_bt.ocean_chest": "Baú do Oceano",
-	"container.ba_bt.ocean_chest_double": "Baú grande do Oceano",
+	"container.ba_bt.ocean_chest_double": "Baú Grande do Oceano",
 
 	// Items
 	"item.ba_bt.monolith_key_land": "Chave do Monólito da Terra",
@@ -170,14 +170,14 @@
 	"item.ba_bt.bt_city_resonance_stone.desc": "Lena Raine: Labiríntico",
 
 	// Overscreen titles
-	"title.ba_bt.land": "Bahryn'muul, Guardião da Terra",
-	"title.ba_bt.ocean": "Moraizu'un, Guardião do Oceano",
-	"title.ba_bt.core": "Obthu'uryn, Deus do Núcleo",
-	"title.ba_bt.nether": "Infuur'niir, Tirano do Nether",
-	"title.ba_bt.end": "Shul'losniir, Guardião do End",
-	"title.ba_bt.sky": "Veyhz'kriin, Deusa do Céu",
+	"title.ba_bt.land": "Bahryn'muul, o Guardião da Terra",
+	"title.ba_bt.ocean": "Moraizu'un, o Guardião do Oceano",
+	"title.ba_bt.core": "Obthu'uryn, o Deus do Núcleo",
+	"title.ba_bt.nether": "Infuur'niir, o Tirano do Nether",
+	"title.ba_bt.end": "Shul'losniir, o Guardião do End",
+	"title.ba_bt.sky": "Veyhz'kriin, a Deusa do Céu",
 
-	"title.ba_bt.guardian_defeated_1": "Foi destruído",
+	"title.ba_bt.guardian_defeated_1": " Foi destruído",
 
 	"title.ba_bt.land_defeated_2": "Sem sua energia...",
 	"title.ba_bt.land_defeated_3": "...A torre entrará em colapso...",
@@ -200,16 +200,16 @@
 	// Advancements
 	"advancements.ba_bt.battle_tower.title": "BattleTowers",
 	"advancements.ba_bt.battle_tower.description": "BattleTowers",
-	"advancements.ba_bt.land_tower_found.title": "Um teste de tempo",
-	"advancements.ba_bt.land_tower_found.description": "-Redescubra um antigo BattleTower",
-	"advancements.ba_bt.find_land_key.title": "A chave para um poder antigo...",
+	"advancements.ba_bt.land_tower_found.title": "Um Teste de Tempo",
+	"advancements.ba_bt.land_tower_found.description": "-Redescubra uma BattleTower antiga",
+	"advancements.ba_bt.find_land_key.title": "A Chave Para um Poder Antigo...",
 	"advancements.ba_bt.find_land_key.description": "-Encontre uma Chave de Monólito",
-	"advancements.ba_bt.kill_land_golem.title": "As profundezas do oceano começam a se agitar...",
-	"advancements.ba_bt.kill_land_golem.description": "-Destrua Bahryn'muul, o Observador Entombado da Torre",
-	"advancements.ba_bt.ocean_tower_found.title": "Cuidado onde pisa",
+	"advancements.ba_bt.kill_land_golem.title": "As Profundezas do Oceano Começam a se Agitar...",
+	"advancements.ba_bt.kill_land_golem.description": "-Destrua Bahryn'muul, o Vigilante Entombado da Torre",
+	"advancements.ba_bt.ocean_tower_found.title": "Cuidado Onde Pisa",
 	"advancements.ba_bt.ocean_tower_found.description": "-Caia no Fosso Abissal",
-	"advancements.ba_bt.find_ocean_key.title": "O que eles estão escondendo...",
+	"advancements.ba_bt.find_ocean_key.title": "O Que Eles Estão Escondendo...",
 	"advancements.ba_bt.find_ocean_key.description": "-Encontre uma Chave do Monólito do Oceano",
-	"advancements.ba_bt.kill_ocean_golem.title": "O núcleo fica inquieto...",
+	"advancements.ba_bt.kill_ocean_golem.title": "O Núcleo Fica Inquieto...",
 	"advancements.ba_bt.kill_ocean_golem.description": "-Destrua Moraizu'un, o Ídolo dos Afogados"
 }
