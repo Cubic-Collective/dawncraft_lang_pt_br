@@ -1,7 +1,7 @@
 {
 	id: "255FE9E1034D0E95"
 	group: ""
-	order_index: 10
+	order_index: 11
 	filename: "bossesminibosses_in_this_realm"
 	title: "Criaturas Notórias"
 	icon: "apotheosis:boss_summoner"
@@ -460,7 +460,7 @@
 					}
 				}
 				entity: "cataclysm:netherite_monstrosity"
-				value: 100L
+				value: 1L
 			}]
 		}
 		{
@@ -555,7 +555,7 @@
 				type: "kill"
 				title: "Gigante"
 				icon: "simple_mobs:giant_eye_fragment"
-				entity: "minecraft:giant"
+				entity: "simple_mobs:giant"
 				value: 1L
 			}]
 		}
@@ -724,6 +724,120 @@
 				icon: "ars_nouveau:wilden_tribute"
 				entity: "ars_nouveau:wilden_boss"
 				value: 1L
+			}]
+		}
+		{
+			x: -7.5d
+			y: -7.0d
+			shape: "square"
+			id: "6A59230529DD338B"
+			tasks: [{
+				id: "20D3FCC31F49242B"
+				type: "kill"
+				title: "Micolash, Host of the Nightmare"
+				icon: "bloodandmadness:eggs/micolash_spawn_egg"
+				entity: "bloodandmadness:micolash"
+				value: 1L
+			}]
+		}
+		{
+			x: -6.5d
+			y: -7.0d
+			shape: "square"
+			description: ["     Can be found in rare woodland                          mansions."]
+			id: "34035B17673778E8"
+			tasks: [{
+				id: "28BE20573EDAA7EC"
+				type: "kill"
+				title: "Adjudicator"
+				icon: "biomemakeover:adjudicator_tapestry"
+				entity: "biomemakeover:adjudicator"
+				value: 1L
+			}]
+		}
+		{
+			x: -5.5d
+			y: -7.0d
+			shape: "square"
+			description: ["Can be summoned by throwing a Nether\\n  star on the lectern in the middle of any Infernal altar, which can be found\\n       in the Infernal dunes biomes."]
+			id: "6292500CB25FD6CC"
+			tasks: [{
+				id: "4FD0E363E24B98EB"
+				type: "advancement"
+				title: "Hovering Inferno"
+				icon: {
+					id: "minecraft:shield"
+					Count: 1b
+					tag: {
+						RepairCost: 1
+						CustomModelData: 1450300
+						affix_data: {
+							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
+							affixes: {
+								"apotheosis:ironforged": 0.058177173f
+							}
+							rarity: "common"
+						}
+						HideFlags: 32
+						incendium: {
+							item: "necrotic_shield"
+						}
+						BlockEntityTag: {
+							Patterns: [
+								{
+									Pattern: "rud"
+									Color: 14
+								}
+								{
+									Pattern: "ld"
+									Color: 14
+								}
+								{
+									Pattern: "sc"
+									Color: 14
+								}
+								{
+									Pattern: "sku"
+									Color: 15
+								}
+								{
+									Pattern: "cbo"
+									Color: 15
+								}
+								{
+									Pattern: "ts"
+									Color: 15
+								}
+							]
+							Base: 15
+						}
+						display: {
+							Lore: [
+								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Reacts to attacks with\",{\"translate\":\"incendium.item.necrotic_shield.desc1\"}]}"
+								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"an explosion of death\",{\"translate\":\"incendium.item.necrotic_shield.desc2\"}]}"
+								"{\"text\":\"\"}"
+								"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
+							]
+							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
+						}
+						Damage: 0
+						AttributeModifiers: [{
+							Amount: -0.029904954135417938d
+							Slot: "offhand"
+							AttributeName: "minecraft:generic.attack_damage"
+							Operation: 1
+							UUID: [I;
+								112035901
+								1134379090
+								-1220404660
+								-221377395
+							]
+							Name: "weaken"
+						}]
+					}
+				}
+				advancement: "incendium:infernal_dunes/inferno/kill"
+				criterion: ""
 			}]
 		}
 	]
