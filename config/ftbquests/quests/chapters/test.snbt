@@ -832,7 +832,7 @@
 				id: "7B9F61F2A4765018"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Essa foi a sua primeira \"},{\"text\":\"morte\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Embora a maioria dos itens do seu inventário permanecerão com você, alguns de seus itens valiosos podem ser perdidos em seu corpo, que irá se decompor em 10 minutos. Além disso, a durabilidade de alguns de seus itens e pontos de experiência também foram reduzidos. Você pode verificar onde está seu corpo pressionando \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAs mortes acumuladas em curtos períodos de tempo causarão um nível mais elevado de \\\"\"},{\"text\":\"Alma Fraturada\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\", o que aumenta ainda mais a perda de durabilidade e experiência.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Essa foi a sua primeira \"},{\"text\":\"morte\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Embora a maioria dos itens do seu inventário permanecerão com você, alguns de seus itens valiosos podem ser perdidos em seu corpo, que irá se decompor em 10 minutos. Você pode verificar onde está seu corpo pressionando \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAs mortes acumuladas em curtos períodos de tempo causarão um nível mais elevado de \\\"\"},{\"text\":\"Alma Fraturada\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\".\"}]"
 				player_command: false
 			}]
 		}
@@ -1393,6 +1393,25 @@
 				auto: "invisible"
 				ignore_reward_blocking: true
 				stage: "skull"
+			}]
+		}
+		{
+			title: "keep dying"
+			x: 4.0d
+			y: 12.0d
+			id: "39AE937D10D1E511"
+			tasks: [{
+				id: "5958189AB8F61142"
+				type: "advancement"
+				advancement: "custom:death"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "01BE88C49BEF5128"
+				type: "command"
+				auto: "enabled"
+				command: "/tellraw @p [\"\",{\"text\":\"\\nIf you need a little help, click on the \\\"\"},{\"text\":\"Quests\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\" tab while accessing your inventory.\\n \"}]"
+				player_command: false
 			}]
 		}
 	]
