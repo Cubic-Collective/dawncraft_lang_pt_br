@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 1
 	filename: "a_little_help"
-	title: "A Little... Help"
+	title: "Uma Pequena... Ajuda"
 	icon: "minecraft:skeleton_skull"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -18,9 +18,9 @@
 		x: 0.0d
 		y: 0.0d
 		description: [
-			"It seems you have been dying quite a bit. Avoid unnecessary battles at all cost until you've gathered enough resources!\\n"
-			"... Though sometimes luck just isn't on your side. In that case, take these supplies and try again if you need it!\\n"
-			"Don't give up! Time is on your side. Don't forget to check other quest book tabs to learn more about this world and its unique mechanics."
+			" Parece que você tem morrido bastan- te. Evite batalhas desnecessárias a todo custo até que tenha reunido re- cursos suficientes!\\n"
+			" ... Mas às vezes a sorte simplesmente não está do seu lado. Nesse caso, pe- gue esses suprimentos e tente nova- mente se precisar!\\n"
+			" Não desista! O tempo está ao seu lado. Não se esqueça de verificar as outras abas do livro de missões para apren- der mais sobre este mundo e suas me- cânicas únicas."
 		]
 		dependencies: ["39AE937D10D1E511"]
 		hide: true
@@ -29,7 +29,7 @@
 		tasks: [{
 			id: "0201BFE770A95958"
 			type: "checkmark"
-			title: "Basic Equipments"
+			title: "Equipamentos Básicos"
 		}]
 		rewards: [
 			{
