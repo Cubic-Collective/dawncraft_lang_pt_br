@@ -772,7 +772,7 @@
 						RepairCost: 1
 						CustomModelData: 1450300
 						affix_data: {
-							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"com\":[{\"translate\":\"afixo.apotheosis:ferroforjado\"},\"\",\"\"]}"
+							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"com\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
 							affixes: {
 								"apotheosis:ironforged": 0.058177173f
 							}
