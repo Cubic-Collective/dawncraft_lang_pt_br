@@ -734,7 +734,7 @@
 			tasks: [{
 				id: "20D3FCC31F49242B"
 				type: "kill"
-				title: "Micolash, Host of the Nightmare"
+				title: "Micolash, o Anfitrião do Pesadelo"
 				icon: "bloodandmadness:eggs/micolash_spawn_egg"
 				entity: "bloodandmadness:micolash"
 				value: 1L
@@ -744,12 +744,12 @@
 			x: -6.5d
 			y: -7.0d
 			shape: "square"
-			description: ["     Can be found in rare woodland                          mansions."]
+			description: ["    Pode ser encontrado nas raras                mansões da floresta."]
 			id: "34035B17673778E8"
 			tasks: [{
 				id: "28BE20573EDAA7EC"
 				type: "kill"
-				title: "Adjudicator"
+				title: "Arquimago"
 				icon: "biomemakeover:adjudicator_tapestry"
 				entity: "biomemakeover:adjudicator"
 				value: 1L
@@ -759,12 +759,12 @@
 			x: -5.5d
 			y: -7.0d
 			shape: "square"
-			description: ["Can be summoned by throwing a Nether\\n  star on the lectern in the middle of any Infernal altar, which can be found\\n       in the Infernal dunes biomes."]
+			description: ["    Pode ser invocado ao jogar uma      Estrela do Nether no atril no centro\\n    de qualquer altar Infernal, que\\n  pode ser encontrado no bioma das\\n               Dunas Infernais."]
 			id: "6292500CB25FD6CC"
 			tasks: [{
 				id: "4FD0E363E24B98EB"
 				type: "advancement"
-				title: "Hovering Inferno"
+				title: "Inferno Suspenso"
 				icon: {
 					id: "minecraft:shield"
 					Count: 1b
@@ -772,7 +772,7 @@
 						RepairCost: 1
 						CustomModelData: 1450300
 						affix_data: {
-							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
+							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"com\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
 							affixes: {
 								"apotheosis:ironforged": 0.058177173f
 							}
@@ -813,12 +813,12 @@
 						}
 						display: {
 							Lore: [
-								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Reacts to attacks with\",{\"translate\":\"incendium.item.necrotic_shield.desc1\"}]}"
-								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"an explosion of death\",{\"translate\":\"incendium.item.necrotic_shield.desc2\"}]}"
+								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"com\":[\"Reage a ataques com\",{\"translate\":\"incendium.item.necrotic_shield.desc1\"}]}"
+								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"com\":[\"uma explosão letal\",{\"translate\":\"incendium.item.necrotic_shield.desc2\"}]}"
 								"{\"text\":\"\"}"
-								"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
+								"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"com\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
 							]
-							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
+							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"com\":[\"Escudo Necrótico\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
 						}
 						Damage: 0
 						AttributeModifiers: [{
