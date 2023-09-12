@@ -9,7 +9,7 @@ Se você possui um conhecimento básico de inglês e deseja contribuir com a tra
 ### [Progresso da Tradução](https://github.com/GMalvestiti/dawncraft_lang_pt_br/wiki/Progresso)
  - FTBQuests: 10/13
  - Missões: 118/118
- - Mods: 122/187
+ - Mods: 161/187
 
 ### Para Jogadores: Instalação da Tradução
 
@@ -18,4 +18,4 @@ Tutorial: [Link](https://discord.com/channels/1093965596384833657/11183094399891
 
 ### Incompleto:
 
- - modernfix
+ - blue_skies
