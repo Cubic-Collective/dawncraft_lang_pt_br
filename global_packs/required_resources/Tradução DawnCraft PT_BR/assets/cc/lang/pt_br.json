@@ -1,7 +1,7 @@
 {
 	"item.cc.claim_block": "Bloco de Reivindicação",
 	"block.cc.claim_block": "Bloco de Reivindicação",
-	"cc.lore.paper": "Documento de reclamação",
+	"cc.lore.paper": "Documento de Reclamação",
 	"cc.message.block.not_owner": "Você não possui este bloco",
 	"cc.message.block.access": "Voce nao tem acesso",
 	"cc.message.spawn": "Este pedaço está muito próximo para desovar",
