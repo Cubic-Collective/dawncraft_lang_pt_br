@@ -1368,7 +1368,7 @@
 		{
 			x: 2.0d
 			y: -3.0d
-			description: [" As asas-delta são uma ótima maneira de atravessar terrenos irregulares. Encontre um local elevado e pule. O uso da asa-delta consumirá seu vigor, portanto, tenha cuidado para não es- gotá-lo, pois você cairá. Se você tiver pouco vigor, considere pilar de penha- scos mais baixos por enquanto."]
+			description: [" As asas-deltas são uma ótima maneira de atravessar terrenos irregulares. Encontre um local elevado e pule. O uso da asa-delta consumirá seu vigor, portanto, tenha cuidado para não es- gotá-lo, pois você cairá. Se você tiver pouco vigor, considere pilar de penha- scos mais baixos por enquanto."]
 			dependencies: ["5165327673FA3C3A"]
 			id: "5F8E6856198022AB"
 			tasks: [{
