@@ -163,7 +163,7 @@
   "text.rei.jei_compat.false": "Camada de compatibilidade do JEI: Não",
   "text.rei.jei_compat.true": "Camada de compatibilidade do JEI: Sim",
   "text.rei.jei_compat.sub": "Deseja ativar a camada de compatibilidade do JEI %s§7?\n§7Você pode carregar plugins do JEI pelas seguintes fontes:\n%s\n\n§7Lembre-se de que a compatibilidade do REI com o JEI não é perfeita.\n§cUSE POR SUA CONTA E RISCO!",
-  "text.rei.jei_compat.sub.stability": "§c§l(ALFA)",
+  "text.rei.jei_compat.sub.stability": "§c§l(ALPHA)",
   "text.rei.view_recipes_for": "Ver receitas para %s",
   "text.rei.subsets": "Subconjuntos",
   "text.rei.tiny_potato": "Batatinhas",
