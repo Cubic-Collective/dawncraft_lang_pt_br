@@ -67,7 +67,7 @@
   "config.waila.flip_main_hand_desc": "Inverte a posição da dica de ferramenta se a mão principal for deixada",
 
   "config.waila.overlay_color": "Cor",
-  "config.waila.overlay_alpha": "Alfa",
+  "config.waila.overlay_alpha": "Alpha",
   "config.waila.overlay_theme": "Tema",
 
   "config.waila.formatting": "Formatação",
