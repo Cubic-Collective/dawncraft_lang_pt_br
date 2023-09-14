@@ -15,7 +15,7 @@
   "text.cloth-config.error.too_large": "Muito Grande! (Máximo: %d)",
   "text.cloth-config.error.too_small": "Muito pequeno! (Mínimo: %d)",
   "text.cloth-config.error.color.no_alpha_allowed": "Transparência não permitida!",
-  "text.cloth-config.error.color.invalid_alpha": "Não é um valor válido! (Alfa)",
+  "text.cloth-config.error.color.invalid_alpha": "Não é um valor válido! (Alpha)",
   "text.cloth-config.error.color.invalid_red": "Não é um valor válido! (Vermelho)",
   "text.cloth-config.error.color.invalid_green": "Não é um valor válido! (Verde)",
   "text.cloth-config.error.color.invalid_blue": "Não é um valor válido! (Azul)",
