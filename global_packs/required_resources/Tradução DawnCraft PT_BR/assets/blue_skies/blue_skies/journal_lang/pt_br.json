@@ -3,7 +3,7 @@
     "blue_skies.blue_journal.back": "Voltar",
     "blue_skies.blue_journal.read_page": "Ler a P\u00e1gina",
     
-    "blue_skies.blue_journal.tagline": "Guia de Aventureiro\npor Gatekeeper",
+    "blue_skies.blue_journal.tagline": "Guia de Aventureiro\nescrito pelo Guardião",
     "blue_skies.blue_journal.welcome": "Este di\u00e1rio foi escrito para ajudar os rec\u00e9m-chegados em suas jornadas pelos mundos de Eterno Entardecer e Eterno Amanhecer. Se alguma coisa tem uma funcionalidade \u00fanica, \u00e9 prov\u00e1vel que j\u00e1 tenha escrito sobre isso neste livro. Voc\u00ea pode encontrar novas entradas de di\u00e1rio conforme avan\u00e7a, ent\u00e3o lembre-se de verificar periodicamente. Eu marquei cada se\u00e7\u00e3o com um marcador na lateral do livro.",
     
     "blue_skies.section.search": "Pesquisar",
@@ -11,7 +11,7 @@
     "blue_skies.section.everdawn": "Eterno Amanhecer",
     "blue_skies.section.general": "Geral",
     
-    "blue_skies.everbright.everbright_portal.title": "Portal para Eterno Entardecer",
+    "blue_skies.everbright.everbright_portal.title": "Portal do Eterno Entardecer",
     "blue_skies.everbright.everbright_portal.lore": "A entrada para a dimens\u00e3o do Eterno Entardecer. O portal \u00e9 feito de tijolos de pedra turquesa e pode ser aceso com um isqueiro Zeal. Parece que Eterno Entardecer \u00e9 constantemente dia, mas de alguma forma \u00e9 sempre quebradi\u00e7o e frio. O mundo \u00e9 o lar de uma grande fauna de pelagem espessa. Muita neve e inimigos semelhantes a esp\u00edritos podem ser encontrados aqui. Durante a neve, mais inimigos gostam de mostrar o rosto, pois preferem o tempo mais frio.",
     
     "blue_skies.everbright.brewberry_bush.title": "Arbusto de Brewberry",
@@ -68,7 +68,7 @@
     "blue_skies.everbright.crushing_hammer.title": "Martelo de Esmagamento",
     "blue_skies.everbright.crushing_hammer.lore": "Parece que este martelo veio diretamente do pr\u00f3prio Starlit Crusher! Este poderoso martelo tem o poder de bater no ch\u00e3o, assim como dizem os rumores do Starlit Crusher. Isso machuca tudo ao meu redor quando eu o uso, fazendo com que cada inimigo voe para o alto! Essa coisa tamb\u00e9m tem um grande impacto, causando muitos danos corpo a corpo, mas parece ser muito pesada.",
     
-    "blue_skies.everdawn.everdawn_portal.title": "Portal para Eterno Amanhecer",
+    "blue_skies.everdawn.everdawn_portal.title": "Portal do Eterno Amanhecer",
     "blue_skies.everdawn.everdawn_portal.lore": "A entrada para a Dimens\u00e3o do Eterno Amanhecer, criada com Lunar Stone Bricks e iluminada com um Zeal Lighter. Este mundo est\u00e1 sempre quente e \u00famido, mas a hora \u00e9 sempre ao amanhecer. Os insetos prosperam aqui, especialmente durante a chuva, quando mais deles saem de casa. Os insetos cresceram para tamanhos assustadores, alguns com cerca da metade do meu tamanho! A chuva parece menos pesada aqui, geralmente apenas uma garoa leve. A fauna aqui parece ser principalmente reptiliana, com poucas exce\u00e7\u00f5es.",
     
     "blue_skies.everdawn.baneful_mushroom.title": "Cogumelo Venenoso",
