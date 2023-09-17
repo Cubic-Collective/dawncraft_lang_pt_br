@@ -108,22 +108,20 @@
   "biome.terralith.yellowstone": "Yellowstone",
   "biome.terralith.yosemite_cliffs": "Penhascos de Yosemite",
   "biome.terralith.yosemite_lowlands": "Planícies de Yosemite",
-
+  
   "biome.terralith.cave/andesite_caves": "Cavernas de Andesito",
   "biome.terralith.cave/desert_caves": "Cavernas Desérticas",
   "biome.terralith.cave/deep_caves": "Cavernas Profundas",
-  "biome.terralith.cave/crystal_caves": "Cavernas de Cristal",
   "biome.terralith.cave/diorite_caves": "Cavernas de Diorito",
   "biome.terralith.cave/frostfire_caves": "Cavernas de Chamas Glaciais",
   "biome.terralith.cave/fungal_caves": "Cavernas de Fungos",
   "biome.terralith.cave/granite_caves": "Cavernas de Granito",
-  "biome.terralith.cave/infested_Caves": "Cavernas Infestadas",
-  "biome.terralith.cave/ice_caves": "Cavernas de Gelo",
+  "biome.terralith.cave/infested_caves": "Cavernas Infestadas",
   "biome.terralith.cave/mantle_caves": "Cavernas de Manto",
   "biome.terralith.cave/thermal_caves": "Cavernas Termais",
-  "biome.terralith.cave/tuff_caves": "Cavernas de tufos",
+  "biome.terralith.cave/tuff_caves": "Cavernas de Tufo",
   "biome.terralith.cave/underground_jungle": "Selva Subterrânea",
-
+  
   "biome.terralith.cave.andesite_caves": "Cavernas de Andesito",
   "biome.terralith.cave.desert_caves": "Cavernas Desérticas",
   "biome.terralith.cave.deep_caves": "Cavernas Profundas",
@@ -132,11 +130,28 @@
   "biome.terralith.cave.fungal_caves": "Cavernas de Fungos",
   "biome.terralith.cave.granite_caves": "Cavernas de Granito",
   "biome.terralith.cave.infested_caves": "Cavernas Infestadas",
-  "biome.terralith.cave.ice_caves": "Cavernas de Gelo",
   "biome.terralith.cave.mantle_caves": "Cavernas de Manto",
   "biome.terralith.cave.thermal_caves": "Cavernas Termais",
-  "biome.terralith.cave.tuff_caves": "Cavernas de tufos",
+  "biome.terralith.cave.tuff_caves": "Cavernas de Tufo",
   "biome.terralith.cave.underground_jungle": "Selva Subterrânea",
+
+  "biome.incendium.ash_barrens": "Terras Arrasadas de Cinzas",
+  "biome.incendium.infernal_dunes": "Dunas Infernais",
+  "biome.incendium.inverted_forest": "Floresta Invertida",
+  "biome.incendium.quartz_flats": "Planícies de Quartzo",
+  "biome.incendium.toxic_heap": "Monte Tóxico",
+  "biome.incendium.volcanic_deltas": "Deltas Vulcânicos",
+  "biome.incendium.weeping_valley": "Vale da Lamentação",
+  "biome.incendium.withered_forest": "Floresta Seca",
+  
+  "biome.nullscape.crystal_peaks": "Picos de Cristal",
+  "biome.nullscape.shadowlands": "Terras Sombrias",
+  "biome.nullscape.void_barrens": "Território Estéril do Vazio",
+  
+  "biome.terralith.cave/crystal_caves": "Cavernas de Cristal",
+  "biome.terralith.cave.crystal_caves": "Cavernas de Cristal",
+  "biome.terralith.cave/ice_caves": "Cavernas de Gelo",
+  "biome.terralith.cave.ice_caves": "Cavernas de Gelo"
 
   "text.autoconfig.travelerstitles-fabric-1_18.title": "Traveler's Titles",
 
