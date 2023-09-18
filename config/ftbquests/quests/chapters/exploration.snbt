@@ -71,7 +71,7 @@
 			icon: "blue_skies:lunar_cobblestone"
 			x: 14.0d
 			y: -4.0d
-			description: [" A dimensão do Eterno Amanhecer está repleta de novos chefes e recursos. Explore por sua própria conta e risco."]
+			description: [" A dimensão do Eterno Amanhecer está repleta de novos chefes e recursos. Explore por sua própria conta em risco."]
 			size: 2.0d
 			id: "1453090ED20C0271"
 			tasks: [{
