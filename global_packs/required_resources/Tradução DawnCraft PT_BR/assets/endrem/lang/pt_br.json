@@ -8,7 +8,7 @@
   "item.endrem.nether_eye": "Olho do Nether",
   "item.endrem.nether_eye.description": "§7§oIsso foi deixado por um demônio na batalha entre o Aether e o Nether",
 
-  "item.endrem.cold_eye": "Olho do Frio",
+  "item.endrem.cold_eye": "Olho Gélido",
   "item.endrem.cold_eye.description": "§7§oUm dos últimos artefatos deixados pelos Glaciólogos antes de todos desaparecerem subitamente do mundo",
 
   "item.endrem.magical_eye": "Olho Mágico",
@@ -48,7 +48,7 @@
   "item.endrem.witch_eye.description": "§7§oAcredita-se que esta pupila tenha visto as receitas de fabricação de poções antigas que foram perdidas no tempo.",
   "item.endrem.witch_pupil": "Pupila de Bruxa",
 
-  "item.endrem.undead_soul": "Alma do Morto-Vivo",
+  "item.endrem.undead_soul": "Alma de Morto-Vivo",
 
   "block.endrem.ancient_portal_frame": "Moldura de Portal Antiga",
 
@@ -75,7 +75,7 @@
   "advancements.main.nether_eye.description": "Obtenha seu primeiro Olho do Nether",
 
   "advancements.main.cold_eye.title": "Olhar Gélido",
-  "advancements.main.cold_eye.description": "Obtenha seu primeiro Olho do Frio",
+  "advancements.main.cold_eye.description": "Obtenha seu primeiro Olho Gélido",
 
   "advancements.main.corrupted_eye.title": "Me Cubra com Esmeraldas", "%%%%%%Comment%%%%%%": "Golden Shower fits better but whatever...",
   "advancements.main.corrupted_eye.description": "Obtenha seu primeiro Olho Corrompido",
