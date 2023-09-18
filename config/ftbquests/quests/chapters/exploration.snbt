@@ -100,7 +100,7 @@
 				{
 					id: "0345F1E8C53FAB99"
 					type: "checkmark"
-					title: "Me fale sobre os olhos"
+					title: "Me fale sobre os Olhos"
 				}
 				{
 					id: "091E1B3C99615A7D"
@@ -163,7 +163,7 @@
 					tag: {
 						display: {
 							Lore: [
-								"{\"text\":\"Cria um Portal do Eterno Entardecer aceso.\"}"
+								"{\"text\":\"Cria um Portal do Eterno Amanhecer aceso.\"}"
 								"{\"text\":\"Requer o mesmo espaço que um Portal do\"}"
 								"{\"text\":\"Nether\"}"
 							]
