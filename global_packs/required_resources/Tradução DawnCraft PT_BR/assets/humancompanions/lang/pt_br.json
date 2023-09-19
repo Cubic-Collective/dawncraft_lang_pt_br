@@ -3,5 +3,9 @@
     "entity.humancompanions.archer": "Arqueiro",
     "entity.humancompanions.arbalist": "Besteiro",
     "entity.humancompanions.axeguard": "Guarda com Machado",
-    "container.humancompanions.companion_inventory": "Companion Inventário"
+    "container.humancompanions.companion_inventory": "Companion Inventário",
+    "item.humancompanions.arbalist_spawn_egg": "Arbalist Spawn Egg",
+    "item.humancompanions.archer_spawn_egg": "Archer Spawn Egg",
+    "item.humancompanions.axeguard_spawn_egg": "Axegurd Spawn Egg",
+    "item.humancompanions.knight_spawn_egg": "Knight Spawn Egg"
 }

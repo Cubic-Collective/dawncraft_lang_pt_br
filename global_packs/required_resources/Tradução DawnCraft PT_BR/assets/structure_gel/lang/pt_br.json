@@ -7,32 +7,44 @@
     "block.structure_gel.yellow_gel": "Gel Amarelo",
     "block.structure_gel.data_handler": "Manipulador de Dados",
     "block.structure_gel.dynamic_spawner": "Spawner Dinâmico",
+    
     "info.structure_gel.hold_shift": "Clique [Shift] para informações",
+    
     "info.structure_gel.place": "• Coloque agachado para que o efeito se espalhe.",
     "info.structure_gel.gunpowder": "• Use pólvora para destruir todos gels conectados.",
+    
     "info.structure_gel.default": "• Espalhe o gel por todas as direções cardiais, substituindo apenas o ar.",
     "info.structure_gel.photosensitive": "• Espalhe o gel somente em posições que não estão expostas ao céu. Ótimo para quartos com paredes abertas.",
     "info.structure_gel.diagonal_spread": "• Espalhe ao longo das direções cardiais e diagonais. Útil para contornar vinhas e outros cantos estranhos.",
     "info.structure_gel.dynamic_spread_dist": "• Espalha o gel com uma distância definida com base em quantos você está segurando. Máximo em 50.",
     "info.structure_gel.axis_spread": "• Espalhe o gel em uma superfície plana com base em como foi colocado.",
+    
     "info.structure_gel.unknown_behavior": "• O comportamento deste bloco é indefinido. Verifique se você está usando ou estendendo o StructureGelBlock no código.",
+    
     "item.structure_gel.building_tool": "Ferramenta de construção",
     "item.structure_gel.building_tool.info.how_to_use": "• Precione [%s] no ar para selecionar o modo.\n• Para modos que requerem um bloco selecionado, você pode clicar com o botão direito do mouse em um item mantido em seu mouse nesta pilha para selecionar aquele bloco.",
     "item.structure_gel.building_tool.info.selected_state": "• Bloco selecionado: %s",
     "item.structure_gel.building_tool.info.property": "• %s: %s",
+    
+    "info.structure_gel.building_tool.message.no_permission": "You do not have permission to use this item",
     "info.structure_gel.building_tool.message.set_pos": "Posição definida %d para (%d, %d, %d)",
     "info.structure_gel.building_tool.message.clear_poses": "Posições limpas",
     "info.structure_gel.building_tool.message.missing_pos": "Posições não selecionadas: %s",
+    
     "info.structure_gel.building_tool.message.select_state": "Selecionado %s",
     "info.structure_gel.building_tool.message.missing_state": "Selecione um bloco para colocar",
+    
     "info.structure_gel.building_tool.message.clear_blocks": "%d blocos limpos",
     "info.structure_gel.building_tool.message.place_blocks": "%d %s colocados",
     "info.structure_gel.building_tool.message.replace_blocks": "%d blocos substituídos com %s",
     "info.structure_gel.building_tool.message.clone_blocks": "Região clonada",
     "info.structure_gel.building_tool.message.flood_blocks": "%d blocos inundados com %s",
     "info.structure_gel.building_tool.message.move_blocks": "%d blocos %s movidos",
+    
     "info.structure_gel.building_tool.message.undo": "Desfazendo alterações: %d%%",
     "info.structure_gel.building_tool.message.redo": "Refazendo alterações: %d%%",
+    "info.structure_gel.building_tool.message.wrong_dimension": "This action was performed in %s.",
+    
     "item.structure_gel.building_tool.mode.structure_gel:none": "Nenhum",
     "item.structure_gel.building_tool.mode.description.structure_gel:none": "• Espere... Como você chegou aqui? Oh bem, você está aqui agora, então eu acho que isso não é mais um segredo. Enquanto tenho sua atenção, não esqueça de se manter hidratado!",
     "item.structure_gel.building_tool.mode.structure_gel:clear": "Limpo",
@@ -51,6 +63,7 @@
     "item.structure_gel.building_tool.mode.description.structure_gel:line": "• Coloca uma linha de blocos entre as posições selecionadas.\n\n• Pressione [%s] em um bloco para selecionar com o que preencher.\n• Pressione [%s] em um bloco para selecionar a primeira posição.\n• Pressione [%s] em outro bloco para selecionar a segunda posição.\n• Pressione [%s] para colocar a linha usando o bloco selecionado.",
     "item.structure_gel.building_tool.mode.structure_gel:shape": "Forma",
     "item.structure_gel.building_tool.mode.description.structure_gel:shape": "• Preenche os blocos ao redor de onde você clica com o bloco selecionado.\n\n• Pressione [%s] em um bloco para selecionar o que colocar.\n• Pressione [%s] ou [%s] para preencher os blocos ao redor de onde você clica.",
+    
     "info.structure_gel.building_tool.undo": "Desfazer",
     "info.structure_gel.building_tool.undo.description": "• Desfaz a ação anterior realizada com um %s.\n• Você também pode pressionar [%s].",
     "info.structure_gel.building_tool.redo": "Refazer",
@@ -60,10 +73,13 @@
     "info.structure_gel.building_tool.selected_state": "Estado Selecionado",
     "info.structure_gel.building_tool.selected_state.description": "• O bloco que será colocado se o modo atual o suportar.\n• Valor atual: %s.",
     "info.structure_gel.building_tool.selected_state.none": "Nenhum",
+    
     "info.structure_gel.building_tool.property.integrity": "Integridade",
     "info.structure_gel.building_tool.property.integrity.description": "• Determina quantos blocos serão realmente colocados.",
     "info.structure_gel.building_tool.property.radius": "Raio",
     "info.structure_gel.building_tool.property.radius.description": "• O raio da área afetada.",
+    "info.structure_gel.building_tool.property.move_distance": "Distance",
+    "info.structure_gel.building_tool.property.move_distance.description": "• How far the selected area should be moved.",
     "info.structure_gel.building_tool.property.retain_state": "Manter Estado",
     "info.structure_gel.building_tool.property.retain_state.description": "• Quando verdadeiro, mantém o estado exato do bloco selecionado. Quando falso, os blocos colocados serão posicionados de acordo com o posicionamento natural, caso possam ser colocados.",
     "info.structure_gel.building_tool.property.retain_state.value.true": "Verdadeiro",
@@ -100,16 +116,20 @@
     "info.structure_gel.building_tool.property.shape.value.cube": "Cubo",
     "info.structure_gel.building_tool.property.shape.value.sphere": "Esfera",
     "info.structure_gel.building_tool.property.shape.value.diamond": "Diamante",
+    
     "commands.structure_gel.clone.override": "Substituindo o limite de clones vanilla de %s blocos clonando %s blocos. Isto pode tomar algum tempo",
     "commands.structure_gel.fill.override": "Substituindo o limite de preenchimento vanilla de %s blocos preenchendo %s blocos. Isto pode tomar algum tempo",
+    
     "itemGroup.structure_gel.structure_items": "Itens de Estrutura",
     "itemGroup.structure_gel.structure_items.no_access": "Você precisa acessar os comandos para acessar os itens nesta guia.",
+    
     "gui.structure_gel.data_handler.type_label": "Tipo",
     "gui.structure_gel.data_handler.description": "Descrição",
     "gui.structure_gel.data_handler.range": "Alcance",
     "gui.structure_gel.data_handler.example": "Exemplo",
     "gui.structure_gel.data_handler.default": "Padrão",
     "gui.structure_gel.data_handler.type": "Tipo",
+    
     "gui.structure_gel.data_handler.structure_gel:chest.loot.label": "Loot Table",
     "gui.structure_gel.data_handler.structure_gel:chest.loot.description": "A loot table para dar o bloco que está sendo colocado.",
     "gui.structure_gel.data_handler.structure_gel:chest.chest.label": "Bloco de Báu",
@@ -118,6 +138,7 @@
     "gui.structure_gel.data_handler.structure_gel:chest.generation_chance.description": "A chance percentual de que isso coloque um bloco.",
     "gui.structure_gel.data_handler.structure_gel:chest.lootr_compat.label": "Compatibilidade de saque",
     "gui.structure_gel.data_handler.structure_gel:chest.lootr_compat.description": "Determina se este bloco deve funcionar com o mod Lootr.",
+    
     "gui.structure_gel.data_handler.structure_gel:entity.entity.label": "ID da Entidade",
     "gui.structure_gel.data_handler.structure_gel:entity.entity.description": "O tipo de entidade a ser gerado.",
     "gui.structure_gel.data_handler.structure_gel:entity.helmet.label": "Capacete",
@@ -140,18 +161,22 @@
     "gui.structure_gel.data_handler.structure_gel:entity.spawn_chance.description": "A porcentagem de chance desse mob spawnar",
     "gui.structure_gel.data_handler.structure_gel:entity.tag.label": "NBT Tag",
     "gui.structure_gel.data_handler.structure_gel:entity.tag.description": "A tag NBT para carregar nesta entidade. Todos os outros campos têm prioridade.",
+    
     "gui.structure_gel.data_handler.structure_gel:dynamic_spawner.dynamic_spawner_type.label": "Tipo de Spawner",
     "gui.structure_gel.data_handler.structure_gel:dynamic_spawner.dynamic_spawner_type.description": "O nome do registro do DynamicSpawnerType do qual criar um gerador.",
     "gui.structure_gel.data_handler.structure_gel:dynamic_spawner.generation_chance.label": "Chance de Geração",
     "gui.structure_gel.data_handler.structure_gel:dynamic_spawner.generation_chance.description": "A chance percentual de que isso coloque um Dynamic Spawner.",
+    
     "gui.structure_gel.data_handler.structure_gel:configured_feature.feature.label": "Característica",
     "gui.structure_gel.data_handler.structure_gel:configured_feature.feature.description": "O recurso configurado para tentar gerar.",
     "gui.structure_gel.data_handler.structure_gel:configured_feature.generation_chance.label": "Chance de Geração",
     "gui.structure_gel.data_handler.structure_gel:configured_feature.generation_chance.description": "A chance percentual de que isso gere um recurso.",
+    
     "gui.structure_gel.data_handler.structure_gel:block_state.block_state.label": "Estado de bloqueio",
     "gui.structure_gel.data_handler.structure_gel:block_state.block_state.description": "O estado do bloco a ser colocado.",
     "gui.structure_gel.data_handler.structure_gel:block_state.tag.label": "NBT Tag",
     "gui.structure_gel.data_handler.structure_gel:block_state.tag.description": "A tag NBT para carregar neste bloco se for uma entidade de bloco.",
     "gui.structure_gel.data_handler.structure_gel:block_state.generation_chance.label": "Chance de Geração",
     "gui.structure_gel.data_handler.structure_gel:block_state.generation_chance.description": "A chance percentual de que isso coloque um bloco."
+
 }

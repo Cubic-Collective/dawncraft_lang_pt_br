@@ -1,12 +1,17 @@
 {
-  "item.hunterillager.spawnegg_hunterillager": "Ovo de Caçador Illager",
-  "item.hunterillager.quivers": "Aljavas",
-  "item.hunterillager.boomerang": "Bumerangue",
-  "item.hunterillager.quiver.desc": "Você pode armazenar a flecha clicando com o botão direito enquanto segura a aljava e a flecha.",
-  "entity.hunterillager.hunterillager": "Caçador Illager",
-  "hunterillager:subtitles.hunterillager.laugh": "Risadas de Caçador Illager",
-  "death.attack.hunterillager.boomerang": "%1$s foi atingido pelo bumerangue de %2$s",
-  "hunterillager.config.generateHunterHouse": "gerar casa do caçador acima do Nível",
-  "hunterillager.config.spawnHunterIllagerOnPatrol": "Gerar Caçador Illager na Patrulha",
-  "enchantment.hunterillager.bounce": "Ricochetear"
+    "item.hunterillager.spawnegg_hunterillager": "Ovo de Caçador Illager",
+    "item.hunterillager.quivers": "Aljavas",
+    "item.hunterillager.boomerang": "Bumerangue",
+    "item.hunterillager.quiver.desc": "Você pode armazenar a flecha clicando com o botão direito enquanto segura a aljava e a flecha.",
+    "entity.hunterillager.hunterillager": "Caçador Illager",
+    "subtitles.hunterillager.idle": "Hunter Illager murmurs",
+    "subtitles.hunterillager.hurt": "Hunter Illager Hurt",
+    "subtitles.hunterillager.death": "Hunter Illager Death",
+    "subtitles.hunterillager.cheer": "Hunter Illager Cheers",
+    "subtitles.hunterillager.laugh": "Hunter Illager laughs",
+    "death.attack.hunterillager.boomerang": "%1$s foi atingido pelo bumerangue de %2$s",
+    "hunterillager.config.structureSpacing": "Hunter House Generate Spacing",
+    "hunterillager.config.foodWhitelist": "HunterIllager Eat Food Whitelist",
+    "hunterillager.config.attackableWhitelist": "HunterIllager Attackable Whitelist",
+    "enchantment.hunterillager.bounce": "Ricochetear"
 }
