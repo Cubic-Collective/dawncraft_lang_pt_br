@@ -44,7 +44,7 @@
     "option.cloth-config.bounceBackMultiplier": "Multiplicador de Ressalto",
     "option.cloth-config.setDefaultSmoothScroll": "Definir Deslocação Suave Padrão",
     "option.cloth-config.disableSmoothScroll": "Desativar Deslocação Suave",
-    "text.cloth-config.testing.1": "You are a mod developer and you want to use %1$s? Go on the %2$s to get started. You can also %3$s.",
-    "text.cloth-config.testing.2": "Cloth Config Wiki",
-    "text.cloth-config.testing.3": "click here to open the Minecraft options file for no specific reason"
+    "text.cloth-config.testing.1": "Você é um desenvolvedor de mod e deseja usar %1$s? Acesse o %2$s para começar. Você também pode %3$s.",
+    "text.cloth-config.testing.2": "Wiki de Cloth Config",
+    "text.cloth-config.testing.3": "Clique aqui para abrir o arquivo de opções do Minecraft sem motivo específico"
 }
