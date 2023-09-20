@@ -5,7 +5,7 @@
   "entity.majruszsdifficulty.cerberus": "Cérbero",
   "entity.majruszsdifficulty.black_widow": "Gigante",
   "effect.majruszsdifficulty.bleeding": "Sangramento",
-  "effect.majruszsdifficulty.bleeding.description": "Causa danos letais ao longo do tempo. É principalmente causado por ferramentas afiadas, zumbis e aranhas. Não afeta mortos-vivos.",
+  "effect.majruszsdifficulty.bleeding.description": "Causa danos letais ao longo do tempo. É causado principalmente por ferramentas afiadas, zumbis e aranhas. Não afeta mortos-vivos.",
   "effect.majruszsdifficulty.bleeding.item_tooltip": " Chance de Causar Sangramento %2$s: %1$s",
   "effect.majruszsdifficulty.bleeding.armor_tooltip": "Chance de Sangrar: x%1$s",
   "effect.majruszsdifficulty.bleeding_immunity": "Imunidade a Sangramento",
