@@ -20,7 +20,7 @@
     "item.patchouli:intro_book.landing": "Com o $(item)Patchouli$(), você pode fazer $(thing)livros$() desbloqueáveis de avanço fácil de ler para mods e modpacks!",
     
     "item.patchouli:pamphlet.name": "Panfleto de Teste",
-    "item.patchouli:pamphlet.landing": "Um panfleto de teste, que é um livro com apenas uma categoria.   ",
+    "item.patchouli:pamphlet.landing": "Um panfleto de teste, que é um livro com apenas uma categoria.",
     
     "patchouli.subtitle.book_open": "Livro Abre",
     "patchouli.subtitle.book_flip": "Viradas de Pgina",
