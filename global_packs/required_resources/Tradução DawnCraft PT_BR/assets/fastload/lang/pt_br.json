@@ -1,7 +1,7 @@
 {
     "fastload.screen.buildingTerrain.building": "Construindo chunks Visíveis",
     "fastload.screen.buildingTerrain.preparing": "Preparando todas as chunks",
-    "fastload.buildingTerrain.starting": "Starting Session",
+    "fastload.buildingTerrain.starting": "Iniciando Sessão",
     "fastload.screen.buildingTerrain.template": "Concluído / Meta",
     
     "fastload.screen.config": "Configuração de carregamento rápido",
@@ -9,21 +9,21 @@
     "fastload.button.debug": "Modo de depuração",
     "fastload.button.debug.tooltip": "As depurações devem ser impressas nos logs?",
     
-    "fastload.button.instant_load": "Instant Load",
-    "fastload.button.instant_load.tooltip": "Are you impatient? Do you hate loading screens? Just switch it on, load a world, and you will regret it. -_-",
+    "fastload.button.instant_load": "Carregamento Instantâneo",
+    "fastload.button.instant_load.tooltip": "Você está impaciente? Odeia telas de carregamento? Basta ativá-lo, carregar um mundo, e você vai se arrepender. -_-",
     
-    "fastload.button.local_render_chunk_radius": "Local Radius",
-    "fastload.button.local_render_chunk_radius.tooltip": "Radius for how many chunks in a circle should render in Fastload's Building Terrain for Singleplayer.",
-    "fastload.button.local_render_chunk_radius.min": "Disabled",
+    "fastload.button.local_render_chunk_radius": "Raio Local",
+    "fastload.button.local_render_chunk_radius.tooltip": "Raio para quantos chunks em um círculo devem ser renderizados no Carregamento Rápido para Construção de Terreno no Singleplayer.",
+    "fastload.button.local_render_chunk_radius.min": "Desativado",
     "fastload.button.local_render_chunk_radius.max": "Wtf",
     
-    "fastload.button.server_render_chunk_radius": "Server Radius",
-    "fastload.button.server_render_chunk_radius.tooltip": "Radius for how many chunks in a circle should render in Fastload's Building Terrain for Servers.",
-    "fastload.button.server_render_chunk_radius.min": "Disabled",
+    "fastload.button.server_render_chunk_radius": "Raio de Servidor",
+    "fastload.button.server_render_chunk_radius.tooltip": "Raio para quantos chunks em um círculo devem ser renderizados no Carregamento Rápido para a Construção de Terreno em Servidores.",
+    "fastload.button.server_render_chunk_radius.min": "Desativado",
     "fastload.button.server_render_chunk_radius.max": "Wtf",
     
     "fastload.button.chunk_try_limit": "Limite de tentativa de bloco",
     "fastload.button.chunk_try_limit.tooltip": "Quantas vezes a mesma contagem de blocos poderia ser retornada seguidas antes de abandonar a pré-renderização",
-    "fastload.button.chunk_try_limit.min": "NASA PC",
+    "fastload.button.chunk_try_limit.min": "PC DA NASA",
     "fastload.button.chunk_try_limit.max": "Infinidade"
 }
