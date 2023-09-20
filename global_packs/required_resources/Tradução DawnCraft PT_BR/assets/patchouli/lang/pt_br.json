@@ -1,7 +1,7 @@
 {
-    "item.patchouli.guide_book": "Guide Book",
-    "item.patchouli.guide_book.undefined": "Invalid book: no ID defined",
-    "item.patchouli.guide_book.invalid": "Invalid book: %s",
+    "item.patchouli.guide_book": "Livro de Orientação",
+    "item.patchouli.guide_book.undefined": "Livro inválido: nenhum ID definido",
+    "item.patchouli.guide_book.invalid": "Livro inválido: %s",
     
     "item.patchouli.comprehensive_test_book.name": "Livro de Teste Abrangente",
     "item.patchouli.comprehensive_test_book.landing": "O que esperançosamente se tornará um livro de teste abrangente para todos Patchouli, em vez da confusão de espaguete aleatório que temos agora.",
@@ -19,8 +19,8 @@
     "item.patchouli:intro_book.subtitle": "Documentação para todos",
     "item.patchouli:intro_book.landing": "Com o $(item)Patchouli$(), você pode fazer $(thing)livros$() desbloqueáveis de avanço fácil de ler para mods e modpacks!",
     
-    "item.patchouli:pamphlet.name": "Test Pamphlet",
-    "item.patchouli:pamphlet.landing": "A test pamphlet, which is a book with only one category.",
+    "item.patchouli:pamphlet.name": "Panfleto de Teste",
+    "item.patchouli:pamphlet.landing": "Um panfleto de teste, que é um livro com apenas uma categoria.   ",
     
     "patchouli.subtitle.book_open": "Livro Abre",
     "patchouli.subtitle.book_flip": "Viradas de Pgina",
@@ -65,7 +65,7 @@
     "patchouli.gui.lexicon.dev_edition": "Escritores",
     "patchouli.gui.lexicon.edition_str": "%s Edição",
     "patchouli.gui.lexicon.added_by": "Adicionado por %s",
-    "patchouli.gui.lexicon.sneak": "Esgueirar-se para ver",
+    "patchouli.gui.lexicon.sneak": "Agache-se para ver",
     "patchouli.gui.lexicon.view": "Ver entrada",
     "patchouli.gui.lexicon.keybind": "Atalho de teclado: %s",
     "patchouli.gui.lexicon.keybind_missing": "Não existe tal atalho: %s",
@@ -80,7 +80,7 @@
     "patchouli.gui.lexicon.button.back": "Voltar",
     "patchouli.gui.lexicon.button.back.info": "Shift + botão esquedo para voltar à página inicial",
     "patchouli.gui.lexicon.button.resize": "Redimensionar IU",
-    "patchouli.gui.lexicon.button.toggle_mock_header": "Toggle Mock Header",
+    "patchouli.gui.lexicon.button.toggle_mock_header": "Alternar Cabeçalho Simulado",
     "patchouli.gui.lexicon.button.resize.size0": "Padrão",
     "patchouli.gui.lexicon.button.resize.size1": "Pequeno",
     "patchouli.gui.lexicon.button.resize.size2": "Médio",
@@ -95,6 +95,6 @@
     "patchouli.gui.lexicon.button.visualize": "Visualizar",
     "patchouli.gui.lexicon.button.visualize.info": "(Clique novamente para limpar)",
     "patchouli.gui.lexicon.button.history": "História",
-    "patchouli.gui.lexicon.button.mark_all_read": "Mark all as read",
-    "patchouli.gui.lexicon.button.mark_category_read": "Mark this category as read"
+    "patchouli.gui.lexicon.button.mark_all_read": "Marcar tudo como lido",
+    "patchouli.gui.lexicon.button.mark_category_read": "Marcar esta categoria como lida"
 }
