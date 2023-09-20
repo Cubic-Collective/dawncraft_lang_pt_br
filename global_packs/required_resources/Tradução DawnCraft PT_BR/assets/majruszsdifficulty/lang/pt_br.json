@@ -80,7 +80,7 @@
   "block.majruszsdifficulty.enderium_shard_ore": "Minério de Enderium",
   "block.majruszsdifficulty.enderium_block": "Bloco de Enderium",
   "block.majruszsdifficulty.infested_end_stone": "Pedra do End Infestada",
-  "commands.gamestage.changed": "O estágio do jogo foi alterado para %s.",
+  "commands.gamestage.changed": "O estágio do jogo foi alterado para o %s.",
   "commands.gamestage.cannot_change": "O estágio do jogo já está no %s!",
   "commands.gamestage.current": "O estágio atual do jogo está no %s.",
   "commands.undeadarmy.finished": "Um Exército de Mortos-Vivos foi parado na coordenada: %s",
