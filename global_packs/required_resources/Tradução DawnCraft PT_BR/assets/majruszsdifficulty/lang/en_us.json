@@ -3,7 +3,7 @@
   "entity.majruszsdifficulty.tank": "Tanque",
   "entity.majruszsdifficulty.cursed_armor": "Armadura Amaldiçoada",
   "entity.majruszsdifficulty.cerberus": "Cérbero",
-  "entity.majruszsdifficulty.black_widow": "Gigante",
+  "entity.majruszsdifficulty.giant": "Gigante",
   "effect.majruszsdifficulty.bleeding": "Sangramento",
   "effect.majruszsdifficulty.bleeding.description": "Causa danos letais ao longo do tempo. É causado principalmente por ferramentas afiadas, zumbis e aranhas. Não afeta mortos-vivos.",
   "effect.majruszsdifficulty.bleeding.item_tooltip": " Chance de Causar Sangramento %2$s: %1$s",
