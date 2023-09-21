@@ -15,7 +15,3 @@ Se você possui um conhecimento básico de inglês e deseja contribuir com a tra
 
 Download: [Link](https://github.com/GMalvestiti/dawncraft_lang_pt_br/archive/refs/heads/main.zip)<br>
 Tutorial: [Link](https://discord.com/channels/1093965596384833657/1118309439989104721 "Tutorial")
-
-### Incompleto:
-
- ...
