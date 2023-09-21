@@ -4,7 +4,7 @@
     "fastload.buildingTerrain.starting": "Iniciando Sessão",
     "fastload.screen.buildingTerrain.template": "Concluído / Meta",
     
-    "fastload.screen.config": "Configuração Fastload",
+    "fastload.screen.config": "Configuração de Fastload",
     
     "fastload.button.debug": "Modo de Depuração",
     "fastload.button.debug.tooltip": "As depurações devem ser impressas nos logs?",
