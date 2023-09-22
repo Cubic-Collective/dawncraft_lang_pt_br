@@ -23,7 +23,7 @@
 				{
 					"function": "minecraft:set_lore",
 					"lore": [{
-						"text": "Paradeiro do Guardião do End."
+						"text": "Paradeiro do Guardião Ender."
 					}]
 				}
 			]
