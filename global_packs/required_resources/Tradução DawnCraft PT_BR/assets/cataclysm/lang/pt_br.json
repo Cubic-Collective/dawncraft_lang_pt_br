@@ -32,7 +32,7 @@
     "item.cataclysm.ignitium_leggings": "Calças de Ignitium",
     "item.cataclysm.ignitium_boots": "Botas de Ignitium",
     "item.cataclysm.bulwark_of_the_flame": "Escudo das Chamas",
-    "item.cataclysm.gauntlet_of_guard": "Manopla do Guardião do End",
+    "item.cataclysm.gauntlet_of_guard": "Manopla do Guardião Ender",
     "item.cataclysm.the_incinerator": "O Incinerador",
     "item.cataclysm.void_scatter_arrow": "Flecha de Dispersão do Vazio",
     "item.cataclysm.void_shard": "Fragmento do Vazio",
@@ -87,7 +87,7 @@
     
     "entity.cataclysm.ender_golem": "Golem Ender",
     "entity.cataclysm.ender_guardian": "Guardião Ender",
-    "entity.cataclysm.ender_guardian_bullet": "Munição de Guardião do End",
+    "entity.cataclysm.ender_guardian_bullet": "Munição de Guardião Ender",
     "entity.cataclysm.lava_bomb": "Bomba de Lava",
     "entity.cataclysm.void_rune": "Runa do Vazio",
     "entity.cataclysm.nameless_sorcerer": "Feiticeiro Sem Nome (W.I.P)",
