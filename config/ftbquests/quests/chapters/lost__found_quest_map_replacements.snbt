@@ -621,7 +621,7 @@
 			}
 			x: 2.0d
 			y: 0.0d
-			subtitle: "Paradeiro do Guardião do End."
+			subtitle: "Paradeiro do Guardião Ender."
 			dependencies: ["481B801AE3C24573"]
 			can_repeat: true
 			id: "31D7059E6B9E36E2"

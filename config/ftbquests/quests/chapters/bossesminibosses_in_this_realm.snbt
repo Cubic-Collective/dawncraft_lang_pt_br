@@ -360,7 +360,7 @@
 			tasks: [{
 				id: "54D44DF2F5B4D01A"
 				type: "kill"
-				title: "Guardião do End"
+				title: "Guardião Ender"
 				icon: "minecraft:shulker_box"
 				entity: "cataclysm:ender_guardian"
 				value: 1L
@@ -374,7 +374,7 @@
 			tasks: [{
 				id: "63CB7D304B4A5E62"
 				type: "kill"
-				title: "Golem do End"
+				title: "Golem Ender"
 				icon: "cataclysm:ender_guardian_spawner"
 				entity: "cataclysm:ender_golem"
 				value: 1L
@@ -423,7 +423,7 @@
 			tasks: [{
 				id: "5E3B11AE09EDA3EF"
 				type: "kill"
-				title: "Dragão do End"
+				title: "Dragão Ender"
 				icon: "minecraft:dragon_head"
 				entity: "minecraft:ender_dragon"
 				value: 1L
