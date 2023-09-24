@@ -85,15 +85,15 @@
 			y: -4.0d
 			subtitle: "Uma lista de livros de informações que você pode querer. Verifique na barra de busca do inventário a receita de cada um!"
 			description: [
-				"    Chronicle of Shadows (Apotheosis)"
+				"    Crônica das Sombras (Apotheosis)"
 				"  Encyclopedia of life (Untamed Wilds)"
-				"      Animal Dictionary (Alex's Mobs)"
-				"    The Great Butter Book (Lil' Wings)"
+				"      Dicionário Animal (Alex's Mobs)"
+				"    O Grande Livro de Manteiga (Lil' Wings)"
 				"         Book of Shadows (Hexerei)"
-				"       Worn Notebook (Ars Nouveau)"
-				"Cloud Storage and You (Cloud Storage)"
+				"       Caderno Desgastado (Ars Nouveau)"
+				"Armazenamento em Nuvem e Você (Cloud Storage)"
 				"              Paladin's Furniture"
-				"          Food Book (Spice of Life)"
+				"          Livro de Alimentos (Spice of Life)"
 			]
 			id: "5540C43EFDAE8E3B"
 			tasks: [{
