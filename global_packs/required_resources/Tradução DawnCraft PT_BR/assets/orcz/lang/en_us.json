@@ -108,7 +108,7 @@
   "item.orcz.orcteeth_armor_armor_chestplate": "Peitoral de Dentes de Orc",
   "item.orcz.orcsavage_2swordarmour_chestplate": "Espada de Orc Selvagem",
   "item.orcz.orcleader_leather_helmet": "Capacete de Orc Líder de Grupo",
-  "item.orcz.savageorc_spawn_egg": "Ovo de Orc com Maça",
+  "item.orcz.savageorc_spawn_egg": "Ovo de Grupo de Orcs",
   "item.orcz.orcteeth_armor_armor_boots": "Botas de Dentes de Orc",
   "item.orcz.ironsword_boots": "Botas de Orc de Armadura com Espadas",
   "item.orcz.ironscrap": "Sucata",
@@ -175,7 +175,7 @@
   "item.orcz.orcteeth_tool_axe": "Machado de Dentes de Orc",
   "effect.orcz.enrage": "ENFURECIDO",
   "entity.orcz.goblinsavagebomb": "Goblin Bombardeiro",
-  "item.orcz.savageorciron_spawn_egg": "Ovo de Orc de Armadura com Maça",
+  "item.orcz.savageorciron_spawn_egg": "Ovo de Grupo de Orcs com Armadura",
   "item.orcz.ironshield_boots": "Botas de Orc de Armadura com Escudo",
   "item.orcz.heavyorchammer": "Martelo Pesado de Orc"
 }
