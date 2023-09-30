@@ -1,7 +1,7 @@
 {
     "key.categories.FpsReducer": "FPS Reducer",
-    "fpsreducer.key.openGui": "Abrir janela de Config.",
-    "fpsreducer.key.forceIdle": "Reduzir FPS manualmente",
+    "fpsreducer.key.openGui": "Abrir Janela de Config.",
+    "fpsreducer.key.forceIdle": "Reduzir FPS Manualmente",
     
     "fpsreducer.config.screen.title": "Configuração do FPS Reducer",
     "fpsreducer.config.advanced.screen.title": "Opções Avançadas do FPS Reducer",
@@ -20,8 +20,8 @@
     "fpsreducer.config.menu.enableHUD.0": "DESL.",
     "fpsreducer.config.menu.enableHUD.1": "Superior esquerdo",
     "fpsreducer.config.menu.enableHUD.2": "Superior direito",
-    "fpsreducer.config.menu.enableHUD.3": "Infeiror direito",
-    "fpsreducer.config.menu.enableHUD.4": "Infeiror esquerdo",
+    "fpsreducer.config.menu.enableHUD.3": "Inferior direito",
+    "fpsreducer.config.menu.enableHUD.4": "Inferior esquerdo",
     "fpsreducer.config.menu.hudLayout": "Layout do HUD",
     "fpsreducer.config.menu.hudScale": "Escala do HUD",
     "#fpsreducer.config.menu.waitingTimeMin": "Tempo de Espera (min)",
@@ -37,7 +37,7 @@
     "#fpsreducer.config.ON": "LIG.",
     "#fpsreducer.config.OFF": "DESL.",
     
-    "fpsreducer.config.hudPosAdj.description": "Seleicione uma posição de referência das oitos caixas de seleção localizadas nas bordas da tela, e arraste a caixa que indicar a posição do contador de FPS. Você também pode usar as teclas de setas ou WASD para mover a caixa.",
+    "fpsreducer.config.hudPosAdj.description": "Selecione uma posição de referência das oitos caixas de seleção localizadas nas bordas da tela, e arraste a caixa que indicar a posição do contador de FPS. Você também pode usar as teclas de setas ou WASD para mover a caixa.",
     "fpsreducer.config.hudPosAdj.hudInfo.0": "HUD Desabilitado",
     "fpsreducer.config.hudPosAdj.hudInfo.1": "FPS+CPU (Longo)",
     "fpsreducer.config.hudPosAdj.hudInfo.2": "FPS+CPU (Curto)",
@@ -47,16 +47,16 @@
     "fpsreducer.config.hudPosAdj.hudInfo.6": "Simples",
     "fpsreducer.config.hudPosAdj.alignment.0": "Esquerdo Alinhado",
     "fpsreducer.config.hudPosAdj.alignment.1": "Direito Alinhado",
-    "fpsreducer.config.hudPosAdj.alignment.2": "Centrtalizado",
-    "fpsreducer.config.hudPosAdj.reset": "Resetar Posição",
+    "fpsreducer.config.hudPosAdj.alignment.2": "Centralizado",
+    "fpsreducer.config.hudPosAdj.reset": "Redefinir Posição",
     
     "fpsreducer.config.tooltip.waitingTime": "O tempo de espera até que o cliente passe para o estado de ociosidade quando não há operação. Pode ser desativado movendo o controle deslizante para a borda direita.",
     "fpsreducer.config.tooltip.idleFps": "FPS Máx. no estado de ociosidade. Os FPS serão reduzidos para esse valor quando não houver operações por um período especificado de tempo.",
     "fpsreducer.config.tooltip.guiScreenFps": "FPS Máx. em telas de GUI, como a tela de inventário e as telas de menu.",
-    "fpsreducer.config.tooltip.noActFps": "FPS Máx. durante a inatividade. Após detectar a falta de operação, os FPS são imediatamente limitados a esse valor.",
+    "fpsreducer.config.tooltip.noActFps": "FPS Máx. durante inatividade. Após detectar a falta de operação, os FPS são imediatamente limitados a esse valor.",
     
     "fpsreducer.config.tooltip.profile.modest": "§ePerfil: §oEconomia Modesta§r\nOs FPS serão reduzidos quando o cliente estiver em segundo plano ou no menu ESC. (Padrão)",
-    "fpsreducer.config.tooltip.profile.eco": "§ePerfil: §oEconomina§r\nQuase o mesmo que a configuração padrão do FPS Reducer 1. Os FPS serão reduzidos quando o cliente estiver em segundo plano, no menu ESC ou inativo por 10 minutos.",
+    "fpsreducer.config.tooltip.profile.eco": "§ePerfil: §oEconomia§r\nQuase o mesmo que a configuração padrão do FPS Reducer 1. Os FPS serão reduzidos quando o cliente estiver em segundo plano, no menu ESC ou inativo por 10 minutos.",
     "fpsreducer.config.tooltip.profile.cooling1": "§ePerfil: §oResfriamento Situacional (Baixo)§r\nControle proativo da carga, dependendo da situação. (Para PCs que executam a 60fps ou mais). Além do comportamento do perfil Econômico, os FPS serão limitados a 60fps quando o personagem estiver parado, na tela de inventário ou em qualquer tela de GUI. Dependendo das configurações de VSync e Taxa Máxima de Quadros nas Configurações de Vídeo, o efeito será menos eficaz.",
     "fpsreducer.config.tooltip.profile.cooling2": "§ePerfil: §oResfriamento Situacional (Alto)§r\nSupressão de carga mais poderosa, dependendo da situação. (Para PCs mais fracos). Além do comportamento do perfil Econômico, os FPS serão limitados a 30fps quando o personagem estiver parado, na tela de inventário ou em qualquer tela de GUI."
 }
