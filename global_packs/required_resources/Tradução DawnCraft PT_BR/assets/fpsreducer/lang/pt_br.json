@@ -4,7 +4,7 @@
     "fpsreducer.key.forceIdle": "Reduzir FPS Manualmente",
     
     "fpsreducer.config.screen.title": "Configuração do FPS Reducer",
-    "fpsreducer.config.advanced.screen.title": "Opções Avançadas FPS Reducer",
+    "fpsreducer.config.advanced.screen.title": "Opções Avançadas do FPS Reducer",
     
     "fpsreducer.config.menu.enableFpsReducer": "FPS Reducer",
     "fpsreducer.config.menu.detectMoving": "Detectar Movimento",
