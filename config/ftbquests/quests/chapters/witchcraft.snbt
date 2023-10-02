@@ -41,10 +41,10 @@
 			description: [
 				"Seu caldeirão básico de bruxaria. Aqui é onde você criará a maioria dos seus itens."
 				""
-				"O uso deste bloco está bloqueado após a conclusão de uma missão específica do Aldeão Clérigo. O conhecimento necessário para usar caldeirões pode em vez disso ser desbloqueado em uma missão encontrada acima, no entanto o preço é alto…"
+				"O uso deste bloco está bloqueado até a conclusão de uma missão específica do Aldeão Clérigo. O conhecimento necessário para usar caldeirões pode em vez disso ser desbloqueado em uma missão encontrada acima, no entanto o preço é alto…"
 				""
 				"&b&lUso:"
-				"Caldeirões podem conter vários tipos de líquidos, que podem ser despejados diretamente nele. Algumas receitas de artesanato também podem mudar o líquido armazenado em um tipo diferente, que pode ser necessário para outras receitas. Materiais adicionais necessários para uma receita de artesanato podem ser jogados no caldeirão ou adicionados através do menu acessado clicando com o botão direito do mouse no caldeirão. Depois que os materiais necessários forem adicionados, o item finalizado pode ser recuperado clicando com o botão direito do mouse no caldeirão para acessar o menu de artesanato."
+				"Caldeirões podem conter vários tipos de líquidos, que podem ser despejados diretamente nele. Algumas receitas de criação também podem mudar o líquido armazenado em um tipo diferente, que pode ser necessário para outras receitas. Materiais adicionais necessários para uma receita de criação podem ser jogados no caldeirão ou adicionados através do menu acessado clicando com o botão direito do mouse no caldeirão. Depois que os materiais necessários forem adicionados, o item finalizado pode ser recuperado clicando com o botão direito do mouse no caldeirão para acessar o menu de criação."
 			]
 			dependencies: ["758B99AACB978297"]
 			size: 1.5d
@@ -66,7 +66,7 @@
 			x: 0.0d
 			y: -2.6999999999999997d
 			description: [
-				"Caldeirões Hexerei exigem nível de conhecimento 2 para usar. Isso pode ser obtido através de uma missão de Aldeão Clérigo, no entanto aqueles que estão tendo dificuldades em encontrar esta missão ou que falharam em completá-la podem em vez disso comprar o conhecimento aqui, por um preço…"
+				"Caldeirões do Hexerei exigem nível de conhecimento 2 para usar. Isso pode ser obtido através de uma missão do Aldeão Clérigo, no entanto aqueles que estão tendo dificuldades em encontrar esta missão ou que falharam em completá-la podem em vez disso comprar o conhecimento aqui, por um preço…"
 				"\\nNota: Atualmente, o livro das sombras trava os clientes se o cliente estiver usando shaders."
 			]
 			dependencies: ["758B99AACB978297"]
@@ -105,7 +105,7 @@
 			title: "Sigilo de Sangue"
 			x: 1.5d
 			y: 2.0d
-			description: ["Um upgrade de caldeirão que permite a adição de sangue em receitas de itens que o exigem. Basta colocar o sigilo no slot apropriado na interface de artesanato do caldeirão e saltar dentro dele para criar sangue. Saltar mais vezes irá adicionar mais sangue. Outros líquidos e materiais podem ser adicionados normalmente. Receitas comuns que não exigem sangue ainda podem ser criadas enquanto o sigilo está no caldeirão."]
+			description: ["Um aprimoramento de caldeirão que permite a adição de sangue em receitas de itens que o exigem. Basta colocar o símbolo no espaço apropriado na interface de criação do caldeirão e saltar dentro dele para criar sangue. Saltar mais vezes irá adicionar mais sangue. Outros líquidos e materiais podem ser adicionados normalmente. Receitas comuns que não exigem sangue ainda podem ser criadas enquanto o símbolo estiver no caldeirão."]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "03B7E08CB2B2362E"
