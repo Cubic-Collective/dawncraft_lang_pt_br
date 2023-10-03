@@ -2,7 +2,7 @@
 
 CurseForge: [Link](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
-Versão do ModPack: 1.30_f
+Versão do ModPack: 1.31_f
 
 Se você possui um conhecimento básico de inglês e deseja contribuir com a tradução, convidamos você a se juntar ao nosso [Discord](https://discord.gg/QQxckfPWvz "DawnCraft - Tradução pt_br") para obter mais informações.
 
