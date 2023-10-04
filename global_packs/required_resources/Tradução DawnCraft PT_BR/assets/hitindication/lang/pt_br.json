@@ -1,0 +1,27 @@
+{
+  "hitindication.configgui.enable_hit_indication":"Ativar Indicação de Acerto",
+
+  "hitindication.configgui.max_indicator_count":"Contagem Máxima de Indicadores",
+
+  "hitindication.configgui.display_hits_from_negative_potions":"Mostrar Efeitos de Poções Negativas que não Causam Dano",
+
+  "hitindication.configgui.size_depends_on_damage":"Dano intenso aumentam indicador",
+
+  "hitindication.configgui.indicator_default_scale":"Escala Padrão do Indicador (0-100)",
+
+  "hitindication.configgui.fade_rate":"Taxa de Desvanecimento do Indicador (Ticks)",
+
+  "hitindication.configgui.indicator_opacity":"Opacidade do Indicador (0-100)",
+
+  "hitindication.configgui.display_blue_indicators":"Mostrar Indicador de Bloco",
+
+  "hitindication.configgui.enable_hit_markers":"Ativar Marcadores de Crítico/Morte",
+
+  "hitindication.configgui.enable_distance_scaling":"Ativar Dimensionamento de Distância",
+
+  "hitindication.configgui.distance_scaling_cutoff":"Ponto de Corte para Dimensionamento de Distância",
+
+  "hitindication.configgui.enable_non_directional_damage":"Ativar Indicador de Dano Não-Direcional",
+
+  "hitindication.configgui.distance_from_crosshair":"Distância a partir da mira"
+}
