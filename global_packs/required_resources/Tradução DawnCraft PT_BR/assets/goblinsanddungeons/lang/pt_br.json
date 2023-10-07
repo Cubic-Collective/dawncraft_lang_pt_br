@@ -1,7 +1,7 @@
 {
 	"itemGroup.goblinsanddungeons_item_group": "Goblins & Dungeons",
 	
-	"item.goblinsanddungeons.goblin_crown": "Coroa de Goblin",
+	"item.goblinsanddungeons.goblin_crown": "Coroa deGoblin",
 	"item.goblinsanddungeons.gob_spawn_egg": "Ovo de Goblin",
 	"item.goblinsanddungeons.hobgob_spawn_egg": "Ovo de Hobgoblin",
 	"item.goblinsanddungeons.goblo_spawn_egg": "Ovo de Goblo",
@@ -139,7 +139,7 @@
 	
 	"health_ring": "Quando na mão secundária, este anel concede dois pontos de saúde, o equivalente a um coração, ao usuário.",
 	"stealth_ring": "Quando na mão secundária, este anel reduz ainda mais a distância de detecção de mobs hostis do usuário em 20% enquanto ele está agachado.",
-	"glory_ring": "Quando na mão secundária, este anel cura o usuário para cada inimigo morto. A quantidade de saúde restaurada aumenta de acordo com a quantidade de saúde que o inimigo morto tinha.",
+	"glory_ring": "Quando na mão secundária, este anel cura o usuário para cada inimigo morto. A quantidade de vida restaurada aumenta de acordo com a quantidade de vida que o inimigo morto tinha.",
 	"experience_ring": "Quando na mão secundária, o usuário ganha um ponto de experiência adicional sempre que XP for obtido.",
 	"goblin_crown": "Quando na cabeça, o usuário faz com que Goblins e Ogros adquiram Fraqueza II, e todos os outros mobs hostis, Fraqueza I. Além disso, reduzirá o alcance de detecção de Goblins e Ogros em relação ao usuário em 50%.",
 	"shift": "Pressione [SHIFT] para mais informações"
