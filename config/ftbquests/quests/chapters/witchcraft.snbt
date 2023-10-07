@@ -102,10 +102,10 @@
 			}]
 		}
 		{
-			title: "Sigilo de Sangue"
+			title: "Símbolo de Sangue"
 			x: 1.5d
 			y: 2.0d
-			description: ["Um aprimoramento de caldeirão que permite a adição de sangue em receitas de itens que o exigem. Basta colocar o símbolo no espaço apropriado na interface de criação do caldeirão e saltar dentro dele para criar sangue. Saltar mais vezes irá adicionar mais sangue. Outros líquidos e materiais podem ser adicionados normalmente. Receitas comuns que não exigem sangue ainda podem ser criadas enquanto o símbolo estiver no caldeirão."]
+			description: ["Um aprimoramento de caldeirão que permite a adição de sangue em receitas de itens que o exigem. Basta colocar o símbolo no espaço apropriado na interface do caldeirão e saltar dentro dele para criar sangue. Saltar mais vezes irá adicionar mais sangue. Outros líquidos e materiais podem ser adicionados normalmente. Receitas comuns que não exigem sangue ainda podem ser criadas enquanto o símbolo estiver no caldeirão."]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "03B7E08CB2B2362E"
@@ -121,7 +121,7 @@
 			}]
 		}
 		{
-			title: "Balde de sebo"
+			title: "Balde de Sebo"
 			x: -1.5d
 			y: 1.0d
 			description: ["Coloque 6 gorduras animais e 2 favos de mel em um caldeirão cheio de água para produzir sebo. Usado na criação de velas."]
@@ -139,10 +139,10 @@
 			}]
 		}
 		{
-			title: "Concha de Mergulho"
+			title: "Suporte de Velas"
 			x: -2.5d
 			y: 0.0d
-			description: ["Coloque em um caldeirão cheio de sebo para usar. Adicione cordas ao pegador de mergulho clicando com o botão direito nelas para começar a mergulhar velas."]
+			description: ["Coloque em um caldeirão cheio de sebo para usar. Adicione linhas ao suporte de velas clicando com o botão direito nelas para começar a submergir as velas."]
 			dependencies: ["3BA3BF3785F2A9EC"]
 			size: 1.3d
 			id: "3647588131AA1187"
@@ -161,7 +161,7 @@
 			title: "Vela"
 			x: -3.5d
 			y: -1.0d
-			description: ["Uau! É uma vela! Pode ser tingida e usada como um bloco decorativo. Acenda-a com um pedaço de sílex e aço para obter uma luz com duração limitada. Pode ser usado para criar candelabros. Várias velas podem ser colocadas juntas no mesmo bloco."]
+			description: ["Uau! É uma vela! Pode ser tingida e usada como um bloco decorativo. Acenda-a com uma pederneira para obter uma luz com duração limitada. Pode ser usado para criar candelabros. Várias velas podem ser colocadas juntas no mesmo bloco."]
 			dependencies: ["3647588131AA1187"]
 			id: "430A7C370D3DCC00"
 			tasks: [{
@@ -208,10 +208,10 @@
 			}]
 		}
 		{
-			title: "Secadora"
+			title: "Suporte de Secagem"
 			x: 2.5d
 			y: -1.5d
-			description: ["Usado para secar ervas e itens à base de ervas. Clique com o botão direito do mouse com um item para pendurá-lo e pressione shift+clique com o botão direito do mouse para removê-lo"]
+			description: ["Usado para secar ervas e itens à base de ervas. Clique com o botão direito do mouse com um item para pendurá-lo e pressione shift + clique com o botão direito do mouse para removê-lo"]
 			dependencies: ["63426BF34D49D775"]
 			size: 1.3d
 			id: "1CFBAADF7DEF4EB8"
@@ -222,10 +222,10 @@
 			}]
 		}
 		{
-			title: "Feixe de sálvia seca"
+			title: "Feixe de Sálvia Seca"
 			x: 3.0d
 			y: -3.0d
-			description: ["Coloque em um prato de incenso para queimar. Impede que mobs apareçam em um raio. Veja a borda da zona afetada através de um efeito de “anel de fumaça” que pode ser visto ao redor da área afetada. Pode ser pego para pausar o efeito de queima e iniciado novamente em um momento posterior. Ótimo para manter as bases mais seguras durante a noite."]
+			description: ["Coloque em um Prato de Queima de Sálvia para queimar. Impede que mobs apareçam em um raio. Veja a borda da zona afetada através de um efeito de “anel de fumaça” que pode ser visto ao redor da área afetada. Pode ser pego para pausar o efeito de queima e iniciado novamente em um momento posterior. Ótimo para manter as bases mais seguras durante a noite."]
 			dependencies: ["1CFBAADF7DEF4EB8"]
 			id: "48D563E6DA99E3F9"
 			tasks: [{
@@ -241,10 +241,10 @@
 			}]
 		}
 		{
-			title: "Placa para queimar sálvia"
+			title: "Prato de Queima de Sálvia"
 			x: 3.5d
 			y: -4.5d
-			description: ["Coloque pacotes de sálvia seca neste prato e acenda com pederneira e aço."]
+			description: ["Coloque feixes de sálvia seca neste prato e acenda com uma pederneira."]
 			dependencies: ["48D563E6DA99E3F9"]
 			id: "5049C85915A199E4"
 			tasks: [{
@@ -259,10 +259,10 @@
 			}]
 		}
 		{
-			title: "Frasco de ervas"
+			title: "Jarro de Ervas"
 			x: -3.5d
 			y: 3.0d
-			description: ["Encha um caldeirão cheio de lava com areia para craftar. Ele pode armazenar uma quantidade muito grande de um único tipo de planta ou erva. Para acessar o armazenamento, pressione o botão direito. Você pode armazenar uma planta ou erva ao clicar com ela. Para retirar um item, dê um hit nele, se desejar retirar um pack completo, segure Shift e dê um hit. Você pode rotulá-lo em uma bigorna. Além disso, ele pode ser facilmente coletado e colocado novamente, mantendo os itens armazenados."]
+			description: ["Encha um caldeirão cheio de lava com areia para criar. Ele pode armazenar uma quantidade muito grande de um único tipo de planta ou erva. Para acessar o armazenamento, pressione o botão direito. Você pode armazenar uma planta ou erva ao clicar com ela em mãos. Para retirar um item, dê um hit nele, se desejar retirar um pack completo, segure Shift e dê um hit. Você pode rotulá-lo em uma bigorna. Além disso, ele pode ser facilmente coletado e colocado novamente, mantendo os itens armazenados."]
 			dependencies: ["7D2C066D53F03275"]
 			id: "37BD6B0893D6BC03"
 			tasks: [{
@@ -286,7 +286,7 @@
 			y: 5.2d
 			description: [
 				"Armazena itens e os exibe visualmente. Pode ser coletado juntamente com o conteúdo como uma caixa de shulker."
-				"Crafte com corante para colorir."
+				"Use um corante para tingir."
 			]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
@@ -313,10 +313,10 @@
 			description: [
 				"Permite voar!"
 				""
-				"Pressione shift + clique com o botão direito do mouse para abrir o menu da vassoura. A partir daqui, você pode personalizar sua vassoura e alterar suas configurações (pairar ou pousar). IMPORTANTE: Se você cair de uma vassoura em pleno voo e ela estiver no modo pairar, ela ficará lá em cima! Você terá mais facilidade em recuperar vassouras no modo “pousar”… a menos que ela pouse na água…"
+				"Pressione shift + clique com o botão direito do mouse para abrir a interface da vassoura. A partir daqui, você pode personalizar sua vassoura e alterar suas configurações (pairar ou pousar). IMPORTANTE: Se você cair de uma vassoura em pleno voo e ela estiver no modo pairar, ela ficará lá em cima! Você terá mais facilidade em recuperar vassouras no modo “pousar”… a menos que ela pouse na água…"
 				""
 				"Vassouras são dirigidas de maneira semelhante a um barco. Clique com o botão direito do mouse para montar, pressione shift + clique com o botão direito do mouse para desmontar. Segure espaço para voar ou pressione shift para descer."
-				"Socar repetidamente para quebrar e pegar."
+				"Soque repetidamente para quebrar e pegar."
 			]
 			dependencies: ["03B7E08CB2B2362E"]
 			size: 1.3d
@@ -340,7 +340,7 @@
 			title: "Vassoura de Mogno"
 			x: 3.5d
 			y: 4.5d
-			description: ["Mais rápido, mais durável e resistente ao fogo."]
+			description: ["Mais rápida, mais durável e resistente ao fogo."]
 			dependencies: ["5227F33207D38CFC"]
 			size: 1.3d
 			id: "428171D49BCEF30E"
@@ -362,7 +362,7 @@
 		{
 			x: -1.5d
 			y: -1.0d
-			description: ["Ajuda a encontrar pântanos e selvas para obter itens importantes na criação de poções e outros artefatos da bruxaria. Ao passar o cursor sobre o item desejado, pressione a tecla Shift para obter uma descrição detalhada."]
+			description: ["Ajuda a encontrar pântanos e selvas para obter itens importantes na criação de poções e outros artefatos de bruxaria. Ao passar o cursor sobre o item desejado, pressione a tecla Shift para obter uma descrição detalhada."]
 			dependencies: ["758B99AACB978297"]
 			id: "461139AB9A78151D"
 			tasks: [{
@@ -380,7 +380,7 @@
 			title: "Frasco de Sangue"
 			x: 3.0d
 			y: 1.5d
-			description: ["Sangue engarrafado. Segure shift enquanto passa o mouse sobre o item para obter mais detalhes. Usado em algumas receitas de artesanato."]
+			description: ["Sangue engarrafado. Segure shift enquanto passa o mouse sobre o item para obter mais detalhes. Usado em algumas receitas de criação."]
 			dependencies: ["03B7E08CB2B2362E"]
 			id: "4E6B5FEB5F44E947"
 			tasks: [{
@@ -398,7 +398,7 @@
 			title: "Bolsa Pequena"
 			x: 4.0d
 			y: 3.0d
-			description: ["Adicione ao slot ‘Bolsa’ da sua vassoura. Adiciona capacidade de armazenamento à sua vassoura."]
+			description: ["Adicione ao espaço ‘Bolsa’ da sua vassoura. Adiciona capacidade de armazenamento à sua vassoura."]
 			dependencies: ["5227F33207D38CFC"]
 			id: "78FCEF109D9CB599"
 			tasks: [{
@@ -449,10 +449,10 @@
 			}]
 		}
 		{
-			title: "Anéis de ouro"
+			title: "Anéis de Ouro"
 			x: 1.5d
 			y: 4.5d
-			description: ["Anéis decorativos para sua vassoura. Adicione-os no slot de \"Decoração\"."]
+			description: ["Anéis decorativos para sua vassoura. Adicione-os no espaço de \"Miscelânea\"."]
 			dependencies: ["5227F33207D38CFC"]
 			id: "6174E85ADB639FA2"
 			tasks: [{
@@ -467,10 +467,10 @@
 			}]
 		}
 		{
-			title: "Corrente para Vassoura"
+			title: "Chaveiro de Vassoura"
 			x: 1.0d
 			y: 5.5d
-			description: ["Item decorativo para sua vassoura. Crie um chaveiro desse item (o item será consumido!) ao combiná-lo na receita. Adicione o chaveiro no slot de \"Decoração\" de sua vassoura para exibir o chaveiro do item escolhido."]
+			description: ["Item decorativo para sua vassoura. Crie um chaveiro desse item (o item será consumido!) ao combiná-lo na receita. Adicione o chaveiro no espaço de \"Miscelânea\" de sua vassoura para exibir o chaveiro do item escolhido."]
 			dependencies: ["6174E85ADB639FA2"]
 			id: "6A54AEC72104C48C"
 			tasks: [{
@@ -493,7 +493,7 @@
 			x: 0.5d
 			y: 3.5d
 			description: [
-				"Colocado no slot ‘Escova’ da vassoura. Permite que a vassoura funcione. Degrada ao longo do tempo. Pode ser encantado para melhorar a durabilidade."
+				"Colocado no espaço ‘Escova’ da vassoura. Permite que a vassoura funcione. Degrada ao longo do tempo. Pode ser encantado para melhorar a durabilidade."
 				""
 			]
 			dependencies: ["5227F33207D38CFC"]
@@ -516,7 +516,7 @@
 			}]
 		}
 		{
-			title: "Escova de vassoura aprimorada"
+			title: "Escova de Vassoura Aprimorada"
 			x: 0.0d
 			y: 4.5d
 			description: ["Uma escova de vassoura mais resistente."]
@@ -540,10 +540,10 @@
 			}]
 		}
 		{
-			title: "Ponta impermeável de vassoura"
+			title: "Ponta de Vassoura Impermeável"
 			x: 2.5d
 			y: 5.5d
-			description: ["Adicione ao slot \"Ponta da Vassoura\" do menu da sua vassoura. Melhora a resistência à água. Perde durabilidade gradualmente quando em contato com água. Permite voar na água."]
+			description: ["Adicione ao espaço \"Miscelânea\" da interface da sua vassoura. Melhora a resistência à água. Perde durabilidade gradualmente quando em contato com água. Permite voar na água."]
 			dependencies: ["5227F33207D38CFC"]
 			id: "70C162E9A761F649"
 			tasks: [{
@@ -564,7 +564,7 @@
 			}]
 		}
 		{
-			title: "Ponta de vassoura de netherita"
+			title: "Ponta de Vassoura de Netherita"
 			x: 2.0d
 			y: 6.5d
 			description: ["Aumenta a resistência a fogo da vassoura. Permite voar na lava."]
@@ -588,7 +588,7 @@
 			}]
 		}
 		{
-			title: "Flores de Belladonna"
+			title: "Ervas"
 			x: 3.5d
 			y: 0.0d
 			description: ["Várias ervas podem ser encontradas nos biomas de pântano. Estas são necessárias para muitas receitas de bruxaria."]
@@ -634,7 +634,7 @@
 			}]
 		}
 		{
-			title: "Pistilo e almofariz"
+			title: "Almofariz e Pilão"
 			x: -3.5d
 			y: 1.5d
 			description: ["Usado para moer sementes em mistura de sementes para domesticação de corvos."]
@@ -653,10 +653,10 @@
 			}]
 		}
 		{
-			title: "Mistura de sementes"
+			title: "Mistura de Sementes"
 			x: -5.0d
 			y: 1.5d
-			description: ["Craftado em um pistilo e almofariz. Alimente corvos selvagens para ter uma chance de domesticá-los. Os corvos podem ser encontrados na maioria dos biomas, como florestas e pântanos. Veja a próxima missão \"Flauta de Corvo\" para um guia completo sobre o uso dos corvos."]
+			description: ["Criado em um Almofariz e Pilão. Alimente corvos selvagens para ter uma chance de domesticá-los. Os corvos podem ser encontrados na maioria dos biomas, como florestas e pântanos. Veja a próxima missão \"Flauta de Corvos\" para um guia completo sobre o uso dos corvos."]
 			dependencies: ["3B1A6973557F7E3C"]
 			id: "4EEC8127EDECFC93"
 			tasks: [{
@@ -680,24 +680,24 @@
 			x: -6.5d
 			y: 1.5d
 			description: [
-				"Corvos podem ser domesticados alimentando-os com uma mistura de sementes. Uma vez domados, eles podem ser controlados usando uma Flauta de Corvo."
+				"Corvos podem ser domesticados alimentando-os com uma mistura de sementes. Uma vez domesticados, eles podem ser controlados usando uma Flauta de Corvos."
 				""
-				"Clique com o botão direito em um corvo familiar enquanto estiver agachado para acessar o menu dele. A partir daqui, você pode alterar o modo de seguir, comportamento e equipar vários itens decorativos."
+				"Clique com o botão direito em um corvo familiar enquanto estiver agachado para acessar a interface dele. A partir daqui, você pode alterar o modo de seguir, comportamento e equipar vários itens decorativos."
 				""
 				"&b&lModo de Seguir"
-				"Ao definir um modo de seguir, você pode alterar como o corvo segue o jogador. Ele pode seguir/pousar no ombro do jogador, vagar ou sentar-se. Defina o corvo para o modo \"Ajuda\" para habilitar suas funções de coleta."
+				"Ao definir um modo de seguir, você pode alterar como o corvo segue o jogador. Ele pode seguir/pousar no ombro do jogador, passear ou sentar-se. Defina o corvo para o modo \"Ajudar\" para habilitar suas funções de coleta."
 				""
 				"&b&lColeta"
-				"Corvos em modo de coleta irão recolher itens próximos e colocá-los em um baú próximo. Os tipos de itens que você deseja coletar devem estar presentes no baú. Para depositar os itens, os corvos devem ser configurados para pousar em um baú (consulte a seção \"Flauta de Corvo\")."
+				"Corvos em modo de coleta irão recolher itens próximos e colocá-los em um baú próximo. Os tipos de itens que você deseja coletar devem estar presentes no baú. Para depositar os itens, os corvos devem ser configurados para pousar em um baú (consulte a seção \"Flauta de Corvos\")."
 				""
-				"&b&lColheita"
-				"Corvos em modo de colheita irão colher plantações próximas, incluindo plantas naturais e algumas plantas (como as plantas Hexerei encontradas em biomas de pântano). Pode ser combinado com corvos de coleta para automatizar completamente sua fazenda. Melhor usado com a flauta de corvo (veja abaixo)."
+				"&b&lColher"
+				"Corvos em modo de colher irão colher plantações próximas, incluindo plantas naturais e algumas plantas (como as plantas Hexerei encontradas em biomas de pântano). Pode ser combinado com corvos de coleta para automatizar completamente sua fazenda. Melhor usado com a flauta de corvos (veja abaixo)."
 				""
-				"&b&lFlauta de Corvo."
-				"Ao segurar a flauta de corvo, pressione shift e clique com o botão direito do mouse para acessar o menu da flauta. Este menu é semelhante ao menu do corvo, mas pode ser usado para selecionar e comandar vários corvos, bem como definir pontos de casa para corvos individuais ou grupos de corvos. Escolher a opção \"Selecionar\" permitirá clicar com o botão direito do mouse nos corvos com a flauta para selecioná-los ou desmarcá-los. Mudar para o modo \"Pousar\" permitirá definir um local de pouso para todos os corvos atualmente selecionados. Alterar qualquer uma das configurações de seguir/ajudar mudará essas configurações para todos os corvos selecionados de uma só vez. Ótimo para direcionar um grande número de corvos de uma só vez e a única maneira de definir locais de pouso para corvos. Clique com o botão direito do mouse com a flauta para ativar a função selecionada."
+				"&b&lFlauta de Corvos."
+				"Ao segurar a flauta de corvos, pressione shift e clique com o botão direito do mouse para acessar a interface da flauta. Esta interface é semelhante a interface do corvo, mas pode ser usada para selecionar e comandar vários corvos, bem como definir pontos de casa para corvos individualmente ou em grupo. Escolher a opção \"Selecionar\" permitirá clicar com o botão direito do mouse nos corvos com a flauta para selecioná-los ou desmarcá-los. Mudar para o modo \"Sentar\" permitirá definir um local de pouso para todos os corvos atualmente selecionados. Alterar qualquer uma das configurações de seguir/ajudar mudará essas configurações para todos os corvos selecionados de uma só vez. Ótimo para direcionar um grande número de corvos de uma só vez e a única maneira de definir locais de pouso para corvos. Clique com o botão direito do mouse com a flauta para ativar a função selecionada."
 				""
-				"&b&lRoubo"
-				"Corvos no modo de roubo irão roubar de aldeões próximos e deixar os itens roubados em seu local de pouso. Configure-os para pousar em um funil para facilitar o depósito em um baú. Eles roubam uma variedade de itens, incluindo esmeraldas. Os corvos voarão ao redor após roubar para evitar detecção antes de depositar."
+				"&b&lFurtar"
+				"Corvos no modo furtar irão roubar de aldeões próximos e deixar os itens roubados em sua posição de poleiro. Configure-os para pousar em um funil para facilitar o depósito em um baú. Eles roubam uma variedade de itens, incluindo esmeraldas. Os corvos voarão ao redor após roubar para evitar detecção antes de depositar."
 				""
 				"&b&lReprodução"
 				"Vários corvos domesticados podem ser alimentados com pepitas de ouro para reproduzir."
@@ -724,7 +724,7 @@
 			title: "Tecido Infundido"
 			x: -3.0d
 			y: 4.5d
-			description: ["Fabricado em um caldeirão, o tecido infundido é fundamental para a confecção do uniforme da sua bruxa."]
+			description: ["Fabricado em um caldeirão, o tecido infundido é fundamental para a confecção da sua roupa de bruxo(a)."]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "4321174BCD4E13A9"
@@ -743,7 +743,7 @@
 			title: "Chapéu de Bruxa"
 			x: -4.5d
 			y: 5.5d
-			description: ["O uniforme da bruxa. É ligeiramente mais resistente do que a armadura de ferro e fornece uma série de efeitos úteis. Permite que o jogador se misture com as bruxas."]
+			description: ["Roupa de bruxo(a). É ligeiramente mais resistente do que a armadura de ferro e fornece uma série de efeitos úteis. Permite que o jogador se misture com as bruxas."]
 			dependencies: ["4321174BCD4E13A9"]
 			id: "631CBCD0CA912A0C"
 			tasks: [
@@ -788,7 +788,7 @@
 			}]
 		}
 		{
-			title: "Chapéu de bruxa com cogumelos"
+			title: "Chapéu de Bruxa de Cogumelos"
 			x: -5.5d
 			y: 6.5d
 			description: ["Um chapéu de bruxa melhorado esteticamente."]
