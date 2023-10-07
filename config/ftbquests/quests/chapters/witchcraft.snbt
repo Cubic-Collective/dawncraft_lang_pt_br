@@ -27,7 +27,7 @@
 			tasks: [{
 				id: "27A8151F5396B022"
 				type: "checkmark"
-				title: "Read"
+				title: "Lido"
 			}]
 			rewards: [{
 				id: "4675E9128CFFA4C1"
@@ -95,7 +95,7 @@
 			rewards: [{
 				id: "0333232AE6BE4B35"
 				type: "command"
-				title: "Cauldron Knowledge Level 2"
+				title: "Conhecimento de Caldeirão Nível 2"
 				icon: "minecraft:written_book"
 				command: "/pmmo admin @p add slayer level 2"
 				player_command: false
@@ -697,7 +697,7 @@
 				"Ao segurar a flauta de corvos, pressione shift e clique com o botão direito do mouse para acessar a interface da flauta. Esta interface é semelhante a interface do corvo, mas pode ser usada para selecionar e comandar vários corvos, bem como definir pontos de casa para corvos individualmente ou em grupo. Escolher a opção \"Selecionar\" permitirá clicar com o botão direito do mouse nos corvos com a flauta para selecioná-los ou desmarcá-los. Mudar para o modo \"Sentar\" permitirá definir um local de pouso para todos os corvos atualmente selecionados. Alterar qualquer uma das configurações de seguir/ajudar mudará essas configurações para todos os corvos selecionados de uma só vez. Ótimo para direcionar um grande número de corvos de uma só vez e a única maneira de definir locais de pouso para corvos. Clique com o botão direito do mouse com a flauta para ativar a função selecionada."
 				""
 				"&b&lFurtar"
-				"Corvos no modo furtar irão roubar de aldeões próximos e deixar os itens roubados em sua posição de poleiro. Configure-os para pousar em um funil para facilitar o depósito em um baú. Eles roubam uma variedade de itens, incluindo esmeraldas. Os corvos voarão ao redor após roubar para evitar detecção antes de depositar."
+				"Corvos no modo furtar irão roubar de aldeões próximos e deixar os itens roubados em sua posição de pouso. Configure-os para pousar em um funil para facilitar o depósito em um baú. Eles roubam uma variedade de itens, incluindo esmeraldas. Os corvos voarão ao redor após roubar para evitar detecção antes de depositar."
 				""
 				"&b&lReprodução"
 				"Vários corvos domesticados podem ser alimentados com pepitas de ouro para reproduzir."
