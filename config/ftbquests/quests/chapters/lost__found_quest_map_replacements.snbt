@@ -759,7 +759,7 @@
 			}
 			x: 3.5d
 			y: 3.0d
-			subtitle: "O paradeiro de um monstro subterrâneo. Cave fundo e derrote o monstro."
+			subtitle: "O paradeiro de um monstro subter- râneo. Cave fundo e derrote o monstro."
 			dependencies: ["4C90846C71FC8E0F"]
 			can_repeat: true
 			id: "12E531CF67D7980E"

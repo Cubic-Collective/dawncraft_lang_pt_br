@@ -50,7 +50,7 @@
 			y: -7.0d
 			subtitle: "Como desativar o fogo amigo em servidores?"
 			description: [
-				"1) /team add [time] \\n2) /team modify [time] friendlyfire false"
+				"1) /team add [time] \\n&72) /team modify [time] friendlyfire false"
 				"3) /team join [time] [jogador]"
 			]
 			id: "59F404BFA55005EA"
@@ -66,11 +66,11 @@
 			subtitle: "Uma lista de atalhos que você deve conhecer!"
 			description: [
 				" Pressione \"i\" para obter informações sobre sua última morte"
-				" Pressione \"h\" para chamar o seu ca- valo"
+				" &7Pressione \"h\" para chamar o seu ca- valo"
 				" Pressione \"j\" para salvar o seu ca- valo"
-				" Pressione \"r\" para ativar o modo de combate"
+				" &7Pressione \"r\" para ativar o modo de combate"
 				" Pressione \"b\" para abrir a sua mochi- la (se  equipada)"
-				" Pressione \"n\" para abrir a sua aljava (se equipada)"
+				" &7Pressione \"n\" para abrir a sua aljava (se equipada)"
 				" Pressione \"k\" para checar e selecio- nar habilidades habilitadas"
 			]
 			id: "726F1FFCA2697CF6"
@@ -85,15 +85,15 @@
 			y: -4.0d
 			subtitle: "Uma lista de livros de informações que você pode querer. Verifique na barra de busca do inventário a receita de cada um!"
 			description: [
-				"    Crônica das Sombras (Apotheosis)"
-				"  Encyclopedia of life (Untamed Wilds)"
+				"   Crônica das Sombras (Apotheosis)"
+				"  &7Encyclopedia of life (Untamed Wilds)"
 				"      Dicionário Animal (Alex's Mobs)"
-				"    O Grande Livro de Manteiga (Lil' Wings)"
-				"         Book of Shadows (Hexerei)"
-				"       Caderno Desgastado (Ars Nouveau)"
-				"Armazenamento em Nuvem e Você (Cloud Storage)"
-				"              Paladin's Furniture"
-				"          Livro de Alimentos (Spice of Life)"
+				" &7O Grande Livro de Manteiga (Lil' Wings)"
+				"        Book of Shadows (Hexerei)"
+				"  &7Caderno Desgastado (Ars Nouveau)"
+				"    Armazenamento em Nuvem e Você                    (Cloud Storage)"
+				"             &7Paladin's Furniture"
+				"     Livro de Alimentos (Spice of Life)"
 			]
 			id: "5540C43EFDAE8E3B"
 			tasks: [{
@@ -171,7 +171,7 @@
 			subtitle: "Como posso proteger minhas propriedades em um servidor?"
 			description: [
 				" Veja o mod 'Claim Chunks'. Este mod a- diciona um novo bloco - 'Bloco de Rei- vindicação' no jogo. \\n\\n Verifique a página deles do Curse- Forge para saber como personalizar suas permissões de chunks!"
-				"\\n *A quantidade máxima de chunks que um jogador pode reivindicar é, por padrão, 8."
+				"\\n *A quantidade máxima de chunks que um jogador pode reivindicar é de 8 por padrão."
 			]
 			id: "2294C358D1153CAE"
 			tasks: [{
@@ -210,10 +210,10 @@
 		{
 			x: -2.5d
 			y: -2.0d
-			subtitle: "Como ler um mapa de explorador?"
+			subtitle: "Como ler um mapa de exploração?"
 			description: [
 				" Observe o pequeno ponto ao redor da borda do mapa. Esse é você. O topo do mapa aponta para o norte; A es- querda do mapa aponta para o oeste; etc..."
-				"\\n Às vezes há um bug no Minecraft Va- nilla onde a cruz não é mostrada no mapa. Em casos como este, você pre- cisará olhar ao redor da área em que o mapa está localizado.."
+				"\\n Às vezes há um bug no Minecraft Va- nilla onde a cruz não é mostrada no mapa. Em casos como este, você pre- cisará olhar ao redor da área em que o mapa está localizado."
 			]
 			id: "10180D525A3F3D4F"
 			tasks: [{

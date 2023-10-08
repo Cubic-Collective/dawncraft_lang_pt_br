@@ -92,7 +92,7 @@
 			y: -4.0d
 			description: [
 				" Para entrar no End, você precisa ati- var um portal que fica dentro de uma fortaleza. A diferença em relação ao Minecraft padrão é que você precisa de 12 olhos exclusivos para desblo- queá-lo. Esses olhos são difíceis de encontrar, mas você pode usar qual- quer conjunto de 12 deles (e há mais de 12 espalhados pelo mundo) para fazer isso."
-				"\\n - Conclua a Missão do Mestre da Guil- da: Mate 10 Saqueadores para mais in- formações."
+				"\\n Conclua a Missão do Mestre da Guilda: Mate 10 Saqueadores para mais infor- mações."
 			]
 			size: 2.0d
 			id: "57EDE0CC1790AEBD"
