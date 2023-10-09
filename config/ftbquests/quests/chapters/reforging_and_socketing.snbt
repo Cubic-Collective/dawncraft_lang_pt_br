@@ -13,7 +13,7 @@
 			icon: "apotheosis:gem"
 			x: 0.0d
 			y: 0.0d
-			description: ["Os equipamentos em DawnCraft podem ser aprimorados por meio do reforja- mento de sua qualidade, assim como pelo encaixe de gemas nos equipamen- tos. Esta sequência de missões expli- cará os mecanismos de obtenção de materiais a partir de equipamentos, re- forjamento de equipamentos e encai- xar/remover de gemas."]
+			description: [" Os equipamentos em DawnCraft podem ser aprimorados por meio do reforja- mento de sua qualidade, assim como pelo encaixe de gemas nos equipamen- tos. Esta sequência de missões expli- cará os mecanismos de obtenção de materiais a partir de equipamentos, re- forjamento de equipamentos e encai- xar/remover de gemas."]
 			size: 2.0d
 			id: "2E51B03DF4811F84"
 			tasks: [{
@@ -31,7 +31,7 @@
 		{
 			x: 0.0d
 			y: -2.0d
-			description: ["Usado para encaixar gemas em equipa- mentos. Os equipamentos devem ter es- paços vazios para encaixar gemas."]
+			description: [" Usado para encaixar gemas em equi- pamentos. Os equipamentos devem ter espaços vazios para encaixar gemas."]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "12C0F6007CB35919"
@@ -49,7 +49,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["Utiliza materiais de raridade obtidos da Bancada de Desmontagem, e Pó de Gema obtido ao triturar Gemas para refor- jar equipamentos. O reforjamento pode rolar as estatísticas de um item com a mesma raridade, ou pode alterar a raridade de um item (mesmo um item que não tenha raridade previamente)."]
+			description: [" Utiliza materiais de raridade obtidos da Bancada de Desmontagem, e Pó de Gema obtido ao triturar Gemas para reforjar equipamentos. O reforjamen- to pode rolar as estatísticas de um item com a mesma raridade, ou pode al- terar a raridade de um item (mesmo um item que não tenha raridade previa- mente)."]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "682B2B244574C666"
@@ -86,8 +86,8 @@
 			x: 0.0d
 			y: 2.0d
 			description: [
-				"Pode ser adicionado a um item através da Mesa de Ferraria para adicionar um encaixe adicional (Máximo de 3 encai- xes)\\n"
-				"Pode ser obtido através da fabrica- ção, ou raramente de missões ou tesouros."
+				" Pode ser adicionado a um item através da Mesa de Ferraria para adicionar um encaixe adicional (Máximo de 3 encai- xes)\\n"
+				" Pode ser obtido através da fabrica- ção, ou raramente de missões ou te- souros."
 			]
 			dependencies: ["2E51B03DF4811F84"]
 			id: "22978B8A8D62A2A6"
@@ -106,8 +106,8 @@
 			x: 0.0d
 			y: 3.5d
 			description: [
-				"Um Sigilo de Encaixe Superior, obtido por meio da infusão (consulte o guia de missões de Encantamento para mais informações).\\n"
-				"Pode ser usado para adicionar um encaixe a um item, até um máximo de 4."
+				" Um Sigilo de Encaixe Superior, obtido por meio da infusão (consulte o guia de missões de Encantamento para mais informações).\\n"
+				" Pode ser usado para adicionar um encaixe a um item, até um máximo de 4."
 			]
 			dependencies: ["22978B8A8D62A2A6"]
 			id: "54D504E6734D9B70"
@@ -125,7 +125,7 @@
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["Obtido ao triturar gemas. Para triturar uma gema, jogue-a (ou várias) no chão. Em seguida, coloque uma bigorna acima das gemas, pelo menos um bloco acima delas, fazendo com que ela caia e triture as gemas em pó. Muitas gemas podem ser trituradas de uma só vez dessa maneira. Cada queda danificará levemente a bigorna."]
+			description: [" Obtido ao triturar gemas. Para tritu- rar uma gema, jogue-a (ou várias) no chão. Em seguida, coloque uma bigorna acima das gemas, pelo menos um bloco acima delas, fazendo com que ela caia e triture as gemas em pó. Muitas gemas podem ser trituradas de uma só vez dessa maneira. Cada queda danificará levemente a bigorna."]
 			dependencies: ["682B2B244574C666"]
 			id: "2CCE38B89AB683B8"
 			tasks: [{
@@ -222,7 +222,7 @@
 		{
 			x: -1.0d
 			y: -3.5d
-			description: ["Forjado com um item em uma Bancada de Ferraria para extrair gemas do equipamento, destruindo o equipamento no processo."]
+			description: [" Forjado com um item em uma Bancada de Ferraria para extrair gemas do equipamento, destruindo o equipamento no processo."]
 			dependencies: ["12C0F6007CB35919"]
 			id: "0036F6587BAA1FA6"
 			tasks: [{
@@ -239,7 +239,7 @@
 		{
 			x: 1.0d
 			y: -3.5d
-			description: ["Forjado com um item em uma Bancada de Ferraria para remover gemas do equipamento, destruindo-as no pro- cesso."]
+			description: [" Forjado com um item em uma Bancada de Ferraria para remover gemas do equipamento, destruindo-as no pro- cesso."]
 			dependencies: ["12C0F6007CB35919"]
 			id: "653AFC11D8BA880E"
 			tasks: [{

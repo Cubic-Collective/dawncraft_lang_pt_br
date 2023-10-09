@@ -1511,7 +1511,7 @@
 			icon: "apotheosis:boss_summoner"
 			x: 3.5d
 			y: -3.0d
-			description: [" O caminho inicial para se tornar mais poderoso envolve manter-se seguro - mine recursos, crie itens e explore de forma moderada. Os equipamentos que você fabricar não serão tão podero- sos quanto os que encontrar, mas eles serão suficientes até que você obte- nha algo melhor."]
+			description: [" O caminho inicial para se tornar mais poderoso envolve manter-se seguro - minere recursos, crie itens e explore de forma moderada. Os equipamentos que você fabricar não serão tão po- derosos quanto os que encontrar, mas eles serão suficientes até que você obtenha algo melhor."]
 			dependencies: ["60154554DCD1D411"]
 			id: "648C999659850F11"
 			tasks: [{
@@ -1616,8 +1616,8 @@
 				" - &b&lCurios"
 				" O menu de amuletos pode ser aces- sado pressionando o botão no canto superior esquerdo do retrato do jo- gador no menu de inventário. Isso mostrará todos os slots de Amuletos disponíveis para anéis, amuletos e as- sim por diante. Alguns itens podem até adicionar slots adicionais."
 				""
-				" - &b&lArcos"
-				" Arcos podem ser encontrados nas dimensões adicionadas pelo mod Blue Skies. Esse menu pode ser acessado por meio da guia Arcos à esquerda da tela de inventário."
+				" - &b&lTalismãs"
+				" Talismãs podem ser encontrados nas dimensões adicionadas pelo mod Blue Skies. Esse menu pode ser acessado por meio da guia Talismãs à esquerda da tela de inventário."
 			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d

@@ -11,7 +11,7 @@
 		{
 			x: 0.0d
 			y: 0.0d
-			description: ["Seu primeiro livro de feitiços marca o início de sua jornada mágica. Eles podem ser facilmente fabricados a partir de alguns itens básicos. O caderno desgas- tado (fabricável) contém informações ex- tensas sobre todo o mod Ars Nouveau, mas esta linha de missão lhe dará uma ideia da progressão pretendida, bem como alguns itens e funções essenciais. A ma- gia é incrivelmente poderosa e alguns feitiços foram desativados para manter o modpack o mais equilibrado possível."]
+			description: [" Seu primeiro livro de feitiços marca o início de sua jornada mágica. Eles podem ser facilmente fabricados a partir de alguns itens básicos. O caderno desgas- tado (fabricável) contém informações ex- tensas sobre todo o mod Ars Nouveau, mas esta linha de missão lhe dará uma ideia da progressão pretendida, bem como alguns itens e funções essenciais. A ma- gia é incrivelmente poderosa e alguns feitiços foram desativados para manter o modpack o mais equilibrado possível."]
 			size: 2.0d
 			id: "78812DCEFFAC5AFF"
 			tasks: [{
@@ -28,7 +28,7 @@
 		{
 			x: 0.0d
 			y: 2.0d
-			description: ["Um livro de feitiços mais avançado. Desbloqueia a criação de glifos de nível superior e aprimoramentos de feitiços."]
+			description: [" Um livro de feitiços mais avançado. Desbloqueia a criação de glifos de nível superior e aprimoramentos de feitiços."]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "0988077438755647"
 			tasks: [{
@@ -40,7 +40,7 @@
 		{
 			x: 0.0d
 			y: 3.5d
-			description: ["O livro de feitiços de nível mais alto. Desbloqueia todas as criações de glifos e aprimoramentos de feitiços."]
+			description: [" O livro de feitiços de nível mais alto. Desbloqueia todas as criações de glifos e aprimoramentos de feitiços."]
 			dependencies: ["0988077438755647"]
 			id: "2D9133F2C706846D"
 			tasks: [{
@@ -57,7 +57,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["Sua primeira máquina mágica. Coloque Lápis Lazúli dentro para criar Gemas de Mana. Funciona mais rápido próximo à mana."]
+			description: [" Sua primeira máquina mágica. Coloque Lápis Lazúli dentro para criar Gemas de Mana. Funciona mais rápido próximo à mana."]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "4CA231D7FB45317B"
 			tasks: [{
@@ -74,7 +74,7 @@
 		{
 			x: 2.5d
 			y: -1.0d
-			description: ["O dispositivo mais básico para gerar mana. Coloque próximo a plantações em crescimento para gerar mana. Um jar- ro de mana pode ser colocado próximo para armazenar a mana gerada."]
+			description: [" O dispositivo mais básico para gerar mana. Coloque próximo a plantações em crescimento para gerar mana. Um jar- ro de mana pode ser colocado próximo para armazenar a mana gerada."]
 			dependencies: ["4CA231D7FB45317B"]
 			id: "116A311FBC3520E3"
 			tasks: [{
@@ -91,7 +91,7 @@
 		{
 			x: 3.0d
 			y: 0.0d
-			description: ["Um item importante para a criação de itens mágicos. Coloque-o no chão a 1 bloco de profundidade para que um Aparato de Encantamento possa ser colocado sobre ele."]
+			description: [" Um item importante para a criação de itens mágicos. Coloque-o no chão a 1 bloco de profundidade para que um Aparato de Encantamento possa ser colocado sobre ele."]
 			dependencies: ["4CA231D7FB45317B"]
 			id: "4F5538FFDF27D71B"
 			tasks: [{
@@ -108,7 +108,7 @@
 		{
 			x: 4.0d
 			y: 0.0d
-			description: ["Usado para criar itens mágicos. Colo- que-o em cima de um bloco de Núcleo Arcano para funcionar. Requer pedes- tais para adicionar materiais de fabri- cação (veja a próxima missão)."]
+			description: [" Usado para criar itens mágicos. Colo- que-o em cima de um bloco de Núcleo Arcano para funcionar. Requer pedes- tais para adicionar materiais de fabri- cação (veja a próxima missão)."]
 			dependencies: ["4F5538FFDF27D71B"]
 			id: "681CA62E3CA38600"
 			tasks: [{
@@ -126,9 +126,9 @@
 			x: 5.0d
 			y: 0.0d
 			description: [
-				"Coloque próximo a um Aparato de En- cantamento que esteja sobre um Nú- cleo Arcano. Até 8 podem ser coloca- dos ao redor do Aparato. Coloque os materiais nos pedestais primeiro e, em seguida, coloque o item que pretende encantar no Aparato de Encantamento para iniciar a criação. As receitas po- dem ser encontradas no JEI ou no Ca- derno Desgastado."
+				" Coloque próximo a um Aparato de En- cantamento que esteja sobre um Nú- cleo Arcano. Até 8 podem ser coloca- dos ao redor do Aparato. Coloque os materiais nos pedestais primeiro e, em seguida, coloque o item que pretende encantar no Aparato de Encantamento para iniciar a criação. As receitas po- dem ser encontradas no JEI ou no Ca- derno Desgastado."
 				""
-				" - Algumas receitas também podem exi- gir mana, que será coletada de jarros próximos."
+				" Algumas receitas também podem exigir mana, que será coletada de jarros próximos."
 			]
 			dependencies: ["681CA62E3CA38600"]
 			id: "41D71FDC78BC4649"
@@ -146,7 +146,7 @@
 		{
 			x: 1.5d
 			y: -1.0d
-			description: ["Armazena mana gerada por geradores de mana próximos."]
+			description: [" Armazena mana gerada por gerado- res de mana próximos."]
 			dependencies: ["116A311FBC3520E3"]
 			id: "439208AC09CBDF44"
 			tasks: [{
@@ -163,7 +163,7 @@
 		{
 			x: 3.0d
 			y: -2.0d
-			description: ["Gera mana consumindo poções de Jar- ros de poções adjacentes. A quanti- dade de mana varia por poção e depe- nde da complexidade da poção. Mana bônus é dada para a duração e nível da poção com multiplicadores para ca- da efeito que uma poção contém."]
+			description: [" Gera mana consumindo poções de Jarros de poções adjacentes. A quantidade de mana varia por poção e depende da complexidade da poção. Mana bônus é dada para a duração e nível da poção com multiplicadores pa- ra cada efeito que uma poção contém."]
 			dependencies: ["116A311FBC3520E3"]
 			id: "7A60982CCD2618EC"
 			tasks: [{
@@ -180,7 +180,7 @@
 		{
 			x: 4.0d
 			y: -2.0d
-			description: ["Gera mana quando animais próximos se reproduzem ou morrem. Fornece um impulso passivo de crescimento para animais bebês nas proximidades."]
+			description: [" Gera mana quando animais próximos\\nse reproduzem ou morrem. Fornece um impulso passivo de crescimento para animais bebês nas proximidades."]
 			dependencies: ["116A311FBC3520E3"]
 			id: "5C180D490D1283B6"
 			tasks: [{
@@ -197,7 +197,7 @@
 		{
 			x: 5.0d
 			y: -2.0d
-			description: ["Gera uma quantidade moderada de ma- na de alimentos próximos, gerando mais para alimentos mais nutritivos. Comida de Amora de Mana vale muito mais do que outros alimentos mundanos. Além disso, o Gerador de Mana de Fungos converterá Grama ou Terra no 3x3 abaixo dele em Micélio e crescerão cogumelos ao redor dele, dado que o espaço está vazio. O Gerador de Mana também puxará itens de pedestais próximos."]
+			description: [" Gera uma quantidade moderada de ma- na de alimentos próximos, gerando mais para alimentos mais nutritivos. Comida de Amora de Mana vale muito mais do que outros alimentos mundanos. Além disso, o Gerador de Mana de Fungos converterá Grama ou Terra no 3x3 abaixo dele em Micélio e crescerão co- gumelos ao redor dele, dado que o espaço está vazio. O Gerador de Mana também puxará itens de pedestais próximos."]
 			dependencies: ["116A311FBC3520E3"]
 			id: "4AD63E31498769CD"
 			tasks: [{
@@ -215,9 +215,9 @@
 			x: 0.0d
 			y: -2.0d
 			description: [
-				"Drygmys são criaturas que frequen- temente são encontradas seguindo e cuidando de animais ao seu redor. Embora sejam um pouco raros, eles podem ser encontrados em qualquer lugar. Os Drygmys podem ter um lugar para morar no mundo e produzirão itens de monstros e animais próximos como se fossem mortos, sem preju- dicá-los. Um drygmy selva- gem pode ser domesticado ao jogar um Chifre Selvagem perto dele (isso cria um Fragmento de Drygmy)! Você pode tin- gir um Drygmy de Ciano, Laranja ou Marrom."
+				" Drygmys são criaturas que frequen- temente são encontradas seguindo e cuidando de animais ao seu redor. Embora sejam um pouco raros, eles podem ser encontrados em qualquer lugar. Os Drygmys podem ter um lugar para morar no mundo e produzirão itens de monstros e animais próximos como se fossem mortos, sem preju- dicá-los. Um drygmy selva- gem pode ser domesticado ao jogar um Chifre Selvagem perto dele (isso cria um Fragmento de Drygmy)! Você pode tin- gir um Drygmy de Ciano, Laranja ou Marrom."
 				""
-				"Clique com o botão direito em um bloco de Pedregulho Musgoso com um Charme de Drygmy para invocalo-lo. o Pedre- gulho Musgoso se transformará em um altar de drygmy. Energia pode ser direcionada para o altar para alimen- tar Drygmys próximos. Drygmys cole- tarão automaticamente itens e frag- mentos de experiência de monstros e animais próximos, e os colocarão em um baú próximo. Esta é uma ótima fonte para gerar experiência passiva e itens em vez de uma fazenda de mons- tros tradicional. Itens podem ser cole- tados a uma distância de um bloco, permitindo que diferentes monstros sejam cercados ou completamente isolados."
+				" Clique com o botão direito em um bloco de Pedregulho Musgoso com um Charme de Drygmy para invocalo-lo. o Pedre- gulho Musgoso se transformará em um altar de drygmy. Energia pode ser direcionada para o altar para alimen- tar Drygmys próximos. Drygmys cole- tarão automaticamente itens e frag- mentos de experiência de monstros e animais próximos, e os colocarão em um baú próximo. Esta é uma ótima fonte para gerar experiência passiva e itens em vez de uma fazenda de mons- tros tradicional. Itens podem ser cole- tados a uma distância de um bloco, permitindo que diferentes monstros sejam cercados ou completamente isolados."
 			]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "4D2E6104ACB52FB5"
@@ -236,22 +236,22 @@
 			x: 0.0d
 			y: -3.0d
 			description: [
-				"Os Lampejantes aparecem naturalmen- te em áreas arborizadas em busca de pepitas de ouro. Embora os Lampejan- tes normalmente tenham medo dos hu- manos, eles permitirão que alguém se aproxime se estiverem segurando uma pepita de ouro. Quando um Lampejante pega uma pepita de ouro, ela desapa- recerá deste mundo e deixará para trás Fragmentos de Lampejante."
+				" Os Lampejantes aparecem natural- mente em áreas arborizadas em busca de pepitas de ouro. Embora os Lampe- jantes normalmente tenham medo dos humanos, eles permitirão que alguém se aproxime se estiverem segurando uma pepita de ouro. Quando um Lampejante pega uma pepita de ouro, ela desapa- recerá deste mundo e deixará para trás Fragmentos de Lampejante."
 				""
-				"&b&lInvocação"
-				"Para invocar um Lampejante, use um Charme de Lampejante no chão. Lam- pejantes invocados irão coletar itens próximos e podem mover itens entre inventários, como baús. Lampejantes colherão arbustos de Amora de Mana totalmente crescidos ao redor dele. Um Lampejante deixará cair seu Charme quando dispersado ou quando morto. Você pode tingi-los usando corante roxo, vermelho, amarelo, laranja, azul ou verde."
+				" -&b&l Invocação"
+				" Para invocar um Lampejante, use um Charme de Lampejante no chão. Lam- pejantes invocados irão coletar itens próximos e podem mover itens entre inventários, como baús. Lampejantes colherão arbustos de Amora de Mana totalmente crescidos ao redor dele. Um Lampejante deixará cair seu Charme quando dispersado ou quando morto. Você pode tingi-los usando corante roxo, vermelho, amarelo, laranja, azul ou verde."
 				""
-				"&b&lTransporte de Itens"
-				"Para vincular um Lampejante para co- locar itens em um baú, use a Varinha do Domínio no Lampejante e depois no inventário. Para pegar itens de um inventário, use a varinha no inventário e depois no Lampejante. Os Lampejan- tes moverão itens entre tantos inven- tários quanto você desejar. Olhando para um Lampejante, você saberá quantos baús estão sendo retirados e inseridos. Usar a Varinha do Domínio em um Lampejante enquanto se agacha irá redefini-los."
+				" -&b&l Transporte de Itens"
+				" Para vincular um Lampejante para colocar itens em um baú, use a Varinha do Domínio no Lampejante e depois no inventário. Para pegar itens de um inventário, use a varinha no inventário e depois no Lampejante. Os Lampejan- tes moverão itens entre tantos inven- tários quanto você desejar. Olhando para um Lampejante, você saberá quantos baús estão sendo retirados e inseridos. Usar a Varinha do Domínio em um Lampejante enquanto se agacha irá redefini-los."
 				""
-				"&b&lFiltrando"
-				"Você pode ditar para onde os itens vão e pode ser pego usando Pergami- nhos de Item ou Molduras de Item. Um Lampejante pode receber um Pergami- nho de Item: Permitir ou Negar, e só pegará e moverá itens respeitando esse filtro. Como alternativa, você po- de colocar uma Moldura de Item no inventário com o qual um Lampejante está interagindo. Você pode colocar um Pergaminho de Item ou um único item diretamente na moldura. O Lampejante que interage com esse inventário respeitará os filtros de moldura de item."
+				" -&b&l Filtrando"
+				" Você pode ditar para onde os itens vão e pode ser pego usando Pergami- nhos de Item ou Molduras de Item. Um Lampejante pode receber um Pergami- nho de Item: Permitir ou Negar, e só pegará e moverá itens respeitando esse filtro. Como alternativa, você po- de colocar uma Moldura de Item no inventário com o qual um Lampejante está interagindo. Você pode colocar um Pergaminho de Item ou um único item diretamente na moldura. O Lampejante que interage com esse inventário respeitará os filtros de moldura de item."
 				""
-				"&b&lCaminhando"
-				"Usar um bloco em um Lampejante fará com que eles prefiram esse bloco para caminhos entre as áreas, desde que esteja no caminho. Eles também prefe- rirão naturalmente caminhos de grama."
+				" -&b&l Caminhando"
+				" Usar um bloco em um Lampejante fará com que eles prefiram esse bloco para caminhos entre as áreas, desde que esteja no caminho. Eles também prefe- rirão naturalmente caminhos de grama."
 				""
-				"&b&lDescansando"
-				"Lampejantes podem ser ligados a uma Cama de Flor Mágica usando a Varinha do Domínio e irão descansar na cama quando não houver outras tarefas a serem feitas. Útil para mantê-los fora do caminho ou devolvê-los a um local onde os itens caem."
+				" -&b&l Descansando"
+				" Lampejantes podem ser ligados a uma Cama de Flor Mágica usando a Varinha do Domínio e irão descansar na cama quando não houver outras tarefas a serem feitas. Útil para mantê-los fora do caminho ou devolvê-los a um local onde os itens caem."
 			]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "6ABAA4F19DDEEB9C"
@@ -274,18 +274,18 @@
 			x: -1.0d
 			y: -2.5d
 			description: [
-				"Usado para invocar um Livro Dracôni- co clicando com o botão direito sobre ele em um Atril. Os Livros Dracônicos não têm habilidades passivas e existem apenas para serem vinculados ao jo- gador como um familiar usando o Ritual de Ligação, que vincula qualquer mobs invocados próximos ao jogador como um companheiro familiar. Para começar a invocar familiares, você precisará obter uma Escrita Vinculada da entida- de que deseja. Eles podem ser obtidos realizando o Ritual de Ligação perto de uma entidade relevante. Depois de obter uma Escrita Vinculada, use-a para aprender o familiar. Após obter uma Escrita Vinculada, você pode ace- ssar sua lista de familiares pelo menu de criação do Livro de Feitiços na se- ção de Familiares. Selecionar um Famili- ar irá invocá-lo no mundo e lhe dará a Doença de Invocação, impedindo que você invoque outro por um curto perí- odo de tempo. Para obter seu primeiro familiar, realize o Ritual de Ligação perto de um Lampejante. Familiares es- tão vinculados ao jogador.\\n"
-				" - Quando vinculados ao jogador, os mobs Invocados fornecem os seguintes efeitos:\\n"
-				"&b&lLivro Dracônico"
-				"Um Livro Dracônico reduz o custo de todos os feitiços lançados e aumenta o dano de qualquer feitiço em 1. Obtido ao realizar o Ritual de Ligação perto de um Livro Dracônico.\\n"
-				"&b&lWixie"
-				"Wixies aumentarão a duração das po- ções que você aplicar, e os Wixies aceitarão reagentes de poções bási- cas em troca de aplicar o resultado da poção de nível 1. Além disso, o Wixie aplicará poções prejudiciais aos ini- migos durante o combate. Obtido ao realizar o Ritual de Ligação perto de um Wixie.\\n"
-				"&b&lDrygmy"
-				"Um Drygmy aumenta o dano dos feitiços da Terra em 2 e tem a chance de au- mentar a quantidade de loot ao derro- tar inimigos. Obtido ao realizar o Ritual de Ligação perto de um Drygmy.\\n"
-				"&b&lLampejante"
-				"Um Lampejante concede Velocidade 2 ao dono. Além disso, usar uma Pepita de Ouro no Lampejante a consumirá e concederá ao proprietário uma curta duração de visão para encontrar Mi- nério de Ouro. Obtido ao realizar o Ri- tual de Ligação perto de um Lampe- jante.\\n"
-				"&b&lEspiralis"
-				"Espiralis reduzem pela metade o custo de glifos de Terra Elemental e conce- dem saturação bônus ao consumir ali- mentos. Obtido ao realizar o Ritual de Ligação perto de um Espiralis."
+				" Usado para invocar um Livro Dracôni- co clicando com o botão direito sobre ele em um Atril. Os Livros Dracônicos não têm habilidades passivas e existem apenas para serem vinculados ao jo- gador como um familiar usando o Ritual de Ligação, que vincula qualquer mobs invocados próximos ao jogador como um companheiro familiar. Para começar a invocar familiares, você precisará obter uma Escrita Vinculada da entida- de que deseja. Eles podem ser obtidos realizando o Ritual de Ligação perto de uma entidade relevante. Depois de obter uma Escrita Vinculada, use-a para aprender o familiar. Após obter uma Escrita Vinculada, você pode ace- ssar sua lista de familiares pelo menu de criação do Livro de Feitiços na se- ção de Familiares. Selecionar um Famili- ar irá invocá-lo no mundo e lhe dará a Doença de Invocação, impedindo que você invoque outro por um curto perí- odo de tempo. Para obter seu primeiro familiar, realize o Ritual de Ligação perto de um Lampejante. Familiares es- tão vinculados ao jogador.\\n"
+				" Quando vinculados ao jogador, os mobs Invocados fornecem os seguintes efeitos:\\n"
+				" -&b&l Livro Dracônico"
+				" Um Livro Dracônico reduz o custo de todos os feitiços lançados e aumenta o dano de qualquer feitiço em 1. Obtido ao realizar o Ritual de Ligação perto de um Livro Dracônico.\\n"
+				" -&b&l Wixie"
+				" Wixies aumentarão a duração das po- ções que você aplicar, e os Wixies aceitarão reagentes de poções bási- cas em troca de aplicar o resultado da poção de nível 1. Além disso, o Wixie aplicará poções prejudiciais aos ini- migos durante o combate. Obtido ao realizar o Ritual de Ligação perto de um Wixie.\\n"
+				" -&b&l Drygmy"
+				" Um Drygmy aumenta o dano dos feiti- ços da Terra em 2 e tem a chance de aumentar a quantidade de loot ao der- rotar inimigos. Obtido ao realizar o Ri- tual de Ligação perto de um Drygmy.\\n"
+				" -&b&l Lampejante"
+				" Um Lampejante concede Velocidade 2 ao dono. Além disso, usar uma Pepita de Ouro no Lampejante a consumirá e concederá ao proprietário uma curta duração de visão para encontrar Mi- nério de Ouro. Obtido ao realizar o Ri- tual de Ligação perto de um Lampejan- te.\\n"
+				" -&b&l Espiralis"
+				" Espiralis reduzem pela metade o custo de glifos de Terra Elemental e conce- dem saturação bônus ao consumir ali- mentos. Obtido ao realizar o Ritual de Ligação perto de um Espiralis."
 			]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "0D3EEE308F37C99A"
@@ -304,16 +304,16 @@
 			x: 1.0d
 			y: -2.5d
 			description: [
-				"Um Wixie pode criar automaticamente itens para você usando mana. Para obter um Fragmentos de Wixie, conjure Dispersar em uma Bruxa quando ela estiver com metade da vida ou menos. Depois de obter um Charme de Wixie, use-o em um Caldeirão para invocar seu Wixie. Um Wixie pode ser tingido de Vermelho, Branco, Preto, Azul ou Ver- de."
+				" Um Wixie pode criar automaticamente itens para você usando mana. Para obter um Fragmentos de Wixie, conjure Dispersar em uma Bruxa quando ela estiver com metade da vida ou menos. Depois de obter um Charme de Wixie, use-o em um Caldeirão para invocar seu Wixie. Um Wixie pode ser tingido de Vermelho, Branco, Preto, Azul ou Ver- de."
 				""
-				"&l&bCriação de Itens"
-				"O Wixie selecionará automaticamente a receita de criação com base nos in- ventários próximos, você não precisa especificar os materiais exatos para a receita. Por exemplo, se você quiser criar gravetos, o Wixie misturará e combinará tábuas próximas de um baú para cumprir a receita. Cada criação requer uma pequena quantidade de mana e será drenada automaticamente dos Jarros de Mana próximos. Um sinal de redstone no caldeirão irá parar a criação."
+				" -&l&b Criação de Itens"
+				" O Wixie selecionará automaticamente a receita de criação com base nos in- ventários próximos, você não precisa especificar os materiais exatos para a receita. Por exemplo, se você quiser criar gravetos, o Wixie misturará e combinará tábuas próximas de um baú para cumprir a receita. Cada criação requer uma pequena quantidade de mana e será drenada automaticamente dos Jarros de Mana próximos. Um sinal de redstone no caldeirão irá parar a criação."
 				""
-				"&l&bCriação de Múltiplos Itens"
-				"Os Wixies podem criar vários itens de uma vez, colocando pedestais ao lado do Caldeirão. Os Wixies tentarão criar itens no pedestal, rodando em um sis- tema circular. Energizar o pedestal desativará o Wixie e impedirá que ele crie seus itens."
+				" -&l&b Criação de Múltiplos Itens"
+				" Os Wixies podem criar vários itens de uma vez, colocando pedestais ao lado do Caldeirão. Os Wixies tentarão criar itens no pedestal, rodando em um sis- tema circular. Energizar o pedestal desativará o Wixie e impedirá que ele crie seus itens."
 				""
-				"&l&bCriação de Poções"
-				"Wixies irão autocriar poções usando Jarros de Poção e itens próximos. Poções que requerem Água serão for- necidas pelo Wixie. Poções que reque- rem outra poção como base serão retiradas de Jarros de Poção próxi- mos. Wixies colocaram 3 doses de uma Poção em um Jarro de Poção próximo quando terminar. Para começar, colo- que um Jarro de Poção vazio, clique com o botão direito do mouse no cal- deirão com uma Poção Estranha e forneça Fungo do Nether de um baú próximo."
+				" -&l&b Criação de Poções"
+				" Wixies irão autocriar poções usando Jarros de Poção e itens próximos. Poções que requerem Água serão for- necidas pelo Wixie. Poções que reque- rem outra poção como base serão retiradas de Jarros de Poção próxi- mos. Wixies colocaram 3 doses de uma Poção em um Jarro de Poção próximo quando terminar. Para começar, colo- que um Jarro de Poção vazio, clique com o botão direito do mouse no cal- deirão com uma Poção Estranha e forneça Fungo do Nether de um baú próximo."
 			]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "77D6234ACD51F8D1"
@@ -332,13 +332,13 @@
 			x: 1.0d
 			y: -3.5d
 			description: [
-				"Espiralis são curiosos espíritos da natureza que são exclusivos de áreas florestais. Espiralis Invocados podem receber um lar no mundo e começar a produzir materiais naturais, incluindo madeira, colheitas, sementes e flores que existem ao seu redor. Espiralis selvagens podem ser domados e deixa- rão cair Fragmentos de Espiralis se uma árvore for cultivada perto deles. Para invocar um Espiralis, use um Charme de Espiralis em qualquer flor. Espiralis consideram sua casa estar a 10 blocos em qualquer direção da flor. Espiralis requerem mana próxima para operar e só gerarão itens se houver um baú colocado ao lado da flor. Você pode recuperar seu charme usando Dispersar em um Espiralis. Eles podem ser tingidos de laranja, amarelo, bra- nco ou verde."
+				" Espiralis são curiosos espíritos da natureza que são exclusivos de áreas florestais. Espiralis Invocados podem receber um lar no mundo e começar a produzir materiais naturais, incluindo madeira, colheitas, sementes e flores que existem ao seu redor. Espiralis selvagens podem ser domados e deixa- rão cair Fragmentos de Espiralis se uma árvore for cultivada perto deles. Para invocar um Espiralis, use um Charme de Espiralis em qualquer flor. Espiralis consideram sua casa estar a 10 blocos em qualquer direção da flor. Espiralis requerem mana próxima para operar e só gerarão itens se houver um baú colocado ao lado da flor. Você pode recuperar seu charme usando Dispersar em um Espiralis. Eles podem ser tingidos de laranja, amarelo, bra- nco ou verde."
 				""
-				"&b&lFelicidade"
-				"Espiralis invocados devem estar feli- zes para produzir materiais, e seu humor é determinado pelo número e diversidade de materiais naturais em sua casa. Você pode usar blocos no Espiralis para obter informações adi- cionais se um Espiralis gostaria daque- le bloco em sua casa. Interagir com o Espiralis com a mão vazia fornecerá informações adicionais sobre a felici- dade do Espiralis."
+				" -&b&l Felicidade"
+				" Espiralis invocados devem estar feli- zes para produzir materiais, e seu humor é determinado pelo número e diversidade de materiais naturais em sua casa. Você pode usar blocos no Espiralis para obter informações adi- cionais se um Espiralis gostaria daque- le bloco em sua casa. Interagir com o Espiralis com a mão vazia fornecerá informações adicionais sobre a felici- dade do Espiralis."
 				""
-				"&b&lProdução"
-				"As taxas de queda são determinadas pela felicidade, diversidade e propor- ções de blocos em uma casa de Espi- ralis. Por exemplo, para gerar muitos troncos, cultive mais árvores. Para obter mais sementes e colheitas, plante mais culturas."
+				" -&b&l Produção"
+				" As taxas de queda são determinadas pela felicidade, diversidade e propor- ções de blocos em uma casa de Espi- ralis. Por exemplo, para gerar muitos troncos, cultive mais árvores. Para obter mais sementes e colheitas, plante mais culturas."
 			]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "49CE9C9A40CB9926"
@@ -357,16 +357,16 @@
 			x: -1.0d
 			y: -3.5d
 			description: [
-				"Golens de Ametista colherão, cultivarão e coletarão Ametistas perto de sua casa. Para obter um Golem de Ametista, realize o Ritual de Despertar perto de uma Drusa de Ametista para obter o Charme de Golem de Ametista."
+				" Golens de Ametista colherão, cultiva- rão e coletarão Ametistas perto de sua casa. Para obter um Golem de Ame- tista, realize o Ritual de Despertar perto de uma Drusa de Ametista para obter o Charme de Golem de Ametista."
 				""
-				"&b&lInvocação"
-				"Invoque o Golem de Ametista usando o charme em um bloco. Antes que um Go- lem de Ametista execute tarefas, ele precisa de uma casa. Defina a casa usando a Varinha do Domínio no golem e, em seguida, em um bloco. A casa do golem é considerada em um raio de 10 blocos em qualquer direção a partir da posição definida."
+				" -&b&l Invocação"
+				" Invoque o Golem de Ametista usando o charme em um bloco. Antes que um Go- lem de Ametista execute tarefas, ele precisa de uma casa. Defina a casa usando a Varinha do Domínio no golem e, em seguida, em um bloco. A casa do golem é considerada em um raio de 10 blocos em qualquer direção a partir da posição definida."
 				""
-				"&b&lCultivando Ametista"
-				"Depois que uma casa é definida, o go- lem começará a executar tarefas ao longo do tempo. Eles converterão Blo- cos de Ametista em Drusa de Ametista, colherão Agregados de Ametista, ace- lerarão o crescimento de uma Drusa de Ametista, pegarão e armazenarão o Fragmento de Ametista."
+				" -&b&l Cultivando Ametista"
+				" Depois que uma casa é definida, o go- lem começará a executar tarefas ao longo do tempo. Eles converterão Blo- cos de Ametista em Drusa de Ametista, colherão Agregados de Ametista, ace- lerarão o crescimento de uma Drusa de Ametista, pegarão e armazenarão o Fragmento de Ametista."
 				""
-				"&b&lArmazenando Ametista"
-				"Se a casa de um golem for definida como um inventário, eles pegarão e armazenarão Fragmentos de Ametista no bloco vinculado ao inventário. Se sua casa não for um inventário, eles simplesmente ignorarão itens no chão."
+				" -&b&l Armazenando Ametista"
+				" Se a casa de um golem for definida como um inventário, eles pegarão e armazenarão Fragmentos de Ametista no bloco vinculado ao inventário. Se sua casa não for um inventário, eles simplesmente ignorarão itens no chão."
 			]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "437347DD892D32A2"
@@ -384,7 +384,7 @@
 		{
 			x: -2.0d
 			y: 0.0d
-			description: ["O ponto de partida para toda a sua pesquisa mágica. Colocar glifos em branco na mesa e clicar com o botão direito com o seu livro de feitiços, vo- cê terá opções de feitiços e aprimora- mentos que podem ser criados."]
+			description: [" O ponto de partida para toda a sua pesquisa mágica. Colocar glifos em branco na mesa e clicar com o botão direito com o seu livro de feitiços, vo- cê terá opções de feitiços e aprimora- mentos que podem ser criados."]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "7841A786BB33E9FD"
 			tasks: [{
@@ -402,7 +402,7 @@
 			title: "Madeira Arcana"
 			x: 1.5d
 			y: 1.5d
-			description: ["Encontradas crescendo por todo o mundo em uma variedade de cores, as Árvores Arcanas são um recurso importante para a criação mágica. Você precisará coletar um pouco de Madeira Arcana antes de poder criar muitos dos itens mágicos necessários."]
+			description: [" Encontradas crescendo por todo o mundo em uma variedade de cores, as Árvores Arcanas são um recurso im- portante para a criação mágica. Você precisará coletar um pouco de Madeira Arcana antes de poder criar muitos dos itens mágicos necessários."]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "0037636F694ADAA8"
 			tasks: [{
@@ -426,7 +426,7 @@
 		{
 			x: -1.5d
 			y: 1.5d
-			description: ["Usado para realizar rituais. Use vários itens em um braseiro para iniciar os rituais. Consulte o Caderno Desgastado para ver os diferentes tipos de rituais e os itens necessários."]
+			description: [" Usado para realizar rituais. Use vá- rios itens em um braseiro para iniciar os rituais. Consulte o Caderno Desgas- tado para ver os diferentes tipos de rituais e os itens necessários."]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "66E5E2D22D6788C6"
 			tasks: [{
@@ -444,7 +444,7 @@
 			title: "Amoras de Mana"
 			x: 2.5d
 			y: 2.5d
-			description: ["As Amoras de Mana podem ser consu- midas para restaurar a saúde ou transformadas em poções úteis de Re- generação de Mana. As amoras podem ser plantadas para crescer mais, en- quanto os arbustos de Amoras de Ma- na podem ser automaticamente colhidos por familiares Lampejantes, possibili- tando uma automação prática do Gera- dor de Mana Agronômico (veja as mis- sões relacionadas aos familiares)."]
+			description: [" As Amoras de Mana podem ser consu- midas para restaurar a saúde ou transformadas em poções úteis de Re- generação de Mana. As amoras podem ser plantadas para crescer mais, en- quanto os arbustos de Amoras de Ma- na podem ser automaticamente colhidos por familiares Lampejantes, possibili- tando uma automação prática do Gera- dor de Mana Agronômico (veja as mis- sões relacionadas aos familiares)."]
 			dependencies: ["0037636F694ADAA8"]
 			id: "367B95197A7BDFEB"
 			tasks: [{
@@ -461,7 +461,7 @@
 		{
 			x: -3.5d
 			y: 0.0d
-			description: ["O ponto de partida necessário para a criação de glifos. Uma vez colocado em uma Mesa de Escriba, você pode clicar com o botão direito enquanto segura um livro de feitiços para escolher o glifo que deseja confeccionar. Uma vez selecionado, os materiais neces- sários ficam visíveis flutuando acima da mesa. Jogue os materiais neces- sários na mesa para criar o glifo. Clique com o botão direito em um glifo para aprender."]
+			description: [" O ponto de partida necessário para a criação de glifos. Uma vez colocado em uma Mesa de Escriba, você pode clicar com o botão direito enquanto segura um livro de feitiços para escolher o glifo que deseja confeccionar. Uma vez selecionado, os materiais neces- sários ficam visíveis flutuando acima da mesa. Jogue os materiais neces- sários na mesa para criar o glifo. Cli- que com o botão direito em um glifo para aprender."]
 			dependencies: ["7841A786BB33E9FD"]
 			id: "057E4CF4A8DD3695"
 			tasks: [{
@@ -478,7 +478,7 @@
 		{
 			x: 6.0d
 			y: -2.0d
-			description: ["O Gerador de Mana Vulcânico gera Ma- na consumindo itens queimáveis. Tron- cos Arcanos irão gerar mana bônus, com Madeira Arcana Flamejante geran- do mais. Como o Gerador de Mana Vul- cânico produz Mana, ele também produz calor, usado para gerar Lírios de La- va e converter pedra em lava. O Gera- dor de Mana Vulcânico gera automati- camente a saída para jarros próximos, começando com o mais próximo a ele."]
+			description: [" O Gerador de Mana Vulcânico gera Mana consumindo itens queimáveis. Troncos Arcanos irão gerar mana bônus, com Madeira Arcana Flamejante gerando mais. Como o Gerador de Mana Vulcânico produz Mana, ele também produz calor, usado para gerar Lírios de Lava e converter pedra em lava. O Gerador de Mana Vulcânico gera auto- maticamente a saída para jarros pró- ximos, começando com o mais próximo a ele."]
 			dependencies: ["116A311FBC3520E3"]
 			id: "2E3A9560B5897EDC"
 			tasks: [{
@@ -511,7 +511,7 @@
 		{
 			x: -1.5d
 			y: -1.5d
-			description: ["Usado para direcionar vários dispo- sitivos e familiares. Pode vincular transmissores a Geradores de Mana, frascos e outros dispositivos. Pode definir pontos de origem para os fami- liares. Consulte o Caderno Desgastado para todas as funções."]
+			description: [" Usado para direcionar vários dispo- sitivos e familiares. Pode vincular transmissores a Geradores de Mana, frascos e outros dispositivos. Pode definir pontos de origem para os fami- liares. Consulte o Caderno Desgastado para todas as funções."]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "57DD1F304DF7EA8D"
 			tasks: [{
@@ -529,8 +529,8 @@
 			x: 5.0d
 			y: 1.5d
 			description: [
-				"Fabricado usando Flor Mágica. A Flor Mágica pode ser cultivada a partir de sementes criadas usando o Aparato de Encantamento.\\n"
-				" - Pode ser aprimorado para níveis mais altos de fibra ao ser combinado com outros materiais através da fabricação."
+				" Fabricado usando Flor Mágica. A Flor Mágica pode ser cultivada a partir de sementes criadas usando o Aparato de Encantamento.\\n"
+				" Pode ser aprimorado para níveis mais altos de fibra ao ser combinado com outros materiais através da fabrica- ção."
 			]
 			dependencies: ["41D71FDC78BC4649"]
 			id: "6C35F39A6E16AE28"
@@ -548,7 +548,7 @@
 		{
 			x: 5.0d
 			y: 2.5d
-			description: ["Mais fraco que o ferro. Recupera sua durabilidade ao longo do tempo ao consumir mana. Aumenta a quantidade máxima de mana e a regeneração de mana em uma pequena quantidade."]
+			description: [" Mais fraco que o ferro. Recupera sua durabilidade ao longo do tempo ao consumir mana. Aumenta a quantidade máxima de mana e a regeneração de mana em uma pequena quantidade."]
 			dependencies: ["6C35F39A6E16AE28"]
 			id: "50CE581C1964EDFE"
 			tasks: [
@@ -606,7 +606,7 @@
 		{
 			x: 5.0d
 			y: 3.5d
-			description: ["Mais fraco que a armadura de Diaman- te. Restaura a durabilidade ao longo do tempo ao consumir mana. Aumenta a quantidade máxima de mana e a rege- neração de mana em uma quantidade moderada."]
+			description: [" Mais fraco que a armadura de Diaman- te. Restaura a durabilidade ao longo do tempo ao consumir mana. Aumenta a quantidade máxima de mana e a rege- neração de mana em uma quantidade moderada."]
 			dependencies: ["50CE581C1964EDFE"]
 			id: "3169B10AA59BBF5D"
 			tasks: [
@@ -664,7 +664,7 @@
 		{
 			x: 5.0d
 			y: 4.5d
-			description: ["Mais fraco que netherita. Recupera a durabilidade ao longo do tempo ao consumir mana. Também aumenta consi- deravelmente a quantidade máxima e a regeneração de mana."]
+			description: [" Mais fraco que netherita. Recupera a durabilidade ao longo do tempo ao consumir mana. Também aumenta consi- deravelmente a quantidade máxima e a regeneração de mana."]
 			dependencies: ["3169B10AA59BBF5D"]
 			id: "1BA2FA93347E953F"
 			tasks: [
@@ -722,7 +722,7 @@
 		{
 			x: 6.5d
 			y: 1.5d
-			description: ["Ocasionamente concede um efeito posi- tivo de poção aleatório por uma curta duração. Esses efeitos podem variar em força."]
+			description: [" Ocasionamente concede um efeito po- sitivo de poção aleatório por uma cur- ta duração. Esses efeitos podem vari- ar em força."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "422956E321CFCCCE"
 			tasks: [{
@@ -739,7 +739,7 @@
 		{
 			x: 6.5d
 			y: 2.5d
-			description: ["Um cinto que permite ao usuário levitar a uma distância moderada do chão. Útil para escalar montanhas! Basta aga- char no ar enquanto estiver caindo (ou pulando) para subir. Reduz uma pequena quantidade de dano de queda quando usado."]
+			description: [" Um cinto que permite ao usuário levi- tar a uma distância moderada do chão. Útil para escalar montanhas! Basta agachar no ar enquanto estiver cain- do (ou pulando) para subir. Reduz uma pequena quantidade de dano de queda quando usado."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "51D3B829BFBAC6C7"
 			tasks: [{
@@ -756,7 +756,7 @@
 		{
 			x: 6.5d
 			y: 3.5d
-			description: ["Invoca uma luz que seguirá o usuário enquanto ele se move. Pode ser invo- cado e dispensado a qualquer momento."]
+			description: [" Invoca uma luz que seguirá o usuário enquanto ele se move. Pode ser invo- cado e dispensado a qualquer momento."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "791CC5064A5E2FE2"
 			tasks: [{
@@ -773,7 +773,7 @@
 		{
 			x: 6.5d
 			y: 4.5d
-			description: ["Além de fornecer um pequeno bônus para a quantidade máxima de mana e regeneração de mana, os Anéis de Redução reduzem o custo total para conjurar um feitiço."]
+			description: [" Além de fornecer um pequeno bônus para a quantidade máxima de mana e regeneração de mana, os Anéis de Redução reduzem o custo total para conjurar um feitiço."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "27CA068CF8286847"
 			tasks: [{
@@ -791,7 +791,7 @@
 		{
 			x: 7.5d
 			y: 1.5d
-			description: ["Fornece uma redução de custo ligeira- mente maior que o Anel de Redução Me- nor."]
+			description: [" Fornece uma redução de custo ligei- ramente maior que o Anel de Redução Menor."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "3CA6E02998EAA3CF"
 			tasks: [{
@@ -808,7 +808,7 @@
 		{
 			x: 7.5d
 			y: 2.5d
-			description: ["Aumenta moderadamente a quantidade máxima de mana."]
+			description: [" Aumenta moderadamente a quantidade máxima de mana."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "3F55DBE18210DE1D"
 			tasks: [{
@@ -826,7 +826,7 @@
 		{
 			x: 7.5d
 			y: 3.5d
-			description: ["Aumenta moderadamente a regeneração de mana."]
+			description: [" Aumenta moderadamente a regeneração de mana."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "632B7E566D9C084E"
 			tasks: [{
@@ -843,7 +843,7 @@
 		{
 			x: 7.5d
 			y: 4.5d
-			description: ["Um jarro que pode destruir itens ao serem coletados e concede uma pe- quena quantidade de mana em troca. Para ligar e desligar o jarro, use-o enquanto estiver agachado. Para adi- cionar ou remover um item a ser des- truído pelo jarro, use-a com um item na mão esquerda ou use um item na Mesa de Escriba com o jarro colo- cado nela. O jarro deve estar em sua barra de atalhos para funcionar."]
+			description: [" Um jarro que pode destruir itens ao serem coletados e concede uma pe- quena quantidade de mana em troca. Para ligar e desligar o jarro, use-o enquanto estiver agachado. Para adi- cionar ou remover um item a ser des- truído pelo jarro, use-a com um item na mão esquerda ou use um item na Mesa de Escriba com o jarro coloca- do nela. O jarro deve estar em sua barra de atalhos para funcionar."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "2160F0A7B8D3ABD8"
 			tasks: [{
@@ -860,7 +860,7 @@
 		{
 			x: 6.0d
 			y: 0.5d
-			description: ["Itens pouco impressionantes com gra- nde potencial. Crie esses itens com ou- tros materiais no Aparato de Encanta- mento para obter amuletos úteis."]
+			description: [" Itens pouco impressionantes com gra- nde potencial. Crie esses itens com ou- tros materiais no Aparato de Encanta- mento para obter amuletos úteis."]
 			dependencies: ["41D71FDC78BC4649"]
 			id: "767F617C6CFF3D9B"
 			tasks: [
@@ -898,7 +898,7 @@
 		{
 			x: 6.5d
 			y: 5.5d
-			description: ["Um foco de conjuração especial. Con- cede às invocações mágicas duração, força e velocidade adicionais e causa dano a inimigos que as matam. Além dis- so, conjurar magias que tenham você como alvo, como Próprio e Órbita, irá conjurar uma cópia da magia em suas invocações próximas."]
+			description: [" Um foco de conjuração especial. Con- cede às invocações mágicas duração, força e velocidade adicionais e causa dano a inimigos que as matam. Além dis- so, conjurar magias que tenham você como alvo, como Próprio e Órbita, irá conjurar uma cópia da magia em suas invocações próximas."]
 			dependencies: ["767F617C6CFF3D9B"]
 			id: "6A9EEB2676F41E28"
 			tasks: [{
@@ -915,7 +915,7 @@
 		{
 			x: 7.5d
 			y: -1.5d
-			description: ["Varinhas aceitam apenas um único feitiço e são inscritas usando a Mesa de Escriba. Uma varinha sempre come- ça com o Projétil -> Acelerar e DEVE ser inscrita com um feitiço que não tenha outro método. Isso permite que você lance feitiços além do limite de 10 feitiços. Se você quer uma varinha que lance Quebrar, inscreva a varinha A- PENAS com Quebrar e o resultado se- rá uma varinha com Projétil -> Acele- rar -> Quebrar."]
+			description: [" Varinhas aceitam apenas um único feitiço e são inscritas usando a Mesa de Escriba. Uma varinha sempre come- ça com o Projétil -> Acelerar e DEVE ser inscrita com um feitiço que não tenha outro método. Isso permite que você lance feitiços além do limite de 10 feitiços. Se você quer uma varinha que lance Quebrar, inscreva a varinha A- PENAS com Quebrar e o resultado se- rá uma varinha com Projétil -> Acele- rar -> Quebrar."]
 			dependencies: ["41D71FDC78BC4649"]
 			id: "1C727560BFD844C6"
 			tasks: [{
@@ -937,7 +937,7 @@
 		{
 			x: 7.5d
 			y: -0.5d
-			description: ["Um arco que pode ser inscrito com um feitiço usando a Mesa de Escriba. Se o jogador tiver mana suficiente, as fle- chas se tornarão Flechas de Feitiço e aplicarão o feitiço em seu alvo. Se não houver flechas no inventário, uma fle- cha de feitiço que causa 0 de dano será lançada. Se não houver mana su- ficiente, flechas normais serão dispa- radas. Arcos Encantados podem usar Flechas de Amplificação especiais para fortalecer o feitiço inscrito."]
+			description: [" Um arco que pode ser inscrito com um feitiço usando a Mesa de Escriba. Se o jogador tiver mana suficiente, as fle- chas se tornarão Flechas de Feitiço e aplicarão o feitiço em seu alvo. Se não houver flechas no inventário, uma fle- cha de feitiço que causa 0 de dano será lançada. Se não houver mana su- ficiente, flechas normais serão dispa- radas. Arcos Encantados podem usar Flechas de Amplificação especiais para fortalecer o feitiço inscrito."]
 			dependencies: ["41D71FDC78BC4649"]
 			id: "5A1A13DDB9A8712F"
 			tasks: [{
@@ -958,7 +958,7 @@
 		{
 			x: 8.5d
 			y: -1.5d
-			description: ["Ao bloquear o dano, o usuário ganhará uma curta duração de Regeneração de Mana e Dano Mágico. Além disso, este escudo será reparado com o tempo usando a mana do usuário."]
+			description: [" Ao bloquear o dano, o usuário ganha- rá uma curta duração de Regeneração de Mana e Dano Mágico. Além disso, este escudo será reparado com o tempo usando a mana do usuário."]
 			dependencies: ["41D71FDC78BC4649"]
 			id: "73E330184CF641A4"
 			tasks: [{
@@ -981,7 +981,7 @@
 		{
 			x: 8.5d
 			y: -0.5d
-			description: ["Aplica um feitiço de Toque antes de causar dano a uma entidade. Além dis- so, todos os feitiços ganham um apri- moramento Amplificar adicional no último efeito do feitiço. Aplique um feitiço na Mesa de Escriba que NÃO contenha uma forma, como Incendiar -> Prolongar."]
+			description: [" Aplica um feitiço de Toque antes de causar dano a uma entidade. Além dis- so, todos os feitiços ganham um apri- moramento Amplificar adicional no último efeito do feitiço. Aplique um feitiço na Mesa de Escriba que NÃO contenha uma forma, como Incendiar -> Prolongar."]
 			dependencies: ["41D71FDC78BC4649"]
 			id: "20E0F5B05F637858"
 			tasks: [{
@@ -1004,7 +1004,7 @@
 		{
 			x: 9.5d
 			y: -1.5d
-			description: ["Aplica um feitiço Próprio ao usuário. Feitiços lançados com este espelho são descontados e ganham duração de bônus adicional para todos os glifos. Aplique um feitiço na Mesa de Escriba que NÃO contenha uma forma como Força -> Curar."]
+			description: [" Aplica um feitiço Próprio ao usuário. Feitiços lançados com este espelho são descontados e ganham duração de bônus adicional para todos os glifos. Aplique um feitiço na Mesa de Escriba que NÃO contenha uma forma como Força -> Curar."]
 			dependencies: ["41D71FDC78BC4649"]
 			id: "0ED1F39773EBB9A7"
 			tasks: [{
@@ -1025,7 +1025,7 @@
 		{
 			x: -3.5d
 			y: -1.5d
-			description: ["Um Jarro que armazena até 100 po- ções. Poções podem ser retiradas usando uma Garrafa Vazia, Frasco de Poções ou Flechas no frasco. Wixies usarão esses jarros durante a Cria- ção Automática de Poções. O Jarro po- de ser bloqueado usando uma Varinha do Domínio  enquanto se agacha. Jar- ros bloqueados receberão apenas a poção à qual estão bloqueados de Wixies. Pode ser usado com um Compa- rador."]
+			description: [" Um Jarro que armazena até 100 po- ções. Poções podem ser retiradas usando uma Garrafa Vazia, Frasco de Poções ou Flechas no frasco. Wixies usarão esses jarros durante a Cria- ção Automática de Poções. O Jarro po- de ser bloqueado usando uma Varinha do Domínio  enquanto se agacha. Jar- ros bloqueados receberão apenas a poção à qual estão bloqueados de Wixies. Pode ser usado com um Compa- rador."]
 			dependencies: ["78812DCEFFAC5AFF"]
 			id: "503EBA11B8ECB43E"
 			tasks: [{
@@ -1042,7 +1042,7 @@
 		{
 			x: -5.5d
 			y: -1.5d
-			description: ["Converte três doses de uma poção a partir de dois Jarros de Poções, ge- rando uma poção com os efeitos com- binados. Use a Varinha do Domínio em um Jarro de Poções para ligar um jarro para consumo. Vincule dois jar- ros de poções de entrada ao fundidor. Depois, utilize a varinha no Fundidor e, em seguida, em um terceiro jarro para definir a saída. O Fundidor de Poções requer mana para cada mistura."]
+			description: [" Converte três doses de uma poção a partir de dois Jarros de Poções, ge- rando uma poção com os efeitos com- binados. Use a Varinha do Domínio em um Jarro de Poções para ligar um jarro para consumo. Vincule dois jar- ros de poções de entrada ao fundidor. Depois, utilize a varinha no Fundidor e, em seguida, em um terceiro jarro para definir a saída. O Fundidor de Poções requer mana para cada mistura."]
 			dependencies: ["1CDC7C381F4362F1"]
 			id: "0E32F6E1182B8948"
 			tasks: [{
@@ -1055,8 +1055,8 @@
 			x: -4.5d
 			y: -1.5d
 			description: [
-				"Um frasco que armazena 8 cargas de uma poção. Para encher o frasco, use o frasco em um Jarro de Poção ou crie o frasco em uma Bancada de Tra- balho com outra poção. Você pode es- vaziar o frasco usando o frasco em um Jarro de Poção enquanto estiver agachado.\\n"
-				" - Criado no aparato de encantamento."
+				" Um frasco que armazena 8 cargas de uma poção. Para encher o frasco, use o frasco em um Jarro de Poção ou crie o frasco em uma Bancada de Tra- balho com outra poção. Você pode es- vaziar o frasco usando o frasco em um Jarro de Poção enquanto estiver agachado.\\n"
+				" Criado no aparato de encantamento."
 			]
 			dependencies: ["503EBA11B8ECB43E"]
 			id: "1CDC7C381F4362F1"
@@ -1076,8 +1076,8 @@
 			x: -4.5d
 			y: -2.5d
 			description: [
-				"Criado ao encantar um frasco de poções em um Aparato de Encantamento.\\n"
-				" - Estende o tempo dos efeitos em 50%."
+				" Criado ao encantar um frasco de poções em um Aparato de Encantamento.\\n"
+				" Estende o tempo dos efeitos em 50%."
 			]
 			dependencies: ["1CDC7C381F4362F1"]
 			id: "1453B0BACB9A1B6C"
@@ -1091,8 +1091,8 @@
 			x: -4.5d
 			y: -3.5d
 			description: [
-				"Criado ao encantar um frasco de poções em um Aparato de Encantamento.\\n"
-				" - Aumenta o poder dos efeitos em 1, mas reduz seu tempo pela metade."
+				" Criado ao encantar um frasco de poções em um Aparato de Encantamento.\\n"
+				" Aumenta o poder dos efeitos em 1, mas reduz seu tempo pela metade."
 			]
 			dependencies: ["1CDC7C381F4362F1"]
 			id: "53CC39CBE5F84EB7"

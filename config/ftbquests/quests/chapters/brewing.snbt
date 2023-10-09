@@ -41,7 +41,7 @@
 			description: [
 				" Os jogadores podem combinar várias poções utilizando Pó de Blaze a fim de criar amuletos de poções. Esses amu- letos podem ser ativados ou desativa- dos com um clique direito, concedendo ao jogador o efeito da poção enquan- to estiverem ativos, seja no inventário ou no slot reservado para os amule- tos. Além disso, é possível encantar esses amuletos com Inquebrável ou Remendo para prolongar a sua dura- ção."
 				""
-				"  &b&lAmuletos Inquebráveis"
+				" -&b&l Amuletos Inquebráveis"
 				" Os amuletos podem ser infundidos uti- lizando uma mesa de encantamentos, tornando-os inquebráveis. Os amuletos inquebráveis concedem efeitos perma- nentes, mas ainda podem ser ativados e desativados. Para realizar a infusão de um amuleto, é necessário ter uma quantidade máxima de Eterna, entre 8,5% e 13,5% de Quanta e entre 85% e 95% de Arcana. Para obter mais deta- lhes sobre as Infusões, consulte o guia de missões \"Encantamento\"."
 			]
 			dependencies: ["4424AAAF4D8A945E"]
@@ -64,7 +64,7 @@
 			icon: "ars_nouveau:potion_jar"
 			x: 0.0d
 			y: -2.0d
-			description: [" Os jogadores podem fabricar jarros de poção para armazenar grandes quantidades de uma única poção, bem como um misturador de poções para combinar os efeitos de diversas poções. Além disso, é possível usar frascos de poção para armazenar várias doses de poção em uma única garrafa, au- mentando a sua potência ou prolongando a sua du- ração. Para mais informações sobre esses dispositivos e itens, consulte o guia de missões \"Magia\"."]
+			description: [" Os jogadores podem fabricar jarros de poção para armazenar grandes quantidades de uma única poção, bem como um misturador de poções para combinar os efeitos de diversas poções. Além disso, é possível usar frascos de poção para armazenar várias doses de poção em uma única garrafa, au- mentando a sua potência ou prolongando a sua du- ração. Para mais informações sobre esses dispo- sitivos e itens, consulte o guia de missões \"Magia\"."]
 			dependencies: ["4424AAAF4D8A945E"]
 			size: 1.5d
 			id: "5238E383D811ED28"
