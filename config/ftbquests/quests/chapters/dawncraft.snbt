@@ -1368,7 +1368,7 @@
 		{
 			x: 2.0d
 			y: -3.0d
-			description: [" As asas-deltas são uma ótima maneira de atravessar terrenos irregulares. Encontre um local elevado e pule. O uso da asa-delta consumirá seu vigor, portanto, tenha cuidado para não es- gotá-lo, pois você cairá. Se você tiver pouco vigor, considere pilar de penha- scos mais baixos por enquanto."]
+			description: [" As asas-deltas são uma ótima maneira de atravessar terrenos irregulares. Basta encontrar um lugar alto e pular. No entanto, é importante saber que usar a asa-delta consome sua estami- na, então tome cuidado para não esgo- ta-la, ou você vai cair. Se você estiver com pouca energia, talvez seja melhor evitar saltos de penhascos muito altos por enquanto."]
 			dependencies: ["5165327673FA3C3A"]
 			id: "5F8E6856198022AB"
 			tasks: [{
@@ -1384,11 +1384,11 @@
 			}]
 		}
 		{
-			title: "Vigor"
+			title: "Estamina"
 			icon: "paraglider:spirit_orb"
 			x: 2.0d
 			y: -1.5d
-			description: [" A única maneira de aumentar seu vi- gor é usando Orbes Espirituais ou Es- sência. Esses itens podem ser encon- trados em masmorras de puzzle  (es- truturas grandes amarelas ou azuis que contêm um puzzle para resolver) ou em algumas missões. A Essência po- de ser obtida ao derrotar alguns mon- stros, como ogros e Médicos da Igre- ja, que aparecem na natureza, e em algumas missões. Depois de obtê-los, clique com o botão direito no item para consumi-lo. Quando você tiver 4 orbes ou 6 essências, fale com a estátua apropriada em qualquer vila para tro- cá-los por mais saúde ou vigor."]
+			description: [" A única forma de aumentar sua esta- mina é utilizando Orbes Espirituais ou Essências. Você pode encontrá-los em masmorras de enigmas (grandes es- truturas amarelas ou azuis que contêm enigmas para resolver) ou durante algumas missões. As Essências também podem ser obtidas ao derrotar certos monstros, como Ogros e Médicos da Igreja, que aparecem na natureza ou em algumas missões. Após obtê-los, cli- que com o botão direito do mouse no item para consumi-lo. Quando você ti- ver acumulado 4 orbes ou 6 essênci- as, procure a estátua corresponden- te em qualquer vila para trocá-los por mais vida ou estamina."]
 			dependencies: ["5F8E6856198022AB"]
 			id: "1C144F8F242A570F"
 			tasks: [{
@@ -1666,7 +1666,7 @@
 			description: [
 				"1) Você pode cancelar seu movimento para frente enquanto ataca seguran- do a tecla \"S\"."
 				""
-				"2) Você fica com o efeito de fraqueza quando sua barra de vigor está esgo- tada. Use sua energia com moderação."
+				"2) Você fica com o efeito de fraqueza quando sua barra de estamina está esgotada. Use sua energia com mode- ração."
 				"\\n3) Ataques realizados durante um sal- to causam mais dano aos seus inimigos."
 			]
 			dependencies: ["601DF1F35CF01A0A"]
