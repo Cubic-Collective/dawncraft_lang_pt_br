@@ -13,6 +13,7 @@
 	"item.paraglider.spirit_orb": "Orbe Espiritual",
 	"item.paraglider.anti_vessel": "Anti-Recipiente",
 	"item.paraglider.essence": "Essência",
+	"effect.paraglider.exhausted": "Cansado",
 	
 	"tooltip.paraglider.paraglider_broken": "Quebrada",
 	"tooltip.paraglider.heart_container.1": "Aumenta a quantidade máxima de vida em %s, até %s vezes.",
