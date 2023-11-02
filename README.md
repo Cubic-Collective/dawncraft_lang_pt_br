@@ -13,7 +13,8 @@ Se você possui um conhecimento básico de inglês e deseja contribuir com a tra
 
 ### Instalação da Tradução
 
-Download: [Aqui](https://github.com/GMalvestiti/dawncraft_lang_pt_br/archive/refs/heads/main.zip)<br>
+Download: [Aqui](https://github.com/GMalvestiti/dawncraft_lang_pt_br/archive/refs/heads/main.zip)<br><br>
+Tutorial em Vídeo:<br>
 [![Watch the video](https://img.youtube.com/vi/nwmmuDU5ud8/maxresdefault.jpg)](https://youtu.be/nwmmuDU5ud8)<br>
-Por [AKAM](https://www.akamgaming.com.br/)<br>
-Tutorial: [Aqui](https://discord.com/channels/1093965596384833657/1118309439989104721 "Tutorial")
+Por [AKAM](https://www.akamgaming.com.br/)<br><br>
+Tutorial Escrito: [Aqui](https://discord.com/channels/1093965596384833657/1118309439989104721 "Tutorial")
