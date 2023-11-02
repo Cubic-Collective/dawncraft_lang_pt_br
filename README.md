@@ -15,7 +15,6 @@ Se você possui um conhecimento básico de inglês e deseja contribuir com a tra
 
 Download: [Aqui](https://github.com/GMalvestiti/dawncraft_lang_pt_br/archive/refs/heads/main.zip)<br><br>
 Tutorial em Vídeo:<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwmmuDU5ud8?si=_5C5gtwT-aq9MK-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 [![Watch the video](https://img.youtube.com/vi/nwmmuDU5ud8/maxresdefault.jpg)](https://youtu.be/nwmmuDU5ud8)<br>
 Por [AKAM](https://www.akamgaming.com.br/)<br><br>
 Tutorial Escrito: [Aqui](https://discord.com/channels/1093965596384833657/1118309439989104721 "Tutorial")
