@@ -1388,7 +1388,7 @@
 			icon: "paraglider:spirit_orb"
 			x: 2.0d
 			y: -1.5d
-			description: [" A única forma de aumentar sua esta- mina é utilizando Orbes Espirituais ou Essências. Você pode encontrá-los em masmorras de enigmas (grandes es- truturas amarelas ou azuis que contêm enigmas para resolver) ou durante algumas missões. As Essências também podem ser obtidas ao derrotar certos monstros, como Ogros e Médicos da Igreja, que aparecem na natureza ou em algumas missões. Após obtê-los, cli- que com o botão direito do mouse no item para consumi-lo. Quando você ti- ver acumulado 4 orbes ou 6 essênci- as, procure a estátua corresponden- te em qualquer vila para trocá-los por mais vida ou estamina."]
+			description: [" A única forma de aumentar sua esta- mina é utilizando Orbes Espirituais ou Essências. Você pode encontrá-los em masmorras de puzzles (grandes es- truturas amarelas ou azuis que contêm puzzles para resolver) ou durante algumas missões. As Essências também podem ser obtidas ao derrotar certos monstros, como Ogros e Médicos da Igreja, que aparecem na natureza ou em algumas missões. Após obtê-los, cli- que com o botão direito do mouse no item para consumi-lo. Quando você ti- ver acumulado 4 orbes ou 6 essênci- as, procure a estátua corresponden- te em qualquer vila para trocá-los por mais vida ou estamina."]
 			dependencies: ["5F8E6856198022AB"]
 			id: "1C144F8F242A570F"
 			tasks: [{
