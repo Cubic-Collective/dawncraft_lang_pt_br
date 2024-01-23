@@ -1,8 +1,8 @@
 {
-   "lootr.message.should_sneak":"Se quebrar o baú, irá eliminar o seu saque único e todos os itens do baú! Para quebrar, é preciso agachar enquanto o quebra.",
-   "lootr.message.should_sneak2":"Como o saque é %s, só se deve quebrar se for realmente necessário.",
-   "lootr.message.should_sneak3":"por jogador por baú",
-   "lootr.message.cart_should_sneak":"Se quebrar o carrinho, irá eliminar o seu saque único e todos os itens do carrinho! Para quebrar, é preciso agachar enquanto o quebra",
+   "lootr.message.should_sneak":"Evite quebrar o baú, pois isso resultará na perda do seu saque exclusivo e de todos os itens contidos nele! Se realmente necessário, se agache para quebrá-lo.",
+   "lootr.message.should_sneak2":"Quebre apenas se for absolutamente necessário, pois o saque é %s",
+   "lootr.message.should_sneak3":"individual para cada jogador e baú.",
+   "lootr.message.cart_should_sneak":"Evite quebrar o carrinho, pois isso resultará na perda do seu saque exclusivo e de todos os itens contidos nele! Se necessário, se agache para quebrá-lo.",
    "lootr.message.cart_should_sneak3":"por jogador por carrinho",
    "lootr.message.cannot_break":"As caixas de itens e os carrinhos não podem ser quebrados.",
    "lootr.message.cannot_break_sneak":"As caixas de itens e os carrinhos só podem ser quebrados enquanto agachado no modo criativo.",
