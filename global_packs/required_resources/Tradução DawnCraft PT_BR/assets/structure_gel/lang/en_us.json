@@ -21,7 +21,7 @@
 
     "info.structure_gel.unknown_behavior": "• O comportamento deste bloco é indefinido. Verifique se você está usando ou estendendo o StructureGelBlock no código.",
 
-    "item.structure_gel.building_tool": "Ferramenta de construção",
+    "item.structure_gel.building_tool": "Ferramenta de Construção",
     "item.structure_gel.building_tool.info.how_to_use": "• Precione [%s] no ar para selecionar o modo.\n• Para modos que requerem um bloco selecionado, você pode clicar com o botão direito do mouse em um item mantido em seu mouse nesta pilha para selecionar aquele bloco.",
     "item.structure_gel.building_tool.info.selected_state": "• Bloco selecionado: %s",
     "item.structure_gel.building_tool.info.property": "• %s: %s",
@@ -105,7 +105,7 @@
     "info.structure_gel.building_tool.property.cut": "Cortar",
     "info.structure_gel.building_tool.property.cut.description": "• Quando verdadeiro, remove a região original do mundo.",
     "info.structure_gel.building_tool.property.cut.value.true": "Verdadeiro",
-    "info.structure_gel.building_tool.property.cut.value.false": "Falço",
+    "info.structure_gel.building_tool.property.cut.value.false": "Falso",
     "info.structure_gel.building_tool.property.fill_mode": "Modo",
     "info.structure_gel.building_tool.property.fill_mode.description": "• Altera o funcionamento da função de preenchimento, semelhante ao funcionamento do comando de preenchimento.",
     "info.structure_gel.building_tool.property.fill_mode.value.solid": "Sólido",
@@ -171,7 +171,7 @@
     "gui.structure_gel.data_handler.structure_gel:configured_feature.feature.description": "O recurso configurado para tentar gerar.",
     "gui.structure_gel.data_handler.structure_gel:configured_feature.generation_chance.label": "Chance de Geração",
     "gui.structure_gel.data_handler.structure_gel:configured_feature.generation_chance.description": "A chance percentual de que isso gere um recurso.",
-    
+
     "gui.structure_gel.data_handler.structure_gel:block_state.block_state.label": "Estado de bloqueio",
     "gui.structure_gel.data_handler.structure_gel:block_state.block_state.description": "O estado do bloco a ser colocado.",
     "gui.structure_gel.data_handler.structure_gel:block_state.tag.label": "Etiqueta NBT",
