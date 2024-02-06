@@ -1,4 +1,4 @@
-## DawnCraft ModPack Brazilian-Portuguese Localization (Em Progresso)
+## DawnCraft ModPack Brazilian-Portuguese Localization
 
 DawnCraft no CurseForge: [Aqui](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
