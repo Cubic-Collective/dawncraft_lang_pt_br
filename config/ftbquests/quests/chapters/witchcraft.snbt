@@ -67,7 +67,6 @@
 			y: -2.6999999999999997d
 			description: [
 				" Caldeirões do Hexerei exigem nível 2 de conhecimento para usar. Isso pode ser obtido através de uma missão do Aldeão Clérigo, no entanto aqueles que estão tendo dificuldades em encontrar esta missão ou que falharam em completá-la podem em vez disso comprar o conheci- mento aqui, por um preço…"
-				"\\n Nota: Atualmente, o livro das sombras trava os clientes se o cliente estiver usando shaders."
 			]
 			dependencies: ["758B99AACB978297"]
 			size: 1.8d
