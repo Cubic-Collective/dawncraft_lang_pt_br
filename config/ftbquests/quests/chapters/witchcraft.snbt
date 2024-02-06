@@ -67,7 +67,6 @@
 			y: -2.6999999999999997d
 			description: [
 				"Hexerei Cauldrons require knowledge level 2 to use. This can be obtained through a Cleric Villager quest, however those who are having trouble finding this quest or who have failed to complete it can instead purchase the knowledge here, for a price..."
-				"\\nNote: As of right now the book of shadows crashes clients if the client is using shaders."
 			]
 			dependencies: ["758B99AACB978297"]
 			size: 1.8d

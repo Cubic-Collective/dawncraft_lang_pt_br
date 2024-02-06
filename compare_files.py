@@ -18,7 +18,9 @@ def compare_folders(folder1, folder2):
 folder1_path = r""
 folder2_path = r""
 
-common_files, unique_files_folder1, unique_files_folder2 = compare_folders(folder1_path, folder2_path)
+common_files, unique_files_folder1, unique_files_folder2 = compare_folders(
+    folder1_path, folder2_path
+)
 
 unique_files_folder1 = sorted(unique_files_folder1)
 unique_files_folder2 = sorted(unique_files_folder2)
