@@ -222,29 +222,28 @@
 		"item.create.experience_nugget.tooltip.condition1": "Quando Usado",
 		"item.create.experience_nugget.tooltip.behaviour1": "_Resgata_ pontos de _Experiência_ contidos dentro.",
 
-		"block.create.peculiar_bell.tooltip": "SINO PECULIAR",
-		"block.create.peculiar_bell.tooltip.summary": "Um _Sino de Latão_ decorativo. Colocá-lo direto acima de um _Fogo das Almas_ pode causar efeitos colaterais...",
+	"block.create.peculiar_bell.tooltip": "SINO PECULIAR",
+	"block.create.peculiar_bell.tooltip.summary": "Um _Sino de Latão_ decorativo. Colocá-lo direto acima de um _Fogo das Almas_ pode causar efeitos colaterais...",
 
-		"block.create.haunted_bell.tooltip": "SINO ASSOMBRADO",
-		"block.create.haunted_bell.tooltip.summary": "Um _Sino Amaldiçoado_ assombrado por almas perdidas do Nether.",
-		"block.create.haunted_bell.tooltip.condition1": "Quando segurado ou Tocado",
-		"block.create.haunted_bell.tooltip.behaviour1": "Destaque _Espaços sem Luz_ próximos em que _Monstros Hostis_ podem nascer.",
+	"block.create.haunted_bell.tooltip": "SINO ASSOMBRADO",
+	"block.create.haunted_bell.tooltip.summary": "Um _Sino Amaldiçoado_ assombrado por almas perdidas do Nether.",		"block.create.haunted_bell.tooltip.condition1": "Quando segurado ou Tocado",
+	"block.create.haunted_bell.tooltip.behaviour1": "Destaque _Espaços sem Luz_ próximos em que _Monstros Hostis_ podem nascer.",
 
-		"block.create.copycat_panel.tooltip": "PAINEL IMITADOR",
-		"block.create.copycat_panel.tooltip.summary": "_Converte_ qualquer bloco _inteiro_ em um painel decorativo. Também aceita _Grades_ e _Alçapões_.",
-		"block.create.copycat_panel.tooltip.condition1": "Quando Clique Direito",
-		"block.create.copycat_panel.tooltip.behaviour1": "Aplica _item segurado_ como seu _material_ se possível. _Clique novamente_ para alternar o _orientação_ ou estado _energizado_. Use um _chave Inglesa_ para _redefinir_ o material.",
+	"block.create.copycat_panel.tooltip": "PAINEL IMITADOR",
+	"block.create.copycat_panel.tooltip.summary": "_Converte_ qualquer bloco _inteiro_ em um painel decorativo. Também aceita _Grades_ e _Alçapões_.",
+	"block.create.copycat_panel.tooltip.condition1": "Quando Clique Direito",
+	"block.create.copycat_panel.tooltip.behaviour1": "Aplica _item segurado_ como seu _material_ se possível. _Clique novamente_ para alternar o _orientação_ ou estado _energizado_. Use um _chave Inglesa_ para _redefinir_ o material.",
 
-		"block.create.copycat_step.tooltip": "DEGRAU IMITADOR",
-		"block.create.copycat_step.tooltip.summary": "_Converte_ qualquer _bloco completo_ em um degrau decorativo.",
-		"block.create.copycat_step.tooltip.condition1": "Quando Clique Direito",
-		"block.create.copycat_step.tooltip.behaviour1": "Aplica _item segurado_ como seu _material_ se possível. _Clique novamente_ para alternar o _orientação_ ou estado _energizado_. Use um _chave Inglesa_ para _redefinir_ o material.",
+	"block.create.copycat_step.tooltip": "DEGRAU IMITADOR",
+	"block.create.copycat_step.tooltip.summary": "_Converte_ qualquer _bloco completo_ em um degrau decorativo.",
+	"block.create.copycat_step.tooltip.condition1": "Quando Clique Direito",
+	"block.create.copycat_step.tooltip.behaviour1": "Aplica _item segurado_ como seu _material_ se possível. _Clique novamente_ para alternar o _orientação_ ou estado _energizado_. Use um _chave Inglesa_ para _redefinir_ o material.",
 
-		"block.create.clipboard.tooltip": "Prancheta",
-		"block.create.clipboard.tooltip.summary": "_Mantém suas anotações_ e faz você parecer mais profissional.",
-		"block.create.clipboard.tooltip.condition1": "Quando Clique Direito",
-		"block.create.clipboard.tooltip.behaviour1": "Abre a _Interface_. _Agache e clique_ para _colocar_ em uma superfície.",
-		"block.create.clipboard.tooltip.condition2": "Quando Usado em Blocos",
-		"block.create.clipboard.tooltip.behaviour2": "Algumas _configurações_, como filtros, podem ser _copiados (Clique-direito)_ e _aplicados (Clique-esquerdo)_ em outro lugar."
+	"block.create.clipboard.tooltip": "Prancheta",
+	"block.create.clipboard.tooltip.summary": "_Mantém suas anotações_ e faz você parecer mais profissional.",
+	"block.create.clipboard.tooltip.condition1": "Quando Clique Direito",
+	"block.create.clipboard.tooltip.behaviour1": "Abre a _Interface_. _Agache e clique_ para _colocar_ em uma superfície.",
+	"block.create.clipboard.tooltip.condition2": "Quando Usado em Blocos",
+	"block.create.clipboard.tooltip.behaviour2": "Algumas _configurações_, como filtros, podem ser _copiados (Clique-direito)_ e _aplicados (Clique-esquerdo)_ em outro lugar."
 
 	}
