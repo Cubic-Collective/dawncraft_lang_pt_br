@@ -885,8 +885,10 @@
     
     "itemGroup.create.base": "Create",
     "itemGroup.create.palettes": "Blocos de Construção do Create",
+
     "block.create.mangrove_window": "Janela de Mangue",
     "block.create.mangrove_window_pane": "Vidraça de Mangue",
+
     "death.attack.create.crush": "%1$s foi processado pelas Rodas de Moer",
     "death.attack.create.crush.player": "%1$s foi jogando numa Roda de Moer por %2$s",
     "death.attack.create.fan_fire": "%1$s foi queimado por ar quente",
@@ -1053,6 +1055,7 @@
     "create.gui.terrainzapper.tool.clear": "Limpar",
     "create.gui.terrainzapper.tool.overlay": "Sobrepor",
     "create.gui.terrainzapper.tool.flatten": "Nivelar",
+
     "create.terrainzapper.shiftRightClickToSet": "Shift-Clique com Botão Direito para selecionar uma forma",
     "create.terrainzapper.usingBlock": "Usando: %1$s",
     "create.terrainzapper.leftClickToSet": "Clique Esquerdo em um Bloco para definir Material",
@@ -1064,6 +1067,7 @@
     "create.minecart_coupling.no_loops": "Acoplamentos não podem formar um loop",
     "create.minecart_coupling.removed": "Removeu todos os acoplamentos do carrinho de mina",
     "create.minecart_coupling.too_far": "Carrinhos de mina estão muito distanciados",
+
     "create.contraptions.moving_container": "Movendo %1$s",
     "create.contraptions.movement_mode": "Modo de movimento",
     "create.contraptions.movement_mode.move_place": "Sempre colocar quando parado",
@@ -1105,10 +1109,13 @@
     "create.logistics.filter.requires_item_in_inventory": "Requer %1$s item no inventário",
     "create.logistics.creative_crate.supply": "Fornecimento Infinito",
     "create.logistics.train_observer.cargo_filter": "Filtro de Carga",
+
     "create.kinetics.creative_motor.rotation_speed": "Velocidade Gerada em RPM",
     "create.kinetics.speed_controller.rotation_speed": "Velocidade Alvo em RPM",
     "create.kinetics.valve_handle.rotated_angle": "Rotação quando usada",
+
     "create.logistics.redstone_interval": "Intervalo de Redstone",
+
     "create.contraptions.contoller.target": "Componente Selecionado",
     "create.contraptions.mechanical_roller.pave_material": "Material de Pavimentação",
     "create.contraptions.chassis.radius": "Alcance quando grudento",
@@ -1175,6 +1182,7 @@
     "create.clipboard.to_paste": "%1$s para Colar configurações",
     "create.clipboard.copied_from": "Copiando configurações de %1$s",
     "create.clipboard.pasted_to": "Configurações aplicadas a %1$s",
+
     "create.schematicAndQuill.dimensions": "Tamanho Esquema: %1$sx%2$sx%3$s",
     "create.schematicAndQuill.firstPos": "Primeira posição feita.",
     "create.schematicAndQuill.secondPos": "Segunda posição feita.",
@@ -1287,6 +1295,7 @@
     
     "create.materialChecklist": "Lista de materiais",
     "create.materialChecklist.blocksNotLoaded": "* Aviso *\n\nA lista de materiais pode ser impreciso devido a chunks relevantes não estarem sendo carregados.",
+
     "create.gui.filter.deny_list": "Lista de negação",
     "create.gui.filter.deny_list.description": "Itens passam se eles não encaixam em nenhum dos acima. Uma lista de negação vazia aceita tudo.",
     "create.gui.filter.allow_list": "Lista de permissão",
@@ -1414,7 +1423,9 @@
     "create.weighted_ejector.no_target": "Ejetando para o bloco adjacente (Nenhum alvo foi selecionado)",
     "create.weighted_ejector.targeting": "Ejetando para [%1$s,%2$s,%3$s]",
     "create.weighted_ejector.stack_size": "Tamanho da pilha ejetada",
+
     "create.logistics.when_multiple_outputs_available": "Método de distribuição",
+
     "create.mechanical_arm.selection_mode.round_robin": "Rodízio",
     "create.mechanical_arm.selection_mode.forced_round_robin": "Rodízio forçado",
     "create.mechanical_arm.selection_mode.prefer_first": "Preferir primeiro alvo",
@@ -1443,6 +1454,7 @@
     "create.tooltip.brass_tunnel.contains": "Distribuindo:",
     "create.tooltip.brass_tunnel.contains_entry": " > %1$s x%2$s",
     "create.tooltip.brass_tunnel.retrieve": "Clique com Botão Direito para recuperar item",
+
     "create.linked_controller.bind_mode": "Modo de vinculação",
     "create.linked_controller.press_keybind": "Aperte %1$s, %2$s, %3$s, %4$s, %5$s ou %6$s, para vincular essa frequência para tecla respectiva",
     "create.linked_controller.key_bound": "Frequência vinculada com %1$s",
@@ -1475,6 +1487,7 @@
     
     "create.hint.derailed_train.title": "Trem Descarrilhado",
     "create.hint.derailed_train": "Parece que este _Trem_ não está mais posicionado em uma peça de trilho conectado. _Clique com Botão Direito_ usando uma _chave Inglesa_ para relocalizá-lo para um trilho próximo.",
+
     "create.boiler.status": "Status da Caldeira:  %1$s",
     "create.boiler.status_short": "Caldeira:  %1$s",
     "create.boiler.passive": "Passivo",
@@ -1491,9 +1504,11 @@
     "create.boiler.via_engines": "através de %1$s motores",
     "create.boiler.water_input_rate": "Taxa de entrada de água",
     "create.boiler.per_tick": "%1$s por Tick",
+
     "create.elevator_contact.title": "Contato de elevador",
     "create.elevator_contact.floor_identifier": "Identificador de andar",
     "create.elevator_contact.floor_description": "Descrição do andar",
+
     "create.gui.schedule.lmb_edit": "Clique Esquerdo para Editar",
     "create.gui.schedule.rmb_remove": "Clique com Botão Direito para Remover",
     "create.gui.schedule.duplicate": "Duplicar",
@@ -1616,6 +1631,7 @@
     "create.track.not_enough_tracks": "Não esta segurando trilhos suficientes",
     "create.track.not_enough_pavement": "Não esta segurando blocos de pavimento suficiente",
     "create.track.hold_for_smooth_curve": "Segure %1$s para uma curva maximizada",
+
     "create.portal_track.failed": "Não é possível colocar trilho do portal:",
     "create.portal_track.missing": "Portal de destino ainda não gerado",
     "create.portal_track.blocked": "Local do destino bloqueado (%1$s,%2$s,%3$s)",
@@ -1900,6 +1916,10 @@
     "create.subtitle.copper_armor_equip": "Tilintar dos equipamentos de mergulho",
     "create.subtitle.mechanical_press_activation": "Clang da prensa mecânica",
     "create.subtitle.contraption_assemble": "Engenhoca move",
+    
+    
+    "_": "->------------------------]  Item Descriptions  [------------------------<-",
+
     "item.create.example_item.tooltip": "ITEM DE EXEMPLO (apenas para indicar que este tooltip está presente)",
     "item.create.example_item.tooltip.summary": "Uma breve descrição do item. _Sublinhados_ destacam um termo.",
     "item.create.example_item.tooltip.condition1": "Quando isso",
@@ -1908,10 +1928,13 @@
     "item.create.example_item.tooltip.behaviour2": "Você pode adicionar quantos comportamentos quiser",
     "item.create.example_item.tooltip.control1": "Quando Ctrl é pressionado",
     "item.create.example_item.tooltip.action1": "Esses controles são exibidos.",
+
     "block.create.wooden_bracket.tooltip": "SUPORTE DE MADEIRA",
     "block.create.wooden_bracket.tooltip.summary": "_Decore_ seus _eixos, rodas dentadas_ e _canos_com um pedaço aconchegante e de madeira de reforço.",
+
     "block.create.metal_bracket.tooltip": "SUPORTE DE METAL",
     "block.create.metal_bracket.tooltip.summary": "_Decore_ seus _eixos, rodas dentadas_ e _canos_ com um pedaço industrial e resistente de reforço.",
+
     "block.create.seat.tooltip": "ASSENTO",
     "block.create.seat.tooltip.summary": "Sente-se e aprecie a viagem! Âncora um jogador a uma _engenhoca_ em movimento. Ótimo para móveis estáticos também! Vem em uma variedade de cores.",
     "block.create.seat.tooltip.condition1": "Clique com Botão Direito no Assento",
@@ -1936,9 +1959,11 @@
     "item.create.handheld_worldshaper.tooltip.condition3": "Clique com Botão Direito enquanto Agachado",
     "item.create.handheld_worldshaper.tooltip.behaviour3": "Abre a _Interface de Configuração_",
     "item.create.tree_fertilizer.tooltip": "FERTILIZANTE DE ÁRVORES",
+
     "item.create.tree_fertilizer.tooltip.summary": "Uma poderosa combinação de minerais úteis para o _crescimento_ de mudas em espaços apertados.",
     "item.create.tree_fertilizer.tooltip.condition1": "Quando usada em Mudas",
     "item.create.tree_fertilizer.tooltip.behaviour1": "Cresce uma árvore independentemente de condição espacial",
+
     "item.create.extendo_grip.tooltip": "EXTENSÃO DE PEGADOR",
     "item.create.extendo_grip.tooltip.summary": "Grandemente _aumenta o alcance_ do usuário. Pode ser abastecido com _ar pressurizado_ de um tanque traseiro",
     "item.create.extendo_grip.tooltip.condition1": "Quando na mão secundária",
@@ -1957,10 +1982,12 @@
     "item.create.filter.tooltip.summary": "_Corresponde itens_ com uma coleção de _itens_ ou _outros filtros_. Pode ser usado em _Espaços de Filtro_ dos componentes do Create",
     "item.create.filter.tooltip.condition1": "Quando Clicado com Botão Direito",
     "item.create.filter.tooltip.behaviour1": "Abre a _Interface_ de _Configuração_.",
+
     "item.create.attribute_filter.tooltip": "FILTRO DE ATRIBUTO",
     "item.create.attribute_filter.tooltip.summary": "_Corresponde itens_ com uma lista de _atributos_ ou _categorias_. Pode ser usado em _espaços de filtro_ de componentes do Create",
     "item.create.attribute_filter.tooltip.condition1": "Quando Clicado com Botão Direito",
     "item.create.attribute_filter.tooltip.behaviour1": "Abre a _Interface_ de _Configuração_.",
+
     "item.create.empty_schematic.tooltip": "ESQUEMA VAZIO",
     "item.create.empty_schematic.tooltip.summary": "Usado como ingrediente em receitas e para escrever na _Mesa_ _de_ _Esquematizar_",
     
@@ -1977,6 +2004,7 @@
     "item.create.schematic_and_quill.tooltip.behaviour1": "Selecione dois _cantos_ usando o _Botão Direito_. Pressione _Ctrl_ e Role para selecionar locais no ar.",
     "item.create.schematic_and_quill.tooltip.condition2": "Ajustando e Salvando",
     "item.create.schematic_and_quill.tooltip.behaviour2": "_Ctrl e Role_ nas faces para ajustar o tamanho. Clique com Botão Direito de novo para Salvar.",
+
     "block.create.schematicannon.tooltip": "CANHÃO DE ESQUEMA",
     "block.create.schematicannon.tooltip.summary": "Dispara blocos para recriar um _Esquema_ no Mundo. Usa itens de Inventários adjacentes e _Pólvora_ como combustível.",
     "block.create.schematicannon.tooltip.condition1": "Quando Clicado com Botão Direito",
@@ -1991,12 +2019,14 @@
     "item.create.goggles.tooltip.summary": "Acrescenta seu HUD com _informações diversas_ sobre componentes colocados.",
     "item.create.goggles.tooltip.condition1": "Ao olhar para os blocos",
     "item.create.goggles.tooltip.behaviour1": "_Componentes cinéticos_ mostram adicionados _Impacto do Estresse_ ou _Capacidade_. _Estressômetros_ mostram estatísticas de sua _rede cinética anexada_. Alguns outros blocos revelam informações como item e conteúdo fluido.",
+
     "item.create.wrench.tooltip": "CHAVE INGLESA",
     "item.create.wrench.tooltip.summary": "Ferramenta útil para trabalhar com suas engenhocas cinéticas.",
     "item.create.wrench.tooltip.condition1": "Quando Usado em Blocos",
     "item.create.wrench.tooltip.behaviour1": "_Gira os componentes_ em torno da face clicada. _Agache_ enquanto interage para _desmontar_ os componentes.",
     "item.create.wrench.tooltip.condition2": "Quando usado em Engenhocas",
     "item.create.wrench.tooltip.behaviour2": "_Realoca_ montados minecart- e engenhocas baseadas em trem.",
+
     "block.create.nozzle.tooltip": "BOCAL",
     "block.create.nozzle.tooltip.summary": "Coloque na frente de um _Ventilador revestido_ para distribuir seu efeito em Entidades em _todas as direções_.",
     
@@ -2004,8 +2034,10 @@
     "block.create.cuckoo_clock.tooltip.summary": "Bom artesanato para _decorar_ um espaço e _acompanhar o tempo_.",
     "block.create.cuckoo_clock.tooltip.condition1": "Quando energizado",
     "block.create.cuckoo_clock.tooltip.behaviour1": "Mostra a _hora atual_ e toca uma música duas vezes por dia. _Ativa_ uma vez ao meio-dia e no crepúsculo, assim que _jogadores conseguem dormir_.",
+
     "block.create.turntable.tooltip": "TMESA GIRATÓRIA",
     "block.create.turntable.tooltip.summary": "Usa a _Força_ _Rotacional_ para criar uma forma refinada de Enjoo.",
+
     "block.create.toolbox.tooltip": "CAIXA DE FERRAMENTAS",
     "block.create.toolbox.tooltip.summary": "Companheiro mais querido de todos os inventores. Convenientemente _guarda_ uma grande quantidade de _8 Diferentes_ tipos de itens.",
     "block.create.toolbox.tooltip.condition1": "Quando coletado",
@@ -2014,12 +2046,14 @@
     "block.create.toolbox.tooltip.behaviour2": "_Jogadores_ _próximos_ podem segurar a _Tecla de atalho da Caixa de ferramentas_ para acessar seu conteúdo _Remotamente_.",
     "block.create.toolbox.tooltip.condition3": "Quando Clicado com Botão Direito",
     "block.create.toolbox.tooltip.behaviour3": "Abre a _Interface_ do _Contêiner_.",
+
     "block.create.creative_crate.tooltip": "CAIXA CRIATIVA",
     "block.create.creative_crate.tooltip.summary": "Este _Contêiner de Armazenamento_ permite replicação infinita de itens.",
     "block.create.creative_crate.tooltip.condition1": "Quando um Item no Slot de Filtro",
     "block.create.creative_crate.tooltip.behaviour1": "Qualquer _extração_ deste contêiner fornecerá uma _quantidade infinita_ do item especificado. Itens _inseridos_ nesta caixa serão _apagados._",
     "block.create.creative_crate.tooltip.condition2": "Quando ao lado de um Canhão de Esquema",
     "block.create.creative_crate.tooltip.behaviour2": "Fornece qualquer material necessário pelo Esquema.",
+
     "item.create.creative_blaze_cake.tooltip": "BOLO DE BLAZE CRIATIVO",
     "item.create.creative_blaze_cake.tooltip.summary": "Um deleite muito especial para os seus _Queimadores de Blaze_. Após comer este bolo, Queimadores de Blaze _nunca mais ficarão sem combustível_.",
     "item.create.creative_blaze_cake.tooltip.condition1": "Ao usar",
@@ -2027,6 +2061,7 @@
     
     "block.create.controller_rail.tooltip": "TRILHO CONTROLADOR",
     "block.create.controller_rail.tooltip.summary": "Um trilho _uni-direcional_ energizado com _velocidade variável_, controlado pela _força do sinal_ fornecido.",
+
     "item.create.sand_paper.tooltip": "LIXA",
     "item.create.sand_paper.tooltip.summary": "Pode ser usado para _refinar materiais_. O processo pode ser automatizado com um Implantador.",
     "item.create.sand_paper.tooltip.condition1": "Quando Usado",
@@ -2045,14 +2080,17 @@
     "item.create.linked_controller.tooltip.behaviour3": "Habilita o _modo de vinculação_, pressione um dos _seis controles_ para vinculá-lo à _Frequência da conexão_.",
     "item.create.linked_controller.tooltip.condition4": "Clique com Botão Direito no Atril",
     "item.create.linked_controller.tooltip.behaviour4": "Coloque o Controle no Atril para ativação fácil. (Clique com Botão Direito enquanto Agachado para recuperá-lo)",
+
     "item.create.copper_diving_helmet.tooltip": "CAPACETE DE MERGULHO DE COBRE",
     "item.create.copper_diving_helmet.tooltip.summary": "Junto com um _Tanque Traseiro_, permite que o usuário _respire_ _em baixo d'água_ por uma quantidade prolongada de tempo.",
     "item.create.copper_diving_helmet.tooltip.condition1": "Quando usado",
     "item.create.copper_diving_helmet.tooltip.behaviour1": "Fornece o efeito de respiração aquática, drenando lentamente o _Ar Pressurizado_ do Tanque Traseiro.",
+
     "item.create.netherite_diving_helmet.tooltip": "CAPACETE DE MERGULHO DE NETHERITA",
     "item.create.netherite_diving_helmet.tooltip.summary": "Junto com um _Tanque Traseiro de Netherita_, isso pode protegê-lo de _calor extremo_. Para ser eficaz, _Pernas e Pés_ têm que estar cobertas por _Netherita_, também.",
     "item.create.netherite_diving_helmet.tooltip.condition1": "Quando usado (Conjunto completo)",
     "item.create.netherite_diving_helmet.tooltip.behaviour1": "Fornece imunidade à _Fogo_ e _Lava_, drenando lentamente o _Ar Pressurizado_ do Tanque Traseiro. Também concede _melhor visão_ na Lava",
+
     "item.create.copper_backtank.tooltip": "TANQUE TRASEIRO DE COBRE",
     "item.create.copper_backtank.tooltip.summary": "Um _Tanque_ _vestível_ para transportar ar pressurizado.",
     "item.create.copper_backtank.tooltip.condition1": "Quando usado",
@@ -2066,6 +2104,7 @@
     "item.create.netherite_backtank.tooltip.behaviour1": "Fornece _Ar_ _Pressurizado_ para equipamentos que necessitem.",
     "item.create.netherite_backtank.tooltip.condition2": "Quando colocado, Energizado",
     "item.create.netherite_backtank.tooltip.behaviour2": "_Coleta_ _Ar_ _Pressurizado_ a uma taxa dependendo da Velocidade Rotacional.",
+
     "block.create.placard.tooltip": "CARTAZ",
     "block.create.placard.tooltip.summary": "_Emoldure_ seus _itens_ em latão usando este painel de parede chique. Seguro para uso em engenhocas!",
     "block.create.placard.tooltip.condition1": "Quando Clicado com Botão Direito com um Item",
@@ -2077,10 +2116,12 @@
     "block.create.flywheel.tooltip.summary": "_Embeleze_ as suas _Máquinas_ com esta imponente roda de latão.",
     "block.create.flywheel.tooltip.condition1": "Quando energizado",
     "block.create.flywheel.tooltip.behaviour1": "Começa a girar.",
+
     "item.create.copper_diving_boots.tooltip": "BOTAS DE MERGULHO DE COBRE",
     "item.create.copper_diving_boots.tooltip.summary": "Um par de _botas_ _pesadas_, permitindo uma melhor travessia no chão do oceano.",
     "item.create.copper_diving_boots.tooltip.condition1": "Quando usado",
     "item.create.copper_diving_boots.tooltip.behaviour1": "Usuário _afunda_ mais _rapidamente_ em líquidos. Da habilidade de _andar_ e _saltar_ debaixo d'água. Usuário também não é mais afetado por _Esteiras_ _Mecânicas_.",
+
     "item.create.netherite_diving_boots.tooltip": "BOTAS DE MERGULHO DE NETHERITA",
     "item.create.netherite_diving_boots.tooltip.summary": "Um par de _botas_ _pesadas_, permitindo uma melhor travessia no chão do oceano, incluindo Oceanos feitos de Lava.",
     "item.create.netherite_diving_boots.tooltip.condition1": "Quando usado",
@@ -2095,6 +2136,7 @@
     
     "item.create.minecart_coupling.tooltip": "ACOPLAMENTO DE CARRINHO DE MINA",
     "item.create.minecart_coupling.tooltip.summary": "_Acorrenta_ _Carrinhos de mina_ individuais, fazendo com que eles se movam como um grupo.",
+
     "item.create.experience_nugget.tooltip": "PEPITAS DE EXPERÊNCIA",
     "item.create.experience_nugget.tooltip.summary": "Um grão de _inspiração_ das suas fantásticas invenções.",
     "item.create.experience_nugget.tooltip.condition1": "Quando Usado",
@@ -2107,15 +2149,18 @@
     "block.create.haunted_bell.tooltip.summary": "Um _Sino Amaldiçoado_ assombrado por almas perdidas do Nether.",
     "block.create.haunted_bell.tooltip.condition1": "Quando segurado ou Tocado",
     "block.create.haunted_bell.tooltip.behaviour1": "Destaque _Espaços sem Luz_ próximos em que _Monstros Hostis_ podem nascer.",
+
     "block.create.copycat_panel.tooltip": "PAINEL IMITADOR",
     "block.create.copycat_panel.tooltip.summary": "_Converte_ qualquer bloco _inteiro_ em um painel decorativo. Também aceita _Grades_ e _Alçapões_.",
     "block.create.copycat_panel.tooltip.condition1": "Quando clicado com o botão direito",
     "block.create.copycat_panel.tooltip.behaviour1": "Aplica _item segurado_ como seu _material_ se possível. _Clique novamente_ para alternar o _orientação_ ou estado _energizado_. Use um _chave Inglesa_ para _redefinir_ o material.",
+
     "block.create.copycat_step.tooltip": "DEGRAU IMITADOR",
     "block.create.copycat_step.tooltip.summary": "_Converte_ qualquer _bloco completo_ em um degrau decorativo.",
     "block.create.copycat_step.tooltip.condition1": "Quando clicado com o botão direito",
     "block.create.copycat_step.tooltip.behaviour1": "Aplica _item segurado_ como seu _material_ se possível. _Clique novamente_ para alternar o _orientação_ ou estado _energizado_. Use um _chave Inglesa_ para _redefinir_ o material.",
-    "block.create.clipboard.tooltip": "Prancheta",
+
+    "block.create.clipboard.tooltip": "PRANCHETA",
     "block.create.clipboard.tooltip.summary": "_Mantém suas anotações_ e faz você parecer mais profissional.",
     "block.create.clipboard.tooltip.condition1": "Quando clicado com o botão direito",
     "block.create.clipboard.tooltip.behaviour1": "Abre a _Interface_. _Agache e clique_ para _colocar_ em uma superfície.",
