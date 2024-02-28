@@ -205,7 +205,7 @@
 	"create.contraptions.roller_mode.wide_fill": "Preenchimento Inclinado abaixo",
 
 	"create.contraptions.windmill.rotation_direction": "Direção da rotação",
-	"create.contraptions.clockwork.clock_hands": "Configuração da mão do relógio",
+	"create.contraptions.clockwork.clock_hands": "Ponteiros do relógio",
 	"create.contraptions.clockwork.hour_first": "Ponteiro da hora primeiro",
 	"create.contraptions.clockwork.minute_first": "Ponteiro do minuto primeiro",
 	"create.contraptions.clockwork.hour_first_24": "Ponteiro das 24 horas primeiro",
@@ -277,7 +277,7 @@
 	"create.gui.stressometer.no_rotation": "Nenhuma rotação",
 
 	"create.gui.contraptions.not_fast_enough": "Parece que este %1$s não _está_ girando com _a velocidade_ _necessária_.",
-	"create.gui.contraptions.network_overstressed": "Parece que esta engenhoca está _Sobre estresse_. Adicione mais fontes ou _desacelere_ __ os componentes que tem um _alto impacto_ _do estresse_.",
+	"create.gui.contraptions.network_overstressed": "Parece que esta engenhoca está _Sobre estresse_. Adicione mais fontes ou _desacelere_ __ os componentes que tem um _alto impacto_ _de estresse_.",
 
 	"create.gui.adjustable_crate.title": "Caixa ajustável",
 	"create.gui.adjustable_crate.storageSpace": "Espaço de Armazenamento",
@@ -401,7 +401,7 @@
 	"create.gui.schematicannon.option.skipBlockEntities": "Proteger Entidades de Blocos",
 
 	"create.gui.schematicannon.slot.gunpowder": "Adicionar pólvora para carregar o canhão",
-	"create.gui.schematicannon.slot.listPrinter": "Coloque uma prancheta ou livros aqui para imprimir uma lista para o seu esquema",
+	"create.gui.schematicannon.slot.listPrinter": "Coloque uma Prancheta ou Livro aqui para imprimir uma lista para o seu esquema.",
 	"create.gui.schematicannon.slot.schematic": "Adicione o seu esquema aqui. Tenha certeza que ele está colocado em um lugar especifico.",
 
 	"create.gui.schematicannon.option.skipMissing.description": "Se o Canhão de esquema não encontrar o Bloco para colocar, ele irá continuar para a próxima. Posição.",
@@ -568,7 +568,7 @@
 	"create.weighted_ejector.targeting": "Ejetando para [%1$s,%2$s,%3$s]",
 	"create.weighted_ejector.stack_size": "Tamanho da pilha ejetada",
 
-	"create.logistics.when_multiple_outputs_available": "Método de distribuição",
+	"create.logistics.when_multiple_outputs_available": "Quando multiplas saidas selecionadas",
 
 	"create.mechanical_arm.selection_mode.round_robin": "Rodízio",
 	"create.mechanical_arm.selection_mode.forced_round_robin": "Rodízio forçado",
@@ -625,7 +625,7 @@
 	"create.hint.mechanical_arm_no_targets": "Aparentemente esse _Braço_ _Mecânico_ não foi designado nenhum _alvo._ Selecione esteiras, depósitos, funis e outros blocos com o _botão direito do mouse_ enquanto _segurando_ o _Braço_ _Mecânico_ na sua _mão_.",
 	"create.hint.empty_bearing.title": "Atualizar o rolamento",
 	"create.hint.empty_bearing": "Clique com o _Botão Direito_ no rolamento com a _mão_ _vazia_ para _conectar_ a estrutura que você construiu na frente disso.",
-	"create.hint.full_deployer.title": "Implantador não pode ser ativado",
+	"create.hint.full_deployer.title": "Implantador transbordando de itens",
 	"create.hint.full_deployer": "Aparenta que esse _inplantador_ contém _itens_ em _excesso_ que precisam ser _extraídos._ Use um _funil,_ _funil de andesito/latão_ ou outros meios para extrair os itens excedentes.",
 
 	"create.backtank.low": "Pressão do Tanque Traseiro de Cobre baixa",
@@ -819,8 +819,8 @@
 	"create.train_assembly.bogeys_too_close": "As rodas %1$s e %2$s estão muito perto uma da outra",
 	"create.train_assembly.single_bogey_carriage": "Este tipo de roda não suporta um vagão por conta própria",
 	"create.train_assembly.nothing_attached": "Nenhuma estrutura conectada a Roda %1$s",
-	"create.train_assembly.no_controls": "Conecte pelo menos um Controle de Trem voltado para a frente (você está sem Super Cola?)",
-	"create.train_assembly.sideways_controls": "Controles de Trem não podem estar voltado para o lado",
+	"create.train_assembly.no_controls": "Pelo menos um bloco de controle voltado para frente precisa ser montado no trem (você está sem Super Cola?)",
+	"create.train_assembly.sideways_controls": "Um bloco de controle montado está virado para o lado",
 	"create.train_assembly.bogey_created": "Roda criada. Clique novamente para alternar o tipo",
 	"create.train_assembly.requires_casing": "Use o Revestimento de Trem para criar rodas nos trilhos",
 
@@ -957,9 +957,9 @@
 	"create.display_source.kinetic_stress.display": "Informação exibida",
 	"create.display_source.kinetic_stress.progress_bar": "Barra de progresso",
 	"create.display_source.kinetic_stress.percent": "Porcentagem",
-	"create.display_source.kinetic_stress.current": "Estresse em SU",
+	"create.display_source.kinetic_stress.current": "Estresse em US",
 	"create.display_source.kinetic_stress.max": "Capacidade total",
-	"create.display_source.kinetic_stress.remaining": "SU Restante",
+	"create.display_source.kinetic_stress.remaining": "US Restante",
 	"create.display_source.redstone_power": "Poder de Redstone",
 	"create.display_source.redstone_power.display": "Formato de Exibição",
 	"create.display_source.redstone_power.number": "Número",
@@ -1002,11 +1002,11 @@
 	"create.gui.config.overlay8": "para redefinir para a posição padrão",
 
 	"create.command.killTPSCommand": " killtps",
-	"create.command.killTPSCommand.status.slowed_by.0": "[Create]: Tique do servidor está lento por %s ms :o",
-	"create.command.killTPSCommand.status.slowed_by.1": "[Create] Tique do servidor está lento por %s ms agora >:)",
-	"create.command.killTPSCommand.status.slowed_by.2": "[Create]: Tique do servidor voltou a velocidade regular :D",
-	"create.command.killTPSCommand.status.usage.0": "[Create]: use /killtps stop para voltar o servidor para a velocidade regular",
-	"create.command.killTPSCommand.status.usage.1": "[Create]: use /killtps start <tickTime> diminuir artificialmente o tique do servidor.",
+	"create.command.killTPSCommand.status.slowed_by.0": "[Create]: O tick do servidor está lento por %s ms :o",
+	"create.command.killTPSCommand.status.slowed_by.1": "[Create] O tick do servidor está lento por %s ms agora >:)",
+	"create.command.killTPSCommand.status.slowed_by.2": "[Create]: O tick do servidor voltou a velocidade regular :D",
+	"create.command.killTPSCommand.status.usage.0": "[Create]: use /killtps stop para trazer o tick do servidor de volta à velocidade regular",
+	"create.command.killTPSCommand.status.usage.1": "[Create]: use /killtps start <tickTime> para diminuir artificialmente o tick do servidor",
 	"create.command.killTPSCommand.argument.tickTime": "tickTime",
 
 	"create.contraption.minecart_contraption_too_big": "Essa engenhoca de carrinho aparenta ser muita grande para pegar",

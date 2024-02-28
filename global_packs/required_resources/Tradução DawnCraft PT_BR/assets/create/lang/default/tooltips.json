@@ -31,7 +31,7 @@
 	"item.create.wand_of_symmetry.tooltip.behaviour2": "_Remove_ o Espelho ativo",
 
 	"item.create.handheld_worldshaper.tooltip": "TERRAFORMADOR PORTÁTIL",
-	"item.create.handheld_worldshaper.tooltip.summary": "_Ferramenta_ do _Modo Criativo_ para _terraformação_ em larga escala, a longa distância.",
+	"item.create.handheld_worldshaper.tooltip.summary": "Ferramenta útil para criar _paisagens_ e _características de terrenos_",
 	"item.create.handheld_worldshaper.tooltip.condition1": "Clique com o botão esquerdo no Bloco",
 	"item.create.handheld_worldshaper.tooltip.behaviour1": "_Bloco selecionado_ se tornará o _material_ colocado pelo terraformador.",
 	"item.create.handheld_worldshaper.tooltip.condition2": "Clique com Botão Direito no Bloco",
@@ -45,14 +45,14 @@
 	"item.create.tree_fertilizer.tooltip.behaviour1": "Cresce uma árvore independentemente de condição espacial",
 
 	"item.create.extendo_grip.tooltip": "EXTENSÃO DE PEGADOR",
-	"item.create.extendo_grip.tooltip.summary": "Grandemente _aumenta o alcance_ do usuário. Pode ser abastecido com _ar pressurizado_ de um tanque traseiro",
+	"item.create.extendo_grip.tooltip.summary": "Aumenta significativamente a _distância de alcance_ do portador. Pode ser abastecido com _Ar Pressurizado_ de um _Tanque Traseiro_.",
 	"item.create.extendo_grip.tooltip.condition1": "Quando na mão secundária",
 	"item.create.extendo_grip.tooltip.behaviour1": "Aumenta a _distância de alcance_ de itens usados na _Mão principal_.",
 	"item.create.extendo_grip.tooltip.condition2": "Enquanto estiver usando o Tanque traseiro",
 	"item.create.extendo_grip.tooltip.behaviour2": "_Nenhuma_ _Durabilidade_ sera usada. Ao invés, _Pressão_ é drenada do Tanque",
 
 	"item.create.potato_cannon.tooltip": "CANHÃO DE BATATAS",
-	"item.create.potato_cannon.tooltip.summary": "Lança seus vegetais cultivados nos inimigos. Pode ser abastecido com _ar pressurizado_ de um tanque traseiro",
+	"item.create.potato_cannon.tooltip.summary": "Dispare seus legumes cultivados nos seus Inimigos. Pode ser abastecido com _ar pressurizado_ de um _tanque_ _Traseiro_",
 	"item.create.potato_cannon.tooltip.condition1": "Quando Clicado com Botão Direito",
 	"item.create.potato_cannon.tooltip.behaviour1": "_Atirar_ um item adequado do seu _Inventário_.",
 	"item.create.potato_cannon.tooltip.condition2": "Enquanto estiver usando o Tanque traseiro",
@@ -96,12 +96,12 @@
 	"block.create.schematic_table.tooltip.behaviour1": "Importa um Arquivo escolhido da sua Pasta de Esquemas",
 
 	"item.create.goggles.tooltip": "ÓCULOS",
-	"item.create.goggles.tooltip.summary": "Acrescenta seu HUD com _informações diversas_ sobre componentes colocados.",
+	"item.create.goggles.tooltip.summary": "Um par de óculos para aumentar sua visão com informações _cinéticas_ úteis.",
 	"item.create.goggles.tooltip.condition1": "Ao olhar para os blocos",
-	"item.create.goggles.tooltip.behaviour1": "_Componentes cinéticos_ mostram adicionados _Impacto do Estresse_ ou _Capacidade_. _Estressômetros_ mostram estatísticas de sua _rede cinética anexada_. Alguns outros blocos revelam informações como item e conteúdo fluido.",
+	"item.create.goggles.tooltip.behaviour1": "Mostra _indicadores coloridos_ correspondentes ao _Nível de Velocidade_ de um componente cinético colocado, bem como _Impacto de Estresse_ e _Capacidade_ de componentes individuais.",
 
 	"item.create.wrench.tooltip": "CHAVE INGLESA",
-	"item.create.wrench.tooltip.summary": "Ferramenta útil para trabalhar com suas engenhocas cinéticas.",
+	"item.create.wrench.tooltip.summary": "Uma ferramenta útil para trabalhar em engenhocas cinéticas. Pode ser usado para _Rotacionar_, _Desmontar_ e para _Configurar_ componentes.",
 	"item.create.wrench.tooltip.condition1": "Quando Usado em Blocos",
 	"item.create.wrench.tooltip.behaviour1": "_Gira os componentes_ em torno da face clicada. _Agache_ enquanto interage para _desmontar_ os componentes.",
 	"item.create.wrench.tooltip.condition2": "Quando usado em Engenhocas",
@@ -115,7 +115,7 @@
 	"block.create.cuckoo_clock.tooltip.condition1": "Quando energizado",
 	"block.create.cuckoo_clock.tooltip.behaviour1": "Mostra a _hora atual_ e toca uma música duas vezes por dia. _Ativa_ uma vez ao meio-dia e no crepúsculo, assim que _jogadores conseguem dormir_.",
 
-	"block.create.turntable.tooltip": "TMESA GIRATÓRIA",
+	"block.create.turntable.tooltip": "MESA GIRATÓRIA",
 	"block.create.turntable.tooltip.summary": "Usa a _Força_ _Rotacional_ para criar uma forma refinada de Enjoo.",
 
 	"block.create.toolbox.tooltip": "CAIXA DE FERRAMENTAS",
@@ -128,7 +128,7 @@
 	"block.create.toolbox.tooltip.behaviour3": "Abre a _Interface_ do _Contêiner_.",
 
 	"block.create.creative_crate.tooltip": "CAIXA CRIATIVA",
-	"block.create.creative_crate.tooltip.summary": "Este _Contêiner de Armazenamento_ permite replicação infinita de itens.",
+	"block.create.creative_crate.tooltip.summary": "Provê um suprimento infinito de blocos para Canhões de Esquema próximos.",
 	"block.create.creative_crate.tooltip.condition1": "Quando um Item no Slot de Filtro",
 	"block.create.creative_crate.tooltip.behaviour1": "Qualquer _extração_ deste contêiner fornecerá uma _quantidade infinita_ do item especificado. Itens _inseridos_ nesta caixa serão _apagados._",
 	"block.create.creative_crate.tooltip.condition2": "Quando ao lado de um Canhão de Esquema",
@@ -209,13 +209,13 @@
 
 	"item.create.crafting_blueprint.tooltip": "ESQUEMA DE FABRICAÇÂO",
 	"item.create.crafting_blueprint.tooltip.summary": "_Colocado_ em uma parede, pode ser usado para _especificar_ _arranjos_ de _itens_ para uma fabricação manual mais fácil. Cada espaço representa uma receita.",
-	"item.create.crafting_blueprint.condition1": "Clique com Botão Direito no Espaço vazio",
-	"item.create.crafting_blueprint.behaviour1": "Abre um _Menu_ de _Fabricação_ que permite que você _configure_ uma _receita_ e itens para exibir.",
-	"item.create.crafting_blueprint.condition2": "Clique com Botão Direito no Espaço configurado",
-	"item.create.crafting_blueprint.behaviour2": "_Aplica_ a _receita_ _configurada_ com itens correspondentes aos Ingredientes encontrados no seu _Inventário_. _Shift_ para criar até uma _Pilha_ de itens.",
-
-	"item.create.minecart_coupling.tooltip": "ACOPLAMENTO DE CARRINHO DE MINA",
-	"item.create.minecart_coupling.tooltip.summary": "_Acorrenta_ _Carrinhos de mina_ individuais, fazendo com que eles se movam como um grupo.",
+	"item.create.crafting_blueprint.condition1": "Clique direito para esvaziar o Slot",
+    "item.create.crafting_blueprint.behaviour1": "Abre um _Menu_ de _Fabricação_ que permite que você _configure_ uma _receita_ e itens para exibir.",
+    "item.create.crafting_blueprint.condition2": "Clique com Botão Direito no Slot configurado",
+    "item.create.crafting_blueprint.behaviour2": "_Aplica_ a _receita_ _configurada_ com itens correspondentes aos Ingredientes encontrados no seu _Inventário_. _Shift_ para criar até uma _Pilha_ de itens.",
+    
+    "item.create.minecart_coupling.tooltip": "ACOPLAMENTO DE CARRINHO DE MINA",
+    "item.create.minecart_coupling.tooltip.summary": "_Acorrente_ todos seus _Carrinhos de mina_ ou _Engenhocas de Carruagem_ juntos para formar um trem majestoso.",
 
 	"item.create.experience_nugget.tooltip": "PEPITAS DE EXPERÊNCIA",
 	"item.create.experience_nugget.tooltip.summary": "Um grão de _inspiração_ das suas fantásticas invenções.",
