@@ -5,7 +5,7 @@
         {
             "weight": 1,
             "element": {
-                "location": "custom:ice_dragon_spawn/ice_dragon_spawn",
+                "location": "custom:dragon_spawn/ice_dragon_spawn",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "single_pool_element"

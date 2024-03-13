@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "alexsmobs:gazelle_horn"
+  },
+  "addition": {
+    "item": "simple_mobs:wyrm_scale"
+  },
+  "result": {
+    "item": "simple_mobs:dragon_horn"
+  }
+}

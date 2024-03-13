@@ -1,9 +1,5 @@
 {
   "structures": [
-    {
-      "structure": "quest_giver:pillager_base",
-      "weight": 1
-    }
   ],
   "placement": {
     "salt": 728361903,

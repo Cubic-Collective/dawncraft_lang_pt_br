@@ -1,6 +1,8 @@
 {
 	"itemGroup.paraglider": "Paraglider",
 
+	"attribute.name.paragliders.max_stamina": "Max Stamina",
+
 	"block.paraglider.goddess_statue": "Goddess Statue",
 	"block.paraglider.kakariko_goddess_statue": "Goddess Statue",
 	"block.paraglider.goron_goddess_statue": "Goddess Statue",

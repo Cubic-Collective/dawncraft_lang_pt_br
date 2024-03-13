@@ -1,7 +1,8 @@
 {
 	"disabled": false,
 	"model": "epicfight:entity/zombie_villager",
-	"renderer": "minecraft:zombie",
+    "armature": "epicfight:entity/biped",	
+	"renderer": "minecraft:zombie_villager",
 	"isHumanoid": true,
 	"faction": "villager",
 	"attributes": {
@@ -18,6 +19,22 @@
 		"death": "epicfight:biped/living/death"
 	},
 	"humanoid_weapon_motions": [
+		{
+			"weapon_categories": ["spear"],
+			"style":"two_hand",
+			"livingmotions": {
+				"walk": "epicfight:biped/living/hold_greatsword",
+				"chase": "epicfight:biped/living/hold_greatsword"
+			}
+		},
+		{
+			"weapon_categories": ["greatsword"],
+			"style":"two_hand",
+			"livingmotions": {
+				"walk": "epicfight:biped/living/hold_spear",
+				"chase": "epicfight:biped/living/hold_spear"
+			}
+		}
 	],
 	"stun_animations": {
 		"short": "epicfight:biped/combat/hit_short",
@@ -27,13 +44,13 @@
 	},
 	"combat_behavior": [
 		{
-			"weapon_categories": ["axe", "hoe", "sword", "pickaxe"],
+			"weapon_categories": ["axe", "hoe", "pickaxe", "shovel", "sword"],
 			"style": "one_hand",
 			"behavior_series": [
 				{
 					"weight": 100.0,
 					"canBeInterrupted": true,
-					"looping": false,
+					"looping": true,
 					"behaviors": [
 						{
 							"conditions": [
@@ -46,6 +63,98 @@
 								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.2}
 							],
 							"animation": "epicfight:biped/combat/mob_onehand2"
+						}
+					]
+				},
+				{
+					"weight": 50.0,
+					"canBeInterrupted": true,
+					"looping": true,
+					"cooldown": 60,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.0}
+							],
+							"animation": "epicfight:biped/skill/roll_backward"
+						}
+					]
+				}
+			]
+		},
+		{
+			"weapon_categories": ["spear"],
+			"style": "two_hand",
+			"behavior_series": [
+				{
+					"weight": 100.0,
+					"canBeInterrupted": true,
+					"looping": true,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.0}
+							],
+							"animation": "epicfight:biped/combat/spear_twohand_auto1"
+						},
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 3.0}
+							],
+							"animation": "epicfight:biped/combat/spear_twohand_auto2"
+						}
+					]
+				},
+				{
+					"weight": 50.0,
+					"canBeInterrupted": true,
+					"looping": true,
+					"cooldown": 60,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.0}
+							],
+							"animation": "epicfight:biped/skill/roll_backward"
+						}
+					]
+				}
+			]
+		},
+		{
+			"weapon_categories": ["greatsword"],
+			"style": "two_hand",
+			"behavior_series": [
+				{
+					"weight": 100.0,
+					"canBeInterrupted": true,
+					"looping": true,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.5}
+							],
+							"animation": "epicfight:biped/combat/greatsword_auto1"
+						},
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.5}
+							],
+							"animation": "epicfight:biped/combat/greatsword_auto2"
+						}
+					]
+				},
+				{
+					"weight": 50.0,
+					"canBeInterrupted": true,
+					"looping": true,
+					"cooldown": 60,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.0}
+							],
+							"animation": "epicfight:biped/skill/roll_backward"
 						}
 					]
 				}
@@ -77,6 +186,20 @@
 								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.0}
 							],
 							"animation": "epicfight:zombie/attack3"
+						}
+					]
+				},
+				{
+					"weight": 50.0,
+					"canBeInterrupted": true,
+					"looping": true,
+					"cooldown": 60,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 2.0}
+							],
+							"animation": "epicfight:biped/skill/roll_backward"
 						}
 					]
 				}

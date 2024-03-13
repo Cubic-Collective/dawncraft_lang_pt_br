@@ -1,0 +1,27 @@
+{
+  "hitindication.configgui.enable_hit_indication":"Enable Hit Indication",
+
+  "hitindication.configgui.max_indicator_count":"Max Indicator Count",
+
+  "hitindication.configgui.display_hits_from_negative_potions":"Display Hits From Non-Damaging Negative Potions",
+
+  "hitindication.configgui.size_depends_on_damage":"Heavy damage makes indicator larger",
+
+  "hitindication.configgui.indicator_default_scale":"Indicator Default Scale (0-100)",
+
+  "hitindication.configgui.fade_rate":"Indicator Fade Rate (Ticks)",
+
+  "hitindication.configgui.indicator_opacity":"Indicator Opacity (0-100)",
+
+  "hitindication.configgui.display_blue_indicators":"Show Block Indicator",
+
+  "hitindication.configgui.enable_hit_markers":"Enable Crit/Kill Markers",
+
+  "hitindication.configgui.enable_distance_scaling":"Enable Distance Scaling",
+
+  "hitindication.configgui.distance_scaling_cutoff":"Distance Scaling Cutoff",
+
+  "hitindication.configgui.enable_non_directional_damage":"Enable Non-Directional Damage Indicator",
+
+  "hitindication.configgui.distance_from_crosshair":"Distance From Crosshair"
+}

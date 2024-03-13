@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "simple_mobs:toxic_gland"
+        }
+    ],
+    "result": {
+        "item": "minecraft:poisonous_potato",
+        "count": 1
+    }
+}

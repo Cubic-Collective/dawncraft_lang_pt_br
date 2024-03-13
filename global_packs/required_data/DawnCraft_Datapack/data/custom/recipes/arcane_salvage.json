@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:netherite_scrap"
+    },
+    "addition": {
+        "item": "irons_spellbooks:arcane_ingot"
+    },
+    "result": {
+        "item": "irons_spellbooks:arcane_salvage"
+    }
+}

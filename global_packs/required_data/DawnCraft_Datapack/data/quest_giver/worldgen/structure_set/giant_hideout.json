@@ -1,9 +1,5 @@
 {
   "structures": [
-    {
-      "structure": "quest_giver:giant_hideout",
-      "weight": 1
-    }
   ],
   "placement": {
     "salt": 392401386,

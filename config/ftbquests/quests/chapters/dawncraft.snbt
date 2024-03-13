@@ -1,7 +1,7 @@
 {
 	id: "3EE7B887A0FC6FCD"
-	group: ""
-	order_index: 2
+	group: "0A520B482648497B"
+	order_index: 0
 	filename: "dawncraft"
 	title: "Getting Started"
 	icon: "minecraft:writable_book"
@@ -10,14 +10,10 @@
 	quests: [
 		{
 			title: "Finding Your Way"
-			icon: {
-				id: "antiqueatlas:antique_atlas"
-				Count: 1b
-				tag: { }
-			}
+			icon: "minecraft:filled_map"
 			x: -3.75d
 			y: -5.25d
-			description: ["The Antique Atlas is this Modpack's map function. Players will start with one by default, but more can be crafted if lost. Markers can be added to denote points of interest, and death markers will be added automatically. Its orientation matches that of vanilla maps, so it can be a great tool for orienting yourself when searching for one of this modpack's many map locations such as bosses. "]
+			description: ["Use the Journey Map to locate yourself! Press “M” to open the map. Markers can be added to denote points of interest, and death markers will be added automatically. When you obtain a map from villager quests, a waypoint will be added to your Journey Map for easier navigation."]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "2E56DF35467BE295"
@@ -35,7 +31,7 @@
 		}
 		{
 			title: "Villagers and Quests"
-			icon: "minecraft:filled_map"
+			icon: "ftbquests:book"
 			x: -1.5d
 			y: -5.25d
 			description: [
@@ -180,7 +176,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_toolsmith"
 				command: "/advancement grant @p only custom:trade_armorer"
-				player_command: false
 			}]
 		}
 		{
@@ -234,7 +229,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_butcher"
-				player_command: false
 			}]
 		}
 		{
@@ -288,7 +282,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_cartographer"
-				player_command: false
 			}]
 		}
 		{
@@ -341,7 +334,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_cleric"
-				player_command: false
 			}]
 		}
 		{
@@ -409,7 +401,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_farmer"
-				player_command: false
 			}]
 		}
 		{
@@ -469,7 +460,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_angler"
-				player_command: false
 			}]
 		}
 		{
@@ -535,7 +525,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_fletcher"
-				player_command: false
 			}]
 		}
 		{
@@ -580,7 +569,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_leatherworker"
-				player_command: false
 			}]
 		}
 		{
@@ -634,7 +622,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_librarian"
-				player_command: false
 			}]
 		}
 		{
@@ -681,7 +668,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_mason"
-				player_command: false
 			}]
 		}
 		{
@@ -740,7 +726,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_shepherd"
-				player_command: false
 			}]
 		}
 		{
@@ -816,7 +801,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_toolsmith"
-				player_command: false
 			}]
 		}
 		{
@@ -856,7 +840,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_enderian"
-				player_command: false
 			}]
 		}
 		{
@@ -903,7 +886,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_engineer"
-				player_command: false
 			}]
 		}
 		{
@@ -992,7 +974,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_florist"
-				player_command: false
 			}]
 		}
 		{
@@ -1052,7 +1033,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_hunter"
-				player_command: false
 			}]
 		}
 		{
@@ -1096,7 +1076,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_netherian"
-				player_command: false
 			}]
 		}
 		{
@@ -1161,7 +1140,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_cleric"
 				command: "/advancement grant @p only custom:trade_oceanographer"
-				player_command: false
 			}]
 		}
 		{
@@ -1226,7 +1204,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_woodworker"
-				player_command: false
 			}]
 		}
 		{
@@ -1292,7 +1269,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_miner"
-				player_command: false
 			}]
 		}
 		{
@@ -1332,7 +1308,6 @@
 				title: "Claim trading contract"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_beekeeper"
-				player_command: false
 			}]
 		}
 		{
@@ -1358,12 +1333,19 @@
 				type: "checkmark"
 				title: "Read"
 			}]
-			rewards: [{
-				id: "261360F8E570AB79"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			rewards: [
+				{
+					id: "261360F8E570AB79"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+				{
+					id: "4DB5E42E70011D83"
+					type: "item"
+					item: "minecraft:compass"
+				}
+			]
 		}
 		{
 			x: 2.0d
@@ -1546,11 +1528,11 @@
 			}]
 		}
 		{
-			title: "Dodging and Skills"
+			title: "Skills"
 			icon: "minecraft:feather"
 			x: 5.0d
 			y: -3.0d
-			description: ["Skills can greatly improve your survivablity. The \"Dodge Roll\" ability can be obtained via the Guild Master's first quest, and other combat skills can be learned from guard villager quests. Seek out villages to obtain these useful skills. The \"Dodge\" keybind can be set and edited in your controls settings. You can learn a skill by right-clicking while holding it, and equip it via the \"Skill Editor\" menu (configurable)."]
+			description: ["Skills can greatly improve your survivablity. Combat skills can be learned from guard villager quests. Seek out villages to obtain these useful skills. You can learn a skill by right-clicking a skillbook while holding it, and equip it via the \"Skill Editor\" menu (configurable)."]
 			dependencies: ["648C999659850F11"]
 			id: "76CA9142CEA54D1F"
 			tasks: [{
@@ -1607,7 +1589,11 @@
 		}
 		{
 			title: "Trinkets and More"
-			icon: "ars_nouveau:ring_of_greater_discount"
+			icon: {
+				id: "blue_skies:poison_arc"
+				Count: 1b
+				tag: { }
+			}
 			x: 3.75d
 			y: -7.5d
 			description: [

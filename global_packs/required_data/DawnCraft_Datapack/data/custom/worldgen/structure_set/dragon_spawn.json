@@ -1,0 +1,22 @@
+{
+  "structures": [
+    {
+      "structure": "custom:fire_dragon_spawn",
+      "weight": 1
+    },
+    {
+      "structure": "custom:ice_dragon_spawn",
+      "weight": 1
+    },
+    {
+      "structure": "custom:lightning_dragon_spawn",
+      "weight": 1
+    }	
+  ],
+  "placement": {
+    "salt": 347818456,
+    "spacing": 20,
+    "separation": 12,
+    "type": "minecraft:random_spread"
+  }
+}

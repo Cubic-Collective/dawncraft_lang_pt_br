@@ -1,7 +1,7 @@
 {
 	id: "255FE9E1034D0E95"
-	group: ""
-	order_index: 11
+	group: "1F30A450079557C6"
+	order_index: 0
 	filename: "bossesminibosses_in_this_realm"
 	title: "Notorious Creatures in this Realm..."
 	icon: "apotheosis:boss_summoner"
@@ -23,6 +23,19 @@
 				entity: "simple_mobs:fire_giant"
 				value: 1L
 			}]
+			rewards: [
+				{
+					id: "1346180F35F1CF52"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+				}
+				{
+					id: "7FFE178CF94863C3"
+					type: "item"
+					title: "Patron Exclusive Pet"
+					item: "dawncraft_addon:fire_giant_item"
+				}
+			]
 		}
 		{
 			title: "Sentinel Knight"
@@ -38,11 +51,24 @@
 				entity: "simple_mobs:sentinel_knight"
 				value: 1L
 			}]
+			rewards: [
+				{
+					id: "659034E5F717F2D6"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+				}
+				{
+					id: "333EA53F9D7A011F"
+					type: "item"
+					title: "Patron Exclusive Pet"
+					item: "dawncraft_addon:knight_item"
+				}
+			]
 		}
 		{
 			title: "Martian"
-			x: -7.5d
-			y: -11.0d
+			x: -8.5d
+			y: -8.0d
 			shape: "square"
 			id: "5347DB3655BAC44D"
 			tasks: [{
@@ -52,6 +78,19 @@
 				entity: "simple_mobs:martian"
 				value: 1L
 			}]
+			rewards: [
+				{
+					id: "20920CE679B3E8E8"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+				}
+				{
+					id: "04172CC6353A4173"
+					type: "item"
+					title: "Patron Exclusive Pet"
+					item: "dawncraft_addon:martian_item"
+				}
+			]
 		}
 		{
 			title: "Corrupted Ogre"
@@ -62,6 +101,7 @@
 			tasks: [{
 				id: "26621AD360C172EF"
 				type: "kill"
+				title: "Corrupted Ogre"
 				icon: {
 					id: "endrem:lost_eye"
 					Count: 1b
@@ -72,6 +112,19 @@
 				entity: "simple_mobs:corrupted_ogre"
 				value: 1L
 			}]
+			rewards: [
+				{
+					id: "3F4FA3A6AED98D42"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+				}
+				{
+					id: "2B24C5A8AE655818"
+					type: "item"
+					title: "Patron Exclusive Pet"
+					item: "dawncraft_addon:ogre_item"
+				}
+			]
 		}
 		{
 			x: -7.5d
@@ -86,6 +139,19 @@
 				entity: "simple_mobs:nine_tails"
 				value: 1L
 			}]
+			rewards: [
+				{
+					id: "76AAB70E2CD6B546"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+				}
+				{
+					id: "473DFFE495D2A481"
+					type: "item"
+					title: "Patron Exclusive Pet"
+					item: "dawncraft_addon:tails_item"
+				}
+			]
 		}
 		{
 			x: -7.5d
@@ -97,7 +163,7 @@
 				type: "kill"
 				title: "Lord of Sorcery, the Skeleton Overlord"
 				icon: {
-					id: "ars_nouveau:archmage_robes"
+					id: "irons_spellbooks:pumpkin_helmet"
 					Count: 1b
 					tag: {
 						Damage: 0
@@ -105,6 +171,11 @@
 				}
 				entity: "simple_mobs:skeletonlord"
 				value: 1L
+			}]
+			rewards: [{
+				id: "27A0945A1CB265D5"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -120,6 +191,12 @@
 				entity: "simple_mobs:fire_dragon"
 				value: 1L
 			}]
+			rewards: [{
+				id: "5A540F017F6861E8"
+				type: "item"
+				icon: "libraryferret:netherite_coins_jtl"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -3.5d
@@ -134,10 +211,15 @@
 				entity: "simple_mobs:ice_dragon"
 				value: 1L
 			}]
+			rewards: [{
+				id: "005A1BD3704AC907"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -4.5d
-			y: -12.0d
+			y: -16.0d
 			shape: "square"
 			id: "75D0D080AEC02E9A"
 			tasks: [{
@@ -148,12 +230,20 @@
 				entity: "simple_mobs:elemental_deity"
 				value: 1L
 			}]
-			rewards: [{
-				id: "533C5E2EAC9A9A9F"
-				type: "item"
-				item: "scattered_weapons:soulium_ingot"
-				count: 64
-			}]
+			rewards: [
+				{
+					id: "533C5E2EAC9A9A9F"
+					type: "item"
+					item: "scattered_weapons:soulium_ingot"
+					count: 64
+				}
+				{
+					id: "0E58E6443516B95B"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+					count: 3
+				}
+			]
 		}
 		{
 			x: -4.5d
@@ -174,10 +264,15 @@
 				entity: "goblinsanddungeons:goblin_king"
 				value: 1L
 			}]
+			rewards: [{
+				id: "6EC8F57A0BF909FC"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -8.5d
-			y: -11.0d
+			x: -3.5d
+			y: -12.0d
 			shape: "square"
 			id: "7279CC337EDCA3C4"
 			tasks: [{
@@ -194,6 +289,12 @@
 				entity: "darkersouls:nameless_king"
 				value: 1L
 			}]
+			rewards: [{
+				id: "4C39B8B51B79C0CA"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
+			}]
 		}
 		{
 			x: -3.5d
@@ -207,6 +308,11 @@
 				icon: "bloodandmadness:eggs/father_gascoigne_spawn_egg"
 				entity: "bloodandmadness:gascoigne_beast"
 				value: 1L
+			}]
+			rewards: [{
+				id: "14E865537ACD985F"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -228,9 +334,14 @@
 				entity: "conjurer_illager:conjurer"
 				value: 1L
 			}]
+			rewards: [{
+				id: "11487A3D13611BD8"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -9.5d
+			x: -0.5d
 			y: -7.0d
 			shape: "square"
 			hide: false
@@ -249,6 +360,11 @@
 				entity: "mowziesmobs:frostmaw"
 				value: 1L
 			}]
+			rewards: [{
+				id: "097AC190615A0534"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -8.5d
@@ -258,10 +374,15 @@
 			tasks: [{
 				id: "5281E7E360880255"
 				type: "kill"
-				title: "Barako, the Sun Chief"
-				icon: "mowziesmobs:barako_mask"
-				entity: "mowziesmobs:barako"
+				title: "Umvuthi, the Sunbird"
+				icon: "mowziesmobs:sol_visage"
+				entity: "mowziesmobs:umvuthi"
 				value: 1L
+			}]
+			rewards: [{
+				id: "7473C3DA4A873A8C"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -283,8 +404,20 @@
 				entity: "simple_mobs:knight_4"
 				value: 1L
 			}]
+			rewards: [{
+				id: "1E72BE9780FEF99D"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
+			icon: {
+				id: "epicfight:uchigatana"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
 			x: -2.5d
 			y: -9.0d
 			shape: "square"
@@ -292,9 +425,9 @@
 			tasks: [{
 				id: "04B8D048411FF640"
 				type: "kill"
-				title: "Shogunate"
+				title: "Old Shogunate"
 				icon: {
-					id: "epicfight:katana"
+					id: "epicfight:uchigatana"
 					Count: 1b
 					tag: {
 						Damage: 0
@@ -302,6 +435,11 @@
 				}
 				entity: "simple_mobs:samurai_4"
 				value: 1L
+			}]
+			rewards: [{
+				id: "649A30F34DAA1148"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -317,6 +455,11 @@
 				entity: "mowziesmobs:naga"
 				value: 1L
 			}]
+			rewards: [{
+				id: "4BF99FC30EFC25BB"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -2.5d
@@ -331,10 +474,15 @@
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				value: 1L
 			}]
+			rewards: [{
+				id: "0FF40E8D30D3CB77"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -3.5d
-			y: -11.0d
+			x: -4.5d
+			y: -14.0d
 			shape: "square"
 			id: "73108E762D8A3C88"
 			tasks: [{
@@ -351,6 +499,12 @@
 				entity: "cataclysm:ignis"
 				value: 1L
 			}]
+			rewards: [{
+				id: "10742EF10317B4D5"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 3
+			}]
 		}
 		{
 			x: -3.5d
@@ -364,6 +518,11 @@
 				icon: "minecraft:shulker_box"
 				entity: "cataclysm:ender_guardian"
 				value: 1L
+			}]
+			rewards: [{
+				id: "68585FEB74E63CB9"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -379,10 +538,15 @@
 				entity: "cataclysm:ender_golem"
 				value: 1L
 			}]
+			rewards: [{
+				id: "62AA281E4DE3FFB4"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -1.5d
-			y: -11.0d
+			y: -7.0d
 			shape: "square"
 			id: "4E1536B87DDD7AF2"
 			tasks: [{
@@ -393,10 +557,15 @@
 				entity: "illageandspillage:magispeller"
 				value: 1L
 			}]
+			rewards: [{
+				id: "6610A350873AA205"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -9.5d
-			y: -8.0d
+			x: -8.5d
+			y: -7.0d
 			shape: "square"
 			id: "48C10A799E93C0FB"
 			tasks: [{
@@ -413,10 +582,15 @@
 				entity: "illageandspillage:spiritcaller"
 				value: 1L
 			}]
+			rewards: [{
+				id: "547E5F1574DCAC44"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -5.5d
-			y: -12.0d
+			y: -16.0d
 			shape: "square"
 			hide: false
 			id: "7DC5F1EFE3DE5709"
@@ -428,10 +602,16 @@
 				entity: "minecraft:ender_dragon"
 				value: 1L
 			}]
+			rewards: [{
+				id: "7B9538122EC8A08F"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
+			}]
 		}
 		{
 			x: -4.5d
-			y: -11.0d
+			y: -12.0d
 			shape: "square"
 			id: "5A0440D6663A685F"
 			tasks: [{
@@ -441,6 +621,12 @@
 				icon: "minecraft:wither_skeleton_skull"
 				entity: "minecraft:wither"
 				value: 1L
+			}]
+			rewards: [{
+				id: "1747A680CA9451B9"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
 			}]
 		}
 		{
@@ -462,6 +648,11 @@
 				entity: "cataclysm:netherite_monstrosity"
 				value: 1L
 			}]
+			rewards: [{
+				id: "7B648F91802F7A3B"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -2.5d
@@ -482,10 +673,15 @@
 				entity: "aquamirae:captain_cornelia"
 				value: 1L
 			}]
+			rewards: [{
+				id: "397369024921D509"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -0.5d
-			y: -8.0d
+			x: -9.5d
+			y: -12.0d
 			shape: "square"
 			id: "0BF852B15581A857"
 			tasks: [{
@@ -496,10 +692,16 @@
 				entity: "alexsmobs:void_worm"
 				value: 1L
 			}]
+			rewards: [{
+				id: "27A003EEC0DE5D60"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
+			}]
 		}
 		{
-			x: -1.5d
-			y: -9.0d
+			x: -0.5d
+			y: -8.0d
 			shape: "square"
 			id: "7D499166477745E4"
 			tasks: [{
@@ -509,6 +711,11 @@
 				icon: "alexsmobs:warped_muscle"
 				entity: "alexsmobs:warped_mosco"
 				value: 1L
+			}]
+			rewards: [{
+				id: "428810F6E8A39C62"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -524,10 +731,15 @@
 				entity: "minecraft:elder_guardian"
 				value: 1L
 			}]
+			rewards: [{
+				id: "62D5D54DD8A53A8B"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -2.5d
-			y: -11.0d
+			x: -5.5d
+			y: -12.0d
 			shape: "square"
 			id: "2CB9D4F9C95D2BBB"
 			tasks: [{
@@ -544,10 +756,16 @@
 				entity: "simple_mobs:cultist"
 				value: 1L
 			}]
+			rewards: [{
+				id: "2A87B395BCF137DC"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
+			}]
 		}
 		{
-			x: -5.5d
-			y: -11.0d
+			x: -1.5d
+			y: -9.0d
 			shape: "square"
 			id: "43D987FDB9ABB3BD"
 			tasks: [{
@@ -558,10 +776,15 @@
 				entity: "simple_mobs:giant"
 				value: 1L
 			}]
+			rewards: [{
+				id: "3178B0D5850563A9"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -6.5d
-			y: -11.0d
+			y: -12.0d
 			shape: "square"
 			hide: false
 			id: "0CE38C187D08EA00"
@@ -579,10 +802,16 @@
 				entity: "simple_mobs:cave_dweller"
 				value: 1L
 			}]
+			rewards: [{
+				id: "0A4ABF49EA68DD72"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
+			}]
 		}
 		{
 			x: -8.5d
-			y: -8.0d
+			y: -12.0d
 			shape: "square"
 			id: "7DE3F1C0DDCACC6D"
 			tasks: [{
@@ -592,6 +821,12 @@
 				icon: "blue_skies:starlit_leaves"
 				entity: "blue_skies:starlit_crusher"
 				value: 1L
+			}]
+			rewards: [{
+				id: "39320EC65F7D0B8B"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
 			}]
 		}
 		{
@@ -603,14 +838,25 @@
 				id: "3C5CFB7BFDCAAE24"
 				type: "kill"
 				title: "Summoner"
-				icon: "ars_nouveau:summon_focus"
+				icon: {
+					id: "irons_spellbooks:cultist_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
 				entity: "blue_skies:summoner"
 				value: 1L
 			}]
+			rewards: [{
+				id: "60AA3BCC7AFEA456"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -0.5d
-			y: -11.0d
+			x: -7.5d
+			y: -8.0d
 			shape: "square"
 			id: "26A81FA8D7FD065E"
 			tasks: [{
@@ -627,10 +873,15 @@
 				entity: "blue_skies:alchemist"
 				value: 1L
 			}]
+			rewards: [{
+				id: "740F0BD19280EE9C"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -1.5d
-			y: -8.0d
+			x: -7.5d
+			y: -12.0d
 			shape: "square"
 			id: "01CF56DCE8E72465"
 			tasks: [{
@@ -641,10 +892,16 @@
 				entity: "blue_skies:arachnarch"
 				value: 1L
 			}]
+			rewards: [{
+				id: "53A789D5F6A25E94"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
+			}]
 		}
 		{
-			x: -7.5d
-			y: -8.0d
+			x: -0.5d
+			y: -12.0d
 			shape: "square"
 			id: "0919AFEDD3744060"
 			tasks: [{
@@ -654,6 +911,12 @@
 				icon: "meetyourfight:devils_ante"
 				entity: "meetyourfight:dame_fortuna"
 				value: 1L
+			}]
+			rewards: [{
+				id: "61C44C0BD3C7C61C"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
 			}]
 		}
 		{
@@ -669,6 +932,11 @@
 				entity: "meetyourfight:swampjaw"
 				value: 1L
 			}]
+			rewards: [{
+				id: "2DFB2A41A9CDC4A8"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -9.5d
@@ -683,10 +951,15 @@
 				entity: "meetyourfight:bellringer"
 				value: 1L
 			}]
+			rewards: [{
+				id: "4AF1ED2CFA3F81C5"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -9.5d
-			y: -11.0d
+			x: -1.5d
+			y: -8.0d
 			shape: "square"
 			id: "719637BCE966A8B3"
 			tasks: [{
@@ -696,6 +969,11 @@
 				icon: "ba_bt:guardian_eye_land"
 				entity: "ba_bt:land_golem"
 				value: 1L
+			}]
+			rewards: [{
+				id: "211E5024F273F440"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -711,19 +989,65 @@
 				entity: "ba_bt:ocean_golem"
 				value: 1L
 			}]
+			rewards: [{
+				id: "2A23D707AF992648"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
-			x: -8.5d
+			x: -9.5d
 			y: -7.0d
 			shape: "square"
 			id: "6DBE392A143B7359"
 			tasks: [{
 				id: "59B1CCF6F6547781"
 				type: "kill"
-				title: "Wilden Chimera"
-				icon: "ars_nouveau:wilden_tribute"
-				entity: "ars_nouveau:wilden_boss"
+				title: "Dead King"
+				icon: {
+					id: "irons_spellbooks:blood_staff"
+					Count: 1b
+					tag: {
+						ISB_spellbook: {
+							spells: [
+								{
+									slot: 0
+									level: 6
+									id: 26
+								}
+								{
+									slot: 1
+									level: 6
+									id: 29
+								}
+								{
+									slot: 2
+									level: 3
+									id: 39
+								}
+								{
+									slot: 3
+									level: 6
+									id: 8
+								}
+								{
+									slot: 4
+									level: 6
+									id: 33
+								}
+							]
+							activeSpellIndex: 0
+							spellSlots: 5
+						}
+					}
+				}
+				entity: "irons_spellbooks:dead_king"
 				value: 1L
+			}]
+			rewards: [{
+				id: "72B3B4B12C3B4568"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -739,6 +1063,11 @@
 				entity: "bloodandmadness:micolash"
 				value: 1L
 			}]
+			rewards: [{
+				id: "1D8D9C894B82C008"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
 		}
 		{
 			x: -6.5d
@@ -753,6 +1082,11 @@
 				icon: "biomemakeover:adjudicator_tapestry"
 				entity: "biomemakeover:adjudicator"
 				value: 1L
+			}]
+			rewards: [{
+				id: "2DDE935AF5D88641"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
 			}]
 		}
 		{
@@ -770,7 +1104,6 @@
 					Count: 1b
 					tag: {
 						RepairCost: 1
-						CustomModelData: 1450300
 						affix_data: {
 							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
 							affixes: {
@@ -778,11 +1111,8 @@
 							}
 							rarity: "common"
 						}
-						HideFlags: 32
-						incendium: {
-							item: "necrotic_shield"
-						}
 						BlockEntityTag: {
+							Base: 15
 							Patterns: [
 								{
 									Pattern: "rud"
@@ -809,22 +1139,22 @@
 									Color: 15
 								}
 							]
-							Base: 15
 						}
+						Damage: 0
+						HideFlags: 32
+						CustomModelData: 1450300
 						display: {
+							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
 							Lore: [
 								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Reacts to attacks with\",{\"translate\":\"incendium.item.necrotic_shield.desc1\"}]}"
 								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"an explosion of death\",{\"translate\":\"incendium.item.necrotic_shield.desc2\"}]}"
 								"{\"text\":\"\"}"
 								"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
 							]
-							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
 						}
-						Damage: 0
 						AttributeModifiers: [{
 							Amount: -0.029904954135417938d
 							Slot: "offhand"
-							AttributeName: "minecraft:generic.attack_damage"
 							Operation: 1
 							UUID: [I;
 								112035901
@@ -832,12 +1162,216 @@
 								-1220404660
 								-221377395
 							]
+							AttributeName: "minecraft:generic.attack_damage"
 							Name: "weaken"
 						}]
+						incendium: {
+							item: "necrotic_shield"
+						}
 					}
 				}
 				advancement: "incendium:infernal_dunes/inferno/kill"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "5D1A07CD01C5DE93"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -12.0d
+			shape: "square"
+			id: "11D2A941F4F89B5C"
+			tasks: [{
+				id: "4713E1940B732AFD"
+				type: "kill"
+				title: "Obsidilith"
+				icon: "bosses_of_mass_destruction:obsidian_heart"
+				entity: "bosses_of_mass_destruction:obsidilith"
+				value: 1L
+			}]
+			rewards: [{
+				id: "0352A62FCF5F4F65"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
+			}]
+		}
+		{
+			x: -3.5d
+			y: -7.0d
+			shape: "square"
+			id: "10D1374677DBD7CE"
+			tasks: [{
+				id: "1FF2F806CA3035F8"
+				type: "kill"
+				title: "Void Blossom"
+				icon: "bosses_of_mass_destruction:void_blossom"
+				entity: "bosses_of_mass_destruction:void_blossom"
+				value: 1L
+			}]
+			rewards: [{
+				id: "6ACD0B950F4789B6"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -7.0d
+			shape: "square"
+			id: "3CFF1BF1471E4D84"
+			tasks: [{
+				id: "53F3F81A1098862B"
+				type: "kill"
+				title: "Night Lich"
+				icon: "minecraft:skeleton_skull"
+				entity: "bosses_of_mass_destruction:lich"
+				value: 1L
+			}]
+			rewards: [{
+				id: "74DE6942093CD8A4"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -8.0d
+			shape: "square"
+			id: "1F365F9226B36B79"
+			tasks: [{
+				id: "05AF3069BEF01512"
+				type: "kill"
+				title: "Nether Gauntlet"
+				icon: "bosses_of_mass_destruction:blazing_eye"
+				entity: "bosses_of_mass_destruction:gauntlet"
+				value: 1L
+			}]
+			rewards: [{
+				id: "27BC3D0E146323C2"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -14.0d
+			shape: "square"
+			id: "0BC7EFD07CFA9E62"
+			tasks: [{
+				id: "1F4A7D724ADF51DE"
+				type: "kill"
+				title: "Dragon Lord"
+				icon: "simple_mobs:dragon_lord_essence"
+				entity: "simple_mobs:dragon_lord"
+				value: 1L
+			}]
+			rewards: [{
+				id: "1073F53E48CD631C"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 3
+			}]
+		}
+		{
+			x: -4.5d
+			y: -7.0d
+			shape: "square"
+			id: "4DB740AE2FEC622C"
+			tasks: [{
+				id: "6E63C3DC7DB1EECE"
+				type: "kill"
+				title: "Ent"
+				icon: {
+					id: "simple_mobs:ent_staff"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "simple_mobs:ent"
+				value: 1L
+			}]
+			rewards: [{
+				id: "301D24664877C8AF"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -14.0d
+			shape: "square"
+			id: "59E87C0B92B13B3B"
+			tasks: [{
+				id: "231C7B5517480420"
+				type: "kill"
+				title: "Herobrine"
+				icon: "minecraft:player_head"
+				entity: "simple_mobs:herobrine_flash"
+				value: 1L
+			}]
+			rewards: [{
+				id: "4BA881166FE3CFF8"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 3
+			}]
+		}
+		{
+			title: "Shogunate (Prime)"
+			x: -5.5d
+			y: -14.0d
+			shape: "square"
+			id: "6EF35391CF28105A"
+			tasks: [{
+				id: "73B0474F6E84F861"
+				type: "kill"
+				title: "Shogunate (Prime)"
+				icon: {
+					id: "wom:satsujin"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "simple_mobs:samurai_5"
+				value: 1L
+			}]
+			rewards: [{
+				id: "0E46060D302C29A5"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 3
+			}]
+		}
+		{
+			x: -1.5d
+			y: -12.0d
+			shape: "square"
+			id: "0BC25BC4525253F3"
+			tasks: [{
+				id: "057C25A6FEA789AB"
+				type: "advancement"
+				title: "The Twins"
+				icon: {
+					id: "waystones:warp_stone"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				advancement: "simple_mobs:twinfall_triumph"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "7448098F2B02C638"
+				type: "item"
+				item: "libraryferret:netherite_coins_jtl"
+				count: 2
 			}]
 		}
 	]

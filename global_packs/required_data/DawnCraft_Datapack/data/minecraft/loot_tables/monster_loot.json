@@ -1,0 +1,80 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 2.0,
+        "max": 4.0
+      },
+      "bonus_rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "irons_spellbooks:arcane_essence"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "bloodandmadness:blood_stone_shard"
+        },		
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "bloodandmadness:twin_blood_stone_shards"
+        },		
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "irons_spellbooks:blank_rune"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "irons_spellbooks:common_ink"
+        },	
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "apotheosis:gem_dust"
+        },		
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "irons_spellbooks:uncommon_ink"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "bloodandmadness:blood_stone_chunk"
+        },		
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "irons_spellbooks:rare_ink"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "paraglider:essence"
+        },			
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "irons_spellbooks:epic_ink"
+        },				
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "apotheosis:scrap_tome"
+        }
+      ]
+    }
+  ]
+}

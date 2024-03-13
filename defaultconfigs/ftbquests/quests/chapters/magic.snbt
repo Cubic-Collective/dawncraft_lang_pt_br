@@ -1,0 +1,379 @@
+{
+	id: "3FBF22A12EB77153"
+	group: "0A520B482648497B"
+	order_index: 2
+	filename: "magic"
+	title: "Magic"
+	icon: "irons_spellbooks:mana_ring"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Spells \\& Spellbooks"
+			icon: {
+				id: "endrem:magical_eye"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -2.5d
+			y: 0.0d
+			description: ["You can learn about how you can obtain magical abilities to either enhance your physical abilities, summon creatures, or chant devasting spells upon your enemies here!"]
+			size: 2.0d
+			id: "43BE75F09C4043F8"
+			tasks: [{
+				id: "089777A5C1B95D8D"
+				type: "checkmark"
+				title: "I understand!"
+			}]
+		}
+		{
+			title: "Looting Magic Structures"
+			icon: {
+				id: "irons_spellbooks:magehunter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -5.25d
+			y: 1.5d
+			description: [
+				"The early stages of your magical journal starts from finding magic structures, looting their chests and possibly defeat the mages residing there."
+				"\\nThis will be your primary source of scrolls, which allow you to actually start casting spells!"
+			]
+			dependencies: ["5D6F2EF2A0FABB1E"]
+			size: 1.5d
+			id: "0614C37C1534939E"
+			tasks: [{
+				id: "21D7529F64458A1B"
+				type: "checkmark"
+				title: "Got it!"
+			}]
+		}
+		{
+			title: "Spellbooks"
+			icon: {
+				id: "irons_spellbooks:legendary_spell_book"
+				Count: 1b
+				tag: {
+					ISB_spellbook: {
+						spells: [ ]
+						spellSlots: 12
+						activeSpellIndex: -1
+					}
+				}
+			}
+			x: -2.5d
+			y: -2.0d
+			description: ["Scrolls can only be used once before disappearing. In order to fully utilize scrolls, it is best to store them in a Spellbook. Start by crafting a Flimsy Journal!\\n\\n(If your class is Astrologer, skip this step)"]
+			dependencies: ["43BE75F09C4043F8"]
+			id: "1F327242C2CCCF3C"
+			tasks: [{
+				id: "5AFA2C0E12D601FD"
+				type: "checkmark"
+				title: "Alright!"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			description: ["Inscription table allows you to starting placing scrolls into your spellbook. However, note that the scrolls can ONLY be placed in spellbooks of the same or higher rarity!"]
+			dependencies: ["1F327242C2CCCF3C"]
+			id: "39BD15E37DD2B01C"
+			tasks: [{
+				id: "069021CAEE611130"
+				type: "item"
+				item: "irons_spellbooks:inscription_table"
+				consume_items: false
+				only_from_crafting: false
+			}]
+			rewards: [{
+				id: "364D3C4B4475BC0D"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			x: -7.5d
+			y: 1.0d
+			description: ["Besides looting structures, crafting a scroll forge is a decent alternative way to obtain scrolls. The scroll forge materials can be found in the Nether.\\n\\nUse the search bar in your inventory to look up different scroll recipes! Note that only Level 1 scrolls can be crafted. Upgrading scroll levels comes later."]
+			dependencies: ["5D6F2EF2A0FABB1E"]
+			id: "5178B560C8B827E3"
+			tasks: [{
+				id: "56950BA8A3BB0936"
+				type: "item"
+				item: "irons_spellbooks:scroll_forge"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			title: "Beginning Magician Gear"
+			icon: {
+				id: "irons_spellbooks:wandering_magician_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 0.5d
+			y: 0.0d
+			description: ["The best beginning gear for a Magician would be the Wandering Magician Set, which requires the smithing table to craft."]
+			dependencies: ["43BE75F09C4043F8"]
+			id: "4E54C208CEF187D1"
+			tasks: [{
+				id: "63C62CE5AFA476B1"
+				type: "checkmark"
+				title: "Got it!"
+			}]
+		}
+		{
+			title: "Advanced Magician Gear"
+			icon: {
+				id: "irons_spellbooks:pyromancer_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 3.0d
+			y: 0.0d
+			description: [
+				"Beyond the Wandering Magician gear, magicians can craft element specific gears that boost certain elements spell casting abilities."
+				"\\nTo craft these class specific gear, magicians must obtain elemental runestones. These runestones' materials sometimes require rituals to complete. Use your recipe search function to ponder!"
+			]
+			dependencies: ["4E54C208CEF187D1"]
+			id: "1EE082F0F108BFBA"
+			tasks: [{
+				id: "21F74BED3827CB09"
+				type: "checkmark"
+				title: "Cool!"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 3.0d
+			description: ["One of the most important materials for magic crafting. Can only be obtained via looting and defeating magic users."]
+			dependencies: ["0614C37C1534939E"]
+			id: "4CEED19552F9272D"
+			tasks: [{
+				id: "04C0D0354D3DFBA3"
+				type: "item"
+				item: "irons_spellbooks:arcane_essence"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			title: "Upgrading Your Gear"
+			icon: {
+				id: "irons_spellbooks:pumpkin_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 6.0d
+			y: 0.0d
+			description: [
+				"To upgrade your gear, you will need an upgrade orb and an arcane anvil. An upgrade orb's crafting recipe can be costly, the most difficult items to procure being arcane salvage and cinder essence."
+				"\\n"
+				"You can upgrade a piece of magician gear up to 3 times. Different upgrade orbs provide different stat bonuses, such as elemental damage boost, or mana increase."
+			]
+			dependencies: [
+				"1EE082F0F108BFBA"
+				"5C76F132FD8587F9"
+				"607E8D1ADA6ED3A0"
+			]
+			id: "37B5F30D3F4B99F6"
+			tasks: [{
+				id: "3BE9AFC332C9476E"
+				type: "checkmark"
+				title: "Okay!"
+			}]
+			rewards: [{
+				id: "56DD80B6574EC6C2"
+				type: "item"
+				item: "irons_spellbooks:blank_rune"
+				count: 3
+			}]
+		}
+		{
+			x: -4.0d
+			y: 2.5d
+			description: ["The base for all other runes to be crafted from. Can be found in magic structures, or from mages residing in those structures."]
+			dependencies: ["0614C37C1534939E"]
+			id: "49B1AA2C35454C74"
+			tasks: [{
+				id: "1B902538D23196EB"
+				type: "item"
+				item: "irons_spellbooks:blank_rune"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			title: "Locating the Dead King"
+			x: -0.7d
+			y: 1.4d
+			description: [
+				"The Dead King is a powerful undead who resides in its catacomb deep underground. The only way to find him is to craft and follow the wayward compass."
+				"\\nThis skeleton utilizes powerful spells to repel tomb raiders. Do not attempt unless you're fully ready! On the other hand, if you're able to put him to rest, the reward is beyond satisfactory... It may even boost your sorcery journey to new heights!"
+			]
+			dependencies: ["0614C37C1534939E"]
+			size: 1.4d
+			id: "73A2334F5E27719A"
+			tasks: [{
+				id: "45DD5B0FAD17B43A"
+				type: "item"
+				item: {
+					id: "irons_spellbooks:wayward_compass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "Ancient Battleground"
+			icon: {
+				id: "mutantmonsters:mutant_skeleton_skull"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -1.3d
+			y: 2.6d
+			description: ["The ancient battleground can be found in the Nether. You can revive the Ancient Knights by mining the armor piles with a pickaxe."]
+			dependencies: ["0614C37C1534939E"]
+			size: 1.3d
+			id: "28F664AE3CBA9E87"
+			tasks: [{
+				id: "04B7F97553E6079A"
+				type: "checkmark"
+				title: "Spooky..."
+			}]
+		}
+		{
+			x: 3.0d
+			y: 2.0d
+			description: ["A component needed to craft an upgrade orb. Can ONLY be obtained by defeating ancient knights at the ancient battleground."]
+			dependencies: ["28F664AE3CBA9E87"]
+			id: "0CFC93A854B6EBE1"
+			tasks: [{
+				id: "3727B06E2FE205B4"
+				type: "item"
+				item: "irons_spellbooks:cinder_essence"
+			}]
+			rewards: [{
+				id: "155E77020EC84993"
+				type: "item"
+				item: "irons_spellbooks:arcane_essence"
+				count: 4
+			}]
+		}
+		{
+			title: "Obtaining Scrolls"
+			icon: "ob_core:scroll_primitive_rites"
+			x: -5.25d
+			y: 0.0d
+			description: ["There are two main ways to obtain scrolls."]
+			dependencies: ["43BE75F09C4043F8"]
+			size: 1.5d
+			id: "5D6F2EF2A0FABB1E"
+			tasks: [{
+				id: "4DB549B82B05387F"
+				type: "checkmark"
+				title: "Show me!"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -2.0d
+			description: ["Used to upgrade scrolls, upgrade equipment, and imbue weapons."]
+			dependencies: ["39BD15E37DD2B01C"]
+			id: "5C76F132FD8587F9"
+			tasks: [{
+				id: "65079F0A627BA537"
+				type: "item"
+				item: "irons_spellbooks:arcane_anvil"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			description: ["The base orb for upgrading your gear. Needs to be embued with Runes to use."]
+			dependencies: ["0CFC93A854B6EBE1"]
+			id: "607E8D1ADA6ED3A0"
+			tasks: [{
+				id: "450C6924ABAA82D0"
+				type: "item"
+				item: "irons_spellbooks:upgrade_orb"
+			}]
+		}
+		{
+			title: "Unique Relics \\& Spellbooks"
+			icon: "irons_spellbooks:emerald_stoneplate_ring"
+			x: -6.8d
+			y: -2.55d
+			description: ["At every stage of your adventures, be sure to keep an eye out for rings, unique spell books, named spell books, and magic resources!"]
+			hide_dependency_lines: true
+			dependencies: ["43BE75F09C4043F8"]
+			size: 1.7d
+			id: "142D6C7E522A3208"
+			tasks: [{
+				id: "128B025C180FB6B2"
+				type: "checkmark"
+				title: "Awesome!"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 3.0d
+			description: ["Required component to craft a scroll. Can be found in magic structures or powerful magic creatures."]
+			dependencies: ["0614C37C1534939E"]
+			id: "4200E32F0492E2E3"
+			tasks: [{
+				id: "58DEDE820A0E14A3"
+				type: "item"
+				item: "irons_spellbooks:common_ink"
+			}]
+		}
+		{
+			title: "Making Your First Scroll"
+			icon: {
+				id: "irons_spellbooks:scroll"
+				Count: 1b
+				tag: {
+					ISB_spell: {
+						type: 1
+						level: 1
+					}
+				}
+			}
+			x: -7.5d
+			y: 4.0d
+			description: ["With both ink and a scroll forge, you're ready to make your first scroll!"]
+			dependencies: [
+				"5178B560C8B827E3"
+				"4200E32F0492E2E3"
+			]
+			id: "55DE5FDCFC67E4A2"
+			tasks: [{
+				id: "454D6DA7C5585A1B"
+				type: "checkmark"
+				title: "Thanks!"
+			}]
+			rewards: [{
+				id: "62DD7A9F0FD11783"
+				type: "item"
+				item: "irons_spellbooks:magic_cloth"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

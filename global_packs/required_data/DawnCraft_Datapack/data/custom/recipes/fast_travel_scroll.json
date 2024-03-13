@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BSB",
+        "RBR"
+    ],
+    "key": {
+        "#": {
+            "item": "waystones:warp_stone"
+        },
+        "B": {
+            "item": "simple_mobs:occult_lump"
+        },
+        "S": {
+            "item": "minecraft:paper"
+        },
+        "R": {
+            "item": "irons_spellbooks:arcane_ingot"
+        }
+    },
+    "result": {
+        "item": "simple_mobs:fasttravel_scroll",
+        "count": 1
+    }
+}

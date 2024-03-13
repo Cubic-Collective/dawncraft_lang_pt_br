@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"tag": "forge:meats"
+		},
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "simple_mobs:vampire_fang"
+        }
+    ],
+    "result": {
+        "item": "irons_spellbooks:blood_vial",
+        "count": 1
+    }
+}
