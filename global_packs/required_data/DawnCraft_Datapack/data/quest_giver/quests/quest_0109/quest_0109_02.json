@@ -15,7 +15,7 @@
 			"text": "Criança Perdida: Concluído"
 		},
 		"description": {
-			"text": "Maravilha! Você conseguiu! Para ser sincero, eu não estava otimista que a criança iria sobreviver... Aqui, vou te ensinar uma nova habilidade - Mestre da Espada. É a única forma de te retribuir."
+			"text": "Maravilha! Você conseguiu! Para ser sincero, eu não estava otimista que a criança iria sobreviver... Aqui, vou te ensinar uma nova habilidade - Impacto Meteórico. É a única forma de te retribuir."
 		}
 	},
 	"tasks": [{
@@ -23,7 +23,7 @@
 		"structure": "#minecraft:village"
 	}],
 	"rewards": [{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:swordmaster\"}",
+			"command": "/give @p epicfight:skillbook{skill:\"epicfight:meteor_slam\"}",
 			"id": "quest_giver:command"
 		},
 		{

@@ -28,6 +28,10 @@
     	  }
 	],
 	"rewards": [
+	{
+		"command": "/dc addWaypoint @p #custom:pillager_camp \"Missão Principal - Campo dos Saqueadores\"",
+		"id": "quest_giver:command"
+	},
     {
       "command": "/loot give @p loot minecraft:pillager1",
       "id": "quest_giver:command"

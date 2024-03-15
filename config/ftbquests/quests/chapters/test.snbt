@@ -756,65 +756,58 @@
 			}]
 			rewards: [
 				{
-					id: "2F070110E161B9F8"
-					type: "item"
-					auto: "invisible"
-					item: "antiqueatlas:empty_antique_atlas"
-				}
-				{
 					id: "410AA390E054E967"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule sendCommandFeedback false"
-					player_command: false
-				}
-				{
-					id: "70A7F202E8A994DE"
-					type: "item"
-					auto: "invisible"
-					item: "minecraft:compass"
 				}
 				{
 					id: "10C5822F8E2520D0"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule keepInventory true"
-					player_command: false
 				}
 				{
 					id: "5FD0AB5036A688FE"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule playersSleepingPercentage 35"
-					player_command: false
 				}
 				{
 					id: "794FB9B72BBB0E63"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule spawnRadius 80"
-					player_command: false
 				}
 				{
 					id: "6F86E31ADC125640"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule keepSkills true"
-					player_command: false
 				}
 				{
 					id: "242FF8EBF5E31E24"
 					type: "command"
 					auto: "invisible"
 					command: "/loot give @p loot minecraft:village"
-					player_command: false
 				}
 				{
 					id: "67DC70E6BD4D2C21"
 					type: "command"
 					auto: "enabled"
 					command: "/gamerule weightPenalty 10"
-					player_command: false
+				}
+				{
+					id: "4EF4BB54C3517365"
+					type: "command"
+					auto: "enabled"
+					command: "/dc addWaypoint @p #custom:village \"Primeira Vila\""
+				}
+				{
+					id: "711AE735FF2AA67D"
+					type: "command"
+					auto: "enabled"
+					command: "/gamerule reducedDebugInfo true"
 				}
 			]
 		}
@@ -833,7 +826,6 @@
 				type: "command"
 				auto: "invisible"
 				command: "/tellraw @p [\"\",{\"text\":\"Essa foi a sua primeira \"},{\"text\":\"morte\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Embora a maioria dos itens do seu inventário permanecerão com você, alguns de seus itens valiosos podem ser perdidos em seu corpo, que irá se decompor em 10 minutos. Você pode verificar onde está seu corpo pressionando \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAs mortes acumuladas em curtos períodos de tempo causarão um nível mais elevado de \\\"\"},{\"text\":\"Alma Fraturada\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\".\"}]"
-				player_command: false
 			}]
 		}
 		{
@@ -852,34 +844,14 @@
 					type: "command"
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"Parece que a sua reputação é \"},{\"text\":\"ruim\",\"bold\":true,\"color\":\"red\"},{\"text\":\" com os aldeões. Você foi \"},{\"text\":\"perdoado\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" por está ser sua primeira ofensa... Mas na próxima vez, aldeões não irão mais trocar com você. E se sua reputação piorar ainda mais, guardas e golens de ferro podem começar a te atacar. Você pode melhorar a sua reputação entregando \"},{\"text\":\"pacotes de dinheiro\",\"bold\":true,\"color\":\"green\"},{\"text\":\" (criável) \",\"italic\":true},{\"text\":\"nos baús financeiros dentro das casas da guildas ou das barracas.\"}]"
-					player_command: false
 				}
 				{
 					id: "71CF84030CC57DE5"
 					type: "command"
 					auto: "invisible"
 					command: "/setreputation reputation:villager @p 0"
-					player_command: false
 				}
 			]
-		}
-		{
-			x: 12.0d
-			y: 9.5d
-			id: "01E76C073D0AAA07"
-			tasks: [{
-				id: "6BA0AF1B0555443C"
-				type: "stat"
-				stat: "minecraft:damage_dealt"
-				value: 50
-			}]
-			rewards: [{
-				id: "707451785BD080B1"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Você pode pressionar \"},{\"text\":\"\\\"R\\\"\",\"bold\":true,\"color\":\"green\"},{\"text\":\" para entrar em Modo de Combate. O Dano causado fora do Modo de Combate causa \"},{\"text\":\"metade\",\"bold\":true,\"color\":\"red\"},{\"text\":\" do dano que você causaria no Modo de Combate. \"}]"
-				player_command: false
-			}]
 		}
 		{
 			x: 10.0d
@@ -896,7 +868,6 @@
 				type: "command"
 				auto: "invisible"
 				command: "/tellraw @p [\"\",{\"text\":\"Parece que você encontrou os meios para viajar para \"},{\"text\":\"o Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Isto trará o caos não só para você, mas para o \"},{\"text\":\"reino inteiro\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Uma vez que você entra, não pode ser desfeito. Certifique-se de que você tenha a determinação de seguir em frente antes de entrar no portal.\"}]"
-				player_command: false
 			}]
 		}
 		{
@@ -914,32 +885,6 @@
 				type: "command"
 				auto: "invisible"
 				command: "/tellraw @p {\"text\":\"Parabéns por domar o seu primeiro cavalo! Agora, você pode colocá-lo como seu cavalo pessoal (Pressione \\\"J\\\"), e chama-lo de qualquer lugar do reino (Pressione \\\"H).\"}"
-				player_command: false
-			}]
-		}
-		{
-			x: 5.5d
-			y: 10.5d
-			id: "01FEFFDF4C5C351F"
-			tasks: [{
-				id: "7F551EDDDAA433AB"
-				type: "item"
-				item: {
-					id: "epicfight:skillbook"
-					Count: 1b
-					tag: {
-						skill: "epicfight:stamina_pillager"
-					}
-				}
-				consume_items: false
-				only_from_crafting: false
-			}]
-			rewards: [{
-				id: "152C911A2EDB4822"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"Parabéns por obter a sua primeira habilidade! Agora você pode ver uma lista de habilidades obtidas e mudar as habilidades específicas que você deseja utilizar (Pressione \\\"K\\\").\"}"
-				player_command: false
 			}]
 		}
 		{
@@ -956,7 +901,6 @@
 				type: "command"
 				auto: "invisible"
 				command: "/tellraw @p [\"\",{\"text\":\"Parece que você encontrou uma vila! Você pode interagir com os aldeões que têm pontos de exclamação acima de suas cabeças. Alguns deles fornecem \"},{\"text\":\"conhecimento \",\"bold\":true,\"color\":\"green\"},{\"text\":\"necessário para utilizar certos blocos como as Tear, Bancada de Arco e Flecha, etc... Mas para a maioria dos blocos úteis, como a Bigorna, Mesa de Encantamentos, Bancada de Ferraria, etc... Você vai querer aprender com o \"},{\"text\":\"Mestre da Guilda\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Encontre aldeões vestindo uma túnica azul e comece sua jornada!\"}]"
-				player_command: false
 			}]
 		}
 		{
@@ -1012,7 +956,6 @@
 				type: "command"
 				auto: "invisible"
 				command: "/tellraw @p [\"\",{\"text\":\"Parece que você obteve um contrato comercial! Note que os preços de troca são absurdamente \"},{\"text\":\"altos \",\"bold\":true,\"color\":\"red\"},{\"text\":\"quando você tem reputação neutra. Ganhe reputação ao completar missões de Aldeões. Quando os aldeões começarem a gostar de você, você verá os preços de troca caírem \"},{\"text\":\"extremamente\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
-				player_command: false
 			}]
 		}
 		{
@@ -1270,7 +1213,6 @@
 				type: "command"
 				auto: "invisible"
 				command: "/advancement revoke @p only custom:tricked/tricked"
-				player_command: false
 			}]
 		}
 		{
@@ -1287,7 +1229,6 @@
 				type: "command"
 				auto: "invisible"
 				command: "/tellraw @p [\"\",{\"text\":\"Você obteve uma \"},{\"text\":\"essência\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Você precisará consumi-la para que a estátua em forma de chifre a reconheça.\"}]"
-				player_command: false
 			}]
 		}
 		{
@@ -1295,24 +1236,24 @@
 			y: 5.5d
 			id: "1BF783F3710F1DCC"
 			tasks: [{
-				id: "4BABC121C73B5659"
+				id: "2C2A64D0FD9494EC"
 				type: "item"
 				item: {
 					id: "minecraft:filled_map"
 					Count: 1b
 					tag: {
+						display: {
+							Name: "{\"text\":\"Mapa Suspeito\"}"
+							Lore: ["{\"text\":\"Um mapa deixado por um aventureiro caído para localizar uma igreja.\"}"]
+						}
 						Decorations: [{
-							x: 2752.0d
-							z: -1712.0d
-							id: "+"
 							type: 26b
+							x: 3840.0d
+							id: "+"
+							z: 32.0d
 							rot: 180.0d
 						}]
-						map: 10
-						display: {
-							Lore: ["{\"text\":\"Um mapa deixado por um aventureiro caído para localizar uma igreja.\"}"]
-							Name: "{\"text\":\"Mapa Suspeito\"}"
-						}
+						map: 4
 					}
 				}
 				consume_items: false
@@ -1332,26 +1273,28 @@
 			y: 6.5d
 			id: "4B1EE4CEB29F9553"
 			tasks: [{
-				id: "379BBF5DB43D5EBD"
+				id: "1BD47793B99125A4"
 				type: "item"
 				item: {
 					id: "minecraft:filled_map"
 					Count: 1b
 					tag: {
+						display: {
+							Name: "{\"text\":\"Localização do Padre\"}"
+							Lore: ["{\"text\":\"O paradeiro do Padre Gascoigne.\"}"]
+						}
 						Decorations: [{
-							x: -3456.0d
-							z: -6992.0d
-							id: "+"
 							type: 26b
+							x: -4400.0d
+							id: "+"
+							z: 736.0d
 							rot: 180.0d
 						}]
-						map: 11
-						display: {
-							Lore: ["{\"text\":\"O paradeiro do Padre Gascoigne.\"}"]
-							Name: "{\"text\":\"Localização do Padre\"}"
-						}
+						map: 3
 					}
 				}
+				only_from_crafting: false
+				match_nbt: true
 			}]
 			rewards: [{
 				id: "0F361DAC16E3F56F"
@@ -1366,26 +1309,29 @@
 			y: 8.0d
 			id: "4BB2FAEBF28B584E"
 			tasks: [{
-				id: "071AFA7CF87C2444"
+				id: "57A723698221D811"
 				type: "item"
 				item: {
 					id: "minecraft:filled_map"
 					Count: 1b
 					tag: {
+						display: {
+							Name: "{\"text\":\"O Verdadeiro Portal do End\"}"
+							Lore: ["{\"text\":\"Um mapa que o levará ao ser mais poderoso desse reino.\"}"]
+						}
 						Decorations: [{
-							x: -2992.0d
-							z: -2464.0d
-							id: "+"
 							type: 26b
 							rot: 180.0d
+							id: "+"
+							z: -416.0d
+							x: -1456.0d
 						}]
-						map: 16
-						display: {
-							Lore: ["{\"text\":\"Um mapa que o levará ao ser mais poderoso desse reino.\"}"]
-							Name: "{\"text\":\"O Verdadeiro Portal do End\"}"
-						}
+						map: 2
 					}
 				}
+				consume_items: false
+				only_from_crafting: false
+				match_nbt: true
 			}]
 			rewards: [{
 				id: "2274C54EF9ADD546"
@@ -1410,8 +1356,25 @@
 				id: "01BE88C49BEF5128"
 				type: "command"
 				auto: "enabled"
-				command: "/tellraw @p [\"\",{\"text\":\"\\nIf you need a little help, click on the \\\"\"},{\"text\":\"Quests\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\" tab while accessing your inventory.\\n \"}]"
-				player_command: false
+				command: "/tellraw @p [\"\",{\"text\":\"\\nSe você precisar de ajuda, clique na aba \\\"\"},{\"text\":\"Missões\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\" enquanto acessa o seu inventário.\\n \"}]"
+			}]
+		}
+		{
+			x: 14.5d
+			y: 3.0d
+			id: "3F08F2F803F87980"
+			tasks: [{
+				id: "51880F9956E4D192"
+				type: "stat"
+				stat: "minecraft:walk_one_cm"
+				value: 1000
+			}]
+			rewards: [{
+				id: "6CF76406E5D73F1A"
+				type: "advancement"
+				auto: "enabled"
+				advancement: "custom:100_blocks"
+				criterion: ""
 			}]
 		}
 	]

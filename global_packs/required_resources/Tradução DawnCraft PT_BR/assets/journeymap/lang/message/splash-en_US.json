@@ -1,0 +1,11 @@
+{
+  "lines": [
+    {
+      "label": "Multi World support!",
+      "action": "dialog.OptionsManager#Advanced"
+    },
+    {
+      "label": "Journeymap has been ported to fabric!"
+    }
+  ]
+}

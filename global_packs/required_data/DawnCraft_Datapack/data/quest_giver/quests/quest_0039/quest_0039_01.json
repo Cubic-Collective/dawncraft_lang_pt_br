@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:dojo \"Dojo dos Bandidos Estrangeiros\"",
+      "id": "quest_giver:command"
+    },  
+    {
       "command": "/loot give @p loot minecraft:cartographer1",
       "id": "quest_giver:command"
     },

@@ -1,7 +1,7 @@
 {
 	id: "4434057299FB0D69"
-	group: ""
-	order_index: 7
+	group: "0A520B482648497B"
+	order_index: 5
 	filename: "enchanting"
 	title: "Encantamento"
 	icon: "apotheosis:blazing_hellshelf"
@@ -472,7 +472,7 @@
 			}]
 		}
 		{
-			x: -5.0d
+			x: -5.5d
 			y: 0.0d
 			description: [" Fornece um alto nível de Retificação."]
 			dependencies: ["637B8123F0E769C6"]

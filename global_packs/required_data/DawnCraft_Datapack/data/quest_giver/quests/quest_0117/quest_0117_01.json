@@ -7,7 +7,7 @@
       "text": "Uma Oferta"
     },
     "description": {
-      "text": "25 esmeraldas e eu te ensino a empunhar duas espadas largas."
+      "text": "15 esmeraldas e eu te ensino a usar a habilidade Passo."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Foi bom fazer negócios com você. Tenha cuidado para não acabar com as suas costas!"
+      "text": "Aqui está. Prefiro usar isso a rolar na lama!"
     }
   },
   "tasks": [
@@ -24,12 +24,12 @@
 	 "item": "minecraft:emerald"
       },
       "id": "quest_giver:gift",
-      "amount": 25
+      "amount": 15
      }
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:'epicfight:dualgreatsword'}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
       "id": "quest_giver:command"
     }
   ]

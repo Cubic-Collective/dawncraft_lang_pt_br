@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Conseguiu matar o habitante das cavernas? Se sim, me traga os itens que ele deixou cair."
+      "text": "Conseguiu matar o gigante? Se sim, me traga os itens que ele deixou cair."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "Bom trabalho! Este é realmente um de seus olhos... Como agradecimento, vou te ensinar uma habilidade de combate - Guarda. É uma das habilidades mais importantes que todo aventureiro precisa ter."
+      "text": "Bom trabalho! Este é realmente um de seus olhos... Como agradecimento, vou te ensinar uma habilidade de combate - Salto Demolidor. Esta habilidade melhora significativamente sua agilidade durante o combate!"
     }
   },
   "tasks": [
@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:guard\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:demolition_leap\"}",
       "id": "quest_giver:command"
     }
   ]

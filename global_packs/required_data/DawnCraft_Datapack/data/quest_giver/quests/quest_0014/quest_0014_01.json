@@ -4,7 +4,7 @@
 	"icon": "minecraft:enchanted_book",
 	"start": {
 		"title": {
-			"text": "Treinamento Básico"
+			"text": "Primeira Missão"
 		},
 		"description": {
 			"text": "Volte após cumprir os requisitos - $(red)Mate 10 saqueadores$()."
@@ -12,10 +12,10 @@
 	},
 	"complete": {
 		"title": {
-			"text": "Treinamento Básico"
+			"text": "Primeira Missão"
 		},
 		"description": {
-			"text": "Aqui, apenas abra o livro e aprenda a habilidade. Se você quiser obter mais livros de habilidades, eu sugeriria fazer algumas missões do guarda. Boa sorte em sua jornada."
+			"text": "Aqui, use eles para obter o seu primeiro aprimoramento na $(green)Estátua da Deusa$()! Eu recomendaria conversar com alguns dos guardas aqui se você quiser aprender algumas habilidades novas. Boa sorte em sua jornada."
 		}
 	},
 	"tasks": [{
@@ -24,9 +24,16 @@
 		"times": 10
 	}],
 	"rewards": [{
-		"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
-		"id": "quest_giver:command"
-	},
+		"item": {
+			"item": "paraglider:spirit_orb"
+		},
+		"id": "quest_giver:item",
+		"times": 4
+		},
+		{
+			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"Missão Principal - Fortaleza do Rei Goblin\"",
+			"id": "quest_giver:command"
+		},
         {
           "command": "/loot give @p loot minecraft:guildmaster0",
           "id": "quest_giver:command"
@@ -34,5 +41,5 @@
         {
            "command": "/gamestage add @p guildmaster2 true",
             "id": "quest_giver:command"
-        }]
+    	}]
 }

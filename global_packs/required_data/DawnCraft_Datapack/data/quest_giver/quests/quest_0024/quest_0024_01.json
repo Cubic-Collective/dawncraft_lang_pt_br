@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p quest_giver:pillager_hideout \"Pedido de Resgate - Esconderijo dos Saqueadores\"",
+      "id": "quest_giver:command"
+    }, 
+    {
       "command": "/loot give @p loot minecraft:guard1",
       "id": "quest_giver:command"
     },

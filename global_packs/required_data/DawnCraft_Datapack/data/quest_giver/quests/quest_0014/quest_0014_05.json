@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:ninetail_farm \"Missão Principal - Fazenda da Nove Caudas\"",
+      "id": "quest_giver:command"
+    }, 
+    {
       "command": "/loot give @p loot minecraft:guildmaster3",
       "id": "quest_giver:command"
     },

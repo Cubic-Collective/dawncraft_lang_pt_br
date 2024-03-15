@@ -1,7 +1,7 @@
 {
 	id: "7F8D9817A4A5C1AE"
-	group: ""
-	order_index: 8
+	group: "0A520B482648497B"
+	order_index: 6
 	filename: "reforging_and_socketing"
 	title: "Reforjamento e Encaixe"
 	icon: "apotheosis:gem"
@@ -251,6 +251,54 @@
 				id: "0C9AA2DFA7EBE4F3"
 				type: "item"
 				item: "minecraft:emerald"
+			}]
+		}
+		{
+			title: "Potion Brewing"
+			x: -7.0d
+			y: 2.1d
+			description: ["For the most part, brewing works the same as in vanilla Minecraft. However, there are many more potions available to craft, which you can see via JEI. Additionally, players can craft potion charms to recieve powerful potion effects for a longer duration than usual, and these effects can even be made permanent via Infusion."]
+			hide_dependency_lines: true
+			dependencies: ["2E51B03DF4811F84"]
+			size: 1.4d
+			id: "188EB7B36A79592B"
+			tasks: [{
+				id: "57D014107A8D7499"
+				type: "item"
+				title: "Craft a Brewing Stand"
+				item: "minecraft:brewing_stand"
+				consume_items: false
+				match_nbt: false
+			}]
+		}
+		{
+			title: "Potion Charms"
+			icon: {
+				id: "apotheosis:potion_charm"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Potion: "minecraft:leaping"
+				}
+			}
+			x: -5.0d
+			y: 2.0d
+			description: [
+				"Players can combine multiple potions together with Blaze Powder to create potion charms. These can be right-clicked to to turn them on or off, and will provide the player with the potion effect as long as it is active in the player's charm slot. These charms can be enchanted with Unbreaking or mending to extend their duration.\\n"
+				"&b&lUnbreakable Charms"
+				"Charms can be infused via an enchanting table to convert them into their unbreakable version. Unbreakable charms will provide their effects permanently, but can still be turned on and off. Infusing a charm requires maximum Eterna, between 8.5% and 13.5% Quanta, and between 85% and 95% Arcana. See the \"Enchanting\" Quest tab for more information about Infusions."
+			]
+			dependencies: ["188EB7B36A79592B"]
+			id: "1DCFE07555CD7B60"
+			tasks: [{
+				id: "6CA0CFF4D1C04472"
+				type: "checkmark"
+				title: "Got it!"
+			}]
+			rewards: [{
+				id: "2FFCD351BCA58063"
+				type: "item"
+				item: "plushies:sheep"
 			}]
 		}
 	]
