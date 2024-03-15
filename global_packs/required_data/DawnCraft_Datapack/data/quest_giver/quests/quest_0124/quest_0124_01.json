@@ -25,6 +25,10 @@
     }
   ],
   "rewards": [
+    {
+      "command": "/dc addWaypoint @p custom:rootless \"Palácio Flutuante\"",
+      "id": "quest_giver:command"
+    }, 
    {
       "command": "/loot give @p loot minecraft:hunter1",
       "id": "quest_giver:command"

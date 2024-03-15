@@ -1,6 +1,6 @@
 {
 	id: "67A1142E51E58603"
-	group: ""
+	group: "1F30A450079557C6"
 	order_index: 1
 	filename: "a_little_help"
 	title: "Uma Pequena... Ajuda"
@@ -51,6 +51,7 @@
 							lvl: 3s
 							id: "minecraft:sharpness"
 						}]
+						Damage: 0
 					}
 				}
 			}

@@ -7,7 +7,7 @@
       "text": "Então?"
     },
     "description": {
-      "text": "Você já conseguiu um pedaço de $(red)Tronco de Árvore Arcana Roxa$()?"
+      "text": "Você já conseguiu um pedaço de $(red)Tronco de Mogno$()?"
     }
   },
   "complete": {
@@ -21,7 +21,7 @@
   "tasks": [
     {
       "item": {
-        "item": "ars_nouveau:purple_archwood_log"
+        "item": "hexerei:mahogany_log"
       },
       "id": "quest_giver:gift",
       "times": 1

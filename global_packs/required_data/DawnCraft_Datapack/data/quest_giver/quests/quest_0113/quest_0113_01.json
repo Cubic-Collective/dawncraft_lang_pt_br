@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:obsidian_spikes \"Investigue a Área Mencionada pelo Armeiro\"",
+      "id": "quest_giver:command"
+    },  
+    {
       "command": "/loot give @p loot minecraft:weaponsmith1",
       "id": "quest_giver:command"
     },

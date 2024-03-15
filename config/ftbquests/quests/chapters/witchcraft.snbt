@@ -1,7 +1,7 @@
 {
 	id: "6AAEB02A99CBCDA7"
-	group: ""
-	order_index: 5
+	group: "0A520B482648497B"
+	order_index: 3
 	filename: "witchcraft"
 	title: "Witchcraft"
 	icon: {
@@ -65,9 +65,7 @@
 			icon: "minecraft:written_book"
 			x: 0.0d
 			y: -2.6999999999999997d
-			description: [
-				" Caldeirões do Hexerei exigem nível 2 de conhecimento para usar. Isso pode ser obtido através de uma missão do Aldeão Clérigo, no entanto aqueles que estão tendo dificuldades em encontrar esta missão ou que falharam em completá-la podem em vez disso comprar o conheci- mento aqui, por um preço…"
-			]
+			description: [" Caldeirões do Hexerei exigem nível 2 de conhecimento para usar. Isso pode ser obtido através de uma missão do Aldeão Clérigo, no entanto aqueles que estão tendo dificuldades em encontrar esta missão ou que falharam em completá-la podem em vez disso comprar o conheci- mento aqui, por um preço…"]
 			dependencies: ["758B99AACB978297"]
 			size: 1.8d
 			id: "6A0035A4A88A4381"
@@ -97,7 +95,6 @@
 				title: "Conhecimento de Caldeirão Nível 2"
 				icon: "minecraft:written_book"
 				command: "/pmmo admin @p add slayer level 2"
-				player_command: false
 			}]
 		}
 		{

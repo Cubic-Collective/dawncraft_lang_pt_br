@@ -95,12 +95,16 @@
 	"item.dawncraft.rebirth_staff": "Cajado da Ressurreição",
 	"item.dawncraft.executioner": "A Executora",
 	"item.dawncraft.slayers_blade": "Lâmina do Matador",
+	"item.dawncraft.crystallized_xp": "Crystallized Experience",
 	
 	"map.dawncraft.cultist": "Mapa Suspeito",
 	"map.dawncraft.cultist.lore": "Um mapa dado por um aventureiro caído para localizar uma igreja.",
 	"map.dawncraft.cultist_2": "Mapa do Cultista",
 	"map.dawncraft.cultist_2.lore": "O paradeiro do Padre Gascoigne.",
 	
+	"waypoint.dawncraft.cultist": "The Cultist's Prison",
+	"waypoint.dawncraft.cultist_2": "Father’s Church",
+
 	"entity.dawncraft.fallen": "Aventureiro Caído",
 	
 	"message.dawncraft.invasions_enabled_0": "Vários anacronismos foram detectados, prepare-se para uma invasão iminente...",
@@ -119,6 +123,8 @@
 	"message.dawncraft.reset_functional_block": "Redefinir bloco funcional %1$s",
 	"message.dawncraft.no_mode": "ALERTA: nenhuma funcionalidade definida para o modo de configuração %1$s",
 	
+	"message.dawncraft.waypoint": "Added waypoint to map for %1$s",
+
 	"configuratormode.dawncraft.link_functional": "Modo: Vincular Blocos Funcionais",
 	"configuratormode.dawncraft.unlink_functional": "Modo: Desvincular Blocos Funcionais",
 	"configuratormode.dawncraft.reset_functional": "Modo: Redefinir Blocos Funcionais",
@@ -158,6 +164,8 @@
 	"tooltip.dawncraft.executioner_0": "A poderosa lâmina de um rei lendário.",
 	"tooltip.dawncraft.executioner_1": "Mata instantaneamente mobs com menos de 15% de vida.",
 	
+	"tooltip.dawncraft.crystallized_xp": "Contains %1$s experience",
+
 	"tile.dawncraft.chest_spawner": "Spawner de Baú",
 	
 	"effect.dawncraft.immobilized": "Imobilizado",
@@ -257,5 +265,26 @@
 	"advancements.end.root.title": "Encontre os fragmentos",
 	"advancements.end.root.description": "Entre no end...",
 	"advancements.story.enter_the_end.title": "Encontre os fragmentos",
-	"advancements.story.enter_the_end.description": "Monte o quebra-cabeça novamente..."
+	"advancements.story.enter_the_end.description": "Monte o quebra-cabeça novamente...",
+
+	"toasts.dawncraft.combatmode.title": "Press \"%1$s\" to Switch to Combat Mode",
+	"toasts.dawncraft.combatmode.text0": "Melee damage dealt not in combat ",
+	"toasts.dawncraft.combatmode.text1": "mode is halved.",
+
+	"toasts.dawncraft.dodge.title": "Press \"%1$s\" to Dodge",
+	"toasts.dawncraft.dodge.text0": "Dodging only works in combat mode",
+	"toasts.dawncraft.dodge.text1": "",
+
+	"toasts.dawncraft.skills.title": "Skill Book Aquired",
+	"toasts.dawncraft.skills.text0": "Press \"%1$s\" to check your skills",
+	"toasts.dawncraft.skills.text1": "",
+
+	"toasts.dawncraft.map.title": "Check Your Waypoints in the Map",
+	"toasts.dawncraft.map.text0": "Press \"%1$s\" to open the",
+	"toasts.dawncraft.map.text1": "world map",
+
+	"toasts.dawncraft.stealing.title": "Don't Steal!",
+	"toasts.dawncraft.stealing.text0": "Village reputation is lowered if you",
+	"toasts.dawncraft.stealing.text1": "are caught stealing"
+
 }

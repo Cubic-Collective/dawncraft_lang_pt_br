@@ -16,7 +16,7 @@
       "text": "Criança Perdida: Concluída"
     },
     "description": {
-      "text": "Você é um verdadeiro herói pelo que fez, aventureiro. Nunca esqueceremos o seu feito. Como agradecimento, vou te ensinar uma nova habilidade de combate - Fúria Berserker."
+      "text": "Você é um verdadeiro herói pelo que fez, aventureiro. Nunca esqueceremos o seu feito. Como agradecimento, vou te ensinar uma nova habilidade de combate - Fúria Colheita da Morte."
     }
   },
   "tasks": [
@@ -27,7 +27,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:berserker\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:death_harvest\"}",
       "id": "quest_giver:command"
     }
   ]

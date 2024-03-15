@@ -15,7 +15,7 @@
       "text": "Obrigado!"
     },
     "description": {
-      "text": "É estranho imaginar uma criatura com uma armadura natural tão resistente... Bem, estou feliz que agora ele está morto. Como agradecimento, vou te ensinar uma nova habilidade - Passo."
+      "text": "É estranho imaginar uma criatura com uma armadura natural tão resistente... Bem, estou feliz que agora ele está morto. Como agradecimento, vou te ensinar uma nova habilidade - Dupla Empunhadura de Espada Larga."
     }
   },
   "tasks": [
@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"efdg:dualgreatsword\"}",
       "id": "quest_giver:command"
     }
   ]

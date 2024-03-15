@@ -1,3 +1,7 @@
 {
-	chapter_groups: [ ]
+	chapter_groups: [
+		{ id: "0A520B482648497B", title: "Informações Principais" }
+		{ id: "1F30A450079557C6", title: "Recompensas" }
+		{ id: "25047313B704629A", title: "Questões Técnicas e Diversas" }
+	]
 }

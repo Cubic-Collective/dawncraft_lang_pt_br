@@ -7,7 +7,7 @@
 			"text": "Então?"
 		},
 		"description": {
-			"text": "Eu posso te ensinar a habilidade - Guarda Energizada por 15 esmeraldas."
+			"text": "Eu posso te ensinar a habilidade - Vampirismo por 15 esmeraldas."
 		}
 	},
 	"complete": {
@@ -26,7 +26,7 @@
       "times": 15
 	}],
 	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"epicfight:energizing_guard\"}",
+		"command": "give @p epicfight:skillbook{skill:\"wom:vampirize\"}",
 		"id": "quest_giver:command"
 	}]
 }

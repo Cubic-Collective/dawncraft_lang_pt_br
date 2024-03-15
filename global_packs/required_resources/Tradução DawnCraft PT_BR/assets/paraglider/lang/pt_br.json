@@ -1,6 +1,8 @@
 {
 	"itemGroup.paraglider": "Paraglider",
 
+	"attribute.name.paragliders.max_stamina": "Estamina Máxima",
+
 	"block.paraglider.goddess_statue": "Estátua da Deusa",
 	"block.paraglider.kakariko_goddess_statue": "Estátua da Deusa",
 	"block.paraglider.goron_goddess_statue": "Estátua da Deusa",

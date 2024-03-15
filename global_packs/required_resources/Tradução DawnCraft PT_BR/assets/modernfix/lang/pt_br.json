@@ -42,6 +42,7 @@
   "modernfix.option.mixin.perf.deduplicate_location": "Todas as versões, mas desabilitado por padrão devido ao impacto no tempo de carregamento. Realiza a duplicação dos espaços de nomes e caminhos das localizações de recursos. Isso economiza RAM, mas também aumenta significativamente o custo de construir uma nova `ResourceLocation`.",
   "modernfix.option.mixin.perf.dynamic_dfu": "Todas as versões. Modifica a inicialização do DFU para ocorrer apenas quando algo precisa ser atualizado. Isso parece ser semelhante ao LazyDFU, mas é implementado de forma distinta, pois evita carregar *qualquer* classe ou estrutura de dados do DFU, enquanto o LazyDFU apenas desativa a otimização de regras. Essencialmente, esta opção é uma versão mais segura do DataFixerSlayer, pois o DFU ainda será carregado quando necessário.\n\nNormalmente, é recomendado continuar usando o LazyDFU mesmo com esta opção ativada, pois a otimização de regras do DFU pode causar atrasos (lag).",
   "modernfix.option.mixin.perf.dynamic_resources": "Todas as versões. Consulte https://github.com/embeddedt/ModernFix/wiki/Dynamic-Resources-FAQ.",
+  "modernfix.option.mixin.perf.dynamic_sounds": "All versions. Allows the game to unload sounds, instead of sounds indefinitely persisting after being loaded.",
   "modernfix.option.mixin.perf.dynamic_structure_manager": "Todas as versões. Permite que o jogo descarregue os arquivos de estrutura após a geração ser concluída, em vez de mantê-los carregados permanentemente.",
   "modernfix.option.mixin.perf.fast_registry_validation": "Todas as versões. Forge desnecessariamente procura um método por reflexão toda vez que um registro é validado. Este patch simplesmente armazena em cache o valor retornado, pois ele será o mesmo toda vez.",
   "modernfix.option.mixin.perf.faster_font_loading": "Todas as versões. Otimiza o renderizador de fontes para carregar as fontes mais rapidamente, acelerando a recarga de recursos.",
@@ -114,5 +115,10 @@
   "modernfix.option.mixin.perf.twilightforest.structure_spawn_fix": "Corrige a lentidão causada pela verificação ineficiente de estruturas na geração de mundo de Twilight Forest.",
   "modernfix.option.mixin.perf.fast_forge_dummies": "Acelera o congelamento do registro do Forge durante a inicialização usando um caminho de código mais rápido.",
   "modernfix.option.mixin.perf.tag_id_caching": "Acelera o uso de entradas de tags armazenando em cache o objeto de localização em vez de criá-lo novamente todas as vezes.",
-  "modernfix.option.mixin.feature.disable_unihex_font": "Remove a fonte Unicode, economiza 10MB, mas faz com que caracteres especiais não sejam mais renderizados."
+  "modernfix.option.mixin.feature.disable_unihex_font": "Remove a fonte Unicode, economiza 10MB, mas faz com que caracteres especiais não sejam mais renderizados.",
+  "modernfix.option.mixin.bugfix.world_leaks": "Reduces the memory usage of old client-side worlds that aren't needed after switching dimensions. These are normally garbage collected in vanilla, but mods sometimes retain references to them.",
+  "modernfix.option.mixin.perf.compact_mojang_registries": "(Fabric) Experimental option that reduces the memory usage of registries by roughly 50%. Not useful in most modpacks unless they contain millions of blocks and items.",
+  "modernfix.option.mixin.perf.dynamic_block_codecs": "Avoids storing a codec for every block(state) and instead generates and caches it on the fly when needed. Generally not worth enabling unless you have a million blocks/items.",
+  "modernfix.option.mixin.perf.faster_command_suggestions": "Mitigate lag when there are hundreds of thousands of suggestions while typing a command",
+  "modernfix.option.mixin.perf.mojang_registry_size": "Fixes an issue causing registration of blocks/items to slow down proportional to the number already registered. This improves startup time."
 }

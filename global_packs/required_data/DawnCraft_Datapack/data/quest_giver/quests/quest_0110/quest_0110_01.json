@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p quest_giver:cave_dwelling \"Contrato de Extermínio - Habitante das Cavernas\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/loot give @p loot minecraft:guard3",
       "id": "quest_giver:command"
     },

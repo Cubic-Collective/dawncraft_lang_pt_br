@@ -1,7 +1,7 @@
 {
 	id: "1A7295F32C7D70EA"
-	group: ""
-	order_index: 6
+	group: "0A520B482648497B"
+	order_index: 4
 	filename: "exploration"
 	title: "Exploração"
 	icon: "supplementaries:globe"
@@ -137,12 +137,12 @@
 					Count: 1b
 					tag: {
 						display: {
+							Name: "{\"text\":\"§bPortal do Eterno Entardecer\"}"
 							Lore: [
 								"{\"text\":\"Cria um Portal do Eterno Entardecer aceso.\"}"
 								"{\"text\":\"Requer o mesmo espaço que um Portal do\"}"
 								"{\"text\":\"Nether\"}"
 							]
-							Name: "{\"text\":\"§bPortal do Eterno Entardecer\"}"
 						}
 					}
 				}
@@ -162,12 +162,12 @@
 					Count: 1b
 					tag: {
 						display: {
+							Name: "{\"text\":\"§bPortal do Eterno Amanhecer\"}"
 							Lore: [
 								"{\"text\":\"Cria um Portal do Eterno Amanhecer aceso.\"}"
 								"{\"text\":\"Requer o mesmo espaço que um Portal do\"}"
 								"{\"text\":\"Nether\"}"
 							]
-							Name: "{\"text\":\"§bPortal do Eterno Amanhecer\"}"
 						}
 					}
 				}

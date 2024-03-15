@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:librarian_ruin \"Pedido do Bibliotecário\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/loot give @p loot minecraft:librarian1",
       "id": "quest_giver:command"
     },

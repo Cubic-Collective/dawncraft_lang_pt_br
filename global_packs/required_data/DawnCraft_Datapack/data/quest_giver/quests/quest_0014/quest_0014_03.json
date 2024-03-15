@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:ogre_dwelling \"Missão Principal - Habitat do Ogro Corrompido\"",
+      "id": "quest_giver:command"
+    }, 
+    {
       "command": "/loot give @p loot minecraft:guildmaster1",
       "id": "quest_giver:command"
     },
