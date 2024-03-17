@@ -2,7 +2,7 @@
 	"itemGroup.dawncraft.DungeonBlocks": "Blocos de Dungeons DawnCraft",
 	"itemGroup.dawncraft.DungeonFunctionalBlocks": "Blocos Funcionais de Dungeons",
 	"itemGroup.dawncraft.DungeonItems": "Itens do DawnCraft",
-	
+
 	"block.dawncraft.forest_brick": "Tijolo da Floresta",
 	"block.dawncraft.forest_brick_stairs": "Escadas de Tijolo da Floresta",
 	"block.dawncraft.forest_brick_slab": "Laje de Tijolo da Floresta",
@@ -104,7 +104,7 @@
 	
 	"waypoint.dawncraft.cultist": "Prisão do Cultista",
 	"waypoint.dawncraft.cultist_2": "Igreja do Padre",
-	
+
 	"entity.dawncraft.fallen": "Aventureiro Caído",
 	
 	"message.dawncraft.invasions_enabled_0": "Vários anacronismos foram detectados, prepare-se para uma invasão iminente...",
@@ -124,7 +124,7 @@
 	"message.dawncraft.no_mode": "ALERTA: nenhuma funcionalidade definida para o modo de configuração %1$s",
 	
 	"message.dawncraft.waypoint": "Um waypoint para %1$s foi Adicionado",
-	
+
 	"configuratormode.dawncraft.link_functional": "Modo: Vincular Blocos Funcionais",
 	"configuratormode.dawncraft.unlink_functional": "Modo: Desvincular Blocos Funcionais",
 	"configuratormode.dawncraft.reset_functional": "Modo: Redefinir Blocos Funcionais",
@@ -152,7 +152,7 @@
 	"tooltip.dawncraft.cursed_mask_1": "Usá-la fará com que alguns monstros o ignorem, a menos que sejam provocados.",
 	
 	"tooltip.dawncraft.mask": "Pode ser valioso para certos colecionadores de máscaras",
-	
+
 	"tooltip.dawncraft.rebirth_staff.inert_0": "Descarregado",
 	"tooltip.dawncraft.rebirth_staff.inert_1": "Esse cajado não tem poder, é inútil.",
 	"tooltip.dawncraft.rebirth_staff.powered_0": "Carregado",
@@ -165,11 +165,11 @@
 	"tooltip.dawncraft.executioner_1": "Mata instantaneamente mobs com menos de 15% de vida.",
 	
 	"tooltip.dawncraft.crystallized_xp": "Contém %1$s de experiência",
-	
+
 	"tile.dawncraft.chest_spawner": "Spawner de Baú",
 	
 	"effect.dawncraft.immobilized": "Imobilizado",
-	"effect.dawncraft.tremor": "Tremor",
+	"effect.dawncraft.tremor": "Tremores",
 	"effect.dawncraft.frogform": "Forma de Sapo",
 	"effect.dawncraft.fractured_soul": "Alma Fraturada",
 	
