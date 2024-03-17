@@ -1,10 +1,10 @@
 {
 	"title.dcclasses.screen": "Classes",
-	"button.dcclasses.confirm": "Confirm",
-	"button.dcclasses.select": "Select",
-	"text.dcclasses.attributes": "Attributes",
-	"text.dcclasses.items": "Items",
+	"button.dcclasses.confirm": "Confirmar",
+	"button.dcclasses.select": "Selecionar",
+	"text.dcclasses.attributes": "Atributos",
+	"text.dcclasses.items": "Itens",
 	"text.dcclasses.slot": "Slot: %s",
-	"text.dcclasses.skills": "Skills",
+	"text.dcclasses.skills": "Habilidades",
 	"title.dcclasses.screen": "Classes"
 }
