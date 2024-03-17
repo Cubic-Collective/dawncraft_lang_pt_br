@@ -101,8 +101,8 @@
 	"skill.wom.counter_attack.tooltip" : "Perfect Guard will trigger a counter attack based on weapons attacks.\n\nAvailable Weapon Types : %s",
 	"skill.wom.perfect_bulwark" : "Perfect Bulwark",
 	"skill.wom.perfect_bulwark.tooltip" : "Holding Guard stance will block attacks from all directions at low progressive stamina cost.\nReleasing guard after being hit 5 times will send a shockwave that pushes enemys away. \n\nAvailable Weapon Types : %s",
-	"skill.wom.vengeful_parry" : "Vengeful Parry",
-	"skill.wom.vengeful_parry.tooltip" : "Put you in a guarding stance for 2sec.\nYou will hold your position during that time blocking all attack at no stamina cost.\nAfter that you'll be able to send back all the damage in your next attack.\nRefresh damage on recast.\n1sec cooldown.\n\nAvailable Weapon Types : %s",
+	"skill.wom.vengeful_parry" : "Retaliação",
+	"skill.wom.vengeful_parry.tooltip" : "Assuma uma postura defensiva por 2 segundos.\nDurante esse período, você bloqueará todos os ataques sem gastar estamina.\nApós isso, você poderá devolver todo o dano em seu próximo ataque.\nO dano é atualizado ao usar a habilidade novamente.\nLeva 1 segundo para recarregar.\n\nTipos de Armas Disponíveis: %s",
 	
 	"skill.wom.arrow_tenacity" : "Arrow tenacity",
 	"skill.wom.arrow_tenacity.tooltip" : "Prevent the stun from arrows damage. This skill is permanent, thus you can use another passive on top of it but, you'll only keep the current passive if you die.",
