@@ -1,0 +1,16 @@
+{
+	"item.epicfight.sanji": "Cigarro do Sanji",
+	"item.epicfight.sanji.tooltip": "\"Provocar um cozinheiro dos mares é uma ótima forma de acabar morto... Mantenha isso em mente.\"",
+	
+	"skill.epicfight.diablejambu": "Diable Jambe",
+	"skill.epicfight.diablejambu.tooltip": "\"A culinária é um presente dos deuses, as especiarias são um presente do diabo. Parece que ficou um pouco picante demais para você.\"",
+	
+	"skill.epicfight.conqueror_haki": "Haki do Rei",
+	"skill.epicfight.conqueror_haki.tooltip": "\"Eles não conseguem se manter em pé de jeito nenhum.\"\n\n Para ativar o Haki do Rei, segure o botão \"Usar item/Colocar bloco\" e pressione o botão \"Agachar\" simultaneamente. Isso causará 10 de dano e derrubará todas as entidades em uma grande área, mas possui um tempo de recarga de 20 segundos e consome metade da sua estamina.",
+	
+	"skill.epicfight.armement_haki": "Haki do Armamento",
+	"skill.epicfight.armement_haki.tooltip": "Segurar o botão \"Usar item/colocar bloco\" enquanto ataca ativará o Haki do Armamento. Isso aumentará seu dano em 50% e reduzirá o dano que você recebe pela metade, mas consumirá estamina.",
+	
+	"entity.common.armement_haki": "Haki do Armamento",
+	"entity.common.conqueror_haki": "Haki do Rei"
+}
