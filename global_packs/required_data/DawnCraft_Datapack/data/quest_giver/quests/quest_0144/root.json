@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I can teach an expert skill for a low price. What do you say?"
+      "text": "Eu posso ensinar uma habilidade de especialista por um preço acessível. O que você acha?"
     }
   }
 }

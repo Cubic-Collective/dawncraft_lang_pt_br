@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma tarefa impossível!"
     },
     "description": {
-      "text": "I want you to complete 2 tasks: Receive a blessing from the noble sunbird, and to summon a mutant snow golem. Then I shall consider handing you Agony."
+      "text": "Eu quero que você realize duas tarefas: receber a bênção do nobre pássaro solar e invocar um golem de neve mutante. Só então considerarei te entregar a Agonia."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Remarkable! Take it. Its former bearer fell to ferocious beasts. May your fate diverge from his."
+      "text": "Impressionante! Pegue. Seu portador anterior sucumbiu a bestas ferozes. Que seu destino seja diferente do dele."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "mutantmonsters:frosty_the_snow_golem"
+      "id": "afptweaks:advancement",
+      "advancement": "mutantmonsters:frosty_the_snow_golem"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "alexsmobs:alexsmobs/sunbird_blessing"
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/sunbird_blessing"
     }
   ],
   "rewards": [

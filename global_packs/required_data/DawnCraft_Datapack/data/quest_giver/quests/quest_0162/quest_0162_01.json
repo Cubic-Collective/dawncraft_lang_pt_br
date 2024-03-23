@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma tarefa impossível!"
     },
     "description": {
-      "text": "To obtain this weapon, you must first prove yourself by accomplishing two tasks: Complete a witch's quest in a witch's hut, and lure a pooka away from the rest and pacify it with golden carrots."
+      "text": "Para adquirir esta arma, você precisa primeiro provar-se completando duas tarefas: cumprir uma missão de uma bruxa em sua cabana e atrair um pooka para longe dos demais, pacificando-o com cenouras douradas."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Excellent work! Here's the weapon. Despite its lightweight, it harbors considerable lethality."
+      "text": "Ótimo trabalho! Aqui está a arma. Apesar de ser leve, ela possui uma considerável letalidade."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "habitat:husbandry/fae_whisperer"
+      "id": "afptweaks:advancement",
+      "advancement": "habitat:husbandry/fae_whisperer"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "biomemakeover:biomemakeover/witch_quest"
+      "id": "afptweaks:advancement",
+      "advancement": "biomemakeover:biomemakeover/witch_quest"
     }
   ],
   "rewards": [

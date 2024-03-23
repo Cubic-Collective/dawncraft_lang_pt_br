@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Opa, e aí!"
     },
     "description": {
-      "text": "The legendary weapon - Spellbound Blaster, is in my possession, yet your worthiness must be proven before it is bestowed upon you."
+      "text": "A lendária arma - Spellbound Blaster, está em meu poder, mas seu mérito deve ser comprovado antes que seja concedida a você."
     }
   }
 }

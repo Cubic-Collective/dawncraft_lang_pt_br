@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I know the skill - Hypervitality. I can teach you that for 20 emeralds."
+			"text": "Se estiver interessado, posso te ensinar a habilidade - Hiper Vitalidade - por 20 esmeraldas."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Valeu!"
 		},
 		"description": {
-			"text": "The book should provide you with the secrets of this art."
+			"text": "Neste livro, você encontrará os segredos por trás desta arte."
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 20
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"epicfight:hypervitality\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 20
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"epicfight:hypervitality\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

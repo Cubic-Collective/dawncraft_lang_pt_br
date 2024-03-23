@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma tarefa impossível!"
     },
     "description": {
-      "text": "Earn the right to wield Antitheus by completing two tasks to my satisfaction: Ride a laviathan with three other passengers, and shear a moobloom."
+      "text": "Ganhe o direito de empunhar Antitheus completando duas tarefas que me satisfaçam: Montar um laviatã com mais três passageiros e tosquiar um moobloom."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Congratulations! Here it is. This blaster delivers a powerful punch packed with a massive energy source."
+      "text": "Parabéns! Aqui está. Este blaster oferece um poderoso disparo, impulsionado por uma fonte de energia massiva."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "alexsmobs:alexsmobs/laviathan_four_passengers"
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/laviathan_four_passengers"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "friendsandfoes:husbandry/shear_a_moobloom"
+      "id": "afptweaks:advancement",
+      "advancement": "friendsandfoes:husbandry/shear_a_moobloom"
     }
   ],
   "rewards": [

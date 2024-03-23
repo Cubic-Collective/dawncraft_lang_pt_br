@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Shadow Step for 25 emeralds. What do you say?"
+			"text": "Eu posso te ensinar a habilidade - Passo das Sombras por 25 esmeraldas. O que você acha?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "A terrifying technique, isn't it?"
+			"text": "Uma técnica aterrorizante, não é mesmo?"
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 25
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:shadow_step\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 25
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:shadow_step\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Counter Attack for 20 emeralds. What do you say?"
+			"text": "Eu posso te ensinar a habilidade - Contra-ataque por 20 esmeraldas. O que você acha?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Have fun!"
+			"text": "Divirta-se!"
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 20
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:counter_attack\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 20
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:counter_attack\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

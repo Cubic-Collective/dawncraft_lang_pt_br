@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Arrow Tenacity for 15 emeralds. How about that?"
+			"text": "Eu posso te ensinar a habilidade - Resistência à Flechada por 15 esmeraldas. O que acha disso?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Here ya go."
+			"text": "Aqui está."
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 30
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:arrow_tenacity\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 30
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:arrow_tenacity\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

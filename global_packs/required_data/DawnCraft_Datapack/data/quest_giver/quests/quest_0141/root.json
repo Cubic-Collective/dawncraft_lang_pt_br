@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I can teach you how to do a simple dodge roll, in case you don't know how to do so already..."
+      "text": "Eu posso te ensinar como fazer uma simples esquiva rolamento, caso você ainda não saiba como fazer..."
     }
   }
 }
