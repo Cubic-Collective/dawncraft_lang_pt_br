@@ -946,7 +946,7 @@
 			tasks: [{
 				id: "762F9E96314FEA44"
 				type: "kill"
-				title: "Tocador de Sinos"
+				title: "Sineiro"
 				icon: "meetyourfight:haunted_bell"
 				entity: "meetyourfight:bellringer"
 				value: 1L
