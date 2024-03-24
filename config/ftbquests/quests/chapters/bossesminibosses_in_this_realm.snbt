@@ -862,7 +862,7 @@
 			tasks: [{
 				id: "147168466A3409F7"
 				type: "kill"
-				title: "Alquemista"
+				title: "Alquimista"
 				icon: {
 					id: "blue_skies:alchemy_scroll"
 					Count: 1b
