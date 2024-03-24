@@ -15,4 +15,4 @@ Para enviar (ou carregar) o espaço de inventário para um Baú de Nuvem Estáti
 <NEWLINE>
 Todos os Baús de Nuvem podem ser rolados (se forem grandes o suficiente) e podem ser ordenados ou pesquisados usando os botões úteis à esquerda. Se o seu armazenamento em nuvem estiver muito cheio, basta enviar baús adicionais amarrando-os a um Balão da mesma cor. Sim, é tão fácil assim.
 <NEWLINE>
-Se você ainda tiver alguns balões extras, pode combiná-los com oito flechas para criar Flechas de Balões, que voarão em linha reta, sem serem afetados pela gravidade. Se elas acertarem um monstro, o monstro flutuará para cima por um curto período de tempo.
+Se você ainda tiver alguns balões extras, pode combiná-los com oito flechas para criar Flechas com Balões, que voarão em linha reta, sem serem afetadas pela gravidade. Se elas acertarem um monstro, ele flutuará para cima por um curto período de tempo.

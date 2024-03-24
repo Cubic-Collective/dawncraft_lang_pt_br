@@ -10,9 +10,8 @@ Por esse motivo, é melhor usar armas de longo alcance contra os Bloviadores, j�
 <NEWLINE>
 Se um bloviador grande for morto, ele pode se dividir em vários bloviadores menores para continuar a luta. Se o menor deles for morto, ele pode soltar um único bloco de nuvem.
 <NEWLINE>
-Bloviadores também são hostis em relação às ovelhas. Dizem que eles têm inveja de sua lã fofa. Pequenos bloviadores também podem ser capturados em uma garrafa, que pode ser usada em momentos de aperto para obter um impulso de salto.
+Bloviadores também são hostis em relação às ovelhas. Dizem que eles têm inveja de sua lã fofa. Pequenos bloviadores também podem ser capturados em um frasco, que pode ser usado em momentos de aperto para obter um impulso de salto.
 <NEWLINE>
-Se pegos em uma tempestade de chuva ou trovão, os bloviadores se transformarão em uma variante mais escura que não sopra ar gentilmente em seus alvos. Esses bloviadores de tempestade, em vez disso, disparam raios em seus inimigos, e lutar contra grupos inteiros deles pode ser muito difícil. O menor deles dropa um bloco de nuvem estática em vez disso.
+Se os bloviadores forem pegos em uma tempestade de chuva ou trovão, eles se transformarão em uma versão mais escura que não sopra ar gentilmente em seus alvos. Esses bloviadores de tempestade, em vez disso, disparam raios em seus inimigos, e lutar contra grupos inteiros deles pode ser muito difícil. Os menores deles deixam cair um bloco de nuvem estática em vez disso.
 <NEWLINE>
-Os blocos de nuvem têm várias propriedades únicas. Eles podem ser atravessados e as entidades afundarão neles, embora não caiam através deles. Os blocos de nuvem também aliviam as quedas e podem dar um impulso de salto.
-A propriedade estática de um Bloco de Nuvem Estática pode ser transferida para um Balão e de volta usando um Balão no bloco.
+Os blocos de nuvem têm algumas características especiais. Você pode passar através deles, mas as entidades afundarão neles, embora não caiam completamente. Além disso, os blocos de nuvem reduzem o impacto das quedas e podem até proporcionar um impulso de salto. A característica estática de um Bloco de Nuvem Estática pode ser transferida para um Balão e vice-versa usando um Balão no bloco.

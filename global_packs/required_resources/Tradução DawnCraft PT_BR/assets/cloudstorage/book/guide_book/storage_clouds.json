@@ -2,14 +2,10 @@
   "parent": "root.json",
   "text": "storage_clouds.txt",
   "title": "O Armazenamento em Nossas Nuvens",
-  "entity_buttons": [
-  ],
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
+  "entity_buttons": [],
+  "linked_page_buttons": [],
+  "images": [],
+  "item_renders": [],
   "recipes": [
     {
       "recipe": "cloudstorage:balloon",
@@ -17,7 +13,7 @@
       "x": 20,
       "y": 90,
       "page": 0,
-      "scale": 1.2
+      "scale": 1.0
     },
     {
       "recipe": "cloudstorage:cloud_chest",
@@ -25,7 +21,7 @@
       "x": 210,
       "y": 49,
       "page": 0,
-      "scale": 1.2
+      "scale": 1.0
     },
     {
       "recipe": "cloudstorage:static_cloud_chest",
@@ -33,13 +29,9 @@
       "x": 20,
       "y": 40,
       "page": 2,
-      "scale": 1.2
+      "scale": 1.0
     }
   ],
-  "tabula_renders": [
-
-  ],
-  "entity_renders": [
-  ]
+  "tabula_renders": [],
+  "entity_renders": []
 }
-
