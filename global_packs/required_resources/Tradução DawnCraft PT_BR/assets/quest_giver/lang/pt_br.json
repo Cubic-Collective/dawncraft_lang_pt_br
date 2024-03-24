@@ -50,7 +50,7 @@
   "item.quest_giver.trading_contract_woodworker": "Contrato Comercial da Guilda de Marceneiros",
   "item.quest_giver.trading_contract_beekeeper": "Contrato Comercial da Guilda de Apicultores",
   "message.quest_giver.accept_gift": "Muito obrigado, %d!",
-  "message.quest_giver.punch_locals": "Tenha cuidado para não agredir os habitantes locais! Saia do modo de batalha antes de interagir.",
+  "message.quest_giver.punch_locals": "Tenha cuidado para não agredir os habitantes locais! Saia do modo de combate antes de interagir com eles.",
   "message.quest_giver.quest_completion": "Missão Concluída!",
   "message.quest_giver.itemmessage": "Pressione \"%s\" para mais informações",
   "message.quest_giver.trading_contract": "Use Shift-Botão Direito em um Atril para aceitar este contrato, depois de aceitar, você pode fazer trocas com os aldeões.",
