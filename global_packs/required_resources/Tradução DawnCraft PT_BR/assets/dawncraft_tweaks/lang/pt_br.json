@@ -268,8 +268,8 @@
 	"advancements.story.enter_the_end.description": "Monte o quebra-cabeça novamente...",
 
 	"toasts.dawncraft.combatmode.title": "Pressione \"%1$s\" para mudar para o Modo de Combate",
-	"toasts.dawncraft.combatmode.text0": "Dano corpo a corpo infligido fora de combate ",
-	"toasts.dawncraft.combatmode.text1": "o modo está pela metade.",
+	"toasts.dawncraft.combatmode.text0": "O dano corpo a corpo causado fora do modo ",
+	"toasts.dawncraft.combatmode.text1": "de combate é reduzido pela metade",
 
 	"toasts.dawncraft.dodge.title": "Pressione \"%1$s\" para Esquivar",
 	"toasts.dawncraft.dodge.text0": "Esquivar só funciona no modo de combate",
@@ -284,6 +284,6 @@
 	"toasts.dawncraft.map.text1": "mapa-múndi",
 	
 	"toasts.dawncraft.stealing.title": "Não roube!",
-	"toasts.dawncraft.stealing.text0": "A reputação da vila diminui se você",
-	"toasts.dawncraft.stealing.text1": "são pegos roubando"
+	"toasts.dawncraft.stealing.text0": "A reputação da vila diminui caso",
+	"toasts.dawncraft.stealing.text1": "você seja pego roubando"
 }
