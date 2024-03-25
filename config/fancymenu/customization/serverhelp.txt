@@ -1,0 +1,146 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = serverhelp
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1709989928634
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  custom_menu_title = Por que está demorando tanto para entrar em um servidor%n%e como resolver isso
+  [loading_requirement_container_meta:c392cc9d-ffd1-476e-a0ca-0a1688405a74-1709989928634] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 2.0
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]config/fancymenu/image/patreon_bg.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 4545cf9a-acbd-4428-90dd-9cb8822a1c131677511744155
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -393
+  y = -201
+  width = 787
+  height = 470
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c5d69907-02da-46a1-833a-88eb2e24c4e5-1709989928634
+  [loading_requirement_container_meta:c5d69907-02da-46a1-833a-88eb2e24c4e5-1709989928634] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]config/fancymenu/image/patron_emote.gif
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 72b5f941-3b38-45d5-9737-b034503a59b31677511032183
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-centered
+  x = 197
+  y = 161
+  width = 94
+  height = 124
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = a14c1bbb-b5f2-497b-87d0-0a28c79f4c33-1709989928635
+  [loading_requirement_container_meta:a14c1bbb-b5f2-497b-87d0-0a28c79f4c33-1709989928635] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 884b6911-e417-49eb-936e-d6af25a9e6b1-1709989928635
+  [executable_action_instance:6f55230c-b942-4a08-a606-b4579947bc33-1709989928635][action_type:closegui] = null
+  [executable_block:884b6911-e417-49eb-936e-d6af25a9e6b1-1709989928635][type:generic] = [executables:6f55230c-b942-4a08-a606-b4579947bc33-1709989928635;]
+  backgroundnormal = [source:local]config/fancymenu/image/back_hover.png
+  backgroundhovered = [source:local]config/fancymenu/image/back.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = 
+  label = 
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 606190ae-192b-41db-a036-650394b0ffeb1677513154723
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-left
+  x = 68
+  y = 53
+  width = 47
+  height = 39
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 4b122428-09b4-4ecc-a0b0-289b2f818102-1709989928635
+  [loading_requirement_container_meta:4b122428-09b4-4ecc-a0b0-289b2f818102-1709989928635] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = ebda8752-30bc-481d-b64e-04b13859b912-1709989928635
+  [executable_action_instance:37d0434a-d257-4faa-80e9-8b10284cefd9-1709989928635][action_type:openlink] = https://www.patreon.com/bstylia14
+  [executable_block:ebda8752-30bc-481d-b64e-04b13859b912-1709989928635][type:generic] = [executables:37d0434a-d257-4faa-80e9-8b10284cefd9-1709989928635;]
+  backgroundnormal = [source:local]config/fancymenu/image/join.png
+  backgroundhovered = [source:local]config/fancymenu/image/join_hover.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = 
+  label = 
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 93770945-a97c-440d-8193-f1fe0ac798531677513354670
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -319
+  y = -203
+  width = 636
+  height = 111
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = b0d35cc9-30ff-418e-9a6b-ae2dc844500c-1709989928635
+  [loading_requirement_container_meta:b0d35cc9-30ff-418e-9a6b-ae2dc844500c-1709989928635] = [groups:][instances:]
+}
+
