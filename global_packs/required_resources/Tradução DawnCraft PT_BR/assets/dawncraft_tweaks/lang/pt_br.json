@@ -140,7 +140,7 @@
 	"tooltip.dawncraft.redstone_activator": "Emite um sinal de redstone quando um bloco vinculado é acionado.",
 	"tooltip.dawncraft.redstone_trigger": "Aciona blocos vinculados quando recebe um sinal de redstone.",
 	
-	"tooltip.dawncraft.key_0": "Clique com o botão direito para abrir um %1$s",
+	"tooltip.dawncraft.key_0": "Clique com o botão direito para abrir uma %1$s",
 	"tooltip.dawncraft.key_1": "Consumido no uso.",
 	
 	"tooltip.dawncraft.lock": "Clique com o botão direito do mouse em uma porta de dungeon para adicionar uma fechadura nela",
