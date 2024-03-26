@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Adrenaline for 15 emeralds. What do you think?"
+			"text": "Eu posso te ensinar a habilidade - Adrenalina por 15 esmeraldas. O que você acha disso?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Pleasure's all mine."
+			"text": "O prazer é todo meu."
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 15
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:adrenaline\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 15
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:adrenaline\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

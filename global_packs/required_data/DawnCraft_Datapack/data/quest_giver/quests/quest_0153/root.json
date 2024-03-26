@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Hey, heard you're looking for new combat skills to learn. I think I've got just what you need."
+      "text": "Olá, ouvi dizer que você está em busca de novas habilidades de combate para aprender. Acredito que tenho exatamente o que você precisa."
     }
   }
 }

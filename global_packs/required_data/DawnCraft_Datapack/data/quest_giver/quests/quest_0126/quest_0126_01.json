@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Mindset for 15 emeralds."
+			"text": "Eu posso te ensinar a habilidade - Concentração por 15 esmeraldas."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
 			"text": "Here you go... Be mindful."
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 15
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:mindset\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 15
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:mindset\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

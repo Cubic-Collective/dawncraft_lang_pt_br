@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "Do you want to learn a skill for 18 emeralds?"
+      "text": "Você gostaria de aprender uma habilidade por 18 esmeraldas?"
     }
   }
 }

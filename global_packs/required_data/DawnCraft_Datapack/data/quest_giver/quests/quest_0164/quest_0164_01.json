@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma Tarefa Impossível!"
     },
     "description": {
-      "text": "Demonstrate your readiness by completing two tasks: Obtain a Leafcutter Ant Pupa, which can be placed on dirt to start a Leafcutter Ant colony. And build a sandcastle to protect turtle eggs. Then, and only then, will I bestow this weapon upon you."
+      "text": "Demonstre sua prontidão completando duas tarefas: Consiga uma Pupa de Formiga-Cortadeira, que pode ser colocada na terra para iniciar uma colônia de Formiga-Cortadeira. E construa um castelo de areia para proteger ovos de tartaruga. Somente após essas etapas, eu concederei esta arma a você."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Congratulations! Here it is. The shulk's influence has transformed the weapon beyond recognition, engulfing its original form entirely."
+      "text": "Parabéns! Aqui está. A influência do shulk transformou completamente a arma, fazendo com que sua forma original seja totalmente envolvida e irreconhecível."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "ecologics:husbandry/sandcastle"
+      "id": "afptweaks:advancement",
+      "advancement": "ecologics:husbandry/sandcastle"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "alexsmobs:alexsmobs/leafcutter_ant_pupa"
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/leafcutter_ant_pupa"
     }
   ],
   "rewards": [

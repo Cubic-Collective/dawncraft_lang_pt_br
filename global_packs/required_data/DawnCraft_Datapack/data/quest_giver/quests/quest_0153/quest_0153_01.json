@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Dancing Edge for 20 emeralds. Trust me, it's worth the price!"
+			"text": "Eu posso te ensinar a habilidade - Borda Dançante por 20 esmeraldas. Confie em mim, vale o preço!"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Great choice! Good luck on your journey."
+			"text": "Ótima escolha! Boa sorte em sua jornada."
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 20
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:dancing_blade\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 20
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:dancing_blade\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

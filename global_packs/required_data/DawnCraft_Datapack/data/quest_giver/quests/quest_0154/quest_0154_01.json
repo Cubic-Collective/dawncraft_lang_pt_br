@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "Alright, so I can teach you the skill - Ender Obscuris for 20 emeralds. You good for it?"
+			"text": "Tudo bem, então posso te ensinar a habilidade - Obscuris Ender por 20 esmeraldas. Você está interessado?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "There you go. Don't use it to scare the villagers around, mind you!"
+			"text": "Aqui está. Só não use para assustar os aldeões ao redor, tudo bem?"
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 20
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:ender_obscuris\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 20
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:ender_obscuris\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Opa, e aí!"
     },
     "description": {
-      "text": "In my grasp lies the fabled blade - Agony. Yet, to wield its might, you must demonstrate your worthiness to me."
+      "text": "Em minhas mãos está a lendária espada - Agonia. No entanto, para usufruir de seu poder, você deve provar seu valor para mim."
     }
   }
 }

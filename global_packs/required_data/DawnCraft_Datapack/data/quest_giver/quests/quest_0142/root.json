@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I can teach you a combat skill if you'd like."
+      "text": "Eu posso te ensinar uma habilidade de combate, se quiser."
     }
   }
 }

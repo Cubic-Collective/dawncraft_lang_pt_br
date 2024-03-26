@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Pain Anticipation for 15 emeralds."
+			"text": "Eu posso te ensinar a habilidade - Antecipação da Dor por 15 esmeraldas."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Here you go. Take the pain!"
+			"text": "Aqui está. Aceite a dor!"
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 15
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:pain_anticipation\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 15
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:pain_anticipation\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

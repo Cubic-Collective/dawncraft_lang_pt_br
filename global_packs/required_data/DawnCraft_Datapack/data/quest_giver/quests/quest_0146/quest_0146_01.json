@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Bull Charge for 30 emeralds. What do you say?"
+			"text": "Eu posso te ensinar a habilidade - Investida por 30 esmeraldas. O que você acha?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Valeu!"
 		},
 		"description": {
-			"text": "Here you go. Don't go running off a cliff, mind you."
+			"text": "Aqui está. Não saia correndo em direção a um precipício, lembre-se disso."
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 30
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:bull_charge\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 30
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:bull_charge\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I know the skill - Armement Haki. I can teach you that for 20 emeralds."
+			"text": "Interessado em aprender a habilidade - Haki do Armamento? Por 20 esmeraldas, eu te ensino."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "The book should provide you with the secrets of this ancient eastern art."
+			"text": "O livro deverá revelar os segredos desta antiga arte oriental para você."
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 20
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"epicfight:armement_haki\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 20
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"epicfight:armement_haki\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

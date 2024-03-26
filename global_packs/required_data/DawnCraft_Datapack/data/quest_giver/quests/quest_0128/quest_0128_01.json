@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Latent Retribution for 18 emeralds."
+			"text": "Eu posso te ensinar a habilidade - Retribuição Latente por 18 esmeraldas."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Valeu!"
 		},
 		"description": {
-			"text": "Here you go adventurer!"
+			"text": "Aqui está, aventureiro!"
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 18
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:latent_retribution\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 18
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:latent_retribution\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

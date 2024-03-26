@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma tarefa impossível!"
     },
     "description": {
-      "text": "Complete two tasks as I demand, and only then shall I consider bestowing upon you the mighty Ruine. Receive a Tiger's Blessing after feeding it meats, and loot a Nether Reactor in Nether's toxic heap."
+      "text": "Realize duas tarefas conforme minha demanda, e então considerarei conceder a você a poderosa Ruína. Primeiro, obtenha a Bênção do Tigre alimentando-o com carne, e depois saqueie um Reator do Nether no monte tóxico do Nether."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Excellent work! Here it is. Much knowledge is sealed within the blade's edge..."
+      "text": "Excelente trabalho! Aqui está. Muito conhecimento está selado na borda da lâmina..."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "alexsmobs:alexsmobs/tigers_blessing"
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/tigers_blessing"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "incendium:toxic_heap/nuclear_fusion"
+      "id": "afptweaks:advancement",
+      "advancement": "incendium:toxic_heap/nuclear_fusion"
     }
   ],
   "rewards": [
