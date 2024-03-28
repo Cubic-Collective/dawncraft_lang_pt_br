@@ -1,0 +1,225 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1709989928485
+  is_enabled = true
+  randommode = true
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:6ac78f44-5f52-4bfa-a629-9407d819869d-1709989928485] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/drippyloadingscreen/image/slide4.png
+  slide = false
+  repeat_texture = false
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  bar_color = #5295FF
+  bar_texture = [source:local]config/drippyloadingscreen/image/loading_bar.png
+  background_color = #ABC8F7
+  background_texture = [source:local]config/drippyloadingscreen/image/loading_bg.png
+  direction = right
+  progress_for_element_anchor = false
+  progress_source = {"placeholder":"game_loading_progress"}
+  value_mode = percentage
+  element_type = progress_bar
+  instance_identifier = 5c4d0039-3f9a-479d-a8f4-6fd40ae25be21677570220735
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-right
+  x = -101
+  y = -14
+  width = 101
+  height = 14
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 658ec53f-5723-4259-9f9e-db4effdad608-1709989928486
+  [loading_requirement_container_meta:658ec53f-5723-4259-9f9e-db4effdad608-1709989928486] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]config/drippyloadingscreen/image/loading_text.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 5ce48e76-ea13-4b9e-9406-90f794f5218d1677571205876
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-right
+  x = -101
+  y = -25
+  width = 51
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 79474706-8705-4105-a2cf-47facbe7aef9-1709989928486
+  [loading_requirement_container_meta:79474706-8705-4105-a2cf-47facbe7aef9-1709989928486] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]config/drippyloadingscreen/image/mojang_logo.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 24bef35d-d4c8-4f73-ad56-88275936b72a1677572015718
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-left
+  x = 3
+  y = -25
+  width = 83
+  height = 21
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8cd944a8-3545-4f11-b71a-5577d09dfd8c-1709989928486
+  [loading_requirement_container_meta:8cd944a8-3545-4f11-b71a-5577d09dfd8c-1709989928486] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]config/drippyloadingscreen/image/curseforge_logo.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 7d6b77dc-3ece-465f-9b8f-bc6ce1983a271677572262620
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-left
+  x = 89
+  y = -24
+  width = 23
+  height = 13
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 7dde7ce2-f44a-4a2c-bad9-188164f1b9ed-1709989928486
+  [loading_requirement_container_meta:7dde7ce2-f44a-4a2c-bad9-188164f1b9ed-1709989928486] = [groups:][instances:]
+}
+
+element {
+  bar_color = #5295FF
+  bar_texture = [source:local]config/drippyloadingscreen/image/loading_bar.png
+  background_color = #ABC8F7
+  background_texture = [source:local]config/drippyloadingscreen/image/loading_bg.png
+  direction = right
+  progress_for_element_anchor = false
+  progress_source = {"placeholder":"game_loading_progress"}
+  value_mode = percentage
+  element_type = progress_bar
+  instance_identifier = 5c4d0039-3f9a-479d-a8f4-6fd40ae25be21677570220735
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-right
+  x = -101
+  y = -14
+  width = 101
+  height = 14
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 658ec53f-5723-4259-9f9e-db4effdad608-1709989928486
+  [loading_requirement_container_meta:658ec53f-5723-4259-9f9e-db4effdad608-1709989928486] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 184d48e2-ec98-4c2a-bcf6-50474e59fb71-1709989928485
+  [executable_block:184d48e2-ec98-4c2a-bcf6-50474e59fb71-1709989928485][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 93ec4cb0-c899-4138-aa75-292fd3f5b4ae-1709989928485
+  [loading_requirement_container_meta:93ec4cb0-c899-4138-aa75-292fd3f5b4ae-1709989928485] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = e6335f1b-1854-45ac-924d-4a4bd212eb80-1709989928485
+  [executable_block:e6335f1b-1854-45ac-924d-4a4bd212eb80-1709989928485][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 14cd2cce-53cc-4ec1-823c-9c45aa5216d2-1709989928485
+  [loading_requirement_container_meta:14cd2cce-53cc-4ec1-823c-9c45aa5216d2-1709989928485] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+

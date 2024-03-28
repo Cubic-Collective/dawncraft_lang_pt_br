@@ -25,12 +25,15 @@ def copy_files_and_folders(source_dir, destination_dir, items):
         else:
             print(f"Cannot copy {item_path}: item does not exist")
 
-source_directory = r''
+SOURCE_DIRECTORY = r''
 destination_folder = os.path.dirname(os.path.abspath(__file__))
 
 items_to_copy = [
+    'config/drippyloadingscreen/image',
+    'config/fancymenu/assets',
+    'config/fancymenu/customization',
     'config/ftbquests/quests',
-    'global_packs/required_data/DawnCraft_Datapack/data/ars_nouveau',
+    # 'global_packs/required_data/DawnCraft_Datapack/data/ars_nouveau',
     'global_packs/required_data/DawnCraft_Datapack/data/brutalbosses',
     'global_packs/required_data/DawnCraft_Datapack/data/cataclysm',
     'global_packs/required_data/DawnCraft_Datapack/data/custom',
@@ -42,4 +45,4 @@ items_to_copy = [
     'global_packs/required_data/witch-raids-1-18-v-1-1'
 ]
 
-copy_files_and_folders(source_directory, destination_folder, items_to_copy)
+copy_files_and_folders(SOURCE_DIRECTORY, destination_folder, items_to_copy)
