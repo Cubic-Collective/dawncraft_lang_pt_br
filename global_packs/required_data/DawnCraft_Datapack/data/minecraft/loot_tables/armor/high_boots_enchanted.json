@@ -132,20 +132,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "jet_and_elias_armors:death_knight_armor_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 10,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "magistuarmory:platemail_boots",
           "functions": [
             {

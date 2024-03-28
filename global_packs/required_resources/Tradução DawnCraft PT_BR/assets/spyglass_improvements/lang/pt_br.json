@@ -1,0 +1,17 @@
+{
+    "category.spyglass-improvements": "Spyglass Improvements",
+    "key.spyglass-improvements.use": "Usar Luneta",
+    "options.spyglass-improvements.zoomQuantity": "Aumento de zoom: %s passos",
+    "options.spyglass-improvements.hideSettingsButton": "Ocultar botão de configurações: %s",
+    "options.spyglass-improvements.hideSettingsButton.tooltip": "Oculte o botão de configurações da tela de opções do Minecraft. Você ainda pode acessar esta tela através do Mod Menu",
+    "options.spyglass-improvements.showCrosshair": "Mostrar Mira: %s",
+    "options.spyglass-improvements.smoothCamera": "Câmera Suave: %s",
+    "options.spyglass-improvements.spyglassOverlay": "Sobreposição da Luneta: %s",
+    "options.spyglass-improvements.spyglassOverlay.Default": "Padrão",
+    "options.spyglass-improvements.spyglassOverlay.Clear": "Limpo",
+    "options.spyglass-improvements.spyglassOverlay.Circle": "Círculo",
+    "options.spyglass-improvements.spyglassOverlay.None": "Nenhum",
+    "options.spyglass-improvements.title": "Spyglass Improvements Configurações",
+    "options.spyglass-improvements.reset": "Redefinir configuração"
+  
+}

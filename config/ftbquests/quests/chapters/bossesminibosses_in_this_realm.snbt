@@ -274,6 +274,7 @@
 			x: -3.5d
 			y: -12.0d
 			shape: "square"
+			description: ["Can be summoned at the Summoning Altar."]
 			id: "7279CC337EDCA3C4"
 			tasks: [{
 				id: "7656A203BA9099CF"
@@ -484,6 +485,7 @@
 			x: -4.5d
 			y: -14.0d
 			shape: "square"
+			description: ["Can be summoned in the Nether's arena."]
 			id: "73108E762D8A3C88"
 			tasks: [{
 				id: "561CB5790BBC3C58"
@@ -683,6 +685,7 @@
 			x: -9.5d
 			y: -12.0d
 			shape: "square"
+			description: ["Can be summoned in the End dimension."]
 			id: "0BF852B15581A857"
 			tasks: [{
 				id: "4B8BB374C630CA51"
@@ -741,6 +744,7 @@
 			x: -5.5d
 			y: -12.0d
 			shape: "square"
+			description: ["Can be found in an NPC quest."]
 			id: "2CB9D4F9C95D2BBB"
 			tasks: [{
 				id: "4BF011179CDF0597"
@@ -786,6 +790,7 @@
 			x: -6.5d
 			y: -12.0d
 			shape: "square"
+			description: ["Can be found in a guard villager's extermination quest."]
 			hide: false
 			id: "0CE38C187D08EA00"
 			tasks: [{
@@ -813,6 +818,7 @@
 			x: -8.5d
 			y: -12.0d
 			shape: "square"
+			description: ["Can be found in the Everbright dimension's nature dungeon."]
 			id: "7DE3F1C0DDCACC6D"
 			tasks: [{
 				id: "53B0061130E1FEEA"
@@ -883,6 +889,7 @@
 			x: -7.5d
 			y: -12.0d
 			shape: "square"
+			description: ["Can be found in the Everdawn dimension's poison dungeon."]
 			id: "01CF56DCE8E72465"
 			tasks: [{
 				id: "186BD8407FB7B253"
@@ -1036,8 +1043,8 @@
 									id: 33
 								}
 							]
-							activeSpellIndex: 0
 							spellSlots: 5
+							activeSpellIndex: 0
 						}
 					}
 				}
@@ -1104,13 +1111,7 @@
 					Count: 1b
 					tag: {
 						RepairCost: 1
-						affix_data: {
-							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
-							affixes: {
-								"apotheosis:ironforged": 0.058177173f
-							}
-							rarity: "common"
-						}
+						Damage: 0
 						BlockEntityTag: {
 							Base: 15
 							Patterns: [
@@ -1140,9 +1141,27 @@
 								}
 							]
 						}
-						Damage: 0
+						affix_data: {
+							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
+							affixes: {
+								"apotheosis:ironforged": 0.058177173f
+							}
+							rarity: "common"
+						}
 						HideFlags: 32
-						CustomModelData: 1450300
+						AttributeModifiers: [{
+							Amount: -0.029904954135417938d
+							Name: "weaken"
+							Operation: 1
+							UUID: [I;
+								112035901
+								1134379090
+								-1220404660
+								-221377395
+							]
+							AttributeName: "minecraft:generic.attack_damage"
+							Slot: "offhand"
+						}]
 						display: {
 							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
 							Lore: [
@@ -1152,19 +1171,7 @@
 								"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
 							]
 						}
-						AttributeModifiers: [{
-							Amount: -0.029904954135417938d
-							Slot: "offhand"
-							Operation: 1
-							UUID: [I;
-								112035901
-								1134379090
-								-1220404660
-								-221377395
-							]
-							AttributeName: "minecraft:generic.attack_damage"
-							Name: "weaken"
-						}]
+						CustomModelData: 1450300
 						incendium: {
 							item: "necrotic_shield"
 						}
@@ -1260,6 +1267,7 @@
 			x: -3.5d
 			y: -14.0d
 			shape: "square"
+			description: ["Can be found 150 blocks to the east of where Notch stands. Requires elemental gauntlet's beam ability to depetrify."]
 			id: "0BC7EFD07CFA9E62"
 			tasks: [{
 				id: "1F4A7D724ADF51DE"
@@ -1305,6 +1313,7 @@
 			x: -6.5d
 			y: -14.0d
 			shape: "square"
+			description: ["Can be summoned at the top of Nether by chanting the text from \"Torn Note\"."]
 			id: "59E87C0B92B13B3B"
 			tasks: [{
 				id: "231C7B5517480420"
@@ -1326,6 +1335,7 @@
 			x: -5.5d
 			y: -14.0d
 			shape: "square"
+			description: ["Can be found in the Fervent Dream of the old Shogunate."]
 			id: "6EF35391CF28105A"
 			tasks: [{
 				id: "73B0474F6E84F861"

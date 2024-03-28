@@ -9,8 +9,8 @@
 	default_hide_dependency_lines: true
 	quests: [
 		{
-			x: 3.0d
-			y: 2.5d
+			x: 1.0d
+			y: 3.0d
 			id: "7F2E0798CDC00FA3"
 			tasks: [{
 				id: "652B76F89DFD2A04"
@@ -36,8 +36,8 @@
 			]
 		}
 		{
-			x: 5.5d
-			y: 2.5d
+			x: 2.0d
+			y: 5.0d
 			id: "06D9C7BA36906C17"
 			tasks: [{
 				id: "484B11EC79BF1044"
@@ -64,8 +64,8 @@
 			]
 		}
 		{
-			x: 6.5d
-			y: 0.5d
+			x: 3.0d
+			y: 3.0d
 			id: "5C8F23D62A97DFBC"
 			tasks: [{
 				id: "566B232E569CE99B"
@@ -91,8 +91,8 @@
 			]
 		}
 		{
-			x: 7.5d
-			y: 2.5d
+			x: 3.0d
+			y: 5.0d
 			id: "29420C2137124E3E"
 			tasks: [{
 				id: "15C4F8DF8DA81743"
@@ -118,8 +118,8 @@
 			]
 		}
 		{
-			x: 9.0d
-			y: 2.5d
+			x: 3.0d
+			y: 4.0d
 			id: "032DF3ADCFF8347F"
 			tasks: [{
 				id: "67B5BEB031216948"
@@ -145,7 +145,7 @@
 			]
 		}
 		{
-			x: 1.5d
+			x: 1.0d
 			y: 4.0d
 			id: "0C62F7AEC8DA7D6C"
 			tasks: [{
@@ -172,8 +172,8 @@
 			]
 		}
 		{
-			x: 3.0d
-			y: 4.0d
+			x: 1.0d
+			y: 7.0d
 			id: "4F88E2203AF4B696"
 			tasks: [{
 				id: "76B24891274BEBD1"
@@ -199,7 +199,7 @@
 			]
 		}
 		{
-			x: 4.5d
+			x: 2.0d
 			y: 4.0d
 			id: "0DCB413EF4AAA229"
 			tasks: [{
@@ -226,8 +226,8 @@
 			]
 		}
 		{
-			x: 6.5d
-			y: 4.0d
+			x: 2.0d
+			y: 6.0d
 			id: "5AB6ADC191A870C1"
 			tasks: [{
 				id: "7E11A076241FDB40"
@@ -253,8 +253,8 @@
 			]
 		}
 		{
-			x: 8.5d
-			y: 4.0d
+			x: 3.0d
+			y: 6.0d
 			id: "1DBD44621CF141F7"
 			tasks: [{
 				id: "0E5FCE0F62144E4F"
@@ -280,8 +280,8 @@
 			]
 		}
 		{
-			x: 1.5d
-			y: 5.5d
+			x: 1.0d
+			y: 5.0d
 			id: "0C1E10060FA023C1"
 			tasks: [{
 				id: "0E5289162A6FF417"
@@ -307,8 +307,8 @@
 			]
 		}
 		{
-			x: 3.5d
-			y: 5.5d
+			x: 1.0d
+			y: 8.0d
 			id: "19B9A3C7AF2524FA"
 			tasks: [{
 				id: "1D3ED633F235806A"
@@ -334,8 +334,8 @@
 			]
 		}
 		{
-			x: 6.0d
-			y: 5.5d
+			x: 2.0d
+			y: 7.0d
 			id: "5799C4549C5C15A6"
 			tasks: [{
 				id: "48D1D8F1998C4582"
@@ -361,8 +361,8 @@
 			]
 		}
 		{
-			x: 7.5d
-			y: 5.5d
+			x: 2.0d
+			y: 9.0d
 			id: "22DC67FDE0661DCB"
 			tasks: [{
 				id: "779C8F424BF18BC8"
@@ -388,8 +388,8 @@
 			]
 		}
 		{
-			x: 9.0d
-			y: 5.5d
+			x: 3.0d
+			y: 7.0d
 			id: "108B513B5B2E9C70"
 			tasks: [{
 				id: "26DE4BF3F023680F"
@@ -415,8 +415,8 @@
 			]
 		}
 		{
-			x: 2.0d
-			y: 7.0d
+			x: 1.0d
+			y: 6.0d
 			id: "458E9812B8D915C7"
 			tasks: [{
 				id: "2C5DACD756F8D43B"
@@ -442,8 +442,8 @@
 			]
 		}
 		{
-			x: 4.0d
-			y: 7.0d
+			x: 2.0d
+			y: 3.0d
 			id: "49E36CCD9E188115"
 			tasks: [{
 				id: "258D1F914324184C"
@@ -469,8 +469,8 @@
 			]
 		}
 		{
-			x: 6.0d
-			y: 7.0d
+			x: 2.0d
+			y: 8.0d
 			id: "3366CB8385EF82BF"
 			tasks: [{
 				id: "34DC5E891CDBB15F"
@@ -496,8 +496,8 @@
 			]
 		}
 		{
-			x: 8.0d
-			y: 7.0d
+			x: 3.0d
+			y: 9.0d
 			id: "36CEF24CC18BC136"
 			tasks: [{
 				id: "59397C1EED3BE270"
@@ -523,8 +523,8 @@
 			]
 		}
 		{
-			x: 9.5d
-			y: 7.0d
+			x: 3.0d
+			y: 8.0d
 			id: "08D42D19765C3FD2"
 			tasks: [{
 				id: "4DCE6BFD6B0DDB2B"
@@ -550,8 +550,8 @@
 			]
 		}
 		{
-			x: 3.0d
-			y: 8.5d
+			x: 1.0d
+			y: 9.0d
 			id: "53EFD17FE31AF7FD"
 			tasks: [{
 				id: "63238F3E46C4ABE3"
@@ -577,8 +577,8 @@
 			]
 		}
 		{
-			x: 1.5d
-			y: 1.0d
+			x: 2.0d
+			y: 0.5d
 			id: "5A46A98020395A41"
 			tasks: [{
 				id: "3EAB79F22282A4E1"
@@ -596,7 +596,7 @@
 		}
 		{
 			x: 3.0d
-			y: 1.0d
+			y: 0.5d
 			id: "7287F9F2D9A722D7"
 			tasks: [{
 				id: "0E46D7CAE906AC64"
@@ -613,8 +613,8 @@
 			}]
 		}
 		{
-			x: 5.0d
-			y: 1.0d
+			x: 1.0d
+			y: 0.5d
 			id: "4723C40D54AA9F3C"
 			tasks: [
 				{
@@ -643,8 +643,8 @@
 			}]
 		}
 		{
-			x: 8.0d
-			y: 1.0d
+			x: 7.0d
+			y: 2.0d
 			id: "42FD5FA83C62490F"
 			tasks: [{
 				id: "0FA3C2D11C6D9E4D"
@@ -677,8 +677,8 @@
 			}]
 		}
 		{
-			x: 10.0d
-			y: 4.0d
+			x: 4.0d
+			y: 3.0d
 			id: "5DD305F560236CFC"
 			tasks: [{
 				id: "58323A3D58E87339"
@@ -795,7 +795,7 @@
 					id: "67DC70E6BD4D2C21"
 					type: "command"
 					auto: "enabled"
-					command: "/gamerule weightPenalty 10"
+					command: "/gamerule weightPenalty 40"
 				}
 				{
 					id: "4EF4BB54C3517365"
@@ -888,20 +888,28 @@
 			}]
 		}
 		{
-			x: 12.0d
-			y: 11.5d
+			x: 9.5d
+			y: 6.0d
 			id: "4B8C2FA15D33F227"
 			tasks: [{
 				id: "20823B8E47A05413"
 				type: "structure"
 				structure: "#custom:village"
 			}]
-			rewards: [{
-				id: "7B0591F07EC96892"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
-			}]
+			rewards: [
+				{
+					id: "7B0591F07EC96892"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
+				}
+				{
+					id: "703945A1131E180E"
+					type: "command"
+					auto: "enabled"
+					command: "/dc removeWaypoint @p \"First Village\""
+				}
+			]
 		}
 		{
 			x: 9.0d
@@ -1248,10 +1256,10 @@
 						}
 						Decorations: [{
 							type: 26b
-							x: 3840.0d
+							rot: 180.0d
 							id: "+"
 							z: 32.0d
-							rot: 180.0d
+							x: 3840.0d
 						}]
 						map: 4
 					}
@@ -1285,10 +1293,10 @@
 						}
 						Decorations: [{
 							type: 26b
-							x: -4400.0d
+							rot: 180.0d
 							id: "+"
 							z: 736.0d
-							rot: 180.0d
+							x: -4400.0d
 						}]
 						map: 3
 					}
@@ -1321,10 +1329,10 @@
 						}
 						Decorations: [{
 							type: 26b
-							rot: 180.0d
+							x: -1456.0d
 							id: "+"
 							z: -416.0d
-							x: -1456.0d
+							rot: 180.0d
 						}]
 						map: 2
 					}

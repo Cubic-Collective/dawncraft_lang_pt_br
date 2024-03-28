@@ -42,10 +42,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "jet_and_elias_armors:death_knight_armor_boots"
-        },
-        {
-          "type": "minecraft:item",
           "name": "magistuarmory:platemail_boots"
         },
         {

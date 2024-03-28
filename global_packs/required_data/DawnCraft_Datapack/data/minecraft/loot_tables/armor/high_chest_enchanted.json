@@ -160,20 +160,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "jet_and_elias_armors:death_knight_armor_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 10,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "jet_and_elias_armors:hedge_knight_armor_chestplate",
           "functions": [
             {
