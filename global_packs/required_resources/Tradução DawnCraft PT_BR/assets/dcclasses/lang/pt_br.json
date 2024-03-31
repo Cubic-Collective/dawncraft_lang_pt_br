@@ -13,7 +13,7 @@
 	"class.dcclasses.marauder": "Saqueador",
 	"class.dcclasses.miner": "Mineiro",
 	"class.dcclasses.paladin": "Paladino",
-	"class.dcclasses.ranger": "Ranger",
+	"class.dcclasses.ranger": "Arqueiro",
 	"class.dcclasses.scout": "Batedor",
 	"class.dcclasses.speedrunner": "Speedrunner",
 	"class.dcclasses.warrior": "Guerreiro",
@@ -22,7 +22,7 @@
 	"class.dcclasses.marauder.desc": "Os saqueadores combinam um dano considerável com uma capacidade razoável de sobrevivência, procurando se manter em combate, se necessário.",
 	"class.dcclasses.miner.desc": "Os mineiros deixam de lado muita habilidade de combate com o único objetivo de explorar o subsolo o mais rápido possível e buscar tesouros para se equiparem de maneira adequada",
 	"class.dcclasses.paladin.desc": "Os paladinos colocam a defesa como prioridade máxima, mesmo que isso signifique sacrificar velocidade e dano. Eles fazem de tudo para se manterem vivos, agindo de forma eficaz para desviar a agressão de seus companheiros de equipe.",
-	"class.dcclasses.ranger.desc": "Os Rangers optam por atacar à distância, aproveitando sua mobilidade acima da média e utilizando um arco para se manterem afastados de seus inimigos.",
+	"class.dcclasses.ranger.desc": "Os Arqueiros optam por atacar à distância, aproveitando sua mobilidade acima da média e utilizando um arco para se manterem afastados de seus inimigos.",
 	"class.dcclasses.scout.desc": "Rápidos e ágeis, os batedores têm uma paixão pela exploração. Eles estão prontos para o combate quando necessário, mas se destacam na habilidade de evitar confrontos e avançar com destreza.",
 	"class.dcclasses.speedrunner.desc": "Os Speedrunner não têm tempo para habilidades ou estatísticas, eles vão matar o dragão antes mesmo de você construir sua primeira base, e nada vai impedi-los.",
 	"class.dcclasses.warrior.desc": "Com estatísticas medianas, os guerreiros jogam de forma equilibrada, ideal para jogadores que não dão muita importância às estatísticas e habilidades."
