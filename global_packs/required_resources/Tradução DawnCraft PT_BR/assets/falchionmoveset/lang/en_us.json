@@ -1,0 +1,4 @@
+{
+  "skill.falchionmoveset.falchion_art": "Faith and Virtue",
+  "skill.falchionmoveset.falchion_art.tooltip":"Slice enemies in a wide area. There will be three different attacks depending on the direction you type. \nFearless: The third normal attack will not be interrupted by the enemy's attack. \nForward: Perform two quick upward slashes to the front, which can effectively knockback the enemy. \nLeft/Right: Fast diagonal slash that cannot be interrupted by enemy attacks. \nBackward: After sweeping across a wide area, perform a slash on the enemy that knocks them down. Can use air slash to perform additional attacks on downed enemies"
+}

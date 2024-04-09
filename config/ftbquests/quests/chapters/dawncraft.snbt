@@ -22,12 +22,19 @@
 				type: "checkmark"
 				title: "Lido"
 			}]
-			rewards: [{
-				id: "55079C6539007C92"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			rewards: [
+				{
+					id: "55079C6539007C92"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+				{
+					id: "4EF1DA20073480F5"
+					type: "item"
+					item: "minecraft:spyglass"
+				}
+			]
 		}
 		{
 			title: "Aldeões e Missões"

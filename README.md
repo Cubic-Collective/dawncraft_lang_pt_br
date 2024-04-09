@@ -2,14 +2,14 @@
 
 DawnCraft no CurseForge: [Aqui](https://www.curseforge.com/minecraft/modpacks/dawn-craft "DawnCraft - An Adventure RPG Modpack")
 
-Versão do ModPack: 2.0
+Versão do ModPack: 2.0.4_f3
 
 Se você possui um conhecimento básico de inglês e deseja contribuir com a tradução, convidamos você a se juntar ao nosso [Discord](https://discord.gg/QQxckfPWvz "DawnCraft - Tradução pt_br") para obter mais informações.
 
 ### [Progresso da Tradução](https://github.com/GMalvestiti/dawncraft_lang_pt_br/wiki/Progresso)
  - FTBQuests: 11/14
  - Missões: 117/158
- - Mods (Extra): 163/189
+ - Mods (Extra): 163/194
 
 ### Instalação da Tradução
 
