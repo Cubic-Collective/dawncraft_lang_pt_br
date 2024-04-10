@@ -20,10 +20,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -60,7 +60,7 @@
 				{
 					id: "33293C72497AEEE2"
 					type: "command"
-					title: "Ponto de Referência"
+					title: "Waypoint"
 					icon: "minecraft:compass"
 					auto: "enabled"
 					command: "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"Missão Principal - Fortaleza do Rei Goblin (Substituída)\""
@@ -79,10 +79,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -119,7 +119,7 @@
 				{
 					id: "55DFD73443DE0C25"
 					type: "command"
-					title: "Ponto de Referência"
+					title: "Waypoint"
 					icon: "minecraft:compass"
 					auto: "enabled"
 					command: "/dc addWaypoint @p custom:ogre_dwelling \"Missão Principal - Habitat do Ogro Corrompido (Suubstituída)\""
@@ -138,10 +138,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -178,7 +178,7 @@
 				{
 					id: "7C835CEC1DA23311"
 					type: "command"
-					title: "Ponto de Referência"
+					title: "Waypoint"
 					icon: "minecraft:compass"
 					auto: "enabled"
 					command: "/dc addWaypoint @p custom:arena \"Missão Principal - Arena do Cavaleiro Rober (Substituída)\""
@@ -197,10 +197,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -237,7 +237,7 @@
 				{
 					id: "5AFB06EE096A48F7"
 					type: "command"
-					title: "Ponto de Refência"
+					title: "Waypoint"
 					icon: "minecraft:compass"
 					auto: "enabled"
 					command: "/dc addWaypoint @p custom:ninetail_farm \"Missão Principal - Fazenda da Nove Caudas (Substituída)\""
@@ -256,10 +256,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -296,7 +296,7 @@
 				{
 					id: "711E074210E02BDC"
 					type: "command"
-					title: "Ponto de Refência"
+					title: "Waypoint"
 					icon: "minecraft:compass"
 					auto: "enabled"
 					command: "/dc addWaypoint @p custom:floating_island \"Missão Principal - Ilha Flutuante (Substituída)\""
@@ -315,10 +315,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -355,7 +355,7 @@
 				{
 					id: "21772D7D9851344B"
 					type: "command"
-					title: "Ponto de Refência"
+					title: "Waypoint"
 					icon: "minecraft:compass"
 					auto: "enabled"
 					command: "/dc addWaypoint @p custom:sentinel_tree \"Missão Principal - Árvore Guardiã (Substituída)\""
@@ -374,10 +374,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -433,10 +433,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -526,7 +526,7 @@
 					title: "Waypoint"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:dojo \"Dojo dos Bandidos Estrangeiros (Compasso)\""
+					command: "/dc addWaypoint @p custom:dojo \"Dojo dos Bandidos Estrangeiros (Bússola)\""
 				}
 			]
 		}
@@ -542,10 +542,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -601,10 +601,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -660,10 +660,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -719,10 +719,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -757,10 +757,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -816,10 +816,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -875,10 +875,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -934,10 +934,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -993,10 +993,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1042,10 +1042,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1092,10 +1092,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1151,10 +1151,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1210,10 +1210,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1257,10 +1257,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1304,10 +1304,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1354,10 +1354,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1404,10 +1404,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1455,10 +1455,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}
@@ -1505,10 +1505,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						rot: 180.0d
+						x: -496.0d
 						id: "+"
 						z: -192.0d
-						x: -496.0d
+						rot: 180.0d
 					}]
 					map: 0
 				}

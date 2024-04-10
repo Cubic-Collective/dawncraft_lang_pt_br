@@ -1,0 +1,18 @@
+{
+	"class.dawncraft.brawler" : "Lutador",
+	"class.dawncraft.astrologer" : "Astrólogo",
+	"class.dawncraft.ronin" : "Ronin",
+	"class.dawncraft.warrior" : "Guerreiro",
+	"class.dawncraft.berserker" : "Berserker",
+	"class.dawncraft.tank" : "Tanque",
+	"class.dawncraft.lancer" : "Lanceiro",
+	"class.dawncraft.roamer" : "Vagabundo",
+	"class.dawncraft.brawler.desc" : "Os Vagabundos têm uma vida muito acima da média e uma resistência razoável, tornando-os formidáveis em combates de curta distância, com uma força duradoura.",
+	"class.dawncraft.astrologer.desc" : "Astrólogos, com pouca vida e resistência abaixo da média, encontram sua força no poderoso Ender Step para movimentação estratégica, complementado por um livro de feitiços básicos para conjuração de feitiços.",
+	"class.dawncraft.ronin.desc" : "Com pouca vida e resistência média, os Ronins são guerreiros ágeis que empunham katanas, realizando golpes precisos enquanto habilmente evitam o dano.",
+	"class.dawncraft.warrior.desc" : "Combatentes poderosos, com resistência e vida acima da média, resultando em uma força equilibrada no campo de batalha.",
+	"class.dawncraft.berserker.desc" : "Ferocidade implacável combinada com uma vida moderada e resistência acima da média. Os Berserkers se destacam em batalhas prolongadas, utilizando habilidades especiais desenvolvidas especialmente para combates prolongados.",
+	"class.dawncraft.tank.desc" : "A classe Tanque é caracterizada por uma alta quantidade de vida e uma resistência abaixo da média, projetada para resistir a ataques incessantes. Com uma habilidade única de resistência a atordoamento, os Tanques são protetores inabaláveis no campo de batalha.",
+	"class.dawncraft.lancer.desc" : "Lanceiros possuem uma vida e resistência médias, destacando-se pela precisão e agilidade. São especialistas em explorar os pontos fracos do inimigo, empregando esquivas ágeis para manobras de combate habilidosas.",
+	"class.dawncraft.roamer.desc" : "Equipados com um arco e flechas, os Vagabundo são ágeis, porém têm uma vida abaixo da média e uma alta resistência."
+}
