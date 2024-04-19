@@ -1,0 +1,5 @@
+{
+  "gamerule.useAggroFix": "Usar o Sistema de Agressão",
+  "enchantment.aggrofix.aggronizing": "Agressividade",
+  "gamerule.useAggroFix.description": "Ativa ou desativa o sistema de agressão"
+}

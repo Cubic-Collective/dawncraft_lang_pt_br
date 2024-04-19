@@ -1,7 +1,7 @@
 {
 	id: "26EE9B177AC3CF7E"
 	group: "1F30A450079557C6"
-	order_index: 2
+	order_index: 1
 	filename: "monster_coins"
 	title: "Rewards"
 	icon: "libraryferret:netherite_coins_jtl"
@@ -41,7 +41,7 @@
 				id: "06F571FAE3BEB05F"
 				type: "item"
 				item: "libraryferret:netherite_coins_jtl"
-				count: 10L
+				count: 15L
 				consume_items: true
 			}]
 			rewards: [{

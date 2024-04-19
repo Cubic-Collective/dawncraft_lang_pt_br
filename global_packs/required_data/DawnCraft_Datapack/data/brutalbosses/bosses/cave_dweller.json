@@ -1,9 +1,0 @@
-{
-	"entity": "simple_mobs:cave_dweller",
-	"name": "Habitante das Cavernas",
-  	"ai-goals": {                                      
-    	    "brutalbosses:aftercombatregen": {                
-      	    "amount": 1
-    	}                    
-  }	
-}
