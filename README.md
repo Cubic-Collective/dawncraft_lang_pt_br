@@ -8,7 +8,7 @@ Se você possui um conhecimento básico de inglês e deseja contribuir com a tra
 
 ### [Progresso da Tradução](https://github.com/GMalvestiti/dawncraft_lang_pt_br/wiki/Progresso)
  - FTBQuests: 11/14
- - Missões: 117/158
+ - Missões: 158/158
  - Mods (Extra): 166/197
 
 ### Instalação da Tradução
