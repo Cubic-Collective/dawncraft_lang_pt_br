@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma tarefa impossível!"
     },
     "description": {
-      "text": "To obtain this weapon, you must first prove yourself by accomplishing two tasks: Craft a Poltergeist block and capture a tiny bloviator in a bottle."
+      "text": "Para conseguir essa arma, você precisa primeiro provar sua capacidade completando duas tarefas: faça um bloco Poltergeist e capture um pequeno bloviador em um frasco."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Great job! Here are the Gesetz and Herrscher. Infused with the might of the ocean, they possess unique synergistic abilities when wielded in tandem."
+      "text": "Ótimo trabalho! Aqui estão o Gesetz e o Herrscher. Infundidos com o poder do oceano, eles possuem habilidades sinérgicas únicas quando empunhados em conjunto."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "biomemakeover:biomemakeover/poltergeist"
+      "id": "afptweaks:advancement",
+      "advancement": "biomemakeover:biomemakeover/poltergeist"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "cloudstorage:cloudstorage/angry_cloud_in_a_bottle"
+      "id": "afptweaks:advancement",
+      "advancement": "cloudstorage:cloudstorage/angry_cloud_in_a_bottle"
     }
   ],
   "rewards": [

@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Opa, e aí!"
     },
     "description": {
-      "text": "Hello adventurer. The legendary weapons Herrscher and Gesetz rest with me, awaiting a display of your worthiness before it can be bestowed upon you."
+      "text": "Olá, aventureiro. As armas lendárias Herrscher e Gesetz estão sob minha guarda, aguardando que você demonstre sua dignidade antes de serem concedidas a você."
     }
   }
 }

@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma Tarefa Impossível!"
     },
     "description": {
-      "text": "Before I entrust you with the ender blasters, you must accomplish two tasks to prove your worth: Extinguish a Pipelin Sentry from Nether's infernal dunes, and shear a fully mature mushroom colony. Keep in mind that you will need to develop rich soil in order to achieve that."
+      "text": "Antes de confiar a você o canhão do ender, é necessário completar duas tarefas para demonstrar sua competência: Extinguir um Sentinela de Pipelin das dunas infernais no Nether e cortar uma colônia de cogumelos completamente maduras. Lembre-se de que será preciso desenvolver solo fértil para isso."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Congratulations! Here it is. This blaster delivers a powerful punch packed with a massive energy source."
+      "text": "Parabéns! Aqui está. Este canhão proporciona um disparo poderoso, carregado com uma fonte de energia massiva."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "incendium:infernal_dunes/pipeline/kill_sentry"
+      "id": "afptweaks:advancement",
+      "advancement": "incendium:infernal_dunes/pipeline/kill_sentry"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "farmersdelight:main/get_mushroom_colony"
+      "id": "afptweaks:advancement",
+      "advancement": "farmersdelight:main/get_mushroom_colony"
     }
   ],
   "rewards": [

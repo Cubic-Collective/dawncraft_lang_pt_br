@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "Ei!"
     },
     "description": {
-      "text": "I'm busy... What do you want? Oh... for a combat skill?"
+      "text": "Estou ocupado... O que você quer? Ah... para uma habilidade de combate?"
     }
   }
 }

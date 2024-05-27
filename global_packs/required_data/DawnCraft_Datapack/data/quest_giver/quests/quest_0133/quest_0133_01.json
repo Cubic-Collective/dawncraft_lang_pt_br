@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "So I can teach you the skill - Parrying for 20 emeralds... What do you say?"
+			"text": "Então, eu posso te ensinar a habilidade - Defesa Perfeita por 20 esmeraldas... O que me diz?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Valeu!"
 		},
 		"description": {
-			"text": "Here you go adventurer!"
+			"text": "Aqui está, aventureiro!"
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 20
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"epicfight:parrying\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 20
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"epicfight:parrying\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

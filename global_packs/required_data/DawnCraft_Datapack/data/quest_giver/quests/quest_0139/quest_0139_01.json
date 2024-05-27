@@ -4,29 +4,33 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill Precise Roll for 18 emeralds."
+			"text": "Quer aprender a habilidade Rolamento Preciso? Por apenas 18 esmeraldas, posso te ensinar."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Here you go sir!"
+			"text": "Aqui está, senhor!"
 		}
 	},
-	"tasks": [{
-		"item": {
-			"item": "minecraft:emerald"
-		},
-      "id": "quest_giver:gift",
-      "times": 18
-	}],
-	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:precise_roll\"}",
-		"id": "quest_giver:command"
-	}]
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 18
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:precise_roll\"}",
+			"id": "quest_giver:command"
+		}
+	]
 }

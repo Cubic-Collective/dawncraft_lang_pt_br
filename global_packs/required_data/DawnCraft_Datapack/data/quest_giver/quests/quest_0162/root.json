@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Opa, e aí!"
     },
     "description": {
-      "text": "I possess the legendary weapon - Hanafubuki, but its bestowal upon you depends on your demonstration of worthiness."
+      "text": "Eu tenho a arma lendária - Hanafubuki, mas concedê-la a você depende da sua demonstração de valor."
     }
   }
 }

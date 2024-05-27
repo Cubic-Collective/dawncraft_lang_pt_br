@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Opa, e aí!"
     },
     "description": {
-      "text": "I wield the legendary blade - Torment. Yet, to earn its allegiance, you must demonstrate your valor and worthiness."
+      "text": "Eu empunho a lendária espada - Tormento. Porém, para conquistar sua lealdade, é necessário demonstrar seu valor e dignidade."
     }
   }
 }

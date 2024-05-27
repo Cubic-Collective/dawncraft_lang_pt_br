@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "Opa, e aí!"
     },
     "description": {
-      "text": "Possessing the legendary weapon - Antitheus, it is my responsibility to pass it on to a warrior like yourself. However, I require proof of your worthiness before I can grant it to you."
+      "text": "Como detentor da arma lendária - Antimatéria, é minha responsabilidade passá-la para um guerreiro como você. Contudo, necessito de uma prova de sua dignidade antes de poder concedê-la a você."
     }
   }
 }

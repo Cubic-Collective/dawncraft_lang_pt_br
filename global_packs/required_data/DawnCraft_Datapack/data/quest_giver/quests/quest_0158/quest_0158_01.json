@@ -4,28 +4,28 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "Uma Tarefa Impossível!"
     },
     "description": {
-      "text": "Two tasks lie before you: Kill any creature from 100 blocks away with an eagle wearing a hood, and feed a pig a fermented spider eye then throw Chemical X at it. Fulfill them, and I shall contemplate entrusting you with Torment."
+      "text": "Você tem dois desafios pela frente: Matar qualquer criatura a 100 blocos de distância de você usando uma águia equipada com um Capuz de Falcoaria, e alimentar um porco com um olho de aranha fermentado, depois atirar Elemento X nele. Cumpra essas tarefas, e então considerarei confiar o Tormento a você."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Well done! Here it is. Its former master was a fearsome piglin warrior."
+      "text": "Excelente! Aqui está. Seu antigo mestre era um guerreiro piglin formidável."
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "alexsmobs:alexsmobs/bald_eagle_challenge"
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/bald_eagle_challenge"
     },
     {
-		"id": "afptweaks:advancement",
-		"advancement": "mutantmonsters:spider_pig_spider_pig"
+      "id": "afptweaks:advancement",
+      "advancement": "mutantmonsters:spider_pig_spider_pig"
     }
   ],
   "rewards": [
