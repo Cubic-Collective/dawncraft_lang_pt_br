@@ -7,21 +7,21 @@
       "text": "Então?"
     },
     "description": {
-      "text": "HAHAHAHA! CHUVA DE VENENO SOBRE NÓS!"
+      "text": "HAHAHAHA! UMA TEMPESTADE DE VENENO SE APROXIMA!"
     }
   },
   "complete": {
     "title": {
-      "text": "Obrigado!"
+      "text": "Muito obrigado!"
     },
     "description": {
-      "text": "Ótimo trabalho. Você é um verdadeiro herói. Era isso que você queria ouvir?"
+      "text": "Excelente trabalho. Você é um verdadeiro herói. Era isso que você queria ouvir?"
     }
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
-		"advancement": "custom:begone_witch/begone_witch"
+      "id": "dawncraft:advancement",
+      "advancement": "custom:begone_witch/begone_witch"
     }
   ],
   "rewards": [

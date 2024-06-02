@@ -18,19 +18,15 @@
 			"text": "Aqui está, aventureiro!"
 		}
 	},
-	"tasks": [
-		{
+	"tasks": [{
 			"item": {
 				"item": "minecraft:emerald"
 			},
 			"id": "quest_giver:gift",
-			"times": 18
-		}
-	],
-	"rewards": [
-		{
-			"command": "give @p epicfight:skillbook{skill:\"wom:latent_retribution\"}",
+      "times": 25
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"sword_soaring:rain_cutter\"}",
 			"id": "quest_giver:command"
-		}
-	]
+	}]
 }

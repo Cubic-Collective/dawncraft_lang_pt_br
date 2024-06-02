@@ -164,7 +164,8 @@
 	"tooltip.dawncraft.executioner_0": "A poderosa lâmina de um rei lendário.",
 	"tooltip.dawncraft.executioner_1": "Mata instantaneamente mobs com menos de 15% de vida.",
 	
-	"tooltip.dawncraft.crystallized_xp": "Contém %1$s de experiência",
+	"tooltip.dawncraft.crystallized_xp_0": "Contém %1$s de experiência",
+	"tooltip.dawncraft.crystallized_xp_1": "Disappears if not used before dying",
 
 	"tile.dawncraft.chest_spawner": "Spawner de Baú",
 	
@@ -219,8 +220,8 @@
 	"text.dawncraft.quest.king5": "Você realmente conseguiu!¶Com isso poderei restaurar meu reino sem dúvida!¶Aqui, pegue minha Lâmina Real, ela deve ser útil para você.¬Duvido que vou precisar dela, agora que tenho o poder do cajado!",
 	
 	"text.dawncraft.quest.monster_slayer1": "Ei você, aventureiro!¶Sou um membro de alto escalão da guilda de matadores de monstros, estamos procurando novos membros e você parece forte e capaz.¶Você estaria interessado em se juntar a nós?",
-	"text.dawncraft.quest.monster_slayer1b": "Isso é uma notícia fantástica, é claro que iremos dar a você nosso equipamento oficial...¶Mas primeiro você deve concluir algumas tarefas para nós, é claro que você será pago por cada tarefa que concluir e não precisa se preocupar, não levarei seus itens, preciso apenas vê-los para provar que a tarefa foi concluída.¶Sua primeira tarefa deve ser simples para alguém como você, traga-me um dos seguintes: um Fragmento de Guardião, uma Vara de Blaze ou um Crânio de Kobold.",
-	"text.dawncraft.quest.monster_slayer2": "Para sua primeira tarefa, você pode me mostrar: um Fragmento de Guardião, uma Vara de Blaze, um Crânio de Kobold ou a Escama de um Imp.",
+	"text.dawncraft.quest.monster_slayer1b": "Isso é uma notícia fantástica, é claro que iremos dar a você nosso equipamento oficial...¶Mas primeiro você deve concluir algumas tarefas para nós, é claro que você será pago por cada tarefa que concluir e não precisa se preocupar, não levarei seus itens, preciso apenas vê-los para provar que a tarefa foi concluída.¶Sua primeira tarefa deve ser simples para alguém como você, traga-me um dos seguintes: um Pedaço de Prismarinho, uma Vara de Blaze, um Crânio de Kobold, a Escama de um Imp ou a Carne de um Minotauro.",
+	"text.dawncraft.quest.monster_slayer2": "Para sua primeira tarefa, você pode me mostrar: um Fragmento de Guardião, uma Vara de Blaze, um Crânio de Kobold, a Escama de um Imp ou a Carne de um Minotauro?",
 	"text.dawncraft.quest.monster_slayer3": "Muito bem, agora, para a próxima tarefa, você pode me mostrar um Coração de Vampiro, o Fragmento de um Idiota das Cavernas, o Totem de um Invocador ou o Crânio de um Esqueleto Wither.",
 	"text.dawncraft.quest.monster_slayer4": "Para sua próxima tarefa, você pode me mostrar um Coração de Vampiro, o Fragmento de um Idiota das Cavernas, o Totem de um Invocador ou o Crânio de um Esqueleto Wither.",
 	"text.dawncraft.quest.monster_slayer5": "Meus maiores parabéns a você, poucos chegam até aqui¶Seu teste final pode ser o mais difícil, mas o consolidará como um verdadeiro matador de monstros, digno da guilda!¶Para terminar seu último teste, mostre-me um dos seguintes: a Estrela de um Wither, o Coração de um Dragão, um Fragmento de um Golem das Cavernas, a Máscara de Barakoa, o Machado de um Juggernaut de Aço ou a Gema de um Marciano",

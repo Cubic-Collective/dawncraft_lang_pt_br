@@ -254,7 +254,7 @@
 	"skill.epicfight.emergency_escape.tooltip": "Agora você pode cancelar seus ataques desviando. Permite esquivar quando está sem estamina.\n\n(Tempo de Recarga: %s)\n\nTipos de Armas disponíveis: %s",
 	"skill.epicfight.death_harvest": "Colheita da Morte",
 	"skill.epicfight.death_harvest.tooltip": "Ganhe carga de arma inata ao matar um inimigo com uma habilidade inata da arma. A quantidade de carga obtida é baseada no dano de sua arma e na quantidade de inimigos mortos.",
-	"skill.epicfight.meteor_slam": "Esmagamento Meteoro",
+	"skill.epicfight.meteor_slam": "Impacto Meteórico",
 	"skill.epicfight.meteor_slam.tooltip": "§oApocalípse vindo do céu.§r\n\nCaia para o chão com um poderoso golpe. A altura aumenta o dano causado e a estamina consumida. Tomará dano caso o dano de queda exceder o limite de estamina.\n\n(Estamina: dano de queda)\n\nTipos de arma disponíveis: %s",
 	"skill.epicfight.revelation": "Revelação",
 	"skill.epicfight.revelation.tooltip": "§oOlho de Gavião capturando os pontos fracos dos inimigos§r\n\nBloquear, Refletir e Desviar lhe concederá cargas de Revelação. Alcançar a quantidade indicada de cargas o permitirá desferir um contra-ataque atordoante.",

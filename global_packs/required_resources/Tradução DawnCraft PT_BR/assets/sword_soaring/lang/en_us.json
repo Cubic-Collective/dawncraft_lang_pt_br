@@ -1,0 +1,23 @@
+{
+  "item.sword_soaring.sword_soaring_secret": "Swordsmanship Secrets",
+  "tip.sword_soaring.learn": "You've learned someone's secrets, now you can fly with your sword!",
+  "tip.sword_soaring.spirit_value": "Spirit Value : %d",
+  "tip.sword_soaring.stamina_consume": "Stamina consume : %s / tick",
+  "tip.sword_soaring.speed_level": "Current Speed Level : ",
+  "tip.sword_soaring.sword_master": "Your flying skill is already a master!",
+  "skill.sword_soaring.sword_soaring": "Sword Soaring",
+  "skill.sword_soaring.sword_soaring.tooltip": "In battle mode, Hold down the space to fly on the sword, release the space to stop. Consume stamina. When you are flying, press TAB to change speed level. You can change the key in KeyMappings. Enchantment \"Enhance Sword Soaring Stamina\" can reduce stamina consume.",
+  "skill.sword_soaring.rain_screen": "Rain Screen",
+  "skill.sword_soaring.rain_screen.tooltip": "Right-click to kick away the surrounding enemies and summon 4 swords around for 10 seconds. The sword screen can guard against all attacks. Each attack breaks one sword, consumes 3 stamina and heals the owner. The sword screen can only be summoned when there is no sword around and you have at least 10 stamina.\n\n(Cooldown: 21s)",
+  "skill.sword_soaring.rain_cutter": "Rain Cutter",
+  "skill.sword_soaring.rain_cutter.tooltip": "Within 10 seconds after executing weapon innate skill, a basic attack or air attack will summon three swords to track and hurt your target. If the target is null, the sword will fly straight ahead.\n\nThe Fire Aspect Enchantment still works, but the duration of fire is reduced.",
+  "skill.sword_soaring.yaksha_mask": "Yaksha's Mask",
+  "skill.sword_soaring.yaksha_mask.tooltip": "Within 10 seconds after executing weapon innate skill, you gain the ability to perform a high jump, enabling the use of §l§4Meteor Slam Plus§r.\n\n§l§4Meteor Slam Plus§r : Removes the limitation based on weapon type and player yaw. But imposes a cap on jump height. Each attack consumes 3 stamina. If you installed WOM, playing different plunging animation, each attack consumes 4 stamina causing more damage.",
+  "skill.sword_soaring.stellar_restoration": "Stellar Restoration",
+  "skill.sword_soaring.stellar_restoration.tooltip": "Press alt to consume 5 stamina and throw a sword forward, long press to aim. Then press again to teleport to the sword's position and do a sweeping attack.\n\n(Cooldown: 7.5s)",
+  "config.sword_soaring.fly_speed_scale": "the ratio of flying speed to view vector",
+  "config.sword_soaring.stamina_consume_per_tick": "the stamina consumed per tick when flying",
+  "config.sword_soaring.max_anticipation_tick": "ticks of pre taking off",
+  "enchantment.sword_soaring.sword_soaring": "Enhance Sword Soaring Stamina",
+  "key.sword_soaring.change_speed": "Change Flying Speed"
+}
