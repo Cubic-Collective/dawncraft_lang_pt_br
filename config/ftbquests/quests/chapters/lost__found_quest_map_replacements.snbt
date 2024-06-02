@@ -20,10 +20,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -79,10 +79,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -138,10 +138,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -197,10 +197,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -256,10 +256,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -315,10 +315,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -374,10 +374,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -406,7 +406,7 @@
 				{
 					id: "4BE395838A48DFF0"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:guildmaster6"
@@ -433,10 +433,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -456,7 +456,7 @@
 				{
 					id: "43D6ADD22171AAD6"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:armorer1"
@@ -515,7 +515,7 @@
 				{
 					id: "0F47BF9881F39ECE"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:cartographer1"
@@ -542,10 +542,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -574,7 +574,7 @@
 				{
 					id: "4FB61E405470CDC9"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:cartographer2"
@@ -601,10 +601,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -633,7 +633,7 @@
 				{
 					id: "57899492D3190210"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:dg2q"
@@ -660,10 +660,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -692,7 +692,7 @@
 				{
 					id: "4CB5B4866EE0DCC6"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:dg2q2"
@@ -719,10 +719,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -757,10 +757,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -789,7 +789,7 @@
 				{
 					id: "0AA8775F31D9B642"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:guard1"
@@ -816,10 +816,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -848,7 +848,7 @@
 				{
 					id: "142917F38FABE7FB"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:guard2"
@@ -875,10 +875,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -907,7 +907,7 @@
 				{
 					id: "39B926B467866686"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:guard3"
@@ -934,10 +934,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -966,7 +966,7 @@
 				{
 					id: "0948D6C87B11C9E5"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:guard4"
@@ -993,10 +993,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1016,7 +1016,7 @@
 				{
 					id: "672D549FA97EE6C8"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:hunter1"
@@ -1042,10 +1042,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1065,7 +1065,7 @@
 				{
 					id: "00E770AC02EF56A9"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:librarian1"
@@ -1092,10 +1092,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1124,7 +1124,7 @@
 				{
 					id: "6C387401AA5B2003"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:miner1"
@@ -1151,10 +1151,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1183,7 +1183,7 @@
 				{
 					id: "20EFD385DABBF4A5"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:miner2"
@@ -1210,10 +1210,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1257,10 +1257,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1304,10 +1304,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1327,7 +1327,7 @@
 				{
 					id: "5293B6C4A4B609B8"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:netherian1"
@@ -1354,10 +1354,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1377,7 +1377,7 @@
 				{
 					id: "5291B8D6EC519120"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:pillager1"
@@ -1404,10 +1404,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1455,10 +1455,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1478,7 +1478,7 @@
 				{
 					id: "66CB38D637BD5EF0"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:toolsmith1"
@@ -1505,10 +1505,10 @@
 					}
 					Decorations: [{
 						type: 26b
-						x: -496.0d
+						rot: 180.0d
 						id: "+"
 						z: -192.0d
-						rot: 180.0d
+						x: -496.0d
 					}]
 					map: 0
 				}
@@ -1528,7 +1528,7 @@
 				{
 					id: "2B03C6930B1768F1"
 					type: "command"
-					title: "Get Map"
+					title: "Obter Mapa"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:weaponsmith1"

@@ -1,0 +1,23 @@
+{
+    "item.sword_soaring.sword_soaring_secret": "Segredos da Espada",
+    "tip.sword_soaring.learn": "Você aprendeu os segredos de um mestre, agora pode voar com sua espada!",
+    "tip.sword_soaring.spirit_value": "Valor Espiritual: %d",
+    "tip.sword_soaring.stamina_consume": "Consumo de Estamina: %s / tick",
+    "tip.sword_soaring.speed_level": "Nível de Velocidade Atual: ",
+    "tip.sword_soaring.sword_master": "Sua habilidade de voo é digna de um mestre!",
+    "skill.sword_soaring.sword_soaring": "Voo da Espada",
+    "skill.sword_soaring.sword_soaring.tooltip": "No modo de combate, segure a barra de espaço para voar com a espada e solte para parar. Consome estamina. Durante o voo, pressione TAB para alterar o nível de velocidade. Você pode personalizar nas teclas de atalho. O encantamento \"Aprimorar Estamina do Voo da Espada\" reduz o consumo de estamina.",
+    "skill.sword_soaring.rain_screen": "Tela de Chuva",
+    "skill.sword_soaring.rain_screen.tooltip": "Clique com o botão direito para afastar inimigos próximos e invocar 4 espadas por 10 segundos. A Tela de Espadas bloqueia todos os ataques, com cada ataque quebrando uma espada. Consome 3 de estamina por ataque e cura o usuário. A Tela de Espadas só pode ser invocada se não houver espadas ao redor e você tiver pelo menos 10 de estamina.\n\n(Tempo de recarga: 21s)",
+    "skill.sword_soaring.rain_cutter": "Cortador de Chuva",
+    "skill.sword_soaring.rain_cutter.tooltip": "Dentro de 10 segundos após executar a habilidade inata da arma, um ataque básico ou aéreo invoca três espadas para rastrear e ferir o alvo. Se não houver alvo, as espadas voarão diretamente para frente.\n\nO encantamento Aspecto Flamejante ainda funciona, mas a duração do fogo é reduzida.",
+    "skill.sword_soaring.yaksha_mask": "Máscara de Yaksha",
+    "skill.sword_soaring.yaksha_mask.tooltip": "Dentro de 10 segundos após executar a habilidade inata da arma, você ganha a habilidade de realizar um salto alto, permitindo o uso do §l§4Impacto Meteórico Plus§r.\n\n§l§4Impacto Meteórico Plus§r: Remove a limitação baseada no tipo de arma e na rotação do jogador, mas impõe um limite na altura do salto. Cada ataque consome 3 de estamina. Se você tiver WOM instalado, diferentes animações de mergulho serão exibidas, com cada ataque consumindo 4 de estamina e causando mais dano.",
+    "skill.sword_soaring.stellar_restoration": "Restauração Estelar",
+    "skill.sword_soaring.stellar_restoration.tooltip": "Pressione Alt para consumir 5 de estamina e lançar uma espada para frente, mantendo pressionado para mirar. Pressione novamente para se teletransportar para a posição da espada e realizar um ataque amplo.\n\n(Tempo de recarga: 7.5s)",
+    "config.sword_soaring.fly_speed_scale": "Escala da velocidade de voo em relação ao vetor de visão",
+    "config.sword_soaring.stamina_consume_per_tick": "Estamina consumida por tick ao voar",
+    "config.sword_soaring.max_anticipation_tick": "Ticks de pré-decolagem",
+    "enchantment.sword_soaring.sword_soaring": "Aprimorar Estamina do Voo da Espada",
+    "key.sword_soaring.change_speed": "Alterar Velocidade de Voo"
+}

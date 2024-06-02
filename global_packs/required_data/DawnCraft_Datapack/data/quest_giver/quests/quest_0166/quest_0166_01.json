@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "Então?"
+		},
+		"description": {
+			"text": "Posso te ensinar a habilidade - Restauração Estelar por 25 esmeraldas. O que acha?"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Obrigado!"
+		},
+		"description": {
+			"text": "O prazer é todo meu."
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+		"id": "quest_giver:gift",
+		"times": 25
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"sword_soaring:stellar_restoration\"}",
+		"id": "quest_giver:command"
+	}]
+}
