@@ -268,21 +268,21 @@
 	"advancements.story.enter_the_end.title": "Encontre os fragmentos",
 	"advancements.story.enter_the_end.description": "Monte o quebra-cabeça novamente...",
 
-	"toasts.dawncraft.combatmode.title": "Pressione \"%1$s\" para mudar para o Modo de Combate",
-	"toasts.dawncraft.combatmode.text0": "O dano corpo a corpo causado fora do modo ",
+	"toasts.dawncraft.combatmode.title": "Pressione \"%1$s\" para Modo de Combate",
+	"toasts.dawncraft.combatmode.text0": "O dano corpo a corpo fora do modo",
 	"toasts.dawncraft.combatmode.text1": "de combate é reduzido pela metade",
 
 	"toasts.dawncraft.dodge.title": "Pressione \"%1$s\" para Esquivar",
-	"toasts.dawncraft.dodge.text0": "Esquivar só funciona no modo de combate",
-	"toasts.dawncraft.dodge.text1": "",
+	"toasts.dawncraft.dodge.text0": "Esquivar só funciona no modo de",
+	"toasts.dawncraft.dodge.text1": "combate",
 
 	"toasts.dawncraft.skills.title": "Livro de Habilidade Adquirido",
-	"toasts.dawncraft.skills.text0": "Pressione \"%1$s\" para ver suas habilidades",
-	"toasts.dawncraft.skills.text1": "",
+	"toasts.dawncraft.skills.text0": "Pressione \"%1$s\" para ver suas",
+	"toasts.dawncraft.skills.text1": "habilidades",
 	
 	"toasts.dawncraft.map.title": "Verifique seus Waypoints no mapa",
-	"toasts.dawncraft.map.text0": "Pressione \"%1$s\" para abrir",
-	"toasts.dawncraft.map.text1": "mapa-múndi",
+	"toasts.dawncraft.map.text0": "Pressione \"%1$s\" para abrir o mapa",
+	"toasts.dawncraft.map.text1": "",
 	
 	"toasts.dawncraft.stealing.title": "Não roube!",
 	"toasts.dawncraft.stealing.text0": "A reputação da vila diminui caso",
