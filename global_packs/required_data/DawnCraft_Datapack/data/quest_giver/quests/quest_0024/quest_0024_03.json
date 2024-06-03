@@ -25,7 +25,7 @@
 	"rewards": [{
 		"id": "quest_giver:item",
 		"item": {
-			"item": "minecraft:esmeralda",
+			"item": "minecraft:emerald",
 			"count": 2
 		}
 	}]
