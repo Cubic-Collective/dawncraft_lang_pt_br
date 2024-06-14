@@ -3,13 +3,13 @@
 	group: "1F30A450079557C6"
 	order_index: 1
 	filename: "monster_coins"
-	title: "Rewards"
+	title: "Recompensas"
 	icon: "libraryferret:netherite_coins_jtl"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Sapphire Grade"
+			title: "Classe Safira"
 			icon: "dannys_expansion:ice_chest"
 			x: -7.0d
 			y: -2.0d
@@ -25,13 +25,13 @@
 			rewards: [{
 				id: "15F01BAF39B0D124"
 				type: "choice"
-				title: "Sapphire Grade Reward"
+				title: "Recompensa da Classe Safira"
 				exclude_from_claim_all: true
 				table_id: 412628549501852337L
 			}]
 		}
 		{
-			title: "Ruby Grade"
+			title: "Classe Rubi"
 			icon: "quark:crimson_trapped_chest"
 			x: -4.5d
 			y: -2.0d

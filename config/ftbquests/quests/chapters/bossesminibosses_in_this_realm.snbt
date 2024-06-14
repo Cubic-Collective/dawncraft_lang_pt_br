@@ -148,7 +148,7 @@
 				{
 					id: "473DFFE495D2A481"
 					type: "item"
-					title: "Patron Exclusive Pet"
+					title: "Pet Exclusivo do Patreon"
 					item: "dawncraft_addon:tails_item"
 				}
 			]
@@ -427,7 +427,7 @@
 			tasks: [{
 				id: "04B8D048411FF640"
 				type: "kill"
-				title: "Antigo Xogunato"
+				title: "Antigo Shogun"
 				icon: {
 					id: "epicfight:uchigatana"
 					Count: 1b
@@ -731,7 +731,7 @@
 			tasks: [{
 				id: "7A847CC5B58645A8"
 				type: "kill"
-				title: "Guardião Ancião"
+				title: "Guardião-mestre"
 				icon: "minecraft:heart_of_the_sea"
 				entity: "minecraft:elder_guardian"
 				value: 1L
@@ -1336,16 +1336,16 @@
 			}]
 		}
 		{
-			title: "Shogunate (Prime)"
+			title: "Shogun (Prime)"
 			x: -5.5d
 			y: -14.0d
 			shape: "square"
-			description: ["Pode ser encontrado no Sonho Ardente do antigo Xogunato."]
+			description: ["Pode ser encontrado no Sonho Ardente do antigo Shogun."]
 			id: "6EF35391CF28105A"
 			tasks: [{
 				id: "73B0474F6E84F861"
 				type: "kill"
-				title: "Xugunato (Prime)"
+				title: "Shogun (Prime)"
 				icon: {
 					id: "wom:satsujin"
 					Count: 1b
