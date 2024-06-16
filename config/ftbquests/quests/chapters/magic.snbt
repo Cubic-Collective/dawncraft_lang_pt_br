@@ -9,7 +9,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Feitiços \\& Livros de feitiços"
+			title: "Feitiços \\& Livros de Feitiços"
 			icon: {
 				id: "endrem:magical_eye"
 				Count: 1b
