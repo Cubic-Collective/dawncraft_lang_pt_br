@@ -7,7 +7,7 @@ Versão do ModPack: 2.0.9_f3
 Se você possui um conhecimento básico de inglês e deseja contribuir com a tradução, convidamos você a se juntar ao nosso [Discord](https://discord.gg/QQxckfPWvz "DawnCraft - Tradução pt_br") para obter mais informações.
 
 ### [Progresso da Tradução](https://github.com/GMalvestiti/dawncraft_lang_pt_br/wiki/Progresso)
- - FTBQuests: 11/13
+ - FTBQuests: 13/13
  - Missões: 161/161
  - Mods (Extra): 169/199
 
