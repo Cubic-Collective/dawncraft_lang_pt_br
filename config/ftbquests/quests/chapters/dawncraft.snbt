@@ -13,7 +13,7 @@
 			icon: "minecraft:filled_map"
 			x: -3.75d
 			y: -5.25d
-			description: [" Use the Journey Map to locate yourself! Press “M” to open the map. Markers can be added to denote points of interest, and death markers will be added automatically. When you obtain a map from villager quests, a waypoint will be added to your Journey Map for easier navigation."]
+			description: [" Use o Journey Map para se localizar! Pressione “M” para abrir o mapa. Mar- cadores podem ser adicionados para denotar pontos de interesse, e marca- dores de morte serão adicionados au- tomaticamente. Quando você obtiver um mapa de missões de aldeões, um ponto de referência será adicionado ao seu Mapa para facilitar a navegação."]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "2E56DF35467BE295"

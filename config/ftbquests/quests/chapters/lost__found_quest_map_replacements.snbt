@@ -3,8 +3,9 @@
 	group: "25047313B704629A"
 	order_index: 0
 	filename: "lost__found_quest_map_replacements"
-	title: "Achados e Perdidos (Substituições de Mapa de Missões)"
+	title: "Achados e Perdidos"
 	icon: "minecraft:filled_map"
+	subtitle: ["Substituições para Mapa de Missões"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
