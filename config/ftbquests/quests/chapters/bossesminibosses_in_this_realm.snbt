@@ -1277,7 +1277,7 @@
 			tasks: [{
 				id: "1F4A7D724ADF51DE"
 				type: "kill"
-				title: "Dragon Lord"
+				title: "Senhor dos Dragões"
 				icon: "simple_mobs:dragon_lord_essence"
 				entity: "simple_mobs:dragon_lord"
 				value: 1L
