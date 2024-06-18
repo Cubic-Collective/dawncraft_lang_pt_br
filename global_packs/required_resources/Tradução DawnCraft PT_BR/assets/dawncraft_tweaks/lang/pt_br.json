@@ -106,6 +106,7 @@
 	"waypoint.dawncraft.cultist_2": "Igreja do Padre",
 
 	"entity.dawncraft.fallen": "Aventureiro Caído",
+	"entity.dawncraft.quest_player": "Aventureiro",
 	
 	"message.dawncraft.invasions_enabled_0": "Vários anacronismos foram detectados, prepare-se para uma invasão iminente...",
 	"message.dawncraft.invasions_enabled_1": "Primeira invasão em %1$s segundos.",
